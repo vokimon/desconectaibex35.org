@@ -1,11 +1,12 @@
 Title: Castigados sin publicidad de La Caixa
 Date: 2012-05-19 18:02
 Author: admin
-Category: Banca, Barcelona, Medios, Periódicos, Televisión
+Category: Banca, Barcelona, Medios, Prensa, Televisión
 Slug: castigados-sin-publicidad-de-la-caixa
 Status: published
+Attachments: blog/wp-content/uploads/2012/05/caixarolada18m.jpg
 
-\[caption id="attachment\_275" align="alignright" width="200" caption="Uno de los carteles de \#occupymordor"\][![](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/caixarolada18m.jpg "caixarolada18m"){.size-thumbnail .wp-image-275 width="200"}](http://desconexionibex35.org/blog/2012/05/19/castigados-sin-publicidad-de-la-caixa/caixarolada18m/)\[/caption\]  
+\[caption id="attachment\_275" align="alignright" width="200" caption="Uno de los carteles de \#occupymordor"\][![]({static}blog/wp-content/uploads/2012/05/caixarolada18m.jpg "caixarolada18m"){.size-thumbnail .wp-image-275 width="200"}](http://desconexionibex35.org/blog/2012/05/19/castigados-sin-publicidad-de-la-caixa/caixarolada18m/)\[/caption\]  
 Los editores de la revista [Cafè amb llet](http://www.cafeambllet.com/), la misma que hizo una labor extraordinaria investigando y dando a conocer los [escandalos en la sanidad catalana](http://www.cafeambllet.com/press/?p=17005&cpage=3#comment-7732), se hace eco de la retirada efectiva de publicidad por parte de [la Caixa](http://es.wikipedia.org/wiki/La_Caixa) tras dar cobertura informativa a las [mobilizaciones](http://periodismohumano.com/sociedad/libertad-y-justicia/occupymordor.html) contra la entidad que, desde el miercoles 15 de mayo, se están haciendo ante la sede central de la entidad ([\#ocuppymordor](http://twitter.com/#!/search?q=%23occupymordor)). Las mobilizaciones denuncian las malas prácticas de la entidad en temas tales como [participaciones preferentes](http://estafabanca.blogspot.com.es/), [desahucios](http://afectadosporlahipoteca.wordpress.com/), participación mayoritaria en [Abertis](http://es.wikipedia.org/wiki/Abertis) ([peajes](http://www.novullpagar.cat/))... Equiparan, en tono de humor, la entidad con los malos de la conocida trilogía El Señor de los Anillos. La protesta lleva ya unos días haciéndose y siendo desalojada por los Mossos d'Esquadra.
 
 ```{=html}
