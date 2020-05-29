@@ -3,3 +3,4 @@ markdown
 lxml
 beautifulsoup4
 pelican-more-categories
+pelican-youtube
