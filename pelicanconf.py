@@ -6,15 +6,25 @@ AUTHOR = 'David García Garzón'
 SITENAME = 'Desconecta del IBEX35'
 SITESUBTITLE = '¿Porqué seguir alimentando a la bestia?'
 SITEURL = ''
-SITESUMMARY='Resumen mu corto'
-#GITHUB_URL = 'http://github.com/vokimon/desconectaibex35.org'
+SITEDESCRIPTION="""\
+**No queremos apoyar con nuestro dinero**
+a las grandes empresas (del IBEX y otras)
+por los diversos abusos que cometen.
+
+**Investigamos, generamos y fomentamos alternativas**
+con diferentes niveles de compromiso
+que se puedan adaptar a las posibilidades de cada persona.
+Las promovemos y **nos acompañamos en el salto**.
+
+Si encuentras este proyecto interesante, no lo dudes, **¡súmate!**
+"""
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'es'
-DEFAULT_DATE_FORMAT = '%Y-%m-%d %H:%M'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_METADATA = {
 	'status': 'draft',
 }
@@ -50,6 +60,7 @@ MENUITEMS=(
 )
 # Social widget
 SOCIAL = (
+	('GitHub', 'http://github.com/vokimon/desconectaibex35.org'),
 	('DesconexionIBEX35', 'https://www.facebook.com/DesconexionIBEX35'),
 )
 
