@@ -1,6 +1,6 @@
 Title: Dos formas diferentes de ser una banca ética
 Date: 2012-05-24 13:34
-Author: admin
+Author: vokimon
 Category: Ahorro, Banca, Financiacion
 Slug: dos-formas-diferentes-de-ser-una-banca-etica
 Status: published

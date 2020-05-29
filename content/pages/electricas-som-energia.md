@@ -1,6 +1,6 @@
 Title: Electricas: Som Energia
 Date: 2012-05-11 22:20
-Author: admin
+Author: vokimon
 Category: Electricidad
 Slug: electricas-som-energia
 Status: published

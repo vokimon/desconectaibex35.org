@@ -1,6 +1,6 @@
 Title: Presentación
 Date: 2012-05-10 00:40
-Author: admin
+Author: vokimon
 Slug: la-idea
 Status: published
 

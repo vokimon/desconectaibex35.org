@@ -1,6 +1,6 @@
 Title: LaTele.cat busca financiación y colaboradores
 Date: 2012-05-14 11:08
-Author: admin
+Author: vokimon
 Category: Barcelona, Financiacion, Televisión
 Slug: latele-cat-busca-financiacion-y-colaboradores
 Status: published

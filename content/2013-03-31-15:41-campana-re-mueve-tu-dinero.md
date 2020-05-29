@@ -1,6 +1,6 @@
 Title: Campaña Re-Mueve tu dinero
 Date: 2013-03-31 15:41
-Author: admin
+Author: vokimon
 Category: Ahorro, Banca, España, Financiacion
 Slug: campana-re-mueve-tu-dinero
 Status: published

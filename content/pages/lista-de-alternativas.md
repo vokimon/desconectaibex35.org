@@ -1,6 +1,6 @@
 Title: Lista de alternativas
 Date: 2012-05-11 16:51
-Author: admin
+Author: vokimon
 Category: Ahorro, Banca, Electricidad, Financiacion, Medios, Periódicos, Seguros, Telecomunicaciones, Televisión
 Slug: lista-de-alternativas
 Status: published

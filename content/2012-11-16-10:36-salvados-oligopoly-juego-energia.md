@@ -1,6 +1,6 @@
 Title: Próximo Salvados: "Oligopoly, el juego de la energía". ¿Alternativas?
 Date: 2012-11-16 10:36
-Author: admin
+Author: vokimon
 Category: Electricidad, España
 Slug: salvados-oligopoly-juego-energia
 Status: published

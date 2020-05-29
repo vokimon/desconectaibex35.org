@@ -1,6 +1,6 @@
 Title: Participa
 Date: 2012-05-11 23:54
-Author: admin
+Author: vokimon
 Slug: colabora
 Status: published
 

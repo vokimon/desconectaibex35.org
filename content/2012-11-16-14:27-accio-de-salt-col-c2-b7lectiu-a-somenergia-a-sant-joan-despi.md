@@ -1,6 +1,6 @@
 Title: Acció de salt col·lectiu a SomEnergia a Sant Joan Despí
 Date: 2012-11-16 14:27
-Author: admin
+Author: vokimon
 Category: Electricidad, Sant Joan Despí
 Slug: accio-de-salt-col%c2%b7lectiu-a-somenergia-a-sant-joan-despi
 Status: published

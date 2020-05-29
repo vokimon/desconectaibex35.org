@@ -1,6 +1,6 @@
 Title: Documentos TV: Finanzas Éticas
 Date: 2012-12-31 14:11
-Author: admin
+Author: vokimon
 Category: Ahorro, Banca, España, Financiacion
 Slug: documentos-tv-financias-eticas
 Status: published

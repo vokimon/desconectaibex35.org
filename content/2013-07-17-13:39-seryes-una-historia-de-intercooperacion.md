@@ -1,6 +1,6 @@
 Title: SERYES - Una historia de intercooperación
 Date: 2013-07-17 13:39
-Author: admin
+Author: vokimon
 Category: España, Seguros
 Slug: seryes-una-historia-de-intercooperacion
 Status: published

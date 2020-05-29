@@ -1,6 +1,6 @@
 Title: El decálogo Robin Hood en Yorokobu
 Date: 2013-09-18 09:54
-Author: admin
+Author: vokimon
 Category: España
 Slug: el-decalogo-robin-hood-en-yorokobu
 Status: published

@@ -1,6 +1,6 @@
 Title: El 26 de Junio, 5 empresas decidiran en subasta qué pagaremos de luz
 Date: 2012-06-01 13:30
-Author: admin
+Author: vokimon
 Category: Electricidad, España
 Slug: el-26-de-junio-5-empresas-decidiran-en-subasta-que-pagaremos-de-luz
 Status: published

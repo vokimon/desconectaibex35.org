@@ -1,6 +1,6 @@
 Title: Las redes, ¿quién las paga y quién las posee?: un caso evidente de abuso de poder
 Date: 2013-03-11 14:40
-Author: admin
+Author: vokimon
 Category: Electricidad, España
 Slug: las-redes-quien-las-paga-y-quien-las-posee-un-caso-evidente-de-abuso-de-poder
 Status: published

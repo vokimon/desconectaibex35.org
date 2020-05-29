@@ -1,6 +1,6 @@
 Title: Mercadona, ¿supermercados de confianza?
 Date: 2014-02-05 21:59
-Author: admin
+Author: vokimon
 Category: España, Supermercados
 Slug: mercadona-supermercados-de-confianza
 Status: published

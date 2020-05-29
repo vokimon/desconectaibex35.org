@@ -1,6 +1,6 @@
 Title: Video: La historia de Coop57
 Date: 2015-11-04 15:04
-Author: admin
+Author: vokimon
 Category: Ahorro, Banca, España, Financiacion
 Slug: video-la-historia-de-coop57
 Status: published

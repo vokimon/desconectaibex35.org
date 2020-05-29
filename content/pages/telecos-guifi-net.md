@@ -1,6 +1,6 @@
 Title: Telecos: Guifi.net
 Date: 2012-05-13 01:27
-Author: admin
+Author: vokimon
 Category: Telecomunicaciones
 Slug: telecos-guifi-net
 Status: published

@@ -1,6 +1,6 @@
 Title: El siguiente paso: Redes eléctricas municipalizadas
 Date: 2013-12-29 15:46
-Author: admin
+Author: vokimon
 Category: Electricidad
 Slug: el-siguiente-paso-redes-electricas-municipalizadas
 Status: published

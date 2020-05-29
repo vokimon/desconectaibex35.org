@@ -1,6 +1,6 @@
 Title: Estrategias
 Date: 2012-05-10 00:26
-Author: admin
+Author: vokimon
 Slug: estrategias
 Status: published
 

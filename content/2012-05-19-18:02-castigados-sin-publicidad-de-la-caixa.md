@@ -1,6 +1,6 @@
 Title: Castigados sin publicidad de La Caixa
 Date: 2012-05-19 18:02
-Author: admin
+Author: vokimon
 Category: Banca, Barcelona, Medios, Prensa, Televisión
 Slug: castigados-sin-publicidad-de-la-caixa
 Status: published

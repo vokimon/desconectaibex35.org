@@ -1,6 +1,6 @@
 Title: Ordago de Cafe amb Llet para ampliar su difusión a toda Cataluña
 Date: 2014-02-08 01:22
-Author: admin
+Author: vokimon
 Category: Banca, Catalunya, Medios, Prensa
 Slug: cafe-amb-llet-la-publicacion-con-mas-ejemplares-en-cataluna
 Status: published

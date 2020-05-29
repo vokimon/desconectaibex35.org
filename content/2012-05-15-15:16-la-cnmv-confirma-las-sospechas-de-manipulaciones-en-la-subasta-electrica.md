@@ -1,6 +1,6 @@
 Title: La CNMV confirma las sospechas de manipulaciones en la subasta eléctrica
 Date: 2012-05-15 15:16
-Author: admin
+Author: vokimon
 Category: Electricidad, España
 Slug: la-cnmv-confirma-las-sospechas-de-manipulaciones-en-la-subasta-electrica
 Status: published

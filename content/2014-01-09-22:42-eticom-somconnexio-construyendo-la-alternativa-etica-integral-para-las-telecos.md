@@ -1,6 +1,6 @@
 Title: Eticom-SomConnexió, construyendo la alternativa ética integral para las telecos
 Date: 2014-01-09 22:42
-Author: admin
+Author: vokimon
 Category: Baix Llobregat, Barcelona, Barcelonés, Bilbo, Catalunya, El Prat de Llobregat, España, Euskadi, Mungia, Rubí, Sant Joan Despí, Telecomunicaciones
 Slug: eticom-somconnexio-construyendo-la-alternativa-etica-integral-para-las-telecos
 Status: published

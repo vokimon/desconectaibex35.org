@@ -1,6 +1,6 @@
 Title: Oligopoly 2: El imperio contra todos.
 Date: 2013-05-17 21:28
-Author: admin
+Author: vokimon
 Category: Electricidad, España
 Slug: oligopoly-2-el-imperio-contra-todos
 Status: published
