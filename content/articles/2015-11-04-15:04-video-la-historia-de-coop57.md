@@ -7,4 +7,7 @@ Status: published
 
 Los compañeros de Coop57 han publicado este ilustrador video que explica la inspiradora historia de esta cooperativa que nació de la solidaridad entre los trabajadores.
 
-\[embed\]https://www.youtube.com/watch?v=AUSdOaRNtjk\[/embed\]
+<div class="youtube youtube-16x9">
+<iframe src="https://www.youtube.com/embed/AUSdOaRNtjk" allowfullscreen seamless frameBorder="0"></iframe>
+</div>
+

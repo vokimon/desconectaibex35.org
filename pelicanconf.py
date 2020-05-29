@@ -19,6 +19,10 @@ DEFAULT_METADATA = {
 	'status': 'draft',
 }
 
+ARTICLE_URL = 'articles/{slug}.html'
+ARTICLE_SAVE_AS = 'articles/{slug}.html'
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feed.xml'
 CATEGORY_FEED_ATOM = None
