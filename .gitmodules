@@ -1,0 +1,6 @@
+[submodule "themes/m.css"]
+	path = themes/m.css
+	url = git://github.com/mosra/m.css
+[submodule "themes/elegant"]
+	path = themes/elegant
+	url = https://github.com/Pelican-Elegant/elegant.git
