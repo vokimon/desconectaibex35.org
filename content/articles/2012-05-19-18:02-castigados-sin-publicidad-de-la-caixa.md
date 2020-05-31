@@ -6,28 +6,31 @@ Slug: castigados-sin-publicidad-de-la-caixa
 Status: published
 Attachments: blog/wp-content/uploads/2012/05/caixarolada18m.jpg
 
-\[caption id="attachment\_275" align="alignright" width="200" caption="Uno de los carteles de \#occupymordor"\][![]({static}blog/wp-content/uploads/2012/05/caixarolada18m.jpg "caixarolada18m"){.size-thumbnail .wp-image-275 width="200"}](http://desconexionibex35.org/blog/2012/05/19/castigados-sin-publicidad-de-la-caixa/caixarolada18m/)\[/caption\]  
-Los editores de la revista [Cafè amb llet](http://www.cafeambllet.com/), la misma que hizo una labor extraordinaria investigando y dando a conocer los [escandalos en la sanidad catalana](http://www.cafeambllet.com/press/?p=17005&cpage=3#comment-7732), se hace eco de la retirada efectiva de publicidad por parte de [la Caixa](http://es.wikipedia.org/wiki/La_Caixa) tras dar cobertura informativa a las [mobilizaciones](http://periodismohumano.com/sociedad/libertad-y-justicia/occupymordor.html) contra la entidad que, desde el miercoles 15 de mayo, se están haciendo ante la sede central de la entidad ([\#ocuppymordor](http://twitter.com/#!/search?q=%23occupymordor)). Las mobilizaciones denuncian las malas prácticas de la entidad en temas tales como [participaciones preferentes](http://estafabanca.blogspot.com.es/), [desahucios](http://afectadosporlahipoteca.wordpress.com/), participación mayoritaria en [Abertis](http://es.wikipedia.org/wiki/Abertis) ([peajes](http://www.novullpagar.cat/))... Equiparan, en tono de humor, la entidad con los malos de la conocida trilogía El Señor de los Anillos. La protesta lleva ya unos días haciéndose y siendo desalojada por los Mossos d'Esquadra.
 
-```{=html}
-<p>
-```
-```{=html}
-<center>
-```
-```{=html}
-<iframe width="320" height="180" src="http://www.youtube.com/embed/h6t5etBT8Lk?feature=player_embedded" frameborder="0" allowfullscreen>
-```
-```{=html}
-</iframe>
-```
-```{=html}
-</center>
-```
-```{=html}
-</p>
-```
-En el [comunicado](http://www.cafeambllet.com/press/?p=17219) de "Cafè amb llet" ([traducido aquí sin las imágenes](http://www.cafeambllet.com/press/?p=17258)), se explica como el dia 14 de mayo La Caixa les hace el pedido de la publicidad, el dia 16 'Café amb llet' da cobertura a las protestas y el 17 les llega un comunicado de retirada de la publicidad. La excusa son problemas presupuestarios, pero si, como ironizan Albano y Marta, en dos dias no se pueden permitir una partida de 300€, es que la cosa en el sector bancario esta peor de lo que ya parece.
+<figure style="width:30%;float:right">
+<img width=90%% src="{static}blog/wp-content/uploads/2012/05/caixarolada18m.jpg" />
+<figcaption style=text-align:center>
+Cartel convocando #occupymordor
+</figcaption>
+</figure>
+
+Los editores de la revista [Cafè amb llet](http://www.cafeambllet.com/),
+la misma que hizo una labor extraordinaria investigando y dando a conocer
+los [escandalos en la sanidad catalana](http://www.cafeambllet.com/press/?p=17005&cpage=3#comment-7732),
+se hace eco de la retirada efectiva de publicidad por parte de [la Caixa](http://es.wikipedia.org/wiki/La_Caixa)
+tras dar cobertura informativa a las [mobilizaciones](http://periodismohumano.com/sociedad/libertad-y-justicia/occupymordor.html)
+contra la entidad que, desde el miercoles 15 de mayo, se están haciendo ante la sede central de la entidad ([\#ocuppymordor](http://twitter.com/#!/search?q=%23occupymordor)). Las mobilizaciones denuncian las malas prácticas de la entidad en temas tales como [participaciones preferentes](http://estafabanca.blogspot.com.es/), [desahucios](http://afectadosporlahipoteca.wordpress.com/), participación mayoritaria en [Abertis](http://es.wikipedia.org/wiki/Abertis) ([peajes](http://www.novullpagar.cat/))... Equiparan, en tono de humor, la entidad con los malos de la conocida trilogía El Señor de los Anillos. La protesta lleva ya unos días haciéndose y siendo desalojada por los Mossos d'Esquadra.
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/h6t5etBT8Lk?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+
+En el [comunicado](http://www.cafeambllet.com/press/?p=17219) de "Cafè amb llet"
+([traducido aquí sin las imágenes](http://www.cafeambllet.com/press/?p=17258)),
+se explica como el dia 14 de mayo La Caixa les hace el pedido de la publicidad,
+el dia 16 'Café amb llet' da cobertura a las protestas
+y el 17 les llega un comunicado de retirada de la publicidad.
+La excusa son problemas presupuestarios, pero si, como ironizan Albano y Marta,
+en dos dias no se pueden permitir una partida de 300€,
+es que la cosa en el sector bancario esta peor de lo que ya parece.
 
 Todo esto se da en un contexto en el que, según explican en el [Semanario Directa](http://setmanaridirecta.info/noticia/caixa-executa-lamenaca-retirar-publicitat-mitjans-que-difonguin-cassolada-indignada), otros medios (periódicos, radios, televisiones) estaban recibiendo presiones de tipo verbal de altos directivos de la entidad. Concretamente en TV3 se les recordo el monto de publicidad que insertaba La Caixa. El efecto en los medios ha sido devastador, según el semanario, en algunos casos, si se informaba, se omitía explícitamente las palabras "La Caixa" o "CaixaBank.
 

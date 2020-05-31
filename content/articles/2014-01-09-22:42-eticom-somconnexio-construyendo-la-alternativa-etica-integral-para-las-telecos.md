@@ -6,7 +6,14 @@ Slug: eticom-somconnexio-construyendo-la-alternativa-etica-integral-para-las-tel
 Status: published
 Attachments: blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg
 
-\[caption id="attachment\_637" align="alignright" width="105"\][![Flyer de la presentación de Eticom/SomConnexió](http://desconexionibex35.org/blog/wp-content/uploads/2014/01/FlyerPReticomScnxio-105x150.jpg){.size-thumbnail .wp-image-637 width="105" height="150"}]({static}blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg) Flyer de la presentación de Eticom-SomConnexió\[/caption\]
+<figure style='float:right; max-width:30%'>
+<a href="{static}/blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg">
+<img src="{static}/blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg" width=90% />
+<figcaption style='text-align:center'>
+Flyer de la presentación de Eticom/SomConnexió
+</figcaption>
+</a>
+</figure>
 
 Hace solo unas semanas [anunciábamos](/blog/2013/10/11/nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat/) el nacimiento de [GuifiBaix](http://guifibaix.coop), una alternativa promovida desde la campaña DesconexionIBEX35 para cubrir el sector de las telecomunicaciones fijas basándose en la red ciudadana [guifi.net](http://guifi.net). Es una alternativa de ámbito local (Baix Llobregat: Sant Joan Despi, Cornellà, El Prat...) y que ya está en marcha.
 

@@ -5,6 +5,11 @@ Category: Banca, Sectores
 Slug: facilitando-las-colaboraciones-nueva-wiki
 Status: published
 
+!!! Important "Actualizacion 2020-05-30"
+	La wiki recibía muchos ataques y ha sido desactivada por seguridad.
+
+	Ahora esta web está albergada en GitHub por donde se puede colaborar directamente.
+
 Para que pueda participar cualquiera en el proyecto DesconexionIBEX35, hemos habilitado una [wiki](http://desconexionibex35.org/wiki) donde podemos cocinar colaborativamente los documentos que acabaran o no entrando en la web. Vereis que hay un par de proyectos ya iniciados:
 
 -   [La ficha con alternativas en el sector Bancario](http://desconexionibex35.org/wiki/index.php?title=Banca) que se sumará a las dos publicadas de [Electricas](http://desconexionibex35.org/blog/electricas-som-energia/) y [Telecos](http://desconexionibex35.org/blog/telecos-guifi-net/)

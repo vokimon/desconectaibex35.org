@@ -7,7 +7,7 @@ Status: published
 
 [Albano Dante](https://twitter.com/_cafeambllet) y [Marta Sibina](https://twitter.com/marta_sibina), los editores de la revista [Café amb Llet](http://www.cafeambllet.com/press/), han [lanzado](http://www.cafeambllet.com/press/?p=18254) un ordago, en forma de [crowdfunding](http://www.verkami.com/projects/7948-que-el-cafeambllet-arribi-a-tot-catalunya), para ampliar a toda Cataluña la distribución de su publicación y competir en difusión con la prensa financiada por los bancos.
 
-`<iframe allowtransparency="true" frameborder="0" height="490" scrolling="no" src="http://www.verkami.com/projects/7948-que-el-cafeambllet-arribi-a-tot-catalunya/widget_portrait" width="300" style="float:right; margin 4px;">`{=html}No iframes supported`</iframe>`{=html}
+<iframe allowtransparency="true" frameborder="0" height="490" scrolling="no" src="http://www.verkami.com/projects/7948-que-el-cafeambllet-arribi-a-tot-catalunya/widget_portrait" width="30%" style="float:right; margin: 0px;"></iframe>
 
 Han escogido el método del crowdfounding, una forma distinta de financiarse que no les hace depender ni de grandes anunciantes ni de bancos, sino del apoyo popular, lo que preserva su independencia como periodistas.
 

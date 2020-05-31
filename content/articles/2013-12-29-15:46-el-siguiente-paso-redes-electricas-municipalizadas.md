@@ -5,11 +5,19 @@ Category: Electricidad
 Slug: el-siguiente-paso-redes-electricas-municipalizadas
 Status: published
 
-![Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg](http://www.berliner-zeitung.de/image/view/2013/10/4/24896668,22712322,highRes,maxh,480,maxw,480,3ex02529.jpg)
+<figure style='width:30%; margin: auto'>
+<a href="http://www.berliner-zeitung.de/image/view/2013/10/4/24896668,22712322,highRes,maxh,480,maxw,480,3ex02529.jpg">
+<img src="http://www.berliner-zeitung.de/image/view/2013/10/4/24896668,22712322,highRes,maxh,480,maxw,480,3ex02529.jpg" width=90% />
+<figcaption style='text-align:center'>
+Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg
+</figcaption>
+</a>
+</figure>
 
 Los monopolios que implican una red de acceso física (Agua, Gas, Electricidad, Teléfono...) necesitan una nueva vuelta de tuerca.
 
-La ["liberalización"](http://es.wikipedia.org/wiki/Mercado_el%C3%A9ctrico_de_Espa%C3%B1a) (siempre entre comillas) del sector eléctrico Español en 1997, simplemente "liberalizó" la comercialización (quien vende al cliente) y la producción de energía (quien vuelca la energía a la red). Las otras 2 partes del mercado dejo el transporte (alta tensión) en manos de el monopolio semi-publico/semi-privado de Red Electrica y la distribución en manos de un monopolio territorial privado (Unesa=Endesa+Hiberdrola+Fenosa+EDP+E.On) en el que cada empresa ejerce el monopolio en su zona asignada.
+La ["liberalización"](http://es.wikipedia.org/wiki/Mercado_el%C3%A9ctrico_de_Espa%C3%B1a) (siempre entre comillas) del sector eléctrico Español en 1997, simplemente "liberalizó" la comercialización (quien vende al cliente) y la producción de energía (quien vuelca la energía a la red). Las otras 2 partes del mercado dejo el transporte (alta tensión) en manos de el monopolio semi-publico/semi-privado de Red Electrica y la distribución en manos de un monopolio territorial privado
+compuesto por las grandes de la patronal Unesa (Endesa, Iberdrola, Fenosa, EDP, E.On) en el que cada empresa ejerce el monopolio en su zona asignada.
 
 Iniciativas como las cooperativas de consumo ([SomEnergia](http://somenergia.coop), [Goiener](http://www.goiener.com/), ...) estan empezando a arrancar la comercialización de manos del oligopolio y permite a los usuarios escoger también, como cooperativistas de la comercializadora, a quien compran la producción. Pero el margen sobre el que actuamos como consumidores aún es muy estrecho. La mayor parte de los costes de la energía van a sufragar peajes monopolísticos que acaban, la mayoría, en los bolsillos de las empresas de Unesa. O el hecho de que los productores y comercializadores mayoritarios sean los mismos, hace que la subasta de energía que fija los precios sea una pantomima, como se ha hecho completamente evidente en los últimos días.
 

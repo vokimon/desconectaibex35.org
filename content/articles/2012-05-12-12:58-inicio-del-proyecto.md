@@ -5,7 +5,10 @@ Category: Electricidad, España
 Slug: inicio-del-proyecto
 Status: published
 
-Hoy 12 de Mayo de 2012, coincidiendo con las manifestaciones del \#12M-15M hacemos pública esta web con información general sobre el proyecto y una [ficha para Som Energia](http://desconexionibex35.org/blog/alternativa/electricas-som-energia/), que es una alternativa en el sector eléctrico.
+![]({static}/images/logo-desconexionibex35.svg){: width=100%}
+
+Hoy 12 de Mayo de 2012,
+coincidiendo con las manifestaciones del \#12M-15M hacemos pública esta web con información general sobre este proyecto.
 
 Este proyecto plantea **generar, descubrir y fomentar alternativas a las grandes empresas**
 que, por **razones éticas o de abuso** por su parte, **no queramos apoyar con nuestro dinero**.
@@ -18,4 +21,7 @@ No proponemos la desconexión total, buscaremos alternativas con diferentes nive
 A parte de recopilar la información, también queremos promover charlas, contactos con gente que haya hecho ya el salto y, sobretodo, acciones de salto colectivas.
 
 Es una tarea grande y no somos mucha gente.
-Así que si encuentras esta iniciativa interesante, no lo dudes, apóyala [participando](http://desconexionibex35.org/blog/colabora)!
+Así que si encuentras esta iniciativa interesante, no lo dudes, apóyala [participando]({filename}/pages/colabora.md)!
+
+También añadimos una [ficha para Som Energia]({filename}/pages/electricas-som-energia.md), que es una alternativa en el sector eléctrico.
+
