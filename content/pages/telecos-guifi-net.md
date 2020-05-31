@@ -5,16 +5,16 @@ Category: Telecomunicaciones
 Slug: telecos-guifi-net
 Status: published
 
-***Esta ficha no está acabada, pero la publicamos porque tal cual puede ser útil. Cuando esté completa la anunciaremos. [Subscribete a las noticias](http://desconexionibex35.org/blog/feed/).***
 
 ### El mercado de las telecomunicaciones fijas
 
-[![](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/network-wired.png "network-wired"){.alignright .size-full .wp-image-243 width="64" height="64"}](http://desconexionibex35.org/blog/telecos-guifi-net/network-wired/)La privatización de telefónica dejó en manos de una sola compañia, a partir de entonces privada, la infraestructura de cobre que llegaba hasta las casas. Se le quitó importancia al hecho pues se decía que la fibra óptica iba a dejar el cobre obsoleto. Un consorcio de empresas montaría la infraestructura de fibra óptica que lo substituiría. Casi 20 años después, la realidad es que aquel consorcio no llegó lejos y la fibra llega a muy pocos hogares y negocios. Se ha explotado al máximo el cobre mejorando la tecnología ADSL. Y, aunque está bien reutilizar recursos, lo malo es que una sola empresa sigue controlando la linia hasta los hogares heredada de la época pública. A las otras operadoras les sale más a cuenta pagar los peajes de Telefónica por usar sus linias que hacer una inversión a largo plazo en infraestructura propia.  
+![]({static}/blog/wp-content/uploads/2012/05/network-wired.png "network-wired"){: width="64" height="64" style="float:right;margin:3ex"}
+La privatización de telefónica dejó en manos de una sola compañia, a partir de entonces privada, la infraestructura de cobre que llegaba hasta las casas. Se le quitó importancia al hecho pues se decía que la fibra óptica iba a dejar el cobre obsoleto. Un consorcio de empresas montaría la infraestructura de fibra óptica que lo substituiría. Casi 20 años después, la realidad es que aquel consorcio no llegó lejos y la fibra llega a muy pocos hogares y negocios. Se ha explotado al máximo el cobre mejorando la tecnología ADSL. Y, aunque está bien reutilizar recursos, lo malo es que una sola empresa sigue controlando la linia hasta los hogares heredada de la época pública. A las otras operadoras les sale más a cuenta pagar los peajes de Telefónica por usar sus linias que hacer una inversión a largo plazo en infraestructura propia.  
 Años después tenemos una de las peores conexiónes de Europa al mismo tiempo que pagamos los mayores precios, y eso sin considerar los sueldos que cobramos los españoles. ([Ver datos](http://asperger.foroactivo.com/t142-por-que-en-espana-la-banda-ancha-es-tan-cara-y-tan-mala)).
 
 ### Qué es Guifi.net
 
-[![](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/guifi-logo.png "guifi-logo"){.alignright .size-full .wp-image-125 width="225" height="65"}](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/guifi-logo.png)
+[![]({static}/blog/wp-content/uploads/2012/05/guifi-logo.png "guifi-logo"){.alignright .size-full .wp-image-125 width="225" height="65"}](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/guifi-logo.png)
 
 -   [Guifi.net](http://guifi.net) es una red de comunicaciones ciudadana en la que **cada persona o colectivo que participa, se conecta a la red, al mismo tiempo que la extiende**.
 -   El proyecto ha recibido varios **premios y reconocimientos** (Premio Nacional de Telecomunicaciones de la Generalitat de Cataluña, escogido "Living Lab" por la UE, Premio a la Innovación pel CNJC, Premio vilaweb...), tiene en marcha diversos **proyectos europeos de investigación** y múltiples **convenios con ayuntamientos y entidades**..
@@ -28,7 +28,14 @@ Años después tenemos una de las peores conexiónes de Europa al mismo tiempo q
 -   No hay quotas mensuales por el uso de la red. Los usuarios deciden como pagan entre ellos su parte de la red y sus accesos a internet compartidos o otros servicios que requieran pago.
 -   La *desconexión del IBEX* puede no ser inmediata pues al principio se depende de ADSL's pero, según avanza la red, se depende menos.
 
-\[caption id="attachment\_124" align="alignright" width="300" caption="Detalle (Cataluña) del mapa de cobertura de guifi.net el 13-05-2012"\][![](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/guifinet-cobertura-20120513-300x204.png "guifinet-cobertura-20120513"){.size-medium .wp-image-124 width="300" height="204"}](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/guifinet-cobertura-20120513.png)\[/caption\]
+<figure style='float:right; text-align:center; max-width:300px;'>
+<img alt="guifinet-cobertura-20120513"
+	src="{static}/blog/wp-content/uploads/2012/05/guifinet-cobertura-20120513.png">
+<figcaption>
+Detalle (Cataluña) del mapa de cobertura de guifi.net el 13-05-2012
+</figcaption>
+</figure>
+
 
 En el mapa de al lado vemos un detalle del mapa de cobertura (tomado de [aquí](http://guifi.net/es/node/2413/view/map)). Las linias verdes representan enlaces punto a punto entre zonas mientras que las linias amarillas son enlaces de los nodos con el punto central de la zona (el supernodo).
 

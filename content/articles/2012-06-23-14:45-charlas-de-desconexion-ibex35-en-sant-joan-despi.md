@@ -14,7 +14,12 @@ Cartel del evento
 </figcaption>
 </figure>
 
-Aprovechando la Fiesta Mayor de Sant Joan Despí (Barcelona), la [asamblea del 15M del pueblo](http://acampadadespi.org) montará el domingo 24 un punto de información y alternarà cada media hora 'micro-charlas' sobre la [Auditoría Ciudadana de la Deuda](http://auditoria15m.org) y [Desconexión IBEX-35](http://desconexionibex35.org). En el punto de información tendrán octavillas que explican la campaña y que colgamos aquí con licencia creative commons "compartir igual" para que cualquiera las pueda adaptar a su ciudad.
+Aprovechando la Fiesta Mayor de Sant Joan Despí (Barcelona),
+la [asamblea del 15M del pueblo](http://acampadadespi.org)
+montará el domingo 24 un punto de información y alternarà cada media hora 'micro-charlas'
+sobre la [Auditoría Ciudadana de la Deuda](http://auditoria15m.org) y [Desconexión IBEX-35](http://desconexionibex35.org).
+En el punto de información tendrán octavillas que explican la campaña
+y que colgamos aquí con licencia creative commons "compartir igual" para que cualquiera las pueda adaptar a su ciudad.
 
 -   Información general ([pdf]({static}/files/desconexionibex35-octaveta-general.pdf), [odt]({static}/files/desconexionibex35-octaveta-general.odt))
 -   Electricas: Som Energia ([pdf]({static}/files/desconexionibex35-octaveta-somenergia.pdf), [odt]({static}/files/desconexionibex35-octaveta-somenergia.odt))

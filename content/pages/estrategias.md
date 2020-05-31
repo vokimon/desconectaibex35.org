@@ -4,30 +4,17 @@ Author: vokimon
 Slug: estrategias
 Status: published
 
-```{=html}
-<p>
-```
-```{=html}
 <center>
-```
-```{=html}
-<iframe width="480px" height="270px" src="/desconexionibex35-estrategies.svg">
-```
-```{=html}
-</iframe>
-```
-  
-[svg animation](/desconexionibex35-estrategies.svg), [webm video](/desconexionibex35-estrategies.webm), [flv video](/desconexionibex35-estrategies.flv)
-
-```{=html}
+<iframe width="480px" height="270px"
+	src="{static}/files/desconexionibex35-estrategies.svg">
+</iframe><br/>
+[svg animation]({static}/files/desconexionibex35-estrategies.svg),
+[webm video]({static}/files/desconexionibex35-estrategies.webm),
+[flv video]({static}/files/desconexionibex35-estrategies.flv)
 </center>
-```
-  
+
 Pero, si son tan abusivos, ¿porqué cuesta tanto que triunfen las alternativas?
 
-```{=html}
-</p>
-```
 1.  A menudo, no hay espacio para alternativas, solo te llega una tuberia de agua.
 2.  A veces, no existen pero se podrían crear.
 3.  Cuando surgen y empiezan a triunfar, las grandes tienden a apropiarse de ellas o estrangularlas comercialmente.

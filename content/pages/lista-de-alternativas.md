@@ -5,9 +5,12 @@ Category: Ahorro, Banca, Electricidad, Financiacion, Medios, Periódicos, Seguro
 Slug: lista-de-alternativas
 Status: published
 
-Esto es un esquema de los **sectores** en los que hemos detectado oligopolios y de las **alternativas** que hemos ido encontrado. Es una lista viva y seguro que incompleta, amplíala o complétala en los comentarios, enviándolo a info (algarroba) desconexionibex35.org o en la [wiki](/wiki). Iremos cubriendo cada alternativa con artículos más explicativos como los que ya hemos hecho sobre [Som Energia](http://desconexionibex35.org/blog/alternativa/electricas-som-energia/), [Guifi.net](http://desconexionibex35.org/blog/alternativa/telecos-guifi-net) y [Banca Ética](http://desconexionibex35.org/wiki/index.php?title=Banca).
+Esto es un esquema de los **sectores** en los que hemos detectado oligopolios y de las **alternativas** que hemos ido encontrado. Es una lista viva y seguro que incompleta, amplíala o complétala en los comentarios, enviándolo a info (algarroba) desconexionibex35.org o en la [wiki](/wiki). Iremos cubriendo cada alternativa con artículos más explicativos como los que ya hemos hecho sobre
+[Som Energia]({filename}/pages/electricas-som-energia.md),
+[Guifi.net]({filename}/pages/telecos-guifi-net.md) y
+[Banca Ética](http://desconexionibex35.org/wiki/index.php?title=Banca).
 
--   Telefonia, Internet: [Guifi.net](http://guifi.net)
+-   Telefonia, Internet: [Guifi.net](http://guifi.net), [SomConnexió](http://somconnexio.coop)
 -   Eléctricas: [Som Energia](http://somenergia.coop)
 -   Bancos: [Fets](http://www.fets.org) (associación de entidades de banca ética)
     -   Banca ètica: [Fiare](http://www.fiare.org/caste/index4.asp), [Triodos](http://www.triodos.es/es/particulares/)
@@ -28,7 +31,7 @@ Esto es un esquema de los **sectores** en los que hemos detectado oligopolios y 
 -   Seguros: [Arç](http://www.arccoop.coop) (cooperativa de seguros y servicios), [Atlantis](http://www.atlantis-seguros.es) (Asseguradora ètica? Necesitamos más información)
 -   Medios de comunicación:
     -   Existentes:
-        -   [latele.cat](http://latele.cat) Una tele alternativa
+        -   [la mosca.tv](http://lamosca.tv) Una tele alternativa
         -   [ContraBanda](http://www.contrabanda.org/contrabanda/) Radio
         -   [Semanari Directa](http://setmanaridirecta.info) Prensa
         -   [Nació Digital](http://www.naciodigital.com) Prensa
@@ -40,7 +43,7 @@ Esto es un esquema de los **sectores** en los que hemos detectado oligopolios y 
     -   Como crear: autopublicación, podcasts, streaming...
 -   Farmaceuticas: Visitadores, genèricos, autoproducción
 -   Ropa [Roba Neta](http://robaneta.wordpress.com/), [Roba amiga](http://ca.robaamiga.cat/)
--   Comida: [Cooperatives de consum](http://cooperativaesplet.wordpress.com/), pagesos locals. [Huertos Compartidos](http://www.huertoscompartidos.es/index.php), [Agricultura de Responsabilidad Compartida](http://www.arcocoag.org/) (pone en contacto productores y consumidores de alimentos`</a>`{=html}
+-   Comida: [Cooperatives de consum](http://cooperativaesplet.wordpress.com/), pagesos locals. [Huertos Compartidos](http://www.huertoscompartidos.es/index.php), [Agricultura de Responsabilidad Compartida](http://www.arcocoag.org/) (pone en contacto productores y consumidores de alimentos
     -   Soberania alimentaria, Monsanto, Novartis...
 -   Vivienda: [500/20](http://500x20.prouespeculacio.org/), Repoblament, Marinaleda, [Liberaos](https://www.liberaos.net/)...
     -   [Pueblos abandonados](http://www.pueblosabandonados.com/mapa)

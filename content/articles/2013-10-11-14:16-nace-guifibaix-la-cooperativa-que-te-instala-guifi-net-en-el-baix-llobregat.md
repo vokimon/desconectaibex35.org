@@ -10,7 +10,7 @@ Attachments: blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png, b
 <a href="{static}/blog/wp-content/uploads/2013/10/slide4.jpg">
 <img src="{static}/blog/wp-content/uploads/2013/10/slide4.jpg" width=90% />
 <figcaption style='text-align:center'>
-El equipo de GuifiBaix con GATS
+Los equipos de GuifiBaix y GATS en la constitución del proyecto
 </figcaption>
 </a>
 

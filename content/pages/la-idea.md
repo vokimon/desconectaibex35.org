@@ -4,13 +4,15 @@ Author: vokimon
 Slug: la-idea
 Status: published
 
-<p>
 <center>
-<iframe width="480px" height="270px" src="/desconexionibex35-sozi1.svg">
-</iframe>
-[svg animation](/desconexionibex35-sozi1.svg), [webm video](/desconexionibex35-sozi1.webm), [flv video](/desconexionibex35-sozi1.flv)
+<iframe width="480px" height="270px"
+	src="{static}/files/desconexionibex35-sozi1.svg">
+</iframe><br/>
+[svg animation]({static}/files/desconexionibex35-sozi1.svg),
+[webm video]({static}/files/desconexionibex35-sozi1.webm),
+[flv video]({static}/files/desconexionibex35-sozi1.flv)
 </center>
-</p>
+
 
 Cuando una empresa **no se comporta éticamente**,
 o **cobra un precio desproporcionado**,

@@ -5,20 +5,26 @@ Category: Electricidad
 Slug: electricas-som-energia
 Status: published
 
+[TOC]
+
 ### El mercado eléctrico español
 
-[![](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/ktip.png "Electricidad"){.alignright .size-full .wp-image-238 width="64" height="64"}](http://desconexionibex35.org/blog/electricas-som-energia/ktip/)El sector eléctrico era un monopolio público que tras los procesos de privatización y posterior liberalización ha dejado un mercado que podriamos describir de la siguiente manera (Ver [Wikipedia: Agentes del mercado español de energia](http://es.wikipedia.org/wiki/Agentes_del_mercado_espa%C3%B1ol_de_energ%C3%ADa_el%C3%A9ctrica))
+![]({static}/blog/wp-content/uploads/2012/05/ktip.png "Electricidad"){: width="64" height="64" style="float:right;margin:3ex"}
 
--   **Transporte:** La red troncal de energía sigue siendo monopolio de una empresa ([Red Electrica de España](http://es.wikipedia.org/wiki/Red_El%C3%A9ctrica_de_Espa%C3%B1a)) que mantiene un fuerte componente público.
+El sector eléctrico era un monopolio público que tras los procesos de privatización y posterior liberalización ha dejado un mercado organizado de la siguiente manera:
+
+-   **Transporte:** La red troncal de energía, la alta tensión, que sigue siendo monopolio de una empresa ([Red Electrica de España](http://es.wikipedia.org/wiki/Red_El%C3%A9ctrica_de_Espa%C3%B1a)) que mantiene un fuerte componente público.
 -   **Distribucion:** la red que llega a nuestras casas, es un oligopolio privado de empresas como [Endesa](http://es.wikipedia.org/wiki/Endesa), [Iberdrola](http://es.wikipedia.org/wiki/Iberdrola), [Unión Fenosa](http://es.wikipedia.org/wiki/Unión_Fenosa)... A efectos prácticos es un monopolio pues no puedes escoger el cable que te llega a casa.
--   **Producción:**Son las empresas que generan energia y la vuelcan a la red. Este sector esta liberalizado pero hay un alto componente de producción (nucleares, térmicas, hidroeléctricas...) que pertenecen a filiales de las distribuidoras privatizadas.
+-   **Producción:**Son las empresas que generan energia y la vuelcan a la red. Este sector está liberalizado pero hay un alto componente de gran producción (nucleares, térmicas, hidroeléctricas...) que pertenecen a filiales de las distribuidoras privatizadas.
 -   **Comercialización:** Es la empresa que te hace la factura, compra la energia a las productoras, paga peajes y alquileres de contadores a las distribuidora y ofrece una tarifa final al consumidor.
+
+Más informacion en [Wikipedia: Agentes del mercado español de energia](http://es.wikipedia.org/wiki/Agentes_del_mercado_espa%C3%B1ol_de_energ%C3%ADa_el%C3%A9ctrica))
 
 Pendiente de explicar: TUR, Deficit de tarifa, regimen especial, puertas giratorias del sector
 
 ### Som Energia, ¿qué es?
 
-[![](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/somenergia_logo.jpg "somenergia_logo"){.alignright .size-full}](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/somenergia_logo.jpg)
+[![]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg "Logo de Som Energia")]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg){: style="float:right; margin:3ex"}
 
 -   [Som Energia](http://www.somenergia.coop/) es una cooperativa de producción y consumo de energia
 -   La empezó un grupo de la Universitat de Girona, tomando como modelo las cooperativas que ya controlan el 50% del mercado eléctrico de Alemania.

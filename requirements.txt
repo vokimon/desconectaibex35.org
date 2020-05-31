@@ -3,4 +3,6 @@ markdown
 lxml
 beautifulsoup4
 pelican-more-categories
-pelican-youtube
+pelican-entities
+pelican-jinja2content
+markdown_captions
