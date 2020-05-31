@@ -8,7 +8,7 @@ Attachments: blog/wp-content/uploads/2012/05/caixarolada18m.jpg
 
 
 <figure style="width:30%;float:right">
-<img width=90%% src="{static}blog/wp-content/uploads/2012/05/caixarolada18m.jpg" />
+<img width=90%% src="{static}/blog/wp-content/uploads/2012/05/caixarolada18m.jpg" />
 <figcaption style=text-align:center>
 Cartel convocando #occupymordor
 </figcaption>

@@ -7,8 +7,8 @@ Status: published
 Attachments: blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png, blog/wp-content/uploads/2013/10/slide4.jpg, blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png, blog/wp-content/uploads/2013/10/flyer.png
 
 <figure style='width:90%; margin: auto'>
-<a href="{static}blog/wp-content/uploads/2013/10/slide4.jpg">
-<img src="{static}blog/wp-content/uploads/2013/10/slide4.jpg" width=90% />
+<a href="{static}/blog/wp-content/uploads/2013/10/slide4.jpg">
+<img src="{static}/blog/wp-content/uploads/2013/10/slide4.jpg" width=90% />
 <figcaption style='text-align:center'>
 El equipo de GuifiBaix con GATS
 </figcaption>
@@ -16,8 +16,8 @@ El equipo de GuifiBaix con GATS
 
 </figure>
 <figure style='float:right; max-width:30%'>
-<a href="{static}blog/wp-content/uploads/2013/10/flyer.png">
-<img src="{static}blog/wp-content/uploads/2013/10/flyer.png" width=90% />
+<a href="{static}/blog/wp-content/uploads/2013/10/flyer.png">
+<img src="{static}/blog/wp-content/uploads/2013/10/flyer.png" width=90% />
 <figcaption style='text-align:center'>
 Flyer promocional de la iniciativa
 </figcaption>

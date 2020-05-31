@@ -7,8 +7,8 @@ Status: published
 Attachments: blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg
 
 <figure style='float:right; max-width:30%'>
-<a href="{static}blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg">
-<img src="{static}blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg" width=90% />
+<a href="{static}/blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg">
+<img src="{static}/blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg" width=90% />
 <figcaption style='text-align:center'>
 Socios votando en la asamblea del año pasado
 </figcaption>

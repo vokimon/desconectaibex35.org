@@ -8,8 +8,8 @@ Attachments: blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-Xerrada
 
 
 <figure style='float:right; max-width:30%'>
-<a href="{static}blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png">
-<img src="{static}blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png" width=90% />
+<a href="{static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png">
+<img src="{static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png" width=90% />
 <figcaption style='text-align:center'>
 Cartel de la charla
 </figcaption>
