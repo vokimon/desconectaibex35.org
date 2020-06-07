@@ -74,6 +74,7 @@ PLUGINS=[
 	'video_privacy_enhancer', # (Unused) Embed videos with privacy until played
 	'neighbors', # To show next-prev links in articles
 	'extract_toc', # Aside responsive TOC
+	'tipue_search', # Search
 ]
 
 MARKDOWN = {
