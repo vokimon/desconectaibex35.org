@@ -2,14 +2,18 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-def topicicon(ctx, topic):
-	return ctx.parser.parseChunk(ctx.parent, """\
-[![{Topic}]({{static}}/images/categories/{topic}.png "{Topic}")]({{category}}/{Topic})
-{{: width="64" heigth="auto" style="float:right;margin-left:3ex" }}
-""".format(
-			topic = topic,
-			Topic = topic.title(),
-		))
+def categories(ctx, *topics):
+	#print(ctx.metadata)
+	ctx.parser.parseChunk(ctx.parent, ''.join([
+		"""::: topicicons width="64" heigth="auto" style="float:right; margin-left:3ex; text-align: center; background: white"\n""",
+		] + [
+	"""    [![{Topic}]({{static}}/images/categories/{topic}.png "{Topic}")]"""
+	"""({{category}}/{Topic})<br>{Topic}\n\n\n""".format(
+			topic = category.lower(),
+			Topic = category.title(),
+		)
+		for category in topics or ctx.metadata.get('category')[0].split(', ')
+	]))
 
 
 AUTHOR = 'David García Garzón'
@@ -104,7 +108,7 @@ MARKDOWN = {
 		'markdown.extensions.attr_list': {},
 		'customblocks': {
 			'generators': {
-				'topicicon': topicicon,
+				'categories': categories,
 			},
 		}
     },
