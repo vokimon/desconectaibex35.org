@@ -2,6 +2,16 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+def topicicon(ctx, topic):
+	return ctx.parser.parseChunk(ctx.parent, """\
+[![{Topic}]({{static}}/images/categories/{topic}.png "{Topic}")]({{category}}/{Topic})
+{{: width="64" heigth="auto" style="float:right;margin-left:3ex" }}
+""".format(
+			topic = topic,
+			Topic = topic.title(),
+		))
+
+
 AUTHOR = 'David García Garzón'
 SITENAME = 'Desconecta del IBEX35'
 SITESUBTITLE = '¿Vas a seguir alimentando a la bestia?'
@@ -80,15 +90,23 @@ PLUGINS=[
 ]
 
 MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.codehilite': {
-            'css_class': 'highlight',
-        },
+	'extensions': [
+		'customblocks',
+	],
+	'extension_configs': {
+		'markdown.extensions.codehilite': {
+			'css_class': 'highlight',
+		},
         'markdown.extensions.admonition': {},
         'markdown.extensions.toc': {},
         'markdown.extensions.extra': {},
         'markdown.extensions.tables': {},
 		'markdown.extensions.attr_list': {},
+		'customblocks': {
+			'generators': {
+				'topicicon': topicicon,
+			},
+		}
     },
     'output_format': 'html5',
 }

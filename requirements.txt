@@ -5,4 +5,4 @@ beautifulsoup4
 pelican-more-categories
 pelican-entities
 pelican-jinja2content
-markdown_captions
+markdown-customblocks
