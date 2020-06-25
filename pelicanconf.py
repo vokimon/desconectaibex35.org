@@ -94,9 +94,6 @@ PLUGINS=[
 ]
 
 MARKDOWN = {
-	'extensions': [
-		'customblocks',
-	],
 	'extension_configs': {
 		'markdown.extensions.codehilite': {
 			'css_class': 'highlight',
