@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'David García Garzón'
 SITENAME = 'Desconecta del IBEX35'
-SITESUBTITLE = '¿Porqué seguir alimentando a la bestia?'
+SITESUBTITLE = '¿Vas a seguir alimentando a la bestia?'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -53,7 +53,7 @@ MENUITEMS=(
 	('Proyecto', '/pages/la-idea.html'),
 )
 # Social widget
-SOCIAL_PROFILE_LABEL="En contacto"
+#SOCIAL_PROFILE_LABEL="En contacto"
 SOCIAL = (
 	('GitHub', 'http://github.com/vokimon/desconectaibex35.org'),
 	('DesconexionIBEX35', 'https://www.facebook.com/DesconexionIBEX35'),
@@ -62,7 +62,7 @@ SOCIAL = (
 DEFAULT_PAGINATION = 20
 
 DISPLAY_CATEGORIES_ON_MENU=False
-DISPLAY_PAGES_ON_MENU=True
+DISPLAY_PAGES_ON_MENU=False
 SUMMARY_USE_FIRST_PARAGRAPH = True
 
 PLUGIN_PATHS=[
@@ -75,6 +75,8 @@ PLUGINS=[
 	'neighbors', # To show next-prev links in articles
 	'extract_toc', # Aside responsive TOC
 	'tipue_search', # Search
+	'deadlinks', # complaint on deadlinks and provide archive.org versions
+	#'assets', # join and minimize css and js
 ]
 
 MARKDOWN = {
@@ -91,10 +93,6 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
-THEME='Flex'
-THEME='m.css'
-THEME='m.css/pelican-theme'
-THEME='themes/notmyidea'
 THEME='elegant'
 
 # ELEGANT THEME CUSTUMIZATION
@@ -103,16 +101,12 @@ THEME_TEMPLATES_OVERRIDES = [
 	'templates',
 ]
 SEARCH_BOX = False
-LANDING_PAGE_TITLE = "Noticias"
-LANDING_PAGE_ABOUT = dict(
-	title = 'My blog',
-    details = """<p>This website contains Info that might be interesting for you, enjoy!</p>""",
-)
+LANDING_PAGE_TITLE = "Desconecta del IBEX-35"
 
-FEATURED_IMAGE = 'desconexionibex35-sozi1.svg'
+FEATURED_IMAGE = 'desconexionibex35-logo.png'
 SITE_DESCRIPTION="""\
 **No queremos apoyar con nuestro dinero**
-a las grandes empresas (del IBEX y otras)
+a las grandes empresas (del IBEX-35 y otras)
 por los diversos abusos que cometen.
 
 **Investigamos, generamos y fomentamos alternativas**
