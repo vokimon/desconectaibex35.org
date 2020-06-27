@@ -1,7 +1,9 @@
 Title: Castigados sin publicidad de La Caixa
 Date: 2012-05-19 18:02
 Author: vokimon
-Category: Banca, Barcelona, Medios, Prensa, Televisión
+Category: Banca, Medios, Prensa, Televisión
+Tags: Mordor, Cafe amb Llet, La Caixa
+Location: Barcelona
 Slug: castigados-sin-publicidad-de-la-caixa
 Status: published
 Attachments: blog/wp-content/uploads/2012/05/caixarolada18m.jpg

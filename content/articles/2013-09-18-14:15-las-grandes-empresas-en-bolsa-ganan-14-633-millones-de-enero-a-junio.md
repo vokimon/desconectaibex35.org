@@ -1,7 +1,9 @@
 Title: Las grandes empresas en bolsa ganan 14.633 millones de enero a junio
 Date: 2013-09-18 14:15
 Author: vokimon
-Category: España
+Category: General
+Location: España
+Tags: Beneficios
 Slug: las-grandes-empresas-en-bolsa-ganan-14-633-millones-de-enero-a-junio
 Status: published
 

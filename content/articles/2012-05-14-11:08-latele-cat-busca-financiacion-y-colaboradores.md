@@ -1,7 +1,9 @@
 Title: LaTele.cat busca financiación y colaboradores
 Date: 2012-05-14 11:08
 Author: vokimon
-Category: Barcelona, Financiacion, Televisión
+Category: Televisión, Financiación
+Tags: Alternativa, Llamada, La Mosca TV, Goteo, Lanzanos
+Location: Barcelona
 Slug: latele-cat-busca-financiacion-y-colaboradores
 Status: published
 

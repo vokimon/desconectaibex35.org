@@ -1,7 +1,7 @@
 Title: Facilitando las colaboraciones: nueva wiki
 Date: 2012-05-22 20:02
 Author: vokimon
-Category: Banca, Sectores
+Category: Campaña, Banca
 Slug: facilitando-las-colaboraciones-nueva-wiki
 Status: published
 

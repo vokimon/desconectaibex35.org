@@ -1,7 +1,9 @@
 Title: SERYES - Una historia de intercooperación
 Date: 2013-07-17 13:39
 Author: vokimon
-Category: España, Seguros
+Category: Seguros
+Location: España
+Tags: Seryes, Arç, Atlantis
 Slug: seryes-una-historia-de-intercooperacion
 Status: published
 

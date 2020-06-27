@@ -1,7 +1,9 @@
 Title: Charlas de Desconexión IBEX35 en Sant Joan Despí
 Date: 2012-06-23 14:45
 Author: vokimon
-Category: Sant Joan Despí, Sectores
+Category: Campaña
+Tags: Charla, Auditoria del Deute
+Location: Sant Joan Despí
 Slug: charlas-de-desconexion-ibex35-en-sant-joan-despi
 Status: published
 Attachments: blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png

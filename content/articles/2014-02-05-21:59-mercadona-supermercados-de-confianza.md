@@ -1,7 +1,9 @@
 Title: Mercadona, ¿supermercados de confianza?
 Date: 2014-02-05 21:59
 Author: vokimon
-Category: España, Supermercados
+Category: Supermercados
+Location: España, Barcelona
+Tags: CoopMercat, Mercadona
 Slug: mercadona-supermercados-de-confianza
 Status: published
 

@@ -1,7 +1,9 @@
 Title: Documentos TV: Finanzas Éticas
 Date: 2012-12-31 14:11
 Author: vokimon
-Category: Ahorro, Banca, España, Financiacion
+Category: Ahorro, Banca, Financiación
+Location: España
+Tags: Fiare, Triodos, Coop57, Documental
 Slug: documentos-tv-financias-eticas
 Status: published
 

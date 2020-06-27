@@ -1,7 +1,8 @@
 Title: Nace GuifiBaix, la cooperativa que te instala Guifi.net en el Baix Llobregat
 Date: 2013-10-11 14:16
 Author: vokimon
-Category: Baix Llobregat, El Prat de Llobregat, Sant Joan Despí, Telecomunicaciones
+Category: Telecomunicaciones
+Locations: Baix Llobregat, El Prat de Llobregat, Sant Joan Despí
 Slug: nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat
 Status: published
 Attachments: blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png, blog/wp-content/uploads/2013/10/slide4.jpg, blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png, blog/wp-content/uploads/2013/10/flyer.png

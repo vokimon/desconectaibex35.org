@@ -1,7 +1,9 @@
 Title: Compartir, otra forma de desconectarse
 Date: 2013-01-14 02:14
 Author: vokimon
-Category: España
+Category: Campaña
+Location: España
+Tags: Recursos
 Slug: compartir-otra-forma-de-desconectarse
 Status: published
 
