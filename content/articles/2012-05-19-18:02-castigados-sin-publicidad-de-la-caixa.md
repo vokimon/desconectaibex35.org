@@ -8,13 +8,10 @@ Slug: castigados-sin-publicidad-de-la-caixa
 Status: published
 Attachments: blog/wp-content/uploads/2012/05/caixarolada18m.jpg
 
+::: categories
 
-<figure style="width:30%;float:right">
-<img width=90%% src="{static}/blog/wp-content/uploads/2012/05/caixarolada18m.jpg" />
-<figcaption style=text-align:center>
-Cartel convocando #occupymordor
-</figcaption>
-</figure>
+::: figure {static}/blog/wp-content/uploads/2012/05/caixarolada18m.jpg style="width:30%;float:right"
+	Cartel convocando #occupymordor
 
 Los editores de la revista [Cafè amb llet](http://www.cafeambllet.com/),
 la misma que hizo una labor extraordinaria investigando y dando a conocer
@@ -23,7 +20,7 @@ se hace eco de la retirada efectiva de publicidad por parte de [la Caixa](http:/
 tras dar cobertura informativa a las [mobilizaciones](http://periodismohumano.com/sociedad/libertad-y-justicia/occupymordor.html)
 contra la entidad que, desde el miercoles 15 de mayo, se están haciendo ante la sede central de la entidad ([\#ocuppymordor](http://twitter.com/#!/search?q=%23occupymordor)). Las mobilizaciones denuncian las malas prácticas de la entidad en temas tales como [participaciones preferentes](http://estafabanca.blogspot.com.es/), [desahucios](http://afectadosporlahipoteca.wordpress.com/), participación mayoritaria en [Abertis](http://es.wikipedia.org/wiki/Abertis) ([peajes](http://www.novullpagar.cat/))... Equiparan, en tono de humor, la entidad con los malos de la conocida trilogía El Señor de los Anillos. La protesta lleva ya unos días haciéndose y siendo desalojada por los Mossos d'Esquadra.
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/h6t5etBT8Lk?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+::: youtube h6t5etBT8Lk
 
 En el [comunicado](http://www.cafeambllet.com/press/?p=17219) de "Cafè amb llet"
 ([traducido aquí sin las imágenes](http://www.cafeambllet.com/press/?p=17258)),

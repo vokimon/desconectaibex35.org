@@ -7,7 +7,7 @@ Tags: Monopolio, Privatización
 Slug: por-que-pagamos-la-energia-mas-cara-de-europa
 Status: published
 
-![]({static}/blog/wp-content/uploads/2012/05/ktip.png "Electricidad"){: width="64" height="64" style="float:right;margin:1ex"}
+::: categories
 
 Un buen [artículo](http://www.cotizalia.com/opinion/disparate-economico/2012/10/29/por-que-pagamos-la-energia-mas-cara-de-europa-7614/%20 "Enlace al artículo")
 en cotizalia en el que un insider destripa la historia del sector energético en España

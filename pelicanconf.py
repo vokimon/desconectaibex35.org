@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 def categories(ctx, *topics):
 	#print(ctx.metadata)
 	ctx.parser.parseChunk(ctx.parent, ''.join([
-		"""::: topicicons width="64" heigth="auto" style="float:right; margin-left:3ex; text-align: center; background: white"\n""",
+		"""::: category-list width="64" heigth="auto" style="float:right; margin-left:3ex; text-align: center; background: white"\n""",
 		] + [
 	"""    [![{Topic}]({{static}}/images/categories/{topic}.png "{Topic}")]"""
 	"""({{category}}/{Topic})<br>{Topic}\n\n\n""".format(
@@ -106,6 +106,9 @@ MARKDOWN = {
 		'customblocks': {
 			'generators': {
 				'categories': categories,
+			},
+			'config': {
+				'youtube_inlineFluidStyles': True,
 			},
 		}
     },

@@ -7,6 +7,8 @@ Location: España
 Slug: la-cnmv-confirma-las-sospechas-de-manipulaciones-en-la-subasta-electrica
 Status: published
 
+::: categories
+
 Julio Segura, presidente de la CNMV, dijo en ya junio de 2011:
 
 > La evidencia acumulada demuestra que en los tres días precedentes a las subastas Cesur,

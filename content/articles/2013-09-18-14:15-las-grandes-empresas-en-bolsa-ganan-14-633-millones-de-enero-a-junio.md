@@ -7,14 +7,8 @@ Tags: Beneficios
 Slug: las-grandes-empresas-en-bolsa-ganan-14-633-millones-de-enero-a-junio
 Status: published
 
-<figure style='max-width:80%; margin:auto'>
-<a href="http://upload.wikimedia.org/wikipedia/commons/8/80/IBEX_35.png">
-<img src="http://upload.wikimedia.org/wikipedia/commons/8/80/IBEX_35.png" width=90% />
-<figcaption style='text-align:center'>
-Evolucion del índice IBEX-35
-</figcaption>
-</a>
-</figure>
+::: figure http://upload.wikimedia.org/wikipedia/commons/8/80/IBEX_35.png style="max-width:90%; margin:auto"
+	Evolucion del índice IBEX-35
 
 
 Por si cabia duda de que esta crisis era una estafa, [sale esta noticia en Publico](http://www.publico.es/dinero/469008/las-grandes-empresas-en-bolsa-ganan-14-633-millones-hasta-junio)

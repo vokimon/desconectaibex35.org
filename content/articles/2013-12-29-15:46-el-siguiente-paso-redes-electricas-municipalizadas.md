@@ -5,14 +5,10 @@ Category: Electricidad
 Slug: el-siguiente-paso-redes-electricas-municipalizadas
 Status: published
 
-<figure style='width:30%; margin: auto'>
-<a href="http://www.berliner-zeitung.de/image/view/2013/10/4/24896668,22712322,highRes,maxh,480,maxw,480,3ex02529.jpg">
-<img src="http://www.berliner-zeitung.de/image/view/2013/10/4/24896668,22712322,highRes,maxh,480,maxw,480,3ex02529.jpg" width=90% />
-<figcaption style='text-align:center'>
-Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg
-</figcaption>
-</a>
-</figure>
+::: categories
+
+::: figure http://www.berliner-zeitung.de/image/view/2013/10/4/24896668,22712322,highRes,maxh,480,maxw,480,3ex02529.jpg  style="width:30%; margin: auto"
+	Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg
 
 Los monopolios que implican una red de acceso física (Agua, Gas, Electricidad, Teléfono...) necesitan una nueva vuelta de tuerca.
 

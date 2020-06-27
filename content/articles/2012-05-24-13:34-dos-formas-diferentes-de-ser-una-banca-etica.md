@@ -6,6 +6,8 @@ Tags: Fiare, La Caixa
 Slug: dos-formas-diferentes-de-ser-una-banca-etica
 Status: published
 
+::: categories
+
 Hoy [Diagonal](http://www.diagonalperiodico.net/) da dos notícias que ilustran dos formas diametralmente opuestas de entender lo que es una banca ética.
 
 Por un lado CaixaBank oferece una línia de inversión de [‘Fondos éticos’ ligados al negocio sucio de Bayer e Inditex](http://diagonalperiodico.net/Fondos-eticos-ligados-al-negocio.html). El artículo explica que el fondo esta basado en un índice de dudosa calidad, sobre todo cuando se observa que la mayoría de empresas bien valoradas según ese índice, tienen un comportamiento muy poco ético.

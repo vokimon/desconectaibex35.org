@@ -7,41 +7,26 @@ Slug: nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobrega
 Status: published
 Attachments: blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png, blog/wp-content/uploads/2013/10/slide4.jpg, blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png, blog/wp-content/uploads/2013/10/flyer.png
 
-<figure style='width:90%; margin: auto'>
-<a href="{static}/blog/wp-content/uploads/2013/10/slide4.jpg">
-<img src="{static}/blog/wp-content/uploads/2013/10/slide4.jpg" width=90% />
-<figcaption style='text-align:center'>
-Los equipos de GuifiBaix y GATS en la constitución del proyecto
-</figcaption>
-</a>
+::: categories
 
-</figure>
-<figure style='float:right; max-width:30%'>
-<a href="{static}/blog/wp-content/uploads/2013/10/flyer.png">
-<img src="{static}/blog/wp-content/uploads/2013/10/flyer.png" width=90% />
-<figcaption style='text-align:center'>
-Flyer promocional de la iniciativa
-</figcaption>
-</a>
-</figure>
+:::figure {static}/blog/wp-content/uploads/2013/10/slide4.jpg style="width:90%; margin: auto"
+	Los equipos de GuifiBaix y GATS en la constitución del proyecto
+
+::: figure {static}/blog/wp-content/uploads/2013/10/flyer.png style="float:right; max-width:30%"
+	Flyer promocional de la iniciativa
+
 
 [GuifiBaix](http://guifibaix.coop) es un proyecto que nace en el municipio de Sant Joan Despí  bajo el amparo de la asociación [GATS](http://gats.cat) del Prat de Llobregat, que pretende ofrecer a los vecinos una alternativa sencilla a la opción, hasta ahora incontestable en la zona, de las oligo-empresas que ofrecen **telefonía y Internet fijos**. Un sector que no solo es un **oligopolio de comercialización** sino también **monopolio de distribución**, pues hay que considerar que el par de cobre por el que llega el ADSL de cualquier compañía aún pertenece a Telefónica.
 
-<figure style='float:left; max-width:30%'>
-<a href="{static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png">
-<img src="{static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png" width=90% />
-<figcaption style='text-align:center'>
-Cobertura de guifi.net en la península
-</figcaption>
-</a>
-</figure>
+
+::: figure style="float:left; max-width:30%" {static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png
+	Cobertura de guifi.net en la península
+
 La red ciudadana, libre y neutra, [guifi.net](http://guifi.net) hace innecesaria la red de acceso de Telefónica para tener Internet o telefonia fija, conectando a los usuarios con pequeñas antenas WiFi en sus tejados. Mediante esta red, los usuarios comparten servicios, entre ellos los accesos a internet. La red esta profundamente implantada en comarcas como Osona o el Maresme y se extiende por todo el levante peninsular y otros núcleos como Madrid, Galicia, Asturias, Euskadi...
 
-<figure style='float:right; max-width:30%'>
-<a href="http://guifi.net/maps">
-<img src="{static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png" width=90% />
-<figcaption style='text-align:center'>
-Cobertura de guifi.net en la provincia de Barcelona
+::: figure style="float:right; max-width:30%" {static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png
+	Cobertura de guifi.net en la provincia de Barcelona en 2013
+	[Mapa actualizado](http://guifi.net/maps)
 </figcaption>
 </a>
 </figure>

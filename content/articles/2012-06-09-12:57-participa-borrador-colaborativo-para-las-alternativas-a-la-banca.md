@@ -6,7 +6,9 @@ Tags: OikoCredit, Accio Solidaria, Fidem, CASX
 Slug: participa-borrador-colaborativo-para-las-alternativas-a-la-banca
 Status: published
 
-<iframe src="http://www.youtube.com/embed/5IjtVwItoJg?feature=player_detailpage" frameborder="0" width="480" height="270"></iframe>
+::: categories
+
+::: youtube 5IjtVwItoJg
 
 Como sobre **banca** hay **unas cuantas alternativas con diferentes orientaciones**, la ficha se está alargando un poco. Por eso hacemos público el [borrador colaborativo](/wiki/index.php?title=Banca), para que la información esté disponible y que, a la vez, quien quiera, pueda aportar.
 

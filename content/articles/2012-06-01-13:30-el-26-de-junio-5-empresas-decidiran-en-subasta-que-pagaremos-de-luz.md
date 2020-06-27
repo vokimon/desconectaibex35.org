@@ -7,7 +7,7 @@ Location: España
 Slug: el-26-de-junio-5-empresas-decidiran-en-subasta-que-pagaremos-de-luz
 Status: published
 
-![]({static}/blog/wp-content/uploads/2012/05/ktip.png "Electricidad"){: width="64" height="64" style="float:right;margin:1ex"}
+::: categories
 
 [Una noticia](http://www.europapress.es/economia/energia-00341/noticia-economia-energia-subasta-electrica-celebrara-26-junio-condicionara-revision-luz-julio-20120601132908.html) dada por Europa Press recuerda que el 26 de Junio se producirá la subasta que fijará el 50% de la Tarifa de Último Recurso (TUR) que pagamos la mayoría de consumidores que no estamos en el mercado libre. El otro 50% de la tarifa lo fijan los costes regulados del sistema eléctrico: los peajes de distribución y gestión que subieron un 23% en la última evaluación por presión de las electricas alegando el *deficit de tarifa* acomulado.
 

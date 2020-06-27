@@ -8,13 +8,10 @@ Slug: charlas-de-desconexion-ibex35-en-sant-joan-despi
 Status: published
 Attachments: blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png
 
+::: categories
 
-<figure style='float:right; max-width:30%'>
-<img src="{static}/blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png" width=200 />
-<figcaption style='text-align:center'>
-Cartel del evento
-</figcaption>
-</figure>
+::: figure {static}/blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png style="float:right; max-width:25%"
+	Cartel del evento
 
 Aprovechando la Fiesta Mayor de Sant Joan Despí (Barcelona),
 la [asamblea del 15M del pueblo](http://acampadadespi.org)

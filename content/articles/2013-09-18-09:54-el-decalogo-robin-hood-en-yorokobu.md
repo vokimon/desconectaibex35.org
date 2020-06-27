@@ -6,16 +6,10 @@ Location: España
 Slug: el-decalogo-robin-hood-en-yorokobu
 Status: published
 
-<figure style='float:right; max-width:30%'>
-<a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Robin-hood-and-maid-marion-01.png">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Robin-hood-and-maid-marion-01.png" width=90% />
-<figcaption style='text-align:center'>
-Ilustración de Robin Hood y Marian de un panfleto del siglo XVI
-</figcaption>
-</a>
-</figure>
+::: categories
 
-
+::: figure https://upload.wikimedia.org/wikipedia/commons/5/5a/Robin-hood-and-maid-marion-01.png style="float:right; max-width:30%"
+	Ilustración de Robin Hood y Marian de un panfleto del siglo XVI
 
 
 Hoy apuntamos a un interesante [artículo](http://www.yorokobu.es/decalogo-robin-hood-1/)

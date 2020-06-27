@@ -8,15 +8,10 @@ Slug: taller-de-alternativas-y-acompanamiento-al-salto
 Status: published
 Attachments: blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png
 
+::: categories
 
-<figure style='float:right; max-width:30%'>
-<a href="{static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png">
-<img src="{static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png" width=90% />
-<figcaption style='text-align:center'>
-Cartel de la charla
-</figcaption>
-</a>
-</figure>
+::: figure {static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png style="float:right; max-width:30%">
+	Cartel de la charla
 
 Luz, Telecomunicaciones, Banca, Alimentación, Informática...
 tienen nombres éticos como Som Energia, Eticom/Som Conexio, Guifibaix, guifi.net, Fiare, Triodos Caixa Catalana, Coop57, Cooperativa L'Esplet, Linux, Diaspora...

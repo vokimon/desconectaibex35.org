@@ -8,26 +8,15 @@ Status: published
 Language: ca
 Attachments: blog/wp-content/uploads/2012/11/saltcollectiuSomEnergia.jpg, blog/wp-content/uploads/2012/11/CartellSaltCollectiuSomEnergia.png
 
-<figure style='width:50%; margin:auto'>
-<a href="{static}/blog/wp-content/uploads/2012/11/saltcollectiuSomEnergia.jpg">
-<img src="{static}/blog/wp-content/uploads/2012/11/saltcollectiuSomEnergia.jpg" width='90%' />
-<figcaption style='text-align:center'>
-Acción de salto colectivo
-</figcaption>
-</a>
-</figure>
+::: categories
 
+::: figure {static}/blog/wp-content/uploads/2012/11/saltcollectiuSomEnergia.jpg style="width:50%; margin:auto"
+	Acción de salto colectivo
 
 La setmana passada a Sant Joan Despí el [15M local](http://acampadadespi.org) va organitzar una acció de salt col·lectiu a [SomEnergia](http://somenergia.coop) enmarcada en la campanya de [Desconnexió del IBEX](http://desconexionibex35.org). Es van explicar la problemàtica del sector elèctric i els fonaments de la cooperativa d'energia, es van aclarir dubtes, es va crear un soci i un contracte associat en directe amb un projector per mostrar com es fa i finalment es va convidar als assistents a fer el mateix.
 
-<figure style='float:left; max-width:30%'>
-<a href="{static}/blog/wp-content/uploads/2012/11/CartellSaltCollectiuSomEnergia.png">
-<img src="{static}/blog/wp-content/uploads/2012/11/CartellSaltCollectiuSomEnergia.png" width=90% />
-<figcaption style='text-align:center'>
-Cartell convidant a l'acció de salt
-</figcaption>
-</a>
-</figure>
+::: figure {static}/blog/wp-content/uploads/2012/11/CartellSaltCollectiuSomEnergia.png style="float:left; max-width:30%"
+	Cartell convidant a l'acció de salt
 
 A l'esquerra teniu el cartell de l'event que van fer el Javi i la Maria. El podeu reaprofitar per fer **accions similars al vostre municipi**. Aquí està el fitxer [svg editable](http://acampadadespi.org/files/cartells/CartellSaltCollectiuSomEnergia.svg).
 Ho podeu editar amb el programari lliure [InkScape](http://inkscape.org).
