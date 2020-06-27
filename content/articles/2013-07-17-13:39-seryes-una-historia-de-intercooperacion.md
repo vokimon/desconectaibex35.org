@@ -9,7 +9,16 @@ Status: published
 
 ::: categories
 
-La cooperativa de seguros Seryes publica un interesante vídeo que explica desde su punto de vista la historia en España de los seguros cooperativos hasta llegar a la situación actual.
-Entre otras se mencionan otras alternativas actuales como Atlantis y Arç con las cuales tienen sinergias.
+La cooperativa de seguros [Seryes] publica un interesante vídeo que explica,
+desde su punto de vista,
+la historia en España de los seguros cooperativos
+hasta llegar a la situación actual.
+Entre otras se mencionan otras alternativas actuales como
+[Atlantis] y [Arç] con las cuales tienen sinergias.
+
+[Seryes]: https://www.seryes.com/
+[Atlantis]: https://www.atlantis-seguros.es
+[Arç]: https://arc.coop/
 
 ::: vimeo 66717477
+

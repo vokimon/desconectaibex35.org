@@ -12,5 +12,10 @@ Status: published
 ::: figure http://www.consumocolaborativo.com/wp-content/uploads/2011/07/CC_logo_small.png style="float:right; max-width:30%"
 	Logo de "Consumo Colaborativo"
 
+Muy interesante y práctica la web de [Consumo Colaborativo](http://consumocolaborativo.com).
+Entre otras cosas tiene un [Directorio de proyectos](http://www.consumocolaborativo.com/directorio-de-proyectos/)
+que se basan en la compartición de recursos.
 
-Muy interesante y práctica la web de [Consumo Colaborativo](http://consumocolaborativo.com) que entre otras cosas tiene un [Directorio de proyectos](http://www.consumocolaborativo.com/directorio-de-proyectos/) que se basan en la compartición de recursos. Desde juguetes, hasta tiempo, pasando por sofa, conexión a Internet, tiempo, amigos, coche, bicicleta... La verdad es que es sorprendente como esta nueva forma de 'consumir' está pegando fuerte.
+Desde juguetes, hasta tiempo, pasando por sofa, conexión a Internet, tiempo, amigos, coche, bicicleta...
+La verdad es que es sorprendente como esta nueva forma de 'consumir' está pegando fuerte.
+

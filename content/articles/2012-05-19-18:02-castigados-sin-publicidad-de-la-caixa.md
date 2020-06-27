@@ -31,7 +31,8 @@ La excusa son problemas presupuestarios, pero si, como ironizan Albano y Marta,
 en dos dias no se pueden permitir una partida de 300€,
 es que la cosa en el sector bancario esta peor de lo que ya parece.
 
-Todo esto se da en un contexto en el que, según explican en el [Semanario Directa](http://setmanaridirecta.info/noticia/caixa-executa-lamenaca-retirar-publicitat-mitjans-que-difonguin-cassolada-indignada), otros medios (periódicos, radios, televisiones) estaban recibiendo presiones de tipo verbal de altos directivos de la entidad. Concretamente en TV3 se les recordo el monto de publicidad que insertaba La Caixa. El efecto en los medios ha sido devastador, según el semanario, en algunos casos, si se informaba, se omitía explícitamente las palabras "La Caixa" o "CaixaBank.
+Todo esto se da en un contexto en el que, según explican en el
+[Semanario Directa](http://setmanaridirecta.info/noticia/caixa-executa-lamenaca-retirar-publicitat-mitjans-que-difonguin-cassolada-indignada), otros medios (periódicos, radios, televisiones) estaban recibiendo presiones de tipo verbal de altos directivos de la entidad. Concretamente en TV3 se les recordo el monto de publicidad que insertaba La Caixa. El efecto en los medios ha sido devastador, según el semanario, en algunos casos, si se informaba, se omitía explícitamente las palabras "La Caixa" o "CaixaBank.
 
 Como bien dicen, tienen todo el derecho a retirar su publicidad, pero no deja de ilustrar el tipo de presión que ejerce el poder económico sobre los medios de información, con la financiación por publicidad cuando no mediante el [control directo económico directo](http://www.unav.es/fcom/comunicacionysociedad/es/articulo.php?art_id=36#C05).
 

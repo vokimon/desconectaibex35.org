@@ -23,3 +23,7 @@ y que colgamos aquí con licencia creative commons "compartir igual" para que cu
 -   Información general ([pdf]({static}/files/desconexionibex35-octaveta-general.pdf), [odt]({static}/files/desconexionibex35-octaveta-general.odt))
 -   Electricas: Som Energia ([pdf]({static}/files/desconexionibex35-octaveta-somenergia.pdf), [odt]({static}/files/desconexionibex35-octaveta-somenergia.odt))
 -   Telecos: Guifi.net ([pdf]({static}/files/desconexionibex35-octaveta-guifinet.pdf), [odt]({static}/files/desconexionibex35-octaveta-guifinet.odt))
+
+
+
+
