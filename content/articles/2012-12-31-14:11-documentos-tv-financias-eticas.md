@@ -6,12 +6,9 @@ Location: España
 Tags: Fiare, Triodos, Coop57, Documental
 Slug: documentos-tv-financias-eticas
 Status: published
+Cover: http://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG
 
 ::: categories
-
-::: figure http://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG style="width:90%; text-align:center; margin: auto"
-	[DocumentosTV: Finanzas Éticas](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-finanzas-eticas/1629722)
-
 
 El dia 30 de diciembre se emitio en el programa Documentos TV un [documental sobre banca ética](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-finanzas-eticas/1629722/).
 
@@ -31,3 +28,7 @@ De la sipnosis del documental:
 > en lugar de la economía especulativa promueven la economía real en el entorno más cercano,
 > practican la transparencia, ya que publican todas las inversiones,
 > y orientan sus operaciones hacia los beneficios sociales y medioambientales.
+
+::: rtve 1629722
+
+
