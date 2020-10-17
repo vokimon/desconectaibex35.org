@@ -10,7 +10,7 @@ http://opcions.org/es/consumo/grandes-medios-comunicacion/
 https://www.moncloa.com/iberdrola-villarejo-espiar-accionista/
 
 AGBAR-Suez: El timo del agua en el Area Metropolitana de Barcelona. Nos han robado millones y despues hacen campañas beneficas para limpiar la cara.
-https://www.youtube.com/watch?v=eJ9I9KSAgAU&feature=youtu.be
+https://www.youtube.com/watch?v=eJ9I9KSAgAU
 
 No se lo digais a 20Minutos que no se han enterado pero la empresa de la que estan hablando es MERCADONA. Era un dato dificil de encontrar, por eso no lo han puesto. Nosotras lo sabemos porque hemos hecho un arduo trabajo de investigacion: hemos ido a su propia fuente.
 La pobre trabajadora cayo a la cuba de la levadura para el pan y tardaron mas de un día en darse cuenta. Un dia durante el cual, seguro que no se produjo pan, Si se produjo, seguro que no se distribuyó y si se distribuyo, seguro que no se ha vendido. Les importa poco la seguridad de sus trabajadoras tan poco como la de sus clientas.
@@ -37,7 +37,7 @@ La diferencia entre reivindicacion y accion. Reivindicacion: Mogollon de gente, 
 
 Via XES: Food Coop BCN benvinguda a la #XES! 😄
 L'associació per l’impuls dels supermercats cooperatius i el mercat social és una iniciativa que treballa per posar en marxa un 🛒 #supermercatcooperatiu a Barcelona sota els criteris del consum responsable, ètic i sostenible.
-https://foodcoopbcn.cat/
+https://foodcoopbcn.cat/coneix-nos/
 
 Via Coop57: El grau d’autogestió i la flexibilitat de què gaudeix Coop57 permet actuar de la manera que més convingui al projecte i a les necessitats del moment, sense estar lligades a altres indicadors oficials que s’escapen del nostre control. També ens ofereix estabilitat
 https://coop57.coop/ca/noticia/com-es-decideix-la-remuneraci%C3%B3-de-l%E2%80%99estalvi-i-el-cost-del-pr%C3%A9stec
@@ -49,7 +49,7 @@ Estudio pormenorizado y con graficas de la deuda de los partidos políticos con 
 https://www.eldiario.es/economia/partidos-politicos-Caixa-Banco-Santander_0_928457452.html
 
 Via PACD: El grupo Santander señalado como el responsable de la quiebra de Puerto Rico.
-https://www.youtube.com/watch?v=_wqxOJC6vA8&feature=share
+https://www.youtube.com/watch?v=_wqxOJC6vA8
 
 Com teixir aliances entre el petit comerç i la economia social.
 Via Pam a Pam: Com podem crear vincles entre l'economia social i solidària i els petits comerços?
@@ -68,7 +68,7 @@ https://kaosenlared.net/andres-villena-el-estado-esta-de-rodillas-ante-las-elite
 https://www.elcritic.cat/investigacio/les-portes-giratories-del-banc-sabadell-29699
 
 Puertes giratorias, despidos con beneficios record, sueldos desproporcionados a directivos... todo entrelazado en dos noticias para representar mejor que ninguna la marca del ibex
-https://www.facebook.com/PerifericaLabs/photos/a.850094128399937/2268257033250299/?type=3&theater
+https://www.facebook.com/PerifericaLabs/photos/a.850094128399937/2268257033250299/
 
 Articulazo de Marc Font haciendo un repaso a los principales grupos de distribucion y sus alternativas.
 http://opcions.org/consum/distribucio-alimentaria/
@@ -138,13 +138,13 @@ Periodistas han compilado un bestial informe con todas las puertas giratorias de
 https://www.yoibextigo.lamarea.com/informe/noticias/puertas-giratorias/hoy-por-ti-manana-por-mi-especial-puertas-giratorias-de-las-energeticas-del-ibex/
 
 Otro tipo de empresas son viables. Más que viables.
-https://www.facebook.com/SeryesSA/photos/a.162297557269572/1151976804968304/?type=3&theater
+https://www.facebook.com/SeryesSA/photos/a.162297557269572/1151976804968304/
 
 No. Siguiente pregunta.
 https://www.eldiario.es/alternativaseconomicas/razonable-pension-millones-Francisco-Gonzalez_6_851174877.html
 
 En la tele ponen el drama, el hecho, pero nunca te dicen el nombre del banco porque ahora no solo les financia sino tambien les pertenece como accionistas mayoritarios. Que se oiga: BBVA! BBVA! BBVA!
-https://www.facebook.com/gordacivil/videos/1912747152362047/?__xts__[0]=68.ARBSQ1VpsuWTp29-CCoj8NO8uk7gPIEYxF9ebwjUHAYpSniSdZH03nQZl2tac8ELgtI1k60QbfXGvdUoxAdWvp7_b7HoZLyyedoNY1lC6H4gBILDAdyzqjaevxg2SUwwFG43lMpDJzOs7ur_UOUTUs6gMZ5PHw0cPA4cTRHa7CZuUJMDzC27SDOFMXjrwU-rgPyeKaQz5UiCDW_ZlcKYkR1-qaGLcQ0UsBUZcpnPWFYQ-JS_zk5MCNyAX3JFw9GI6iUZY3CiA4gjcMqPFNYZrhfpMd11IPPOJ02mhj6VLRoo6lN9BYaQRRACXvASe1MqWvlKhKIiRYrUSvLTfcngRa__zka5gCEHDCeMzJ2CUbiB733l8Oi3EsuAkPos8eAvFCgzC3g0GBde30TBOhviSyQa-6A3p5_biP_zYPz2ojF8CLPNW7p6w7Gj9oDQ8AtZOaFgMareeUDzHz-p5PuZZXbLqc-lgzpU-9Hy10fgCsrZATQQfBUIY_4Qg8Hv9R-S4ik&__tn__=H-R
+https://www.facebook.com/gordacivil/videos/1912747152362047/
 
 L’aigua a Catalunya, un negoci enorme controlat per Agbar
 https://www.elcritic.cat/reportatges/laigua-a-catalunya-un-negoci-enorme-controlat-per-agbar-10665
@@ -178,11 +178,11 @@ https://www.lainformacion.com/empresas/emprendedor-20-anos-quiere-etica-moda/636
 
 No son empresas, son delincuentes internacionales.
 Via Caso Castor: Sobrecostes del 56%, la mitad de la potencia prevista, préstamos fáciles a través del BEI y el Banco Mundial...
-#ACS sancionada por ocultar las comisiones abonadas a un intermediario por la adjudicación de contratos para la construcción de dos centrales eléctricas en Egipto.
+ACS sancionada por ocultar las comisiones abonadas a un intermediario por la adjudicación de contratos para la construcción de dos centrales eléctricas en Egipto.
 https://www.eldiario.es/economia/Banco-Mundial-ACS-adjudicacion-Egipto_0_795821180.html
 
 Despacio pero sin pausa. Empezando por una.
-https://www.facebook.com/photo.php
+https://www.facebook.com/photo.php?fbid=2195001540731519
 
 ACS, FCC y Acciona se llevaron el 68% de los sobrecostes en obra pública pagados por el Gobierno de Rajoy 
 https://www.eldiario.es/politica/Gobierno-Rajoy-ACS-FCC-Acciona_0_784621912.html
@@ -194,7 +194,7 @@ Ante la multiconsulta en la que se somete a votacion la municipalizacion del ser
 https://www.elcritic.cat/investigacio/la-inversio-en-publicitat-daigues-de-barcelona-es-dispara-despres-de-lanunci-de-la-multiconsulta-10496
 
 Via Guifibaix: Telefónica ha estado siempre ahi dando trabajo a gente que lo necesitaba. Gente como Rato, Urdangarin, Zaplana... Quizas es el momento de pensar a donde va tu dinero. Ayuda a crear una red de acceso a Internet alternativa en tu municipio que nos pertenezca a todos.
-https://www.facebook.com/GuifiBaix/posts/1549162705211411?__xts__[0]=68.ARDgdbAby7PtOxLyrOQeP0q4YvA_IgZo62BwQcQM1zskDi6CqrSV2eZWwKUamW4dmsP4cBaVQAv3C0LQQOL7HdGwd4_v9ggnXt0Zd9DGLasLFpYV3zLZBMovoIebwAvNv1HOkVN0WC6hpKgGD-eWnt8QoQ6AbEG7WzC6TtrXtWwzTAoRL4Q0FGPD0DPofYjH07J9cZNt1Rkk8bzg0NT0QgaI_9VpFSl-aaczezPL7S1TofECOg9h2cGt3I48NqsusljtEmdLp5OOKqLdBUbKBaZqD2_kyjDyxMLZZRVWasxZnyTfuDBeEo7B4XMeWd6Bs_WjoV2pWYxdAGE6CLtGr9e8MpnV4DifTEVp3tEfRyPJHHWw65xDyUAbrimIEJC3dV2pGPtygFN5Y9B2jzLgqERKLD3SYM4aBiMgeE5kkhKmIfUuum9J-ro-1ktVYNYn5fUtAaK5v4ln7Gbsmud-dcBrdS04GtD6DFsC8gxJ73PiDb94iNq9MPIU&__tn__=H-R
+https://www.facebook.com/GuifiBaix/posts/1549162705211411
 
 Via SomEnergia: Vàries organitzacions denuncien les pràctiques extractivistes, colonials i patriarcals a Llatinoamèrica de grans empreses que cotitzen a la borsa, a l'IBEX35. Curiosament, són sobretot empreses energètiques...
 https://www.elsaltodiario.com/multinacionales/repsol-acs-ibex-35-marca-espana-latinoamerica
@@ -245,7 +245,7 @@ Insisten en que las ayudas a las renovables encarecen la luz. Para nada menciona
 https://www.lainformacion.com/economia-negocios-y-finanzas/Electricidad-gas-centrales-expediente-Bruselas-Espana_0_1048396611.amp.html
 
 La copa menstrual
-https://www.facebook.com/pictoline/photos/a.1611821172410355/1964358673823268/?type=3&theater
+https://www.facebook.com/pictoline/photos/a.1611821172410355/1964358673823268/
 
 [CAT] Es l'hora dels Som?
 https://somconnexio.coop/lhora-dels-som/
@@ -272,7 +272,7 @@ Vía Diseño Social
 https://muhimu.es/comunidad/etiqueta-para-distinguir-la-ropa-libre-de-esclavitud-infantil-listado-de-marcas-que-lo-llevan/
 
 [Vídeo] Més Opcions Consum Responsable és una cooperativa integral que promou el consum responsable i la transformació del model socioeconòmic incorporant eleme...
-https://www.youtube.com/watch?v=Xt5aJtvHocc&feature=youtu.be
+https://www.youtube.com/watch?v=Xt5aJtvHocc
 
 (CAT) Genial y clarificador articulo sobre las diferentes opciones para contratar la luz con consideraciones éticas (y una lista de las que lo parecen y no lo son). La certificacion del origen renovable de la energia, cooperativismo, cambio del modelo energético.
 http://opcions.org/consum/electriques-fora-del-monopoli/
@@ -301,13 +301,13 @@ http://desconexionibex35.org/blog/2017/05/04/nace-el-salto-medios-independientes
 
 CaixaBank empezo la guerra de las comisiones en los cajeros, que ha conseguido, con los usuarios como rehenes, frenar hasta cierto punto el asombroso crecimiento del que ha disfrutado en los ultimos años la banca etica i cooperativa.
 Una primera reaccion de las entidades cooperativas, la de la Caixa (rural) de Guissona: Usar las tiendas de Area Guissona como expendedores de efectivo. Si juntamos fuerzas en la Economia Social y Solidaria como de ubicuos podemos ser?
-https://www.youtube.com/watch?v=UvjhcrIwLrM&feature=youtu.be
+https://www.youtube.com/watch?v=UvjhcrIwLrM
 
 Las grandes teleoperadoras son tan buenisimas personas que aunque tengan el monopolio de las redes de telefonia mobil, dejaran competir con ellas a las virtuales ofreciendoles precios super guais para acceder a sus redes. Utopias del neoliberalismo en el BOE.
 https://civio.es/el-boe-nuestro-de-cada-dia/2017/04/12/la-cnmc-desregula-el-mercado-de-los-operadores-moviles-virtuales/
 
 Banca de sangre. Que es lo que se hace con tu dinero? Tu dinero no es inoquo.
-https://www.facebook.com/setemcatalunya/photos/a.151460889628/10155184670339629/?type=3&eid=ARCmdY5gKHNW8z0BHvd2mXGwF2HF0NxGu6QxRUbFhloc1DTnFcA7bu_Bzo06k-9GKlU6uKi06_otMny_&__tn__=EHH-R
+https://www.facebook.com/setemcatalunya/photos/a.151460889628/10155184670339629/
 
 EN OBERT | Si téns diners aquí, hauries de llegir aquest reportatge
 https://www.elcritic.cat/noticies/inversions-polemiques-de-la-caixa-i-del-banc-sabadell-explosius-missils-nuclears-i-tecnologia-militar-11113
@@ -336,7 +336,7 @@ Recordamos que usar sus productos no es "inevitable" muchos usamos alterntativas
 https://www.elespanol.com/economia/empresas/20170309/199480637_0.html
 
 Executives and politicians, welcome
-https://www.lavanguardia.com/local/barcelona/20170305/42526424039/cupula-tmb-tres-directivos-200000-euros-sueldos.html?utm_source=facebook&utm_medium=social&utm_content=local&utm_campaign=lv
+https://www.lavanguardia.com/local/barcelona/20170305/42526424039/cupula-tmb-tres-directivos-200000-euros-sueldos.html
 
 Desde hace décadas, las empresas de alimentación han intentado convencer a los consumidores de que el agua pública es perjudicial y que su alternativa en botella es mucho más sana. ¿Hasta qué punto es esto cierto?
 https://www.unitedexplanations.org/2014/03/22/asi-es-como-tiene-lugar-el-robo-mundial-del-agua/
@@ -347,7 +347,7 @@ https://www.fiarebancaetica.coop/blog/banca-etica-40000-personas-socias-y-un-cap
 No pasa nada, circulen, circulen
 https://www.elconfidencial.com/empresas/2017-02-20/la-cupula-de-iberdrola-se-apunta-un-bonus-de-115-millones-en-plena-subida-de-la-luz_1334198/
 
-https://www.facebook.com/ContralaInjusticia/photos/a.111696608862803/1471435386222245/?type=3&eid=ARDfCoQM_iePpR3UOWQ2LCTsML5HfHX4A5U6j8-pJLc5VuouYuLdyUlkzgXrLtf1xN91YerraZRFbBWR&__xts__%5B0%5D=68.ARCZSjcw5mRXsC8CYonlI8R7TdfTo2ScRydtpwkkvlwUCKhw409OAiA7ag9rVOflo1tDI4l2IPV4Tm7Z-fSxFzMYmV7aEBGABtsRaJlu3Sr9914Z9nfe8OrImx19GUV99tCqDjJfgmfv-8LQ9apATZF1LiUNYebMXwJdrppW1wnBi5FEwuz68ew0C_mLLMlQ4HF19mXlCFBvvOq6dwzomo9MaNFjEwEkrrwnNvHtRyGyxuR1QBnSP_aZQzjVJVNftWNFqqh6ffVmC9Z8U03pGxkArTUJpWDZdc9Qy3skI-_-cRZaB1eGB3ZMbXHAH7RB5GD1td-HVE0rrDnWB5yi0aN0XmIk78WQGwV9X9tlx84dkolEOQwj31qfcNUpbyIyStbauM6Na-ekifEpbGlV5e0mXROi3hqVHg5pDJQ7eVFe36tBfKssNVYmCOQ7c5u1hAxx-FQC_IlLlDmG_WaqQjvVHPDC1SLKZT3A7CVSXUwkChVxnFndEoI9rG5P&__tn__=EHH-R
+https://www.facebook.com/ContralaInjusticia/photos/a.111696608862803/1471435386222245/
 
 Desconectarse, literalmente
 https://muhimu.es/inspiracional/una-familia-espanola-se-libera-la-red-comercial-genera-energia/
@@ -355,7 +355,7 @@ https://muhimu.es/inspiracional/una-familia-espanola-se-libera-la-red-comercial-
 ¿Quien ha de pagar el bono social? Un analisis critico y fundamentado sobre lo que la nueva ley llama 'beneficios razonables' de las grandes electricas.
 https://www.lamarea.com/2017/02/05/cuanto-ganan-las-grandes-electricas-en-espana/
 
-Y desde entonces ningun medio les tose... ni siquiera lo poco que antes les tosian.
+Y desde entonces ningun medio les tose...  ni siquiera lo poco que antes les tosian.
 https://www.vozpopuli.com/medios/empresarios-poderosos-Espana-pactaron-rescate_0_996201736.html
 
 Cuando cobras segun lo que dices que pierdes, pero ganas, ganas mucho.
@@ -378,12 +378,12 @@ Y ya que estamos, ordago a VISA y Mastercard!
 https://www.elsalmoncontracorriente.es/?Fairpay-la-tarjeta-de-pagos-que
 
 Estos dias en la plaza de Catalunya de Barcelona hay instalada una feria de economia social y sostenible. Entre las actividades una "Install Party" de alternativas. Puede ser el empujoncito que necesitabas para dar el salto o para que den el salto tus conocidos, o para descubrir nuevas alternativas.
-https://comercjustibancaetica.org/2016/12/13/aquestes-festes-desconnectat-del-capitalisme-installat-les-alternatives/?fbclid=IwAR29K4zQojfJIG_oaaFMxKbEH-XtCI2JWMFIM0lbYNxS81Q5oXsH13_Ei4M
+https://comercjustibancaetica.org/2016/12/13/aquestes-festes-desconnectat-del-capitalisme-installat-les-alternatives/
 
-https://www.eldiario.es/desde-mi-bici/usar-coche-mejor-electrico-cooperativo_6_593600686.html?fbclid=IwAR3i8uTKhatlajXIg9SNMkKan5cTLVX0QHE5i9JbGeqpv-yi3UB0iqhh0XY
+https://www.eldiario.es/desde-mi-bici/usar-coche-mejor-electrico-cooperativo_6_593600686.html
 
 Gesticulaciones. Recurren y les importa una mierda. La unica persona que puede cambiarlo eres tu, construyendo y usando alternativas. "Papa estado" no va a acabar con las puertas giratorias porque "Papa estado" es "Papa grandes empresas".
-https://www.abc.es/economia/abci-cnmc-no-cobra-ninguna-multa-desde-creacion-201610020231_noticia.html?fbclid=IwAR0yORF2bC6aOO5d0nMP6dKlvk2gvxj8MO3qJkTKU0ddTcdR07kzqBe_1OQ
+https://www.abc.es/economia/abci-cnmc-no-cobra-ninguna-multa-desde-creacion-201610020231_noticia.html
 
 Una de empresarios ejemplares. De esos que hacen marca España, o Suiza, o Holanda, o Irlanda, o Bahamas...
 https://www.publico.es/economia/inditex-esquivo-600-millones-impuestos.html
@@ -392,7 +392,7 @@ https://www.publico.es/economia/inditex-esquivo-600-millones-impuestos.html
 https://www.facebook.com/somenergia/posts/1170569219658681
 
 Economia colaborativa sin elementos extractivos.
-http://alternativaseconomicas.coop/articulo/dossier/si-airbnb-fuera-de-todos-los-usuarios?fbclid=IwAR36VtU_tryjqcch_7anXr1TZTOQBsO8eKRvzmICYcznUPPaHtIXFup6__g
+http://alternativaseconomicas.coop/articulo/dossier/si-airbnb-fuera-de-todos-los-usuarios
 
 Hito conseguido! 2000 personas socias forman parte ya de Eticom.
 https://somconnexio.coop/volem-arribar-als-2-000-socis-i-socies/
@@ -406,56 +406,56 @@ https://www.facebook.com/IglesiasTurrionPablo/posts/1275932649145805
 
 10 ventajas del Fairphone 2
 El primer smartphone de comercio justo
-https://www.elsalmoncontracorriente.es/?10-ventajas-del-Fairphone-2&fbclid=IwAR3NhGTMbH6hgt18wurh4uRiSOUepBhSuxDBzCjFrW7998YvEEWo8Ogpvus
+https://www.elsalmoncontracorriente.es/?10-ventajas-del-Fairphone-2
 
 Acabando con la privatizacion de los monopolios de suministro
-https://www.youtube.com/watch?v=GohHZ0gD35Y&feature=youtu.be&fbclid=IwAR34sUmRCW-_kmvoE9luTM3aZP97HtGacsmnSxZKVFxl6ftJyEi_WIoHy5Q
+https://www.youtube.com/watch?v=GohHZ0gD35Y
 
 Ibex35 wellcome
-https://www.huffingtonpost.es/entry/12617118?ncid=engmodushpmg00000003&fbclid=IwAR1LsxzEwbzkqlL8E7a4n0P9zTZoTsiPv-Typ9WtlttVDQAYKNU75zKkYaw&guce_referrer=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLw&guce_referrer_sig=AQAAAFacCzmAxH0gD4JguF1q0bT2KVHk9U87ES5RKAp93K0sFqPEdFPr9ILdlTtn-JjEwHxMycrRLGKnlI33NkcyoHgoyjwYsJMB1NkTkwbHGhM9amiW8TaZ3YnpPfPSVYJlLtZNj7jCqKspYTlzkXWnw34f5HcbmNBuDmd4fstc2AU0
+https://www.huffingtonpost.es/entry/12617118
 
 Cuando tu empresa de telecomunicaciones es tuya
-https://www.youtube.com/watch?v=RPhbjoMzw_w&fbclid=IwAR0D5dJbAClS8MBI3udGoueh2LIPEcuN56Bz1K6ASgeVdlO_qPvgOR9gMNI
+https://www.youtube.com/watch?v=RPhbjoMzw_w
 
 Multan a Vodafone con 20.000 euros tras dar de alta a un cliente sin solicitarlo
-https://cadenaser.com/ser/2016/09/12/sociedad/1473671743_133510.html?fbclid=IwAR26gbYP7OBBxbYrqZb7WcYeI3U-oN1PevdOY4gZePxeSF0wdAUWeGtDBhw
+https://cadenaser.com/ser/2016/09/12/sociedad/1473671743_133510.html
 
 ACS, capitaneada por Florentino Perez, la constructora que consigue concursos publicos amañandos para hacer obra publica que no existe (acordaos del follon de Sagrera) y despues cuando el proyecto sale mal demanda al estado (acordaos de Castor el almacen de gas submarino que provocaba terremotos)
-https://www.elconfidencial.com/empresas/2016-09-13/acs-demanda-garantia-estado-ave-francia-falta-viajeros_1258891/?fbclid=IwAR2klE0X6l0iyiPEsdrh4P2cI8i0_xB5FzZs6W8muTFDxwSHla-NlPUWTds
+https://www.elconfidencial.com/empresas/2016-09-13/acs-demanda-garantia-estado-ave-francia-falta-viajeros_1258891/
 
 Inditex se aprovecha de la ley para librarse de pagar 900 millones de impuestos en España
-https://www.elconfidencial.com/economia/2013-06-17/inditex-se-aprovecha-de-la-ley-para-librarse-de-pagar-900-millones-de-impuestos-en-espana_417027/?fbclid=IwAR0VGvYTn7NckV6T2MghBb3QvpoWyXvCv_ly_7c55neF5LkEamouMayu0YU
+https://www.elconfidencial.com/economia/2013-06-17/inditex-se-aprovecha-de-la-ley-para-librarse-de-pagar-900-millones-de-impuestos-en-espana_417027/
 
 Danone organiza hoy un evento para promocionar Actimel Kids, un alimento procesado con azúcar añadida, leche descremada... Pagan a nutricionistas para explicar ejemplos de desayunos "saludables" (actimel, pan, chocolate, galletas...) e invitan (principalmente pagan) a influencers como pediatras, médicos, mamás bloggeras etc para divulgar la noticia. Lamentable
 Vía Fitness Revolucionario
 https://www.facebook.com/fitnessrevolucionario/photos/a.296737663740751/1103693083045201/?type=3&theater
 
 Como das las noticias cuando no quieres afectar a unos grandes almacenes sin nombre
-https://iniciativadebate.org/2016/09/06/el-chochitos-no-trabaja-para-unos-grandes-almacenes-sin-nombre/?fbclid=IwAR3Kj99-VZTfjkYyyln1QPxdor_j9opOI1CVogKC0zHvRqJy0-ivxmgxZvE
+https://iniciativadebate.org/2016/09/06/el-chochitos-no-trabaja-para-unos-grandes-almacenes-sin-nombre/
 
 Así argumenta Alberto Garzón "las relaciones oscuras" de Soria con Repsol
-https://www.eldiario.es/politica/Brufau-Garzon-relaciones-Soria-Repsol_0_556095073.html?fbclid=IwAR2DSYDGnrE2ja7UkRpYU6XOvFXcIQIWYg0MDLEIpFrwCDIGk9lTWg6po2Y
+https://www.eldiario.es/politica/Brufau-Garzon-relaciones-Soria-Repsol_0_556095073.html
 
 Ja som (mes de) 2.000 connexions. 5 motius per fer el salt.
-https://www.facebook.com/somconnexio/posts/643307799167199?__tn__=H-R
+https://www.facebook.com/somconnexio/posts/643307799167199
 
 Otro articulo sobre Caixa Catalana. Este en castellano.
-https://www.facebook.com/permalink.php?story_fbid=561462694045538&id=378033285721814&__tn__=H-R
+https://www.facebook.com/permalink.php?story_fbid=561462694045538&id=378033285721814
 https://www.vozpopuli.com/economia-y-finanzas/empresas/Caixa_Catalana-Independencia-Cajas_de_ahorro-banca-caja-cajas_de_ahorro-independencia-independentistas-cataluna-catalanes-2017_0_861813841.html
 
 https://www.facebook.com/picsllyli/photos/a.555288134528693/908714552519381/?type=3&theater
 
 
 [CAT] Entrevista a Pep Puig sobre la coooperativa SomEnergia i renovables.
-https://www.youtube.com/watch?v=SYgmLUjEOd8&feature=em-subs_digest&fbclid=IwAR0gQGL5pCp6X2T6ObRLJxg8CV1mT9nkDbtEGNkUmQxgqD8hi6HZDJ4MLX4
+https://www.youtube.com/watch?v=SYgmLUjEOd8
 
 Autoproduccion colectiva en SomEnergia: Ya se han asolido los 2M€ necesarios para financiar directamente por los socios la planta fotovoltaica de Alcolea del Rio (Sevilla) que esa operativa desde Abril. Comienzan a sumar para el siguiente proyecto, el molino eolico.
-https://www.facebook.com/somenergia/posts/1065970630118541?__xts__%5B0%5D=68.ARCLU3pRR-yHD8i3nvItt-ZvzPiTgp3HFyMOOOOwMbmEyMhRDiu8sjHZh0UMKICY68lAUaoTCode01TreRqvTIchFdGdlRw-csXwf4fEi4Eq24k7bf-lUiECfV2gcKWmAr-glra4lZq0bGgQ2LTueA2etuvmmyZwIW-QnXwVconYxsrSLzbP2lPVQMyQ-AY9CWTD7Os8Ib7kEgzG4MbIIigyonrhyNIROMIp6Djf_u55M_g20kXwBEdpcV6vfXWWnf5rhWfm8KUoc9Jpxp8aBiGMnMKs81gQAsr7oJZ05uAxLfcQ-9k_zfLmsm8EsZcc9njdjgXssITYOJfslkoRGXWMphHy4rF8pR6LFqfGICBZrFs6SGUjkZerxlCbdduqD-nKhXs_fgqD4Kjrb9r5kFaWccL9dHZfyIyl9a7Qq4-mGo277Yu3DppJf879YSnjgo71jOHFgVCpRd1InoYGS1xa6nD9jmhDKSAE7Bi76qyg5B2EipwkDTshFPeu&__tn__=H-R
+https://www.facebook.com/somenergia/posts/1065970630118541
 
 
 Agroecología frente al oligopolio alimentario
-https://www.facebook.com/ElSalmonContra/posts/1078688225546413?__xts__%5B0%5D=68.ARDHv9yudy2_YPHbrRhNzUHy3v9ViiyEnYgwhS5aPdjyb5r2ajIbl6C1dA8Gd4-kbMyiMz8JzuV2D9xd5lSlvzbydXk_vnCY0ZTBBeFFngJVIv-CFgmEUJXvtZWOj-wEYnpLnZR-zOc98-G98hkldF8FjlOdLLd3CkMXIhx1W3i7DrLVTkpVl_UwYvxosGgvuYLHLODZxcQ_TB_IBBLXQKtCnMD8XBHzPPRAHxNu0wQtMWFYtWqqomrVuJ7pmwxyOYLN6oaDOP3SarPMLahN7qFQ_7m4QqY-FVYtXwA3q-dttiBrhRduP0Co2V5QFNwkbZ5cri20ZP8L2Ic_XLpUgKNDDp5jx6UpbcsObXbOj7jQidUD9OinB5wTe5scpV2POvk9-94yT05gXQ3m1i7BjbxKPYUmTyqm2p3F3L0E7pWBl9WwQGUpN_ZClZGIG-ffIIw3yUZJNY3VnPGsDI-M_v1Q28-E_okp7GFI33oca5LWrg3bFVEmnQpZ-Z46&__tn__=H-R
-https://www.elsalmoncontracorriente.es/?Agroecologia-frente-al-oligopolio&fbclid=IwAR01rULccVkJsRALlJ5PUefh37Ucdwmle9vvMs6a0QvhzhouzsRf9riHAHs
+https://www.facebook.com/ElSalmonContra/posts/1078688225546413
+https://www.elsalmoncontracorriente.es/?Agroecologia-frente-al-oligopolio
 
 Caixa Catalana abre la posibilidad de ser socio/a fundador en la asamblea fundacional de la Cooperativa que se hara este septiembre.
 https://www.facebook.com/permalink.php?story_fbid=555633947961746&id=378033285721814
@@ -472,7 +472,7 @@ Estas son algunas de las trolas mas frecuentes que te cuelan los comerciales pue
 - La segunda que te van a ofrecer algo bueno o necesario: te estan adaptando a la normativa, antes te estaban cobrando de mas, van a activar tu contador digital... a menudo relacionado con las noticias sobre el sector para que a la gente les suena de algo.
 - La tercera que para ello necesistan algo necesario para contratar: Tu numero de CUPS, tu factura donde esta tu numero de CUPS, que firmes algo, tu numero de cuenta o, lo ultimo, que hables con una operadora que graba tu asentimiento con el cambio de contrato.
 - La cuarta: Ocultan sus intenciones reales: Cambiarte a mercado no regulado si realmente son de tu compañia, pasarte a una tarifa de "mercado libre" en la que ellos controlan el precio (al principio sean mas baratos o no, pero son "libres" de subirtelo, cosas del mercado "libre"), colarte extras por mantenimiento o por cambiarte las bombillas, o cosas mas complicadas de ver como pasarte el peaje a Discriminacion Horaria que normalmente ahorras mucho pero aplicarte una tarifa sin DH, quizas mas barata que las otras "sin DH", pero que la mitad del ahorro que podrias tener con una DH real se lo quedan ellos.
-https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/mentiras-comerciales-gas-luz?fbclid=IwAR14N4y_DV15iDqhmEM9XR3ErE_dl3Mnb6Y9WynF6j9lcPwzxhGcKLAgRaM
+https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/mentiras-comerciales-gas-luz
 
 El modelo económico del futuro ya está aquí
 https://www.facebook.com/ElSalmonContra/posts/1063538390394730
@@ -482,12 +482,12 @@ Ruta de las Rebajas... en Derechos Humanos
 https://www.facebook.com/setemcatalunya/photos/a.151460889628/10154306268789629/?type=3&theater
 
 Tu puedes estar en contra de las guerras, pero tu banco y tu aseguradora usan el dinero que ganas con el sudor de la frente para financiar la industria armamentistica que se lucra de ellas.
-El informe anual del Centre Delàs d'Estudis per la Pau evalua el sector financiero para saber de donde obtienen financiación dicha industria.
+El informe anual del Centre Delàs d'Estudis per la Pau evalua el sector financiero para  saber de donde obtienen financiación dicha industria.
 La alternativa, banca y seguros éticos (Fiare, Coop57, Oikocredit, Triodos, Atlantis, Arç...)
 https://www.facebook.com/oikocreditcat/photos/a.188625297979490/620950924746923/
 
 Fairphone, el mobil modular del comercio justo cumple 3 años
-https://elandroidelibre.elespanol.com/2016/07/fairphone-movil-modular-comercio-justo.html?fbclid=IwAR1ffNg7jQJimujMMfTCY-5bosE-qhGwUB_quwnRvJWsEMoInHRId0wtBeA
+https://elandroidelibre.elespanol.com/2016/07/fairphone-movil-modular-comercio-justo.html
 
 Caixa Catalana comienza su actividad como Cooperativa de Crédito. La función de una cooperativa de crédito es vehicular el ahorro en forma de financiación para proyectos con un cierto perfil. Tenemos ejemplos como Coop57 que se focaliza en la economía social, Okocredit en el desarrollo del tercer mundo... Caixa Catalana se focaliza en la pequeña y mediana empresa catalana. Un sector dinámico pero que tenía una fuerte y lastrante dependencia de la gran banca del IBEX. Nos alegra que ahora tengan esta alternativa.
 Una cooperativa de crédito no puede hacer operativa de cuenta corriente: domiciliaciones, tranferencias, reintegros, tarjetas... El objetivo final de Caixa Catalana es convertirse en Caja de Ahorros para poder hacerlo y tomar para sí el papel original que un día tuvieron las muchas caixas catalanas, ahora tristemente absorbidas o banquizadas, con las notables excepciones de Caixa Guissona, Caixa d'Enginyers i Arquia, cuyo perfil cooperativo les salvo de la quema.
@@ -501,25 +501,25 @@ Como ya habiamos comentado por aqui, una vez consumada la concentracion de opera
 https://www.facebook.com/somconnexio/posts/618952284936084
 
 Dos noticias se ven mejor juntas: El oligopolio pleitea para subir el precio de forma retroactiva por unos costes imaginarios. Las cooperativas de usuarios deciden bajar los precios porque simplemente preveen precios mas bajos.
-https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2016/06/nous-preus-a-partir-del-juliol/?fbclid=IwAR0hFdaGl3fcI7F6d8R4gDNXSumtmv4VHq1sBcRJLA2BC1nMm-PqHHLr1aE
+https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2016/06/nous-preus-a-partir-del-juliol/
 
 Negocio sin riesgos. Cambio de precios retroactivos. No habias pagado ya cara la luz, si estas en mercado regulado te refacturaran lo que has pagado el ultimo año con un 1,1% mas caro. Si has salido de regulado con una de los malos, tranquilo que ya te lo han ido subiendo. Salte ya!! Existen las cooperativas de consumidores: SomEnergia, Goiener, Energetica...
-https://cincodias.elpais.com/cincodias/2016/06/16/empresas/1466107146_802270.html?fbclid=IwAR3Y2gXAraVPoJA1M9gd-ivD6RiwKJHXntR-j_Xsvwr_qZomdyd4mq8LULE
+https://cincodias.elpais.com/cincodias/2016/06/16/empresas/1466107146_802270.html
 
 Joseph Stiglitz advierte de que "ha llegado la nueva era de los monopolios"
-https://www.eleconomista.es/economia/noticias/7570427/05/16/Joseph-Stiglitz-advierte-de-que-ha-llegado-la-nueva-era-de-los-monopolios.html?fbclid=IwAR1aEjl8uoMeC5KrF_BadoUn2Tu0Rj5mK2zQqVPPOTsDgE9r28ytXhdE-ew
+https://www.eleconomista.es/economia/noticias/7570427/05/16/Joseph-Stiglitz-advierte-de-que-ha-llegado-la-nueva-era-de-los-monopolios.html
 
 [CAT] Las miserias y machambrados de las grandes familias a un lado y otro del puente aerio. Un buen resumen de los dos libros de Rafa Burgos.
-https://www.elcritic.cat/opinio/crema-catalana-vs-truita-espanyola-connivencies-de-la-casta-catalana-i-espanyola-12828?fbclid=IwAR30CPsjCnhIR6agjBbRfffM6ZveaOX2vD332vkO3U-WkQCsbsLHftipc8g
+https://www.elcritic.cat/opinio/crema-catalana-vs-truita-espanyola-connivencies-de-la-casta-catalana-i-espanyola-12828
 
-Pues si amigos, esa es la jugada. Os bajan los impuestos (o eso prometen, se los bajaran a los ricos, pa variar) pero ya estan subiendo otros impuestos, no los que se usan para sanidad, educacion, infraestructuras, sino los que pagamos a nuestros nuevos señores feudales para su uso y disfrute. Si, feudales, os acordais del pontaje, el molinaje... Pues hoy en dia se llaman luzaje, gasaje, telefonaje, internetaje, hipotecaje, peaje (este ni ha cambiado de nombre)...
-https://www.lavozdegalicia.es/noticia/economia/2016/06/18/recibo-luz-subira-cinco-euros-ano-caracter-retroactivo-abril-2014/0003_201606G18P45991.htm?fbclid=IwAR3_oRs4CZQkYnjmxmsSAxakVqlqbCRJr-elXgTAafxQ8DnN39LEbQnkUYY&piano_d=1
+Pues si amigos, esa es la jugada.  Os bajan los impuestos (o eso prometen, se los bajaran a los ricos, pa variar) pero ya estan subiendo otros impuestos, no los que se usan para sanidad, educacion, infraestructuras, sino los que pagamos a nuestros nuevos señores feudales para su uso y disfrute. Si, feudales, os acordais del pontaje, el molinaje... Pues hoy en dia se llaman luzaje, gasaje, telefonaje, internetaje, hipotecaje, peaje (este ni ha cambiado de nombre)...
+https://www.lavozdegalicia.es/noticia/economia/2016/06/18/recibo-luz-subira-cinco-euros-ano-caracter-retroactivo-abril-2014/0003_201606G18P45991.htm
 
 El autoconsumo electrico y la competencia
-https://www.youtube.com/watch?v=GfqRgP9pEiM&fbclid=IwAR2E1G_EHu7ETcMYJZQrY2OqbRBrawsOsBtT9TtWcR6d663hhlmR9J1CmHA
+https://www.youtube.com/watch?v=GfqRgP9pEiM
 
 El BCE rescata a Telefónica con nuestro dinero
-https://www.facebook.com/ElSalmonContra/posts/1042273545854548?__xts__%5B0%5D=68.ARD_8Vqzsb32ypcLhC572ZDOZ-YFMmUXcYvG9RSvMAf-6DHn64mFSH0E2zC0rX9MBO6DeDfSFr3YmZjTQ2b8MbjSagYqtDp1ePm_2IzUygugypicTnTVTXa6gNaevwoyeYSC8SuOBIG0qxaU0JWS03zRu6fD6CQfwXlOXVrr2SdnsWzeGjTCujPhNrN4F5xSPz0GReU9MUEbFa99P9p6bZsVLM7Z342fZ3-FP9JVyKWS9-bFjkh8dF2PH9SeI8FNIvama8tYntV0uvjstcMK3ZAZycfLJPILZ3ZCT8L7M_IR6eGL1aj1Iz4ZKegmPPVYAKuKgc9b-fbvJC297iEPrWIzMXvcKrtilQTE4r3vPHDd610ECunhKPuEadapOknBMHFmidrCWuPf249grztFSp1dC_uYtixC2-eTTCYL9PHSuXI419s6HEuTHt1Qzu-0SsWCkvDT-cUG1Ghtd-wxJ7T-6QBv_HsR2qQI_YJxywA5GU46VwfCQEHXdOv2&__tn__=H-R
+https://www.facebook.com/ElSalmonContra/posts/1042273545854548
 https://www.elsalmoncontracorriente.es/?El-BCE-rescata-a-Telefonica-con
 
 ¿Quien tienen la propiedad de las grandes electricas? En cooperativas como SomEnergia, con mas de 25mil socios, 1 persona, 1 voto.
@@ -544,27 +544,27 @@ https://www.eldiario.es/economia/Red-Electrica-Soria-Ministerio-Industria_0_4315
 
 Alternatives a la gestió privada de l'aigua
 https://www.facebook.com/juntspervallirana/posts/490298171176534
-https://www.ccma.cat/tv3/alacarta/telenoticies-migdia/alternatives-a-la-gestio-privada-de-laigua/video/5590353/?fbclid=IwAR3NLjg0ApprL732HHO2Zh--WJSuP_piLwYCd4hLc2RLs-JG0GWVVquezVY
+https://www.ccma.cat/tv3/alacarta/telenoticies-migdia/alternatives-a-la-gestio-privada-de-laigua/video/5590353/
 
 Remunicipalizando servicios en Barcelona. Empecemos por el agua que es el mas hiriente.
 https://www.facebook.com/ada.colau/posts/987964417950890
 https://elpais.com/ccaa/2016/03/17/catalunya/1458245198_462057.html
 
 El Diario.es ofrece en este articulo una interesante radiografia grafica e interactiva de las puertas giratorias en nuestro pais.
-https://www.eldiario.es/economia/ministros-democracia-pasado-sector-privado_0_494501429.html?fbclid=IwAR3W6uIKfJxqQ6sVHcbX_czfcjRtXs0q9GMiUgU4rLE_S-XeFx2P20a--KI
+https://www.eldiario.es/economia/ministros-democracia-pasado-sector-privado_0_494501429.html
 
 Nace Coopmed para la cooperación financiera en el Mediterráneo
-https://www.fiarebancaetica.coop/blog/nace-coopmed-para-cooperacion-financiera-en-el-mediterraneo?fbclid=IwAR2wQ2aRj0kVB3k5mfh1HETNB44krTZTQIG1wGexPk9I03qSUiJbwaANr9w
+https://www.fiarebancaetica.coop/blog/nace-coopmed-para-cooperacion-financiera-en-el-mediterraneo
 
 Infolibre: Dos datos de Iberdrola en 2015 para reflexionar: su presidente ganó 26.027 euros al día, la compañía cortó la luz a 265.175 hogares por impago.
 https://www.facebook.com/infolibre.es/posts/1131486323568409
-https://www.infolibre.es/noticias/economia/2016/03/06/iberdrola_realizo_265_175_cortes_electricidad_por_impago_2015_45978_1011.html?fbclid=IwAR1Y6F4ZyAGIe2sry-2SKvGrIHeAZMpiD6gi14V0ymMCniX6ZFfsOAAdeO0
+https://www.infolibre.es/noticias/economia/2016/03/06/iberdrola_realizo_265_175_cortes_electricidad_por_impago_2015_45978_1011.html
 
 Un analisis foto fija y cronica historica de los grupos de poder en el IBEX. Identifican actualmente tres bloques: el controlado por el fondo BlackRock, el controlado por CaixaBank y el controlado por el SEPI (inversion publica) y Banca March. De hecho el bloque de BlackRock tiene puntas de lanza en los otros dos. Curiosamente, solo un nexo indirecto entre el de CaixaBank y Sepi: OHL (obra civil) que une Abertis (autopistas) con Indra (tecnologia armamentistica y de control de masas)
-https://ctxt.es/es/20160224/Politica/4542/Ibex-Bankia-Caixa-Blackrock-Espa%C3%B1a-Investigaci%C3%B3n--Los-grandes-titiriteros-de-la-corrupci%C3%B3n.htm?fbclid=IwAR0_NxIVQtZvCrtN9olgWI9mTcAsqaXR26jdN6NxUwZxblHj5YuRrAYOb9o
+https://ctxt.es/es/20160224/Politica/4542/Ibex-Bankia-Caixa-Blackrock-Espa%C3%B1a-Investigaci%C3%B3n--Los-grandes-titiriteros-de-la-corrupci%C3%B3n.htm
 
 La encuesta de la consultora a los propios altos ejecutivos revela que uno de los males de las grandes empresas españolas es la falta de division de poderes, el ferreo control de los presidentes, el adedismo, y el florerismo de los consejeros.
-https://www.elconfidencial.com/empresas/2016-02-28/spencer-stuart-revela-el-poder-omnimodo-de-los-capos-del-ibex-en-espana_1159272/?fbclid=IwAR1EIjhEvq2qiXbXod2zrhGL-XUtGN1HQYPVPO-UUlckMlXQWaQKjCO-Iso
+https://www.elconfidencial.com/empresas/2016-02-28/spencer-stuart-revela-el-poder-omnimodo-de-los-capos-del-ibex-en-espana_1159272/
 
 ¿Quieres saber que proyectos se estan financiando con el dinero que depositas en Fiare? Transparencia total.
 https://www.fiarebancaetica.coop/conmidinero
@@ -625,10 +625,10 @@ https://www.facebook.com/GuifiBaix/posts/801478666646489
 https://www.ccma.cat/tv3/alacarta/telenoticies-comarques/guifi-punt-net-premiada.a.europa/video/5568255/
 
 Som Energia hace campaña para pasar la luz de las comunidades de vecinos, que normalmente contratan condiciones sobredimensionadas, asi que ofrecen asesoramiento para reducir sus costes de luz.
-https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2015/11/heu-revisat-la-potencia-contractada-a-la-vostra-escala-de-veinses/?fbclid=IwAR2CXTVjm7x_kcNGtPV1Ij4C020-2y2hHgPy-0tLoktzr0IUtyxwrVmGObA
+https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2015/11/heu-revisat-la-potencia-contractada-a-la-vostra-escala-de-veinses/
 
 La ilustrisima lista de cabrones que a pesar de los pesares y puertas giratorias han quebrado Abengoa. Renovables, claro, a base de pelotazo y nepotismo, no. Una que deja de estar en el IBEX.
-https://www.eldiario.es/economia/estrechos-vinculos-Abengoa-politico-sevillano_0_456005422.html?fbclid=IwAR0wRiQ4dLBhiY9pzrBcwO1bSRaTvey1ytIGqyyug53_gVWGSVAHBfW4-0Y
+https://www.eldiario.es/economia/estrechos-vinculos-Abengoa-politico-sevillano_0_456005422.html
 
 III Jornades d'ecologia i cooperacio de Sant Feliu: Fiare Banca Ética y Ciudadana, Som Energia, Eticom Som Connexió, Guifibaix/Guifi.net, Coop57...
 https://twitter.com/promoecosf/status/667995101122162688
@@ -637,7 +637,7 @@ Otro premio internacional para Guifi net, la red de datos libre, abierta y neutr
 https://www.facebook.com/ramon.roca.16/posts/10154313906770606
 
 El faro de la economia española, las empresas del IBEX, a las espaldas de los españoles de a pie.
-https://www.elconfidencial.com/empresas/2015-11-14/endesa-sobrefacturo-en-20-millones-la-tarifa-de-la-luz-a-mas-de-400-000-andaluces_1084855/?fbclid=IwAR0aoqvTvYzGkxRQPp3SjIRnAjwgdEGFpbcwzFDTXoeWTl_b3uzrjYl2Qn0
+https://www.elconfidencial.com/empresas/2015-11-14/endesa-sobrefacturo-en-20-millones-la-tarifa-de-la-luz-a-mas-de-400-000-andaluces_1084855/
 
 Eticom ya ofrece servicio de fijo y ADSL.
 2015-11-17
@@ -650,10 +650,10 @@ Poniendo en marcha la Caixa Catalana Cooperativa de Crèdit. En Girona este Juev
 https://www.facebook.com/378033285721814/photos/a.383753735149769/465712563620552/?type=3&theater
 
 @[226202097462197:274:ARÇ Cooperativa], la aseguradora de la economia social y solidaria, busca a un contable. A parte de desconectarte tambien puedes formar parte activa de las iniciativas profesionalmente.
-https://arc.coopca/noticies/635-oferta-laboral-per-treballar-a-arc-cooperativa
+https://arc.coop/ca/noticies/635-oferta-laboral-per-treballar-a-arc-cooperativa
 
 El ayuntamiento de Terrassa decide desconectarse del IBEX, por lo que toca a bancos. ¿Y tu?
-https://www.elsalmoncontracorriente.es/?El-ayuntamiento-de-Terrassa&fbclid=IwAR3VdszKdqBVcvvit56qdlVzr9WV30kWn7DluNoNKj5vtCL352JMAD7bY8w
+https://www.elsalmoncontracorriente.es/?El-ayuntamiento-de-Terrassa
 
 Eticom - Som Connexió alcanza el hito de los 1000 socios!! Eticom es una ambiciosa cooperativa de consumidores de telecomunicaciones que se autoprestan el servicio. Desde hace unos meses ofrecen voz y datos mobiles en red de Orange y estan al caer internet i fijo. Contra mas socios seamos mas cosas podremos hacer y tendremos mas fuerza para mejorar las condiciones que imponen los oligopolios o incluso independizarnos totalmente desplegando red propia y libre, en regimen de comunes.
 https://www.facebook.com/somconnexio/photos/a.232830016881648/521992057965441/
