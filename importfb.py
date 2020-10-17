@@ -2,11 +2,36 @@
 
 from pathlib import Path
 from yamlns import namespace as ns
+from customblocks.utils import Fetcher, PageInfo
+from consolemsg import step, warn
 
 linkfile = Path('facebook-links.md')
 
 linkfile_content = linkfile.read_text(encoding='utf-8')
 posts = [art.strip() for art in linkfile_content.split('\n\n') if art.strip()]
+
+def renderPost(post):
+	print(post.dump())
+	description = "".join(
+		'    '+line for line in post.description.split('\n')
+		) if post.get('description','') else ''
+
+	link = f"""\
+:::linkcard {post.link} image="{post.get('image', 'NOIMAGE')}" title={repr(str(post.get('title','NOTITLE')))}
+{description}
+""" if 'link' in post else ''
+
+	result = f"""\
+## {post.date} {post.get('title','')}
+
+{post.data.get('post','')}
+
+{link}
+
+----
+"""
+	return result
+
 
 #print('\n-----\n'.join(posts))
 
@@ -19,7 +44,7 @@ for post in posts:
 	relined = [
 		reline 
 		for line in lines
-		for reline in  line.split('. ')
+		for reline in line.split('. ')
 	]
 	repost = ns()
 	if lines[-1][:4] == 'http':
