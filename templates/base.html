@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+	<script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
+	{% block head_links %}
+	{% if 'assets' in PLUGINS %}
+	{% include '_includes/minify_css.html' with context %}
+	{% else %}
+	<delink rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/elegant.prod.9e9d5ce754.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/custom.css" media="screen">
+	{% endif %}
+	{% endblock head_links %}
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+
+	{% if CLAIM_GOOGLE %}
+	{% include '_includes/claim_google.html' with context %}
+	{% endif %}
+	{% if CLAIM_BING %}
+	{% include '_includes/claim_bing.html' with context %}
+	{% endif %}
+	{% if CLAIM_YANDEX %}
+	{% include '_includes/claim_yandex.html' with context %}
+	{% endif %}
+	{% if article and article.author %}
+	<meta name="author" content="{{ article.author }}" />
+	{% elif page and page.author %}
+	<meta name="author" content="{{ page.author }}" />
+	{% else %}
+	<meta name="author" content="{{ AUTHOR }}" />
+	{% endif %}
+
+	{% from '_includes/_defaults.html' import SITE_DESCRIPTION with context %}
+	{% if SITE_DESCRIPTION %}
+	<meta name="description" content="{% block head_description %}{{ SITE_DESCRIPTION|e }}{% endblock head_description %}" />
+	{% endif %}
+	{% block meta_tags_in_head %}
+	{% from '_includes/_defaults.html' import TWITTER_USERNAME with context %}
+	{% if TWITTER_USERNAME %}
+	<meta name="twitter:creator" content="@{{ TWITTER_USERNAME }}">
+	{% endif %}
+	<meta property="og:type" content="article" />
+	<meta name="twitter:card" content="summary">
+	{% endblock meta_tags_in_head %}
+	<title>{% block title %}{{ SITENAME|striptags|e }}{% endblock title %}</title>
+	{% include '_includes/favicon_links.html' %}
+	{% block feed_links %}
+	{% include '_includes/feeds.html' %}
+	{% endblock feed_links %}
+	{% include '_includes/analytics.html' %}
+</head>
+<body class="has-navbar-fixed-top">
+
+
+<nav class="navbar is-fixed-top is-light" role="navigation" aria-label="main navigation">
+
+	<div class="navbar-brand">
+		<a class="navbar-item" href="{{ SITEURL }}">
+			<img src="images/desconexionibex35-logo-white.png" width="28px" height="28px">
+		</a>
+
+		<a class="navbar-item" href="{{ SITEURL }}">
+			{{ SITENAME }} 
+		</a>
+
+		<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+			<span aria-hidden="true"></span>
+			<span aria-hidden="true"></span>
+			<span aria-hidden="true"></span>
+		</a>
+	</div>
+
+	<div class="navbar-menu">
+		<div class="navbar-start">
+			<a class="navbar-item">
+				Motivos
+			</a>
+			<a class="navbar-item">
+				Campaña
+			</a>
+
+			<div class="navbar-item has-dropdown is-hoverable">
+				<a class="navbar-link">
+					Alternativas
+				</a>
+
+				<div class="navbar-dropdown">
+					<a class="navbar-item">
+						About
+					</a>
+					<a class="navbar-item">
+						Jobs
+					</a>
+					<a class="navbar-item">
+						Contact
+					</a>
+					<hr class="navbar-divider">
+					<a class="navbar-item">
+						Report an issue
+					</a>
+				</div>
+			</div>
+		</div>
+
+			<div class="navbar-end">
+				<div class="navbar-item">
+				<span class="icon has-text-light-grey"><i class="fas fa-envelope"></i></span>
+				<span class="icon has-text-danger"><i class="fas fa-rss"></i></span>
+				<span class="icon has-text-primary"><i class="fab fa-mastodon"></i></span>
+				<span class="icon has-text-link"><i class="fab fa-facebook"></i></span>
+				<span class="icon has-text-primary"><i class="fab fa-twitter"></i></span>
+				<span class="icon has-text-dark"><i class="fab fa-github"></i></span>
+			</div>
+			<div class="navbar-item">
+				<div class="buttons">
+					<a class="button is-primary">
+						<strong>Sign up</strong>
+					</a>
+					<a class="button is-light">
+						Log in
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+
+{% block content %}
+{% endblock content %}
+
+{% include '_includes/footer.html' %}
+{% block script %}
+<script src="//code.jquery.com/jquery.min.js"></script>
+<script>
+		function validateForm(query)
+		{
+				return (query.length > 0);
+		}
+</script>
+{% endblock script %}
+{% include '_includes/stat_counter.html' %}
+
+</body>
+</html>
+<!-- vim: noet ts=2 sw=2
+-->

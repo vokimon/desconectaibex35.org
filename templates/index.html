@@ -1,0 +1,243 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ super() }}
+{% endblock title %}
+
+{% block meta_tags_in_head %}
+{{ super() }}
+{% from '_includes/_defaults.html' import LANDING_PAGE_TITLE, FEATURED_IMAGE, SITE_DESCRIPTION with context %}
+{% if LANDING_PAGE_TITLE %}
+<meta property="og:title" content="{{ LANDING_PAGE_TITLE|e }}"/>
+<meta name="twitter:title" content="{{ LANDING_PAGE_TITLE|e }}">
+{% else %}
+<meta property="og:title" content="{{ SITENAME|striptags|e }}"/>
+<meta name="twitter:title" content="{{ SITENAME|striptags|e }}">
+{% endif %}
+<meta property="og:url" content="{{ SITEURL }}" />
+<meta property="og:site_name" content="{{ SITENAME|striptags|e }}" />
+<meta property="og:article:author" content="{{ AUTHOR }}" />
+{% if FEATURED_IMAGE %}
+<meta property="og:image" content="{{ FEATURED_IMAGE }}" />
+<meta name="twitter:image" content="{{ FEATURED_IMAGE }}" >
+{% endif %}
+{% if SITE_DESCRIPTION %}
+<meta property="og:description" content="{{ SITE_DESCRIPTION|e }}" />
+<meta name="twitter:description" content="{{ SITE_DESCRIPTION|e }}">
+{% endif %}
+<meta name="keywords" content="{% for tag, _ in tags|sort %} {{ tag }}, {% endfor %}{% for category, _ in categories|sort %} {{ category }}, {% endfor %}" />
+{% endblock meta_tags_in_head %}
+
+{% block content %}
+<section class="section hero is-bold is-small">
+  <div class="hero-header is-narrow">
+
+		<div class="container">
+			<img src="images/logo-desconexionibex35.svg">
+		</div>
+
+	</div>
+	<div class="container">
+		<div class="columns is-centered is-multiline">
+
+			<div class="column">
+				<div class="box has-background-light">
+					<h1 class="title">Desconecta</h1>
+					<h1 class="subtitle">Deja de alimentar a la bestia</h1>
+					<p class="block">
+						Por razones políticas, éticas o de consciencia,
+						no queremos que nuestro dinero se vaya a las grandes empresas.
+					</p>
+					<div class="button is-info has-icon-left">
+						Los motivos &nbsp;
+						<span class="icon"><i class="fas fa-angle-right"></i></span>
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="box has-background-light">
+					<h1 class="title">
+						Campaña
+					</h1>
+					<p class="subtitle">
+						¿Qué hacemos?
+					</p>
+					<p class="block">
+						Buscamos alternativas a las grandes empresas.
+						Las difundimos y las facilitamos, acompañandonos en el tránsito.
+						Si no existen, fomentamos su creación.
+					</p>
+					<div class="button is-success has-icon-left">
+						Colabora &nbsp;
+						<span class="icon"><i class="fas fa-angle-right"></i></span>
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="box has-background-light">
+					<h1 class="title">
+						Alternativas
+					</h1>
+					<p class="subtitle">
+						Por sectores
+					</p>
+					<p class="block">
+						Con diferenes grados de compromiso y comodidad.
+						Presentamos transparentemente las bondades y inconvenientes para que seas tú quien tome la opción que más te convenga.
+					</p>
+					<div class="button is-danger has-icon-left">
+						Descubrelas &nbsp;
+						<span class="icon"><i class="fas fa-angle-right"></i></span>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section class="section sectors has-background-info-light has-text-info">
+	<div class="container block">
+				<h1 class="title">
+					Sectores
+				</h1>
+				<h3 class="subtitle">
+					¿Cuál te querrías quitar de encima?
+				</h3>
+				<div class="columns is-multiline is-centered">
+					{% for category, category_articles in categories | sort %}
+					<div class="column is-one-quarter">
+						<div class="box">
+						<article class="media">
+							<figure class="media-left">
+								<p class="image is-64x64">
+									<img src="images/categories/{{ category | lower }}.png" />
+								</p>
+							</figure>
+							<div class="media-content">
+								<p>
+								{{ category }}
+								</p>
+								<div class="tag is-primary is-light">
+								{{ category_articles | length }} articles.
+								</div>
+							</div>
+						</article>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+	</div>
+</section>
+
+
+{% from '_includes/_defaults.html' import RECENT_ARTICLES_COUNT, ARCHIVES_URL, CATEGORIES_URL with context %}
+<section class="section blog-posts">
+	<div class="container">
+		<div class="columns">
+			<div class="column is-10 is-offset-1">
+				<div class="columns featured-post is-multiline">
+					<div class="column is-12 post">
+						<article class="columns featured">
+							{% for article in articles[:1] %}
+							<div class="column is-7 post-img ">
+								<img src="https://cdn.emk.dev/templates/featured-image.png" alt="">
+								<img src="{{ article.featured_image }}" alt="">
+							</div>
+							<div itemscope class="column is-5 featured-content va">
+								<div>
+									<div class="">
+										<time itemprop="dateCreated" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+										{% for cat in article.categories or [article.category] %}
+										<div class="is-pulled-right">
+											<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
+												<span class="image is-32x32">
+													<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
+												</span>
+											</a>
+										</div>
+										{% endfor %}
+									</div>
+									<h3 class="is-clearfix heading post-category">{{ article.categories | join(', ') }}</h3>
+									<h1 class="title post-title">{{ article.title }}</h1>
+									<p class="post-excerpt">{{ article.summary }}</p>
+									<br>
+									<a href="{{ SITEURL }}/{{ article.url }}" class="button is-primary">Read More</a>
+								</div>
+							</div>
+							{% endfor %}
+						</article>
+					</div>
+				</div>
+				<hr>
+				<div class="columns is-multiline">
+					{% for article in articles[1:3] %}
+					<div class="column post is-6">
+						<article class="columns is-multiline">
+							<div class="column is-12 post-img">
+								<img src="{{ article.featured_image }}" alt="">
+								<img src="https://cdn.emk.dev/templates/post-img.png" alt="Featured Image">
+							</div>
+							<div itemscope class="column is-12 featured-content ">
+								<div class="">
+									<time itemprop="dateCreated" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+									{% for cat in article.categories or [article.category] %}
+									<div class="is-pulled-right">
+										<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
+											<span class="image is-32x32">
+												<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
+											</span>
+										</a>
+									</div>
+									{% endfor %}
+								</div>
+								<h3 class="is-clearfix heading post-category">{{ article.categories | join(', ') }}</h3>
+								<h1 class="title post-title">{{ article.title }}</h1>
+								<p class="post-excerpt">{{ article.summary }}</p>
+								<br>
+								<a href="{{ SITEURL }}/{{ article.url }}" class="button is-primary">Read More</a>
+							</div>
+						</article>
+					</div>
+					{% endfor %}
+					{% for article in articles[3:] %}
+					<div class="column post is-4">
+						<article class="columns is-multiline">
+							<div class="column is-12 post-img">
+								<img src="{{ article.featured_image }}" alt="">
+								<!--img src="https://cdn.emk.dev/templates/post-img.png" alt="Featured Image"-->
+							</div>
+							<div itemscope class="column is-12 featured-content ">
+								<div class="">
+									<time itemprop="dateCreated" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+									{% for cat in article.categories or [article.category] %}
+									<div class="is-pulled-right">
+										<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
+											<span class="image is-32x32">
+												<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
+											</span>
+										</a>
+									</div>
+									{% endfor %}
+								</div>
+								<h3 class="is-clearfix heading post-category">{{ article.categories | join(', ') }}</h3>
+								<h1 class="title post-title">{{ article.title }}</h1>
+								<p class="post-excerpt">{{ article.summary }}</p>
+								<br>
+								<a href="{{ SITEURL }}/{{ article.url }}" class="button is-primary">Read More</a>
+							</div>
+						</article>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+
+</section>
+
+
+{% endblock content %}
+<!-- vim: noet ts=2 sw=2
+-->
