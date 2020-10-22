@@ -30,74 +30,33 @@
 
 {% block content %}
 <section class="section hero is-bold is-small">
-  <div class="hero-header is-narrow">
 
+  <div class="hero-header">
 		<div class="container">
-			<img src="images/logo-desconexionibex35.svg">
+			<img src="{{ VOKIBLOG_BANNER }}">
 		</div>
-
 	</div>
 	<div class="container">
 		<div class="columns is-centered is-multiline">
-
+			{% for highlight in VOKIBLOG_HIGHLIGHTS %}
 			<div class="column">
 				<div class="box has-background-light">
-					<h1 class="title">Desconecta</h1>
-					<h1 class="subtitle">Deja de alimentar a la bestia</h1>
-					<p class="block">
-						El IBEX y las grandes empresas perjudican
-						a la ciudadania y al medioambiente,
-						por eso no queremos nutrirles con nuestro dinero.
-					</p>
-					<div class="button is-info has-icon-left">
-						Los motivos &nbsp;
+					<h1 class="title">{{ highlight.title }}</h1>
+					<h1 class="subtitle">{{ highlight.subtitle }}</h1>
+					<p class="block">{{ highlight.description }}</p>
+					<a
+						class="button has-icon-left {{highlight.action_class }}"
+						href="{{ highlight.action_url }}"
+					>
+						{{ highlight.action }} &nbsp;
 						<span class="icon"><i class="fas fa-angle-right"></i></span>
-					</div>
+					</a>
 				</div>
 			</div>
-
-			<div class="column">
-				<div class="box has-background-light">
-					<h1 class="title">
-						Campaña
-					</h1>
-					<p class="subtitle">
-						¿Qué hacemos?
-					</p>
-					<p class="block">
-						Buscamos alternativas a las grandes empresas.
-						Las difundimos y las facilitamos, acompañandonos en el tránsito.
-						Si no existen, fomentamos su creación.
-					</p>
-					<div class="button is-success has-icon-left">
-						Colabora &nbsp;
-						<span class="icon"><i class="fas fa-angle-right"></i></span>
-					</div>
-				</div>
-			</div>
-
-			<div class="column">
-				<div class="box has-background-light">
-					<h1 class="title">
-						Alternativas
-					</h1>
-					<p class="subtitle">
-						Por sectores
-					</p>
-					<p class="block">
-						De cada sector presentamos varias alternativas
-						para que cada persona encuentre la vía de desconexión que más le funcione,
-						explicando sus bondades y inconvenientes.
-					</p>
-					<div class="button is-danger has-icon-left">
-						Descubrelas &nbsp;
-						<span class="icon"><i class="fas fa-angle-right"></i></span>
-					</div>
-				</div>
-			</div>
-
+			{% endfor %}
 		</div>
 	</div>
+
 </section>
 
 <section class="section sectors has-background-info-light has-text-info">

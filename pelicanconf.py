@@ -55,8 +55,52 @@ LINKS = (
 )
 
 MENUITEMS=(
-	('Proyecto', '/pages/la-idea.html'),
+	('Motivos', '/la-idea'),
+	('Proyecto', '/la-idea'),
+	('Información', (
+        ("Quienes somos", '/pages/quien-somos'),
+        ('-', '-'),
+        ("Recursos", '/pages/recursos'),
+    )),
 )
+
+VOKIBLOG_BANNER = "images/logo-desconexionibex35.svg"
+VOKIBLOG_HIGHLIGHTS = (
+    dict(
+        title = "Desconecta",
+        subtitle = "Deja de alimentar a la bestia",
+        description  = 
+            "El IBEX y las grandes empresas perjudican "
+            "a la ciudadania, a la economía y al medioambiente. "
+            "Por eso, queremos dejar de nutrirles con nuestro dinero.",
+        action = "Los motivos",
+        action_url = "",
+        action_class = "is-info",
+    ),
+    dict(
+        title = "Campaña",
+        subtitle = "Qué hacemos",
+        description  = 
+            "Buscamos alternativas a las grandes empresas. "
+            "Las difundimos y las facilitamos, acompañandonos en el tránsito. "
+            "Si no existen, fomentamos su creación.",
+        action = "Colabora",
+        action_url = "/colabora",
+        action_class = "is-success",
+    ),
+    dict(
+        title = "Alternativas",
+        subtitle = "Por sectores",
+        description =
+            "De cada sector presentamos varias alternativas "
+            "para que cada persona encuentre la vía de desconexión que más le funcione, "
+            "explicando sus bondades y inconvenientes.",
+        action = "Descúbrelas",
+        action_url = "",
+        action_class = "is-danger",
+    ),
+)
+
 # Social widget
 #SOCIAL_PROFILE_LABEL="En contacto"
 SOCIAL = (

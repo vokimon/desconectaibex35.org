@@ -76,34 +76,31 @@
 
 	<div class="navbar-menu">
 		<div class="navbar-start">
-			<a class="navbar-item">
-				Motivos
+			{% for menuitem, target in MENUITEMS %}
+			{% if target is string %}
+			<a class="navbar-item" href="{{ target }}">
+				{{ menuitem }}
 			</a>
-			<a class="navbar-item">
-				Campaña
-			</a>
-
+			{% else %}
 			<div class="navbar-item has-dropdown is-hoverable">
 				<a class="navbar-link">
-					Alternativas
+				{{ menuitem }}
 				</a>
-
 				<div class="navbar-dropdown">
-					<a class="navbar-item">
-						About
+					{% for submenuitem, subtarget in target %}
+					{% if submenuitem == '-' %}
+					<hr class="navbar-divider" />
+					{% else %}
+					<a class="navbar-item" href="{{ subtarget }}">
+						{{ submenuitem }}
 					</a>
-					<a class="navbar-item">
-						Jobs
-					</a>
-					<a class="navbar-item">
-						Contact
-					</a>
-					<hr class="navbar-divider">
-					<a class="navbar-item">
-						Report an issue
-					</a>
+					{% endif %}
+					{% endfor %}
 				</div>
 			</div>
+			{% endif %}
+			{% endfor %}
+
 		</div>
 
 			<div class="navbar-end">
