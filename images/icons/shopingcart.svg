@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 222 222"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="shopingcart.svg"
+   inkscape:export-filename="/home/vokimon/Documents/desconexionibex/t-shirt-64x64.png"
+   inkscape:export-xdpi="25.950001"
+   inkscape:export-ydpi="25.950001">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="983"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="3.1731736"
+     inkscape:cx="111.37408"
+     inkscape:cy="119.42182"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3072">
+      <stop
+         style="stop-color:#93aca7;stop-opacity:1"
+         offset="0"
+         id="stop3074" />
+      <stop
+         style="stop-color:#787885;stop-opacity:1;"
+         offset="1"
+         id="stop3076" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3726"
+       x1="253.21001"
+       gradientUnits="userSpaceOnUse"
+       y1="651.28998"
+       gradientTransform="matrix(1,0,0,1.0181,0,-11.577)"
+       x2="251.07001"
+       y2="838.21997">
+      <stop
+         id="stop3680"
+         stop-color="#3fa1e3"
+         offset="0" />
+      <stop
+         id="stop3686"
+         stop-color="#6ea7cd"
+         offset=".5" />
+      <stop
+         id="stop3682"
+         stop-color="#3e84b3"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3726"
+       id="linearGradient3011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0181,0,-11.577)"
+       x1="253.21001"
+       y1="651.28998"
+       x2="251.07001"
+       y2="838.21997" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3726"
+       id="linearGradient3023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0181,0,-11.577)"
+       x1="253.21001"
+       y1="651.28998"
+       x2="251.07001"
+       y2="838.21997" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3072"
+       id="linearGradient3078"
+       x1="127.63248"
+       y1="47.726524"
+       x2="127.00219"
+       y2="139.43282"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2282426,0,0,1.2282426,-51.937782,-9.703265)" />
+  </defs>
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-08-04T22:57:01</dc:date>
+        <dc:description>Blue T-shirt</dc:description>
+        <dc:source>http://openclipart.org/detail/77599/t-shirt-by-shokunin</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>shokunin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blue</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>clothes</rdf:li>
+            <rdf:li>clothing</rdf:li>
+            <rdf:li>fashion</rdf:li>
+            <rdf:li>shirt</rdf:li>
+            <rdf:li>shopping</rdf:li>
+            <rdf:li>t-shirt</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d40000;stroke:#aa0000;stroke-width:1.22824264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 194.2392,45.432851 c 1.16122,-7.741415 2.7095,-9.676769 6.96728,-8.902627 4.25778,0.774141 16.64404,8.515556 15.48282,-1.935355 -1.1612,-10.450909 1.93536,-22.450101 -10.45091,-17.418183 -12.38626,5.03192 -21.67596,5.418991 -22.83717,14.321618 -1.16121,8.902627 -2.32242,16.644041 -2.32242,16.644041 z"
+     id="path3086"
+     inkscape:connector-curvature="0" />
+  <rect
+     transform="matrix(0.99420413,-0.10750884,0.10750884,0.99420413,0,0)"
+     ry="5.4189906"
+     rx="5.4189906"
+     y="40.67881"
+     x="39.744053"
+     height="58.447681"
+     width="90.961624"
+     id="shopitem3"
+     style="color:#000000;fill:#d35f5f;fill-opacity:1;fill-rule:nonzero;stroke:#a02c2c;stroke-width:1.22824264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <rect
+     style="color:#000000;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:1.22824263999999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="shopitem1"
+     width="90.961624"
+     height="58.447681"
+     x="8.5120173"
+     y="84.810738"
+     rx="5.4189906"
+     ry="5.4189906"
+     transform="matrix(0.96763867,-0.25233985,0.25233985,0.96763867,0,0)"
+     inkscape:label="#shopitem1" />
+  <rect
+     style="color:#000000;fill:#8dd35f;fill-opacity:1;fill-rule:nonzero;stroke:#217844;stroke-width:1.22824264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3082"
+     width="88.252129"
+     height="53.802834"
+     x="76.182632"
+     y="72.914879"
+     rx="5.4189906"
+     ry="5.4189906" />
+  <path
+     style="fill:url(#linearGradient3078);fill-opacity:1;stroke:#556f6a;stroke-width:1.22824263999999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6.902717,43.111169 c 0,0 9.690212,78.558301 21.302334,89.009211 7.444842,13.62815 129.163249,2.10011 131.575499,3.49281 2.41224,1.39271 4.06424,14.51293 0,18.57717 -4.06425,4.06424 -125.012077,0 -125.012077,0 0,0 -4.064243,10.25246 0,14.31671 4.064243,4.06424 128.295517,3.02386 133.533007,0 5.23748,-3.02388 26.71428,-125.395901 26.71428,-125.395901 z m 35.158446,7.906812 c 2.523309,0.0788 4.738187,1.901609 5.181649,4.490762 l 10.785506,62.947437 c 0.506813,2.95903 -1.493348,5.74955 -4.45238,6.25636 L 42.90558,126.5549 c -2.959032,0.50681 -5.749547,-1.45496 -6.256361,-4.41399 L 25.863713,59.193471 C 25.3569,56.234439 27.318679,53.443923 30.27771,52.93711 l 10.708741,-1.842364 c 0.369879,-0.06335 0.714239,-0.08803 1.074712,-0.07677 z m 111.753857,3.665814 c 0.36065,-4.64e-4 0.74527,0.0023 1.1131,0.07677 l 10.59359,2.149425 c 2.94254,0.595136 4.8556,3.467351 4.26046,6.409891 l -12.66625,62.601989 c -9.88483,2.55547 -3.42897,4.81722 -6.37151,4.22209 l -10.63197,-2.14943 c -2.94254,-0.59513 -4.8556,-3.42897 -4.26047,-6.37151 l 12.66625,-62.601988 c 0.52074,-2.574722 2.77226,-4.33398 5.2968,-4.337232 z M 83.514353,52.591667 c 2.999503,-0.125252 5.516983,2.182141 5.642239,5.181648 l 2.686781,63.830235 c 0.125256,2.9995 -2.220527,5.51698 -5.220031,5.64224 L 75.799454,127.668 c -2.999504,0.12525 -5.516989,-2.18215 -5.64224,-5.18165 L 67.508816,58.694497 c -0.125252,-2.999507 2.182141,-5.516988 5.181648,-5.642239 z m 28.096047,0.03838 10.82389,0.383826 c 3.00017,0.10827 5.3283,2.603689 5.22003,5.603857 l -2.30295,63.83023 c -0.10833,3.00017 -2.60369,5.32831 -5.60386,5.22004 l -10.86227,-0.38383 c -3.00017,-0.10821 -5.3283,-2.60369 -5.22003,-5.60386 l 2.30295,-63.830231 c 0.10834,-3.000169 2.64208,-5.328301 5.64224,-5.220032 z"
+     id="path3024"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsscssccsccccccccssccccccccscccccccccccssccssc" />
+  <path
+     sodipodi:type="arc"
+     style="color:#000000;fill:#6c5353;fill-opacity:1;fill-rule:nonzero;stroke:#484537;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path3028"
+     sodipodi:cx="39.707882"
+     sodipodi:cy="199.30978"
+     sodipodi:rx="14.496528"
+     sodipodi:ry="14.496528"
+     d="m 54.20441,199.30978 a 14.496528,14.496528 0 1 1 -28.993056,0 14.496528,14.496528 0 1 1 28.993056,0 z"
+     transform="matrix(1.2282426,0,0,1.2282426,-1.6185873,-51.119833)" />
+  <path
+     transform="matrix(1.2282426,0,0,1.2282426,104.05173,-51.119833)"
+     d="m 54.20441,199.30978 a 14.496528,14.496528 0 1 1 -28.993056,0 14.496528,14.496528 0 1 1 28.993056,0 z"
+     sodipodi:ry="14.496528"
+     sodipodi:rx="14.496528"
+     sodipodi:cy="199.30978"
+     sodipodi:cx="39.707882"
+     id="path3056"
+     style="color:#000000;fill:#6c5353;fill-opacity:1;fill-rule:nonzero;stroke:#484537;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     sodipodi:type="arc" />
+</svg>
