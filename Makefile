@@ -13,7 +13,7 @@ SSH_PORT=22
 SSH_USER=dgarcia
 SSH_TARGET_DIR=/home/dgarcia/desconexionibex35.org/new
 
-GITHUB_PAGES_BRANCH=master
+GITHUB_PAGES_BRANCH=ghpages
 
 
 DEBUG ?= 0
