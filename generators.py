@@ -20,6 +20,9 @@ def categories(ctx, *topics):
         for category in topics or ctx.metadata.get('category')[0].split(', ')
     ]))
 
+def categories(ctx, *topics):
+	return
+
 def rtve(id, title=''):
     thumb='https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVEes.png'
     link=f'https://www.rtve.es/v/{id}/'
