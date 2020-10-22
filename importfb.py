@@ -54,6 +54,7 @@ for post in posts:
 
 import json
 import datetime
+fetcher = Fetcher('remotecache')
 fbexport = Path('facebook/posts/posts_1.json').read_text(encoding='utf8')
 fbposts = ns.loads(fbexport)
 print(len(relinedPosts), '/', len(fbposts))
@@ -77,13 +78,48 @@ for post in fbposts:
 
 	if 'link' in handcopied:
 		post.link = handcopied.link
+
+	if 'title' in handcopied:
+		post.title = handcopied.title
+	elif 'link' in post:
+		step("Fetching {}", post.link)
+		from requests.exceptions import RequestException
+		try:
+			response = fetcher.get(post.link, timeout=2)
+			info = PageInfo(response.text, url=post.link)
+			post.title = info.title
+			post.image = info.image
+			post.sitename = info.sitename
+			post.siteicon = info.siteicon
+			post.siteurl = info.siteurl
+			post.description = info.description
+		except RequestException as exception:
+			warn("Unable to fetch {}\n{}", post.link, exception)
+	else:
+		post.title = 'TittlePending'
+
+	print(renderPost(post))
 	
 	if handcontent[:5] != fbcontent[:5]:
 		if handcontent and fbcontent:
+			error("Masses diferencies")
 			break
 
-
 ns(posts=fbposts).dump('lala.yaml')
+
+
+Path('content/pages/microblog.md').write_text(
+	'Title: Microblogging\n'
+	'----\n' +
+	'\n\n'.join(
+		renderPost(post)
+		for post in fbposts
+	),
+	encoding='utf8',
+)
+
+
+
 
 
 
