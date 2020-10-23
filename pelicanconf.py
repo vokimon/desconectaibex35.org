@@ -100,6 +100,14 @@ VOKIBLOG_HIGHLIGHTS = (
         action_class = "is-danger",
     ),
 )
+VOKIBLOG_SOCIAL = (
+#	('eMail', '', 'has-text-light-grey', "fas fa-envelope"),
+	('Feed RSS', FEED_ALL_ATOM, 'has-text-danger', 'fas fa-rss'),
+	('Mastodon', '', 'has-text-primary','fab fa-mastodon'),
+	('Facebook', 'https://www.facebook.com/DesconexionIBEX35', 'has-text-link', 'fab fa-facebook'),
+	('Twitter', '', 'has-text-primary','fab fa-twitter'),
+	('GitHub', 'http://github.com/vokimon/desconectaibex35.org', 'has-text-dark', 'fab fa-github'),
+)
 
 # Social widget
 #SOCIAL_PROFILE_LABEL="En contacto"

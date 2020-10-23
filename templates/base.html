@@ -104,12 +104,9 @@
 
 			<div class="navbar-end">
 				<div class="navbar-item">
-				<span class="icon has-text-light-grey"><i class="fas fa-envelope"></i></span>
-				<span class="icon has-text-danger"><i class="fas fa-rss"></i></span>
-				<span class="icon has-text-primary"><i class="fab fa-mastodon"></i></span>
-				<span class="icon has-text-link"><i class="fab fa-facebook"></i></span>
-				<span class="icon has-text-primary"><i class="fab fa-twitter"></i></span>
-				<span class="icon has-text-dark"><i class="fab fa-github"></i></span>
+				{% for name, url, classes, icon in VOKIBLOG_SOCIAL %}
+					<a class="icon {{classes}}" title="{{name}}" href="{{url}}" rel="noopener noreferrer" target="_blank"><i class="{{icon}}"></i></a>
+				{% endfor %}
 			</div>
 			<div class="navbar-item">
 				<div class="buttons">
