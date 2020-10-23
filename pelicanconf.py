@@ -55,13 +55,18 @@ LINKS = (
 )
 
 MENUITEMS=(
-	('Motivos', '/la-idea'),
-	('Proyecto', '/la-idea'),
-	('Información', (
-        ("Quienes somos", '/pages/quien-somos'),
-        ('-', '-'),
-        ("Recursos", '/pages/recursos'),
+	('Proyecto', (
+        ('Motivación', ''),
+        ('Estrategia', ''),
+        ('Colabora', ''),
     )),
+	('Información', (
+        ("Quienes somos", ''),
+        ("Recursos", ''),
+        ("Créditos", ''),
+    )),
+    ('Sectores', "/#section_sectors"),
+    ('Noticies', "/#section_news"),
 )
 
 VOKIBLOG_BANNER = "images/logo-desconexionibex35.svg"
