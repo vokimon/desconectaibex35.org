@@ -11,7 +11,7 @@
 	{% include '_includes/minify_css.html' with context %}
 	{% else %}
 	<!--link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/elegant.prod.9e9d5ce754.css" media="screen" /-->
-	<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/custom.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/custom.css" media="screen" />
 	{% endif %}
 	{% endblock head_links %}
 	<link rel="dns-prefetch" href="//fonts.googleapis.com" />
@@ -59,7 +59,7 @@
 
 	<div class="navbar-brand">
 		<a class="navbar-item" href="{{ SITEURL }}">
-			<img src="images/desconexionibex35-logo-white.png" width="28px" height="28px">
+			<img src="{{ VOKIBLOG_SITELOGO }}" width="28px" height="28px">
 		</a>
 
 		<a class="navbar-item" href="{{ SITEURL }}">

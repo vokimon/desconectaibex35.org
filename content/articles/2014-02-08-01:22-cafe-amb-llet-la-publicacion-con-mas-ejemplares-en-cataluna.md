@@ -6,6 +6,7 @@ Locations: Catalunya
 Tags: Cafe amb Llet, Albano Dante, Marta Sibina
 Slug: cafe-amb-llet-la-publicacion-con-mas-ejemplares-en-cataluna
 Status: published
+Image: https://dg9aaz8jl1ktt.cloudfront.net/the_files/25015/project_main_cover.jpg
 
 ::: categories
 

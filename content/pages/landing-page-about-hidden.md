@@ -1,7 +1,7 @@
-Title: ¿O vas a seguir alimentando a la bestia?
+Title: 
 Date: 2012-05-12 12:58
 Author: vokimon
-Category: Electricidad, España
+Category: 
 Slug: landing-page-about-hidden
 Status: hidden
 

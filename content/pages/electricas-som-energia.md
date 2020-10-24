@@ -9,7 +9,8 @@ Status: published
 
 ### El mercado eléctrico español
 
-![]({static}/blog/wp-content/uploads/2012/05/ktip.png "Electricidad"){: width="64" height="64" style="float:right;margin:3ex"}
+[![Electricidad]({static}/blog/wp-content/uploads/2012/05/ktip.png "Electricidad")]({category}/Electricidad})
+{: width="64" heigth="auto" style="float:right;margin-left:3ex" }
 
 El sector eléctrico era un monopolio público que tras los procesos de privatización y posterior liberalización ha dejado un mercado organizado de la siguiente manera:
 
@@ -24,7 +25,7 @@ Pendiente de explicar: TUR, Deficit de tarifa, regimen especial, puertas girator
 
 ### Som Energia, ¿qué es?
 
-[![]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg "Logo de Som Energia")]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg){: style="float:right; margin:3ex"}
+[![Logo de Som Energia]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg "Logo de Som Energia")]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg){: style="float:right; margin:3ex"}
 
 -   [Som Energia](http://www.somenergia.coop/) es una cooperativa de producción y consumo de energia
 -   La empezó un grupo de la Universitat de Girona, tomando como modelo las cooperativas que ya controlan el 50% del mercado eléctrico de Alemania.

@@ -68,7 +68,7 @@ MENUITEMS=(
     ('Sectores', "/#section_sectors"),
     ('Noticies', "/#section_news"),
 )
-
+VOKIBLOG_SITELOGO = 'images/desconexionibex35-logo-black.png'
 VOKIBLOG_BANNER = "images/logo-desconexionibex35.svg"
 VOKIBLOG_HIGHLIGHTS = (
     dict(
@@ -131,6 +131,7 @@ PLUGIN_PATHS=[
 	'./pelican-plugins',
 ]
 PLUGINS=[
+    'representative_image', # extract images from summary and pick one as featured image
 	'pelican_javascript',
 	'pelican.plugins.more_categories', # Multiple categories per article, hierarchical categories
 	'video_privacy_enhancer', # (Unused) Embed videos with privacy until played
