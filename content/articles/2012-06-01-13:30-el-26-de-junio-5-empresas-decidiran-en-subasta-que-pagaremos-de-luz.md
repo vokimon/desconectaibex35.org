@@ -6,6 +6,7 @@ Tags: CMNV, Endesa, Iberdrola, Fenosa, HC, Eon, TUR
 Location: España
 Slug: el-26-de-junio-5-empresas-decidiran-en-subasta-que-pagaremos-de-luz
 Status: published
+Image: https://img.europapress.es/fotoweb/fotonoticia_20120601132908_640.jpg
 
 ::: categories
 

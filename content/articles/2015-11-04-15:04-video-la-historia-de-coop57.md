@@ -6,6 +6,7 @@ Location: España, Barcelona
 Tags: Coop57
 Slug: video-la-historia-de-coop57
 Status: published
+Image: https://i.ytimg.com/vi_webp/AUSdOaRNtjk/maxresdefault.webp
 
 ::: categories
 

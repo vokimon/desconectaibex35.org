@@ -6,6 +6,7 @@ Tags: Denuncia, CNMV
 Location: España
 Slug: la-cnmv-confirma-las-sospechas-de-manipulaciones-en-la-subasta-electrica
 Status: published
+Image: https://www.vozpopuli.com/2012/05/11/economia-y-finanzas/empresas/Oficinas-CNMV_477562273_2958907_1020x574.jpg
 
 ::: categories
 
