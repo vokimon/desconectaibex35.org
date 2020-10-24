@@ -1,7 +1,7 @@
 Title: Taller de alternativas y acompañamiento al salto
 Date: 2015-02-23 14:23
 Author: vokimon
-Category: Campaña, Ahorro, Banca, Electricidad, Financiación, Medios, Prensa, Ropa, Seguros, Supermercados, Telecomunicaciones, Televisión
+Category: Campaña
 Location: Baix Llobregat, Barcelona, Sant Joan Despí
 Tags: Campaña
 Slug: taller-de-alternativas-y-acompanamiento-al-salto
