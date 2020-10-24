@@ -177,16 +177,16 @@ LANDING_PAGE_TITLE = "Desconecta del IBEX-35"
 
 FEATURED_IMAGE = 'desconexionibex35-logo.png'
 SITE_DESCRIPTION="""\
-**No queremos apoyar con nuestro dinero**
+No queremos apoyar con nuestro dinero
 a las grandes empresas (del IBEX-35 y otras)
 por los diversos abusos que cometen.
 
-**Investigamos, generamos y fomentamos alternativas**
+Investigamos, generamos y fomentamos alternativas
 con diferentes niveles de compromiso
 que se puedan adaptar a las posibilidades de cada persona.
-Las promovemos y **nos acompañamos en el salto**.
+Las promovemos y nos acompañamos en el salto.
 
-Si encuentras este proyecto interesante, no lo dudes, **¡súmate!**
+Si encuentras este proyecto interesante, no lo dudes, ¡súmate!
 """
 
 import datetime
