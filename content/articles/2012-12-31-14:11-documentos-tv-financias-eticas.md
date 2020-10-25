@@ -6,7 +6,7 @@ Location: España
 Tags: Fiare, Triodos, Coop57, Documental
 Slug: documentos-tv-financias-eticas
 Status: published
-Cover: http://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG
+Image: http://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG
 
 ::: categories
 

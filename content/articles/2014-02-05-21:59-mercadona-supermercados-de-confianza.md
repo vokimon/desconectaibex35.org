@@ -6,6 +6,11 @@ Location: España, Barcelona
 Tags: CoopMercat, Mercadona
 Slug: mercadona-supermercados-de-confianza
 Status: published
+Summary:
+	Dos artículos sobre alimentación muy relacionados.
+	En uno Esther Vivas explica los impactos de Mercadona en las economías locales, en origen como en destino.
+	En el segundo, Mikel López Iturriaga informa sobre CoopMercat, una alternativa ética a la gran distribución.
+
 
 :::categories
 
@@ -19,4 +24,8 @@ El impacto se hace notar de forma dolorosa en el lugar de origen de la producci�
 ::: figure style="float:left; max-width:30%" http://blogs.elpais.com/.a/6a00d8341bfb1653ef019b050251d4970d-550wi
 	Dos empleados de CoopMercat
 
-Un contraste interesante, aparece en este otro [artículo](http://blogs.elpais.com/el-comidista/2014/01/coopmercat-el-supermercado-con-conciencia.html) de [Mikel López Iturriaga](http://elpais.com/autor/mikel_lopez_iturriaga/a/) en El País. En él se nos explica una **alternativa ética** a los supermercados del destajo como la que plantea [CoopMercat](http://www.coopmercat.coop/). Productos éticos a precios justos a ambos lados de la cadena y dando trabajo a la gente que más le cuesta encontrarlo. De momento, puedes visitarles en el Barrio de Gràcia de Barcelona.
+El contraste lo explica este otro [artículo](http://blogs.elpais.com/el-comidista/2014/01/coopmercat-el-supermercado-con-conciencia.html)
+de [Mikel López Iturriaga](http://elpais.com/autor/mikel_lopez_iturriaga/a/) en El País.
+En él se nos explica una **alternativa ética** a los supermercados del destajo como la que plantea [CoopMercat](http://www.coopmercat.coop/).
+Productos éticos a precios justos a ambos lados de la cadena y dando trabajo a la gente que más le cuesta encontrarlo.
+De momento, puedes visitarles en el Barrio de Gràcia de Barcelona.
