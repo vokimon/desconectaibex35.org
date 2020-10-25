@@ -16,7 +16,10 @@ Attachments: blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png, b
 	Flyer promocional de la iniciativa
 
 
-[GuifiBaix](http://guifibaix.coop) es un proyecto que nace en el municipio de Sant Joan Despí  bajo el amparo de la asociación [GATS](http://gats.cat) del Prat de Llobregat, que pretende ofrecer a los vecinos una alternativa sencilla a la opción, hasta ahora incontestable en la zona, de las oligo-empresas que ofrecen **telefonía y Internet fijos**. Un sector que no solo es un **oligopolio de comercialización** sino también **monopolio de distribución**, pues hay que considerar que el par de cobre por el que llega el ADSL de cualquier compañía aún pertenece a Telefónica.
+<!-- PELICAN_BEGIN_SUMMARY -->
+[GuifiBaix](http://guifibaix.coop) es un proyecto que nace en el municipio de Sant Joan Despí  bajo el amparo de la asociación [GATS](http://gats.cat) del Prat de Llobregat, que pretende ofrecer a los vecinos una alternativa sencilla a la opción, hasta ahora incontestable en la zona, de las oligo-empresas que ofrecen **telefonía y Internet fijos**.
+<!-- PELICAN_END_SUMMARY -->
+Un sector que no solo es un **oligopolio de comercialización** sino también **monopolio de distribución**, pues hay que considerar que el par de cobre por el que llega el ADSL de cualquier compañía aún pertenece a Telefónica.
 
 
 ::: figure style="float:left; max-width:30%" {static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png

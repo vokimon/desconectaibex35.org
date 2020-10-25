@@ -1,10 +1,11 @@
-Title: Oligopoly 2: El imperio contra todos.
+Title: #Oligopoly 2: El imperio contra todos.
 Date: 2013-05-17 21:28
 Author: vokimon
 Category: Electricidad
 Location: España
 Slug: oligopoly-2-el-imperio-contra-todos
 Status: published
+Image: https://i.ytimg.com/vi_webp/E8_vSep6c_8/maxresdefault.webp
 
 ::: categories
 

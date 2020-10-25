@@ -7,8 +7,6 @@ Tags: Coop57
 Slug: video-la-historia-de-coop57
 Status: published
 Image: https://i.ytimg.com/vi_webp/AUSdOaRNtjk/maxresdefault.webp
-Summary:
-	Los compañeros de Coop57 han publicado este ilustrador video que explica la inspiradora historia de esta cooperativa que nació de la solidaridad entre los trabajadores.
 
 ::: categories
 

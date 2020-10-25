@@ -4,7 +4,6 @@ Author: vokimon
 Category: Electricidad
 Slug: el-siguiente-paso-redes-electricas-municipalizadas
 Status: published
-Summary: Los monopolios que implican una red de acceso física (Agua, Gas, Electricidad, Teléfono...) necesitan una nueva vuelta de tuerca.
 Image: https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg style="width:30%; margin: auto"
 
 ::: categories
@@ -12,7 +11,11 @@ Image: https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg st
 ::: figure https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg style="width:30%; margin: auto"
 	Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg
 
+<!-- PELICAN_BEGIN_SUMMARY -->
+
 Los monopolios que implican una red de acceso física (Agua, Gas, Electricidad, Teléfono...) necesitan una nueva vuelta de tuerca.
+
+<!-- PELICAN_END_SUMMARY -->
 
 La ["liberalización"](http://es.wikipedia.org/wiki/Mercado_el%C3%A9ctrico_de_Espa%C3%B1a) (siempre entre comillas) del sector eléctrico Español en 1997, simplemente "liberalizó" la comercialización (quien vende al cliente) y la producción de energía (quien vuelca la energía a la red). Las otras 2 partes del mercado dejo el transporte (alta tensión) en manos de el monopolio semi-publico/semi-privado de Red Electrica y la distribución en manos de un monopolio territorial privado
 compuesto por las grandes de la patronal Unesa (Endesa, Iberdrola, Fenosa, EDP, E.On) en el que cada empresa ejerce el monopolio en su zona asignada.

@@ -11,8 +11,10 @@ Status: published
 	Evolucion del índice IBEX-35
 
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 Por si cabia duda de que esta crisis era una estafa, [sale esta noticia en Publico](http://www.publico.es/dinero/469008/las-grandes-empresas-en-bolsa-ganan-14-633-millones-hasta-junio)
 confirmando que las grandes empresas en bolsa **ganan 14.633 millones de euros entre enero y junio**.
+<!-- PELICAN_END_SUMMARY -->
 Según este artículo, las empresas del IBEX35 han tenido un 9% más de beneficio.
 Lo sangrante es que la mayoria no han dejado de tener beneficios cuando al resto nos recortaban nuestros salarios o nos despedían, o nos subían impuestos y tarifas.
 Por lo visto no es suficiente y quieren recortar más nuestros salarios, despedir a mas gente y subir más sus tarifas. Ey, y por favor, no les subais los impuestos ni les hagas inspecciones.

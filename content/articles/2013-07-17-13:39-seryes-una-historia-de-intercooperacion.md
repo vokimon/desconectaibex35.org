@@ -6,6 +6,7 @@ Location: España
 Tags: Seryes, Arç, Atlantis
 Slug: seryes-una-historia-de-intercooperacion
 Status: published
+Image: https://i.vimeocdn.com/video/438258862.jpg
 
 ::: categories
 

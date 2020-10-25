@@ -12,7 +12,6 @@ Status: published
 ::: figure http://esthervivas.files.wordpress.com/2014/02/mercadona.jpg?w=316&h=190 style="float:right; max-width:30%"
 	Productores, consumidores y trabajadores contra la gran distribución
 
-
 Os recomendamos [este artículo](http://esthervivas.com/2014/02/05/mercadona-supermercados-de-confianza/) de [Ester Vivas](http://esthervivas.com/).
 En él se describe el impacto real de la cadena Mercadona inflije en las economías locales.
 El impacto se hace notar de forma dolorosa en el lugar de origen de la producción, en los trabajadores, y en el comercio local que desplaza. Una realidad muy distante, y de hecho opuesta, al mito que la empresa se ha encargado de difundir.

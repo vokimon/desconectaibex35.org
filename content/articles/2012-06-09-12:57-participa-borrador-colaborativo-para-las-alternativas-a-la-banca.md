@@ -5,6 +5,7 @@ Category: Ahorro, Financiación
 Tags: OikoCredit, Accio Solidaria, Fidem, CASX
 Slug: participa-borrador-colaborativo-para-las-alternativas-a-la-banca
 Status: published
+Image: https://i.ytimg.com/vi/5IjtVwItoJg/hqdefault.jpg
 
 ::: categories
 

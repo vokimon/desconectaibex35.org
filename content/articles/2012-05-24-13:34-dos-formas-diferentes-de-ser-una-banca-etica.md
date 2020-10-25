@@ -5,6 +5,7 @@ Category: Ahorro, Banca, Financiación
 Tags: Fiare, La Caixa
 Slug: dos-formas-diferentes-de-ser-una-banca-etica
 Status: published
+Image: https://logos-download.com/wp-content/uploads/2016/12/Fiare_Banca_Etica_logo_logotipo.png
 
 ::: categories
 

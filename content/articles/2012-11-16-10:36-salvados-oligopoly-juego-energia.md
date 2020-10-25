@@ -5,6 +5,7 @@ Category: Electricidad
 Location: España
 Slug: salvados-oligopoly-juego-energia
 Status: published
+Image: https://i.ytimg.com/vi/ZXRVfA132w4/sddefault.jpg
 
 ::: categories
 

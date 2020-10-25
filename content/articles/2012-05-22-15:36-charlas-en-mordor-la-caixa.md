@@ -6,6 +6,7 @@ Tags: Enric Duran, Ada Colau, Mordor, CIC, PAH
 Location: España
 Slug: charlas-en-mordor-la-caixa
 Status: published
+Image: https://i.ytimg.com/vi/pbz0TEUq8b4/sddefault.jpg
 
 ::: categories
 

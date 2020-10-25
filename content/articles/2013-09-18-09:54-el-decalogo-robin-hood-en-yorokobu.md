@@ -12,10 +12,12 @@ Status: published
 	Ilustración de Robin Hood y Marian de un panfleto del siglo XVI
 
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 Hoy apuntamos a un interesante [artículo](http://www.yorokobu.es/decalogo-robin-hood-1/)
 en Yorokobu, el primero de una serie de dos con el título ["El decálogo de Robin Hood"](http://www.yorokobu.es/decalogo-robin-hood-1/)
 donde se detallan acciones para distribuir la riqueza de forma no violenta,
 mediante alternativas de consumo.
+<!-- PELICAN_END_SUMMARY -->
 
 El decálogo vendría a ser:
 

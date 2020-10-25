@@ -12,10 +12,12 @@ Image: https://www.vozpopuli.com/2012/05/11/economia-y-finanzas/empresas/Oficina
 
 Julio Segura, presidente de la CNMV, dijo en ya junio de 2011:
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 > La evidencia acumulada demuestra que en los tres días precedentes a las subastas Cesur,
 > el volumen de operaciones con derivados de electricidad OTC crece muy considerablemente –en torno al 90%-
 > respecto al promedio de las restantes sesiones,
 > produciéndose un significativo aumento de precios que vuelven a caer tras la realización de las subastas.
+<!-- PELICAN_END_SUMMARY -->
 
 Se refiere a las subastas que fijan el precio de la TUR, la tarifa de último recurso que es la que pagamos la mayoría de ciudadanos.
 Según la noticia, parece que las sospechas se confirman en el informe que estan preparando.

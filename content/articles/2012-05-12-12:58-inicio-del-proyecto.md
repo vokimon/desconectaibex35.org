@@ -8,8 +8,10 @@ Status: published
 
 ![]({static}/images/logo-desconexionibex35.svg){: width=100%}
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 Hoy 12 de Mayo de 2012,
 coincidiendo con las manifestaciones del #12M-15M hacemos pública esta web con información general sobre este proyecto.
+<!-- PELICAN_END_SUMMARY -->
 
 Este proyecto plantea **generar, descubrir y fomentar alternativas a las grandes empresas**
 que, por **razones éticas o de abuso** por su parte, **no queramos apoyar con nuestro dinero**.

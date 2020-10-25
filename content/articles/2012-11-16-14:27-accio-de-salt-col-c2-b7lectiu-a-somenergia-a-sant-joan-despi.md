@@ -13,7 +13,9 @@ Attachments: blog/wp-content/uploads/2012/11/saltcollectiuSomEnergia.jpg, blog/w
 ::: figure {static}/blog/wp-content/uploads/2012/11/saltcollectiuSomEnergia.jpg style="width:50%; margin:auto"
 	Acción de salto colectivo
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 La setmana passada a Sant Joan Despí el [15M local](http://acampadadespi.org) va organitzar una acció de salt col·lectiu a [SomEnergia](http://somenergia.coop) enmarcada en la campanya de [Desconnexió del IBEX](http://desconexionibex35.org). Es van explicar la problemàtica del sector elèctric i els fonaments de la cooperativa d'energia, es van aclarir dubtes, es va crear un soci i un contracte associat en directe amb un projector per mostrar com es fa i finalment es va convidar als assistents a fer el mateix.
+<!-- PELICAN_END_SUMMARY -->
 
 ::: figure {static}/blog/wp-content/uploads/2012/11/CartellSaltCollectiuSomEnergia.png style="float:left; max-width:30%"
 	Cartell convidant a l'acció de salt

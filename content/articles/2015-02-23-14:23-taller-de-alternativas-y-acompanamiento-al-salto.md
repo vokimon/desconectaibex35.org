@@ -16,10 +16,12 @@ Attachments: blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-Xerrada
 Luz, Telecomunicaciones, Banca, Alimentación, Informática...
 tienen nombres éticos como Som Energia, Eticom/Som Conexio, Guifibaix, guifi.net, Fiare, Triodos Caixa Catalana, Coop57, Cooperativa L'Esplet, Linux, Diaspora...
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 Este lunes a las 18h haremos una charla-taller
 en la AAVV El Pi de Sant Joan Despí
 en la que descubriremos que alternativas hay a las grandes empresas extractivas
 que están hundiendo nuestra microeconomía.
+<!-- PELICAN_END_SUMMARY -->
 Veremos que sectores nos tienen atados,
 que alternativas hay,
 que estrategias podemos seguir para crearlas, complementarlas o potenciarlas.

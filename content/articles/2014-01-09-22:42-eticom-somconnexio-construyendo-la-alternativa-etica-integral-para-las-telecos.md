@@ -13,9 +13,19 @@ Attachments: blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg
 ::: figure style="float:right; max-width:30%" {static}/blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg
 	Flyer de la presentación de Eticom/SomConnexió
 
-Hace solo unas semanas [anunciábamos](/blog/2013/10/11/nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat/) el nacimiento de [GuifiBaix](http://guifibaix.coop), una alternativa promovida desde la campaña DesconexionIBEX35 para cubrir el sector de las telecomunicaciones fijas basándose en la red ciudadana [guifi.net](http://guifi.net). Es una alternativa de ámbito local (Baix Llobregat: Sant Joan Despi, Cornellà, El Prat...) y que ya está en marcha.
+Hace solo unas semanas [anunciábamos](/blog/2013/10/11/nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat/)
+el nacimiento de [GuifiBaix](http://guifibaix.coop),
+una alternativa promovida desde la campaña DesconexionIBEX35 para cubrir el sector de las telecomunicaciones fijas basándose en la red ciudadana [guifi.net](http://guifi.net). Es una alternativa de ámbito local (Baix Llobregat: Sant Joan Despi, Cornellà, El Prat...) y que ya está en marcha.
 
-Un proyecto aún más ambicioso se va a presentar el miércoles 15 de Enero en el Prat de Llobregat: La misma asociación que hace de incubadora de GuifiBaix, la [Asociacion Gats](http://gats.cat), presenta una cooperativa de usuarios de telecomunicaciones. Con un modelo parecido al de [SomEnergia](http://somenergia.coop), hará de comercializadora (operador virtual, en terminología del sector) tanto de telefonía fija como de móvil y de ámbito potencial estatal.
+
+Un proyecto aún más ambicioso se va a presentar el miércoles 15 de Enero en el Prat de Llobregat:
+La misma asociación que hace de incubadora de GuifiBaix, la [Asociacion Gats](http://gats.cat),
+presenta una cooperativa de usuarios de telecomunicaciones.
+<!-- PELICAN_BEGIN_SUMMARY -->
+Con un modelo parecido al de [SomEnergia](http://somenergia.coop),
+hará de comercializadora (operador virtual, en terminología del sector)
+tanto de telefonía fija como de móvil y de ámbito potencial estatal.
+<!-- PELICAN_END_SUMMARY -->
 
 Este nuevo proyecto es la fusión de dos proyectos que han madurado de forma independiente y que han decidido unir fuerzas: Por un lado, el proyecto [Eticom](http://www.proyectoeticom.com/es/), impulsado por la propia asociación Gats y socios de [SomEnergia del Baix Llobregat](https://www.facebook.com/SomEnergiaBaixLlobregat). Por otro, el proyecto [SomConnexió](http://somconnexio.org) que iniciaron socios de SomEnergia de la comarca del Vallés.
 
