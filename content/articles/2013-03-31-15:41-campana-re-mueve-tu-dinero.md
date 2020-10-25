@@ -5,6 +5,7 @@ Category: Ahorro, Banca, Financiación
 Location: España
 Slug: campana-re-mueve-tu-dinero
 Status: published
+Image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Cajero_Banelco.jpg
 
 ::: categories
 
