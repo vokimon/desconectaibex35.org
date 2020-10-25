@@ -1,8 +1,7 @@
 Title: Inicio del proyecto "Desconexion IBEX35"
 Date: 2012-05-12 12:58
 Author: vokimon
-Category: General
-Tags: Campaña
+Category: Campaña
 Location: España
 Slug: inicio-del-proyecto
 Status: published

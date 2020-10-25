@@ -307,3 +307,13 @@ hr {
 .blog-posts .post .featured .featured-image img {
   height: 380px;
 }
+
+.fits-cover {
+	object-fit: cover;
+}
+.fits-contained {
+	object-fit: contain;
+}
+
+
+

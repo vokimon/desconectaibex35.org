@@ -4,10 +4,12 @@ Author: vokimon
 Category: Electricidad
 Slug: el-siguiente-paso-redes-electricas-municipalizadas
 Status: published
+Summary: Los monopolios que implican una red de acceso física (Agua, Gas, Electricidad, Teléfono...) necesitan una nueva vuelta de tuerca.
+Image: https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg style="width:30%; margin: auto"
 
 ::: categories
 
-::: figure http://www.berliner-zeitung.de/image/view/2013/10/4/24896668,22712322,highRes,maxh,480,maxw,480,3ex02529.jpg  style="width:30%; margin: auto"
+::: figure https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg style="width:30%; margin: auto"
 	Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg
 
 Los monopolios que implican una red de acceso física (Agua, Gas, Electricidad, Teléfono...) necesitan una nueva vuelta de tuerca.

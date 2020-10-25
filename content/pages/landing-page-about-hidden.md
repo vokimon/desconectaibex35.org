@@ -19,7 +19,14 @@ Status: hidden
 <figure markdown=1 class='span3 text-center'>
 [Alternativas]({filename}/pages/lista-de-alternativas.md)
 </figure>
+<figure markdown=1 class='span3 text-center'>
+[Actualidad]({filename}/pages/microblog.md)
+</figure>
 </div>
 </div>
+
+
+
+
 
 

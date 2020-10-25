@@ -131,6 +131,7 @@ PLUGIN_PATHS=[
 	'./pelican-plugins',
 ]
 PLUGINS=[
+    'summary', # Choose the article summary
     'representative_image', # extract images from summary and pick one as featured image
 	'pelican_javascript',
 	'pelican.plugins.more_categories', # Multiple categories per article, hierarchical categories
