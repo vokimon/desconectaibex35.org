@@ -260,9 +260,8 @@ html[dir=rtl] .linkcard-share-tab-button+.linkcard-share-tab-button {
 }
 
 section.sectors {
-	padding: 1em;
+  padding-top: 4rem;
 }
-
 
 
 hr {
@@ -271,7 +270,6 @@ hr {
 
 .blog-posts {
   min-height: 100vh;
-  background: #ffffff;
   padding-top: 4rem;
   padding-bottom: 10rem;
 }
@@ -282,22 +280,26 @@ hr {
 
 .blog-posts .post img {
   border-radius: 6px;
+  margin-bottom: 1em;
 }
 
 .blog-posts .post .post-category {
   color: #3b7adf;
 }
 
-.blog-posts .post .post-title {
-  font-size: 2.2rem;
+.blog-posts .post time {
+  color: #700;
 }
+
+.blog-posts .post .post-title {
+  font-size: 1.3rem;
+	}
 
 .blog-posts .post .post-excerpt {
   line-height: 1.5rem;
   letter-spacing: .03rem;
-  font-size: 1.2rem;
-  font-family: 'IBM Plex Serif', serif;
-  color: #92a3ab;
+  font-size: 1rem;
+  color: #121;
 }
 
 .blog-posts .post {

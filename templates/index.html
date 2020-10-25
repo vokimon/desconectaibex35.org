@@ -91,113 +91,57 @@
 	</div>
 </section>
 
+{% from '_includes/_defaults.html' import RECENT_ARTICLES_COUNT, ARCHIVES_URL, CATEGORIES_URL with context %}
 
-{% macro article_summary_card(article, ncolumns=6) %}
+{% macro article_summary_card(article, ncolumns=6, imagecolumns=12) %}
+
 <div class="column post is-{{ncolumns}}">
 	<article class="columns is-multiline">
-		<div class="column is-12 post-img">
+		<div class="column is-{{ imagecolumns }}  post-img">
 			<div class="image is-16by9">
-				<img class='fits-cover' src="{{ article.featured_image or "https://cdn.emk.dev/templates/post-img.png"}}" alt="Featured Image">
+				<img class="fits-cover" src="{{ article.featured_image or "https://cdn.emk.dev/templates/post-img.png"}}" alt="Featured Image" />
 			</div>
 		</div>
-		<div itemscope class="column is-12 featured-content ">
-			<div class="">
-				<time itemprop="dateCreated" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
-				{% for cat in article.categories or [article.category] %}
-				<div class="is-pulled-right">
-					<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
-						<span class="image is-32x32">
-							<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
-						</span>
-					</a>
-				</div>
-				{% endfor %}
+		<div itemscope class="column is-{{ (12-imagecolumns) or 12 }} featured-content ">
+			<div class="is-pulled-right is-clearfix">
+					{% for cat in article.categories or [article.category] %}
+					<span class="is-pulled-left">
+						<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
+							<span class="image is-32x32">
+								<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
+							</span>
+						</a>
+					</span>
+					{% endfor %}
 			</div>
-			<h3 class="is-clearfix heading post-category">{{ article.categories | join(', ') }}</h3>
-			<h1 class="title post-title">{{ article.title }}</h1>
-			<p class="post-excerpt">{{ article._summary or article.summary  }}</p>
+			<time itemprop="dateCreated" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+			<h3 class="heading post-category">{{ article.categories | join(', ') }}</h3>
+			<h1 class="title post-title is-3">{{ article.title }}</h1>
+			<div class="post-excerpt">{{ article._summary or article.summary  }}</div>
 			<br>
-			<a href="{{ SITEURL }}/{{ article.url }}" class="button is-primary">Lee Más</a>
+			<a href="{{ SITEURL }}/{{ article.url }}" class="button is-primary is-pulled-right">Lee Más</a>
 		</div>
 	</article>
 </div>
-{%- endmacro %}
 
-{% from '_includes/_defaults.html' import RECENT_ARTICLES_COUNT, ARCHIVES_URL, CATEGORIES_URL with context %}
+{%- endmacro %}
 
 <section id="section_news" class="section blog-posts">
 	<div class="container">
 		<h1 class="title">Noticias</h1>
 		<div class="columns">
 			<div class="column is-10 is-offset-1">
-				<div class="columns featured-post is-multiline">
-					<div class="column is-12 post">
-						<article class="columns featured">
-							{% for article in articles[:1] %}
-							<div class="column is-7 post-img">
-								<div class="image is-16by9">
-									<img class="fits-cover" src="{{ article.featured_image or "https://cdn.emk.dev/templates/featured-img.png"}}" alt="Featured Image"/>
-								</div>
-							</div>
-							<div itemscope class="column is-5 featured-content va">
-								<div>
-									<div class="">
-										<time itemprop="dateCreated" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
-										{% for cat in article.categories or [article.category] %}
-										<div class="is-pulled-right">
-											<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
-												<span class="image is-32x32">
-													<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
-												</span>
-											</a>
-										</div>
-										{% endfor %}
-									</div>
-									<h3 class="is-clearfix heading post-category">{{ article.categories | join(', ') }}</h3>
-									<h1 class="title post-title">{{ article.title }}</h1>
-									<p class="post-excerpt">{{ article._summary or article.summary }}</p>
-									<br>
-									<a href="{{ SITEURL }}/{{ article.url }}" class="button is-primary">Lee Más</a>
-								</div>
-							</div>
-							{% endfor %}
-						</article>
-					</div>
+				<div class="columns featured-post is-multiline card">
+					{% for article in articles[:1] %}
+					{{ article_summary_card(article, 12, 7) }}
+					{% endfor %}
 				</div>
-				<hr>
 				<div class="columns is-multiline">
 					{% for article in articles[1:3] %}
-						{{ article_summary_card(article) }}
+						{{ article_summary_card(article, ncolumns=6) }}
 					{% endfor %}
 					{% for article in articles[3:] %}
-					<div class="column post is-4">
-						<article class="columns is-multiline">
-							<div class="column is-12 post-img">
-								<div class="image is-16by9">
-									<img class="fits-cover" src="{{ article.featured_image or "https://cdn.emk.dev/templates/post-img.png"}}" alt="Featured Image"/>
-								</div>
-							</div>
-							<div itemscope class="column is-12 featured-content ">
-								<div class="">
-									<time itemprop="dateCreated" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
-									{% for cat in article.categories or [article.category] %}
-									<div class="is-pulled-right">
-										<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
-											<span class="image is-32x32">
-												<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
-											</span>
-										</a>
-									</div>
-									{% endfor %}
-								</div>
-								<h3 class="is-clearfix heading post-category">{{ article.categories | join(', ') }}</h3>
-								<h1 class="title post-title">{{ article.title }}</h1>
-								<p class="post-excerpt">{{ article._summary or article.summary }}</p>
-								<br>
-								<a href="{{ SITEURL }}/{{ article.url }}" class="button is-primary">Lee Más</a>
-							</div>
-						</article>
-					</div>
+						{{ article_summary_card(article, ncolumns=4) }}
 					{% endfor %}
 				</div>
 			</div>
