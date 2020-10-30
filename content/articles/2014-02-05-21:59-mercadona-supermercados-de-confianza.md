@@ -27,6 +27,5 @@ En él se nos explica una **alternativa ética** a los supermercados del destajo
 Productos éticos a precios justos a ambos lados de la cadena y dando trabajo a la gente que más le cuesta encontrarlo.
 De momento, puedes visitarles en el Barrio de Gràcia de Barcelona.
 
-::: figure http://blogs.elpais.com/.a/6a00d8341bfb1653ef019b050251d4970d-550wi
+::: figure https://ep01.epimg.net/elcomidista/imagenes/2014/01/20/articulo/1390197600_139019_1390197600_noticia_normal.jpg
 	Dos empleados de CoopMercat
-
