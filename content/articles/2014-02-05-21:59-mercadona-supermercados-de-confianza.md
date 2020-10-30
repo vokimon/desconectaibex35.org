@@ -14,7 +14,7 @@ Summary:
 
 :::categories
 
-::: figure http://esthervivas.files.wordpress.com/2014/02/mercadona.jpg?w=316&h=190 class=right
+::: figure http://esthervivas.files.wordpress.com/2014/02/mercadona.jpg?w=316&h=190 right
 	Productores, consumidores y trabajadores contra la gran distribución
 
 Os recomendamos [este artículo](http://esthervivas.com/2014/02/05/mercadona-supermercados-de-confianza/) de [Ester Vivas](http://esthervivas.com/).

@@ -10,7 +10,7 @@ Attachments: blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-Xerrada
 
 ::: categories
 
-::: figure {static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png style="max-width:30%;" class="right"
+::: figure {static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png right
 	Cartel de la charla
 
 Sectores como Luz, Telecomunicaciones, Banca, Alimentación, Informática...

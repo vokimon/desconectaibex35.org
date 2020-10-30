@@ -18,7 +18,7 @@ sobre como [podemos vestir ropa sin trabajo esclavo](http://www.setem.org/blog/e
 <!-- PELICAN_END_SUMMARY -->
 El informe incluye por un lado un análisis de las grandes marcas de ropa, sobre las cosas que están haciendo, y las que no, para garantizar que no se produzcan malas prácticas.
 
-::: figure {static}/blog/wp-content/uploads/2013/10/setem.jpeg style="float:left; max-width:10%"
+::: figure {static}/blog/wp-content/uploads/2013/10/setem.jpeg left style="max-width:128px"
 	[Asociación Setem](https://www.setem.org)
 
 Se persigue que haya condiciones saludables en el trabajo, que no haya trabajo infantil, sueldos dignos, trato digno... Las grandes marcas han hecho avances, pero la mayoría, por no decir todas, hacen avances sobretodo cosméticos y dejan recovecos por los que estas malas prácticas se cuelan fácilmente, no por parte de ellas directamente, sino por parte de los proveedores que son los que hacen el trabajo sucio.

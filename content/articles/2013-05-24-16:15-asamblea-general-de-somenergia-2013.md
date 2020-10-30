@@ -9,7 +9,7 @@ Attachments: blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg
 
 ::: categories
 
-::: figure {static}/blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg style="float:right; max-width:35%"
+::: figure {static}/blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg right
 	Socios votando en la asamblea del año pasado
 
 

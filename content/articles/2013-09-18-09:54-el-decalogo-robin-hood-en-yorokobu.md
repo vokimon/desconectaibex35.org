@@ -8,7 +8,7 @@ Status: published
 
 ::: categories
 
-::: figure https://upload.wikimedia.org/wikipedia/commons/5/5a/Robin-hood-and-maid-marion-01.png style="float:right; max-width:30%"
+::: figure https://upload.wikimedia.org/wikipedia/commons/5/5a/Robin-hood-and-maid-marion-01.png right
 	Ilustración de Robin Hood y Marian de un panfleto del siglo XVI
 
 
