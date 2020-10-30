@@ -10,7 +10,7 @@ Attachments: blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png
 
 ::: categories
 
-::: figure {static}/blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png style="float:right; max-width:25%"
+::: figure {static}/blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png right style="max-width:25%"
 	Cartel del evento
 
 Aprovechando la Fiesta Mayor de Sant Joan Despí (Barcelona),

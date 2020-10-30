@@ -1,4 +1,4 @@
-figure {
+.content figure {
 	margin: auto;
 	margin-top: 1rem;
 	margin-bottom: 1.5rem;
@@ -9,24 +9,26 @@ figure {
 	box-shadow: 0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02);
 	position: relative;
 }
-figure figcaption {
+.content figure figcaption {
 	text-align: center;
 	color: #333;
 }
-figure a {
+.content figure a {
 	text-align: center;
 }
 
-figure.right {
+.content figure.right {
 	max-width: 30%;
 	float: right;
+	margin-top: 0;
 	margin-left: 1rem;
 	margin-right: 0;
 }
 
-figure.left {
-	float: left;
+.content figure.left {
 	max-width: 30%;
+	float: left;
+	margin-top: 0;
 	margin-right: 1rem;
 	margin-left: 0;
 }
@@ -404,10 +406,16 @@ hr {
 .articles-timeline li.previous-article {
 	float: left;
 }
-.articles-timeline li.next-article {
+.content .articles-timeline li.next-article {
 	float: right;
+	margin-top: 0; /* bulma contents adds margin */
+	margin-left: 2rem;
 }
-
+ul.articles-timeline {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
 .superscript {
 	font-size: 0.8rem;
 	vertical-align: super;

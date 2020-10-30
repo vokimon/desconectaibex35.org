@@ -8,7 +8,7 @@ Status: published
 
 ::: categories
 
-::: figure http://www.energias-renovables.com/ficheroenergias/fotos/entrevistas/perfiles/p/2peppuigblog.jpg style="float:right; max-width:30%"
+::: figure http://www.energias-renovables.com/ficheroenergias/fotos/entrevistas/perfiles/p/2peppuigblog.jpg right
 	Pep Puig
 
 <!-- PELICAN_BEGIN_SUMMARY -->

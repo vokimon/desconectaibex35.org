@@ -6,10 +6,11 @@ Location: España
 Slug: campana-re-mueve-tu-dinero
 Status: published
 Image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Cajero_Banelco.jpg
+OriginalImage: http://remuevetudinero.net/files/2013/03/colaenelbanco-300x199.jpg
 
 ::: categories
 
-::: figure http://remuevetudinero.net/files/2013/03/colaenelbanco-300x199.jpg style="float:right; max-width:30%"
+::: figure https://upload.wikimedia.org/wikipedia/commons/a/ae/Cajero_Banelco.jpg right
 	Ciudadanos haciendo cola para retirar su dinero del banco.
 
 <!-- PELICAN_BEGIN_SUMMARY -->

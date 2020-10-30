@@ -10,7 +10,7 @@ Attachments: blog/wp-content/uploads/2012/05/caixarolada18m.jpg
 
 ::: categories
 
-::: figure {static}/blog/wp-content/uploads/2012/05/caixarolada18m.jpg style="width:30%;float:right"
+::: figure {static}/blog/wp-content/uploads/2012/05/caixarolada18m.jpg right
 	Cartel convocando #occupymordor
 
 <!-- PELICAN_BEGIN_SUMMARY -->

@@ -10,7 +10,7 @@ Image: https://www.consumocolaborativo.com/wp-content/uploads/2013/08/introducci
 
 ::: categories
 
-::: figure http://www.consumocolaborativo.com/wp-content/uploads/2011/07/CC_logo_small.png style="float:right; max-width:30%"
+::: figure http://www.consumocolaborativo.com/wp-content/uploads/2011/07/CC_logo_small.png right
 	Logo de "Consumo Colaborativo"
 
 <!-- PELICAN_BEGIN_SUMMARY -->
