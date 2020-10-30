@@ -18,7 +18,7 @@ grandes empresas del sector eléctrico.
 
 [![Logo de Som Energia]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg "Logo de Som Energia"){: style=width:100%}]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg){: style="width:100%; margin:auto"}
 {: style="width:100%; margin:auto"}
-----
+
 
 [primera ficha]: {filename}/pages/electricas-som-energia.md
 [Som Energia]: https://somenergia.coop

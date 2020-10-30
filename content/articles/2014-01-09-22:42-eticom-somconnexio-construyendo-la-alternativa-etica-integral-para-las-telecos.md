@@ -10,7 +10,7 @@ Attachments: blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg
 
 ::: categories
 
-::: figure style="float:right; max-width:30%" {static}/blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg
+::: figure {static}/blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg class=right
 	Flyer de la presentación de Eticom/SomConnexió
 
 Hace solo unas semanas [anunciábamos](/blog/2013/10/11/nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat/)

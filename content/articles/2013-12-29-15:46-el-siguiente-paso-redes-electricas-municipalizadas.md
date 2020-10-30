@@ -8,7 +8,7 @@ Image: https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg st
 
 ::: categories
 
-::: figure https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg style="width:30%; margin: auto"
+::: figure https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg right
 	Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg
 
 <!-- PELICAN_BEGIN_SUMMARY -->
