@@ -2,6 +2,7 @@ Title: #Oligopoly 2: El imperio contra todos.
 Date: 2013-05-17 21:28
 Author: vokimon
 Category: Electricidad
+Tags: Jordi Évole, Alba del Campo, Ricard Jornet, Px1NME, Documental
 Location: España
 Slug: oligopoly-2-el-imperio-contra-todos
 Status: published

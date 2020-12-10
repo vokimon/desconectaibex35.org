@@ -2,6 +2,7 @@ Title: Próximo Salvados: "Oligopoly, el juego de la energía". ¿Alternativas?
 Date: 2012-11-16 10:36
 Author: vokimon
 Category: Electricidad
+Tags: Somenergia, Documental, Jordi Évole
 Location: España
 Slug: salvados-oligopoly-juego-energia
 Status: published
@@ -27,6 +28,7 @@ Respecto a las **gasolinas**, recomendamos lo siguiente:
 -   Hay formas de fabricar [Biodiesel casero](http://www.youtube.com/watch?feature=player_embedded&v=Qj4eU9OFVuo) de gran calidad por menos de 20 centimos/l reciclando aceite usado. La instalación propuesta cuesta unos 3000€ y al precio actual del gasoil un consumidor la tarda en amortizar entre 2 y 3 años. Si se monta a nivel colectivo, la amortización puede llegar antes. [Web del proyecto con los detalles](http://biodiesel-jose.blogspot.com.es/)
 
 ::: youtube Qj4eU9OFVuo
+
 
 Respecto al **gas natural**.
 

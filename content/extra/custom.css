@@ -333,6 +333,17 @@ section.article-sectors .sector .image {
   margin: auto;
 }
 
+section.article-tags {
+	margin: 1rem;
+}
+section.article-tags ul {
+  text-align: center;
+}
+section.article-tags .tags-in-article a
+{
+	caolor: black;
+}
+
 
 .blog-posts .post time {
   color: #700;
