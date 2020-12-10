@@ -32,7 +32,7 @@ STATIC_SAVE_AS = '{path}'
 STATIC_PATHS=[
 	'images',
 	'extra',
-	'blog',
+	'uploads',
 	'files',
 ]
 EXTRA_PATH_METADATA = {

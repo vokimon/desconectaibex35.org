@@ -6,14 +6,14 @@ Tags: GuifiBaix, GATS
 Locations: Baix Llobregat, El Prat de Llobregat, Sant Joan Despí
 Slug: nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat
 Status: published
-Attachments: blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png, blog/wp-content/uploads/2013/10/slide4.jpg, blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png, blog/wp-content/uploads/2013/10/flyer.png
+Attachments: uploads/2013/10/guifinet-cobertura-barcelona.png, uploads/2013/10/slide4.jpg, uploads/2013/10/guifinet-cobertura-peninsula.png, uploads/2013/10/flyer.png
 
 ::: categories
 
-:::figure {static}/blog/wp-content/uploads/2013/10/slide4.jpg
+:::figure {static}/uploads/2013/10/slide4.jpg
 	Los equipos de GuifiBaix y GATS en la constitución del proyecto
 
-::: figure {static}/blog/wp-content/uploads/2013/10/flyer.png right
+::: figure {static}/uploads/2013/10/flyer.png right
 	Flyer promocional de la iniciativa
 
 
@@ -23,12 +23,12 @@ Attachments: blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png, b
 Un sector que no solo es un **oligopolio de comercialización** sino también **monopolio de distribución**, pues hay que considerar que el par de cobre por el que llega el ADSL de cualquier compañía aún pertenece a Telefónica.
 
 
-::: figure {static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-peninsula.png left
+::: figure {static}/uploads/2013/10/guifinet-cobertura-peninsula.png left
 	Cobertura de guifi.net en la península
 
 La red ciudadana, libre y neutra, [guifi.net](http://guifi.net) hace innecesaria la red de acceso de Telefónica para tener Internet o telefonia fija, conectando a los usuarios con pequeñas antenas WiFi en sus tejados. Mediante esta red, los usuarios comparten servicios, entre ellos los accesos a internet. La red esta profundamente implantada en comarcas como Osona o el Maresme y se extiende por todo el levante peninsular y otros núcleos como Madrid, Galicia, Asturias, Euskadi...
 
-::: figure {static}/blog/wp-content/uploads/2013/10/guifinet-cobertura-barcelona.png right
+::: figure {static}/uploads/2013/10/guifinet-cobertura-barcelona.png right
 	Cobertura de guifi.net en la provincia de Barcelona en 2013
 	[Mapa actualizado](http://guifi.net/maps)
 

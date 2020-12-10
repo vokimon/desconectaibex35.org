@@ -6,9 +6,9 @@ Tags: Charla, Acció, Auditoria del Deute
 Location: Sant Joan Despí
 Slug: charlas-de-desconexion-ibex35-en-sant-joan-despi
 Status: published
-Attachments: blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png
+Attachments: uploads/2012/06/24J-Cartell-MicroXerrades-color.png
 
-::: figure {static}/blog/wp-content/uploads/2012/06/24J-Cartell-MicroXerrades-color.png right style="max-width:25%"
+::: figure {static}/uploads/2012/06/24J-Cartell-MicroXerrades-color.png right style="max-width:25%"
 	Cartel del evento
 
 Aprovechando la Fiesta Mayor de Sant Joan Despí (Barcelona),

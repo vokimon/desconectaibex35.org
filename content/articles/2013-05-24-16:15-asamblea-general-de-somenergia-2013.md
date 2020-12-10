@@ -6,11 +6,11 @@ Location: España
 Tags: Som Energia
 Slug: asamblea-general-de-somenergia-2013
 Status: published
-Attachments: blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg
+Attachments: uploads/2013/05/somenergia-assemblea.jpg
 
 ::: categories
 
-::: figure {static}/blog/wp-content/uploads/2013/05/somenergia-assemblea.jpg right
+::: figure {static}/uploads/2013/05/somenergia-assemblea.jpg right
 	Socios votando en la asamblea del año pasado
 
 

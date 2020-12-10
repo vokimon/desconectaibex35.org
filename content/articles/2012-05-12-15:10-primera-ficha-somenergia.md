@@ -6,7 +6,7 @@ Tags: Alternativa, Som Energia
 Location: España
 Slug: primera-ficha-som-energia
 Status: published
-Cover: '/blog/wp-content/uploads/2012/05/somenergia_logo.jpg'
+Cover: '/uploads/2012/05/somenergia_logo.jpg'
 
 ::: categories
 
@@ -16,7 +16,7 @@ La ficha de [Som Energia].
 Es una cooperativa de usuarios, alternativa a las
 grandes empresas del sector eléctrico.
 
-[![Logo de Som Energia]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg "Logo de Som Energia"){: style=width:100%}]({static}/blog/wp-content/uploads/2012/05/somenergia_logo.jpg){: style="width:100%; margin:auto"}
+[![Logo de Som Energia]({static}/uploads/2012/05/somenergia_logo.jpg "Logo de Som Energia"){: style=width:100%}]({static}/uploads/2012/05/somenergia_logo.jpg){: style="width:100%; margin:auto"}
 {: style="width:100%; margin:auto"}
 
 

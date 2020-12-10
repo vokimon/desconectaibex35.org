@@ -6,11 +6,11 @@ Locations: Baix Llobregat, Barcelona, Barcelonés, Bilbo, Catalunya, El Prat de 
 Tags: Som Connexio, GuifiBaix
 Slug: eticom-somconnexio-construyendo-la-alternativa-etica-integral-para-las-telecos
 Status: published
-Attachments: blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg
+Attachments: uploads/2014/01/FlyerPReticomScnxio.jpg
 
 ::: categories
 
-::: figure {static}/blog/wp-content/uploads/2014/01/FlyerPReticomScnxio.jpg right
+::: figure {static}/uploads/2014/01/FlyerPReticomScnxio.jpg right
 	Flyer de la presentación de Eticom/SomConnexió
 
 Hace solo unas semanas [anunciábamos](/blog/2013/10/11/nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat/)

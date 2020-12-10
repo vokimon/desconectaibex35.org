@@ -6,11 +6,11 @@ Location: Baix Llobregat, Barcelona, Sant Joan Despí
 Tags: Campaña
 Slug: taller-de-alternativas-y-acompanamiento-al-salto
 Status: published
-Attachments: blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png
+Attachments: uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png
 
 ::: categories
 
-::: figure {static}/blog/wp-content/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png right
+::: figure {static}/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png right
 	Cartel de la charla
 
 Sectores como Luz, Telecomunicaciones, Banca, Alimentación, Informática...

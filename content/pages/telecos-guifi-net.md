@@ -8,13 +8,13 @@ Status: published
 
 ### El mercado de las telecomunicaciones fijas
 
-![]({static}/blog/wp-content/uploads/2012/05/network-wired.png "network-wired"){: width="64" height="64" style="float:right;margin:3ex"}
+![]({static}/uploads/2012/05/network-wired.png "network-wired"){: width="64" height="64" style="float:right;margin:3ex"}
 La privatización de telefónica dejó en manos de una sola compañia, a partir de entonces privada, la infraestructura de cobre que llegaba hasta las casas. Se le quitó importancia al hecho pues se decía que la fibra óptica iba a dejar el cobre obsoleto. Un consorcio de empresas montaría la infraestructura de fibra óptica que lo substituiría. Casi 20 años después, la realidad es que aquel consorcio no llegó lejos y la fibra llega a muy pocos hogares y negocios. Se ha explotado al máximo el cobre mejorando la tecnología ADSL. Y, aunque está bien reutilizar recursos, lo malo es que una sola empresa sigue controlando la linia hasta los hogares heredada de la época pública. A las otras operadoras les sale más a cuenta pagar los peajes de Telefónica por usar sus linias que hacer una inversión a largo plazo en infraestructura propia.  
 Años después tenemos una de las peores conexiónes de Europa al mismo tiempo que pagamos los mayores precios, y eso sin considerar los sueldos que cobramos los españoles. ([Ver datos](http://asperger.foroactivo.com/t142-por-que-en-espana-la-banda-ancha-es-tan-cara-y-tan-mala)).
 
 ### Qué es Guifi.net
 
-[![]({static}/blog/wp-content/uploads/2012/05/guifi-logo.png "guifi-logo"){.alignright .size-full .wp-image-125 width="225" height="65"}](http://desconexionibex35.org/blog/wp-content/uploads/2012/05/guifi-logo.png)
+[![]({static}/uploads/2012/05/guifi-logo.png "guifi-logo"){.alignright .size-full .wp-image-125 width="225" height="65"}](http://desconexionibex35.org/uploads/2012/05/guifi-logo.png)
 
 -   [Guifi.net](http://guifi.net) es una red de comunicaciones ciudadana en la que **cada persona o colectivo que participa, se conecta a la red, al mismo tiempo que la extiende**.
 -   El proyecto ha recibido varios **premios y reconocimientos** (Premio Nacional de Telecomunicaciones de la Generalitat de Cataluña, escogido "Living Lab" por la UE, Premio a la Innovación pel CNJC, Premio vilaweb...), tiene en marcha diversos **proyectos europeos de investigación** y múltiples **convenios con ayuntamientos y entidades**..
@@ -30,7 +30,7 @@ Años después tenemos una de las peores conexiónes de Europa al mismo tiempo q
 
 <figure style='float:right; text-align:center; max-width:300px;'>
 <img alt="guifinet-cobertura-20120513"
-	src="{static}/blog/wp-content/uploads/2012/05/guifinet-cobertura-20120513.png">
+	src="{static}/uploads/2012/05/guifinet-cobertura-20120513.png">
 <figcaption>
 Detalle (Cataluña) del mapa de cobertura de guifi.net el 13-05-2012
 </figcaption>
