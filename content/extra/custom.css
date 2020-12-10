@@ -315,8 +315,28 @@ hr {
   color: #3b7adf;
 }
 
+.article-date {
+  display: block;
+  width: 100%;
+  color: #700;
+  font-size: 150%;
+  text-align: center;
+}
+
+section.article-sectors .sector {
+  display: block;
+  width: 100%;
+  font-size: 90%;
+  text-align: center;
+}
+section.article-sectors .sector .image {
+  margin: auto;
+}
+
+
 .blog-posts .post time {
   color: #700;
+  size: 110%;
 }
 
 .blog-posts .post .post-title {
@@ -346,9 +366,9 @@ hr {
 }
 
 .page-header .title {
-	padding-bottom: 2rem;
-	border-bottom: 3pt solid #77b;
-	margin-bottom: 2rem;
+	padding-bottom: 1rem;
+	border-bottom: 3pt solid #9c9;
+	margin-bottom: 0.5rem;
 }
 
 .article-content p {
@@ -406,9 +426,8 @@ hr {
 .articles-timeline li.previous-article {
 	float: left;
 }
-.content .articles-timeline li.next-article {
+.articles-timeline li.next-article {
 	float: right;
-	margin-top: 0; /* bulma contents adds margin */
 	margin-left: 2rem;
 }
 ul.articles-timeline {

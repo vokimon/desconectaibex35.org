@@ -72,7 +72,7 @@
 						<article class="media">
 							<figure class="media-left">
 								<p class="image is-64x64">
-									<img src="images/categories/{{ category | lower }}.png" />
+									<img alt={{ category }} src="/images/categories/{{ category | lower }}.png" />
 								</p>
 							</figure>
 							<div class="media-content">
@@ -108,7 +108,7 @@
 					<span class="is-pulled-left">
 						<a href="{{ SITEURL }}/{{ CATEGORIES_URL }}#{{ cat.slug }}-ref">
 							<span class="image is-32x32">
-								<img src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
+								<img alt="{{cat}}" title="{{cat}}" src="images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
 							</span>
 						</a>
 					</span>
