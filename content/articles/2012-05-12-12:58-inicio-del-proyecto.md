@@ -6,7 +6,7 @@ Location: España
 Slug: inicio-del-proyecto
 Status: published
 
-![]({static}/images/logo-desconexionibex35.svg){: width=100%}
+![Logo del proyecto]({static}/images/logo-desconexionibex35.svg){: width=100%}
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Hoy 12 de Mayo de 2012,
