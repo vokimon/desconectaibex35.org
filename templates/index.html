@@ -68,23 +68,25 @@
 				<div class="columns is-multiline is-centered">
 					{% for category, category_articles in categories | sort %}
 					<div class="column is-one-quarter">
-						<div class="box">
-						<article class="media">
-							<figure class="media-left">
-								<p class="image is-64x64">
-									<img alt={{ category }} src="/images/categories/{{ category | lower }}.png" />
-								</p>
-							</figure>
-							<div class="media-content">
-								<p>
-								{{ category }}
-								</p>
-								<div class="tag is-primary is-light">
-								{{ category_articles | length }} articles.
-								</div>
+						<a href="{{ SITEURL }}/{{ category.url }}">
+							<div class="box">
+								<article class="media">
+									<figure class="media-left">
+										<p class="image is-64x64">
+											<img alt={{ category }} src="/images/categories/{{ category | lower }}.png" />
+										</p>
+									</figure>
+									<div class="media-content">
+										<p>
+										{{ category }}
+										</p>
+										<div class="tag is-primary is-light">
+										{{ category_articles | length }} articles.
+										</div>
+									</div>
+								</article>
 							</div>
-						</article>
-						</div>
+						</a>
 					</div>
 					{% endfor %}
 				</div>
