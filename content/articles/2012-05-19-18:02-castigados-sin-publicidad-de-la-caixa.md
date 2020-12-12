@@ -3,7 +3,7 @@ title: Castigados sin publicidad de La Caixa
 date: 2012-05-19 18:02
 author: vokimon
 category: Banca, Medios, Prensa, Televisión
-tags: Cafe amb Llet, La Caixa, Denuncia, Directa, Diagonal, Sirius, Nació Digital, VilaWeb, Media.cat, Publico
+tags: Cafe amb Llet, La Caixa, Denuncia, La Directa, Diagonal, Sirius, Nació Digital, VilaWeb, Media.cat, Publico
 location: Barcelona
 slug: castigados-sin-publicidad-de-la-caixa
 status: published
