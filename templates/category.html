@@ -28,7 +28,7 @@
 
 {% block content %}
 
-{% set articlepage = pages | selectattr('slug', 'equalto', 'sector-electricidad') | first | default("No extra info") %}
+{% set articlepage = pages | selectattr('slug', 'equalto', 'sector-'+category.slug) | first | default("No extra info") %}
 
 {% for page in pages %}
 - {{ page.slug }}
