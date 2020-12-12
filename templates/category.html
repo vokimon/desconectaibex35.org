@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 
-{% block title %}{{ super() }}{% endblock title %}
+{% block title %}{{ SITENAME }} - Sector {{ category }}{% endblock %}
 
 {% block meta_tags_in_head %}
 {{ super() }}
@@ -27,16 +27,32 @@
 {% endblock meta_tags_in_head %}
 
 {% block content %}
+
+{% set articlepage = pages | selectattr('slug', 'equalto', 'sector-electricidad') | first | default("No extra info") %}
+
+{% for page in pages %}
+- {{ page.slug }}
+{% endfor %}
+
 <section class="section hero is-bold is-small">
 
   <div class="hero-header">
 		<div class="container">
-			<img src="{{ VOKIBLOG_BANNER }}">
+			<p class="subtitle is-3 image is-64x64">
+				<img src="/images/categories/{{category.slug}}.png">
+			</p>
+			<h1 class="title is-1">Sector: {{category.name}}</h1>
+
+			<div class="content">
+					{{articlepage.summary}}
+			</div>
 		</div>
 	</div>
+
+	{% if articlepage and articlepage.meta and articlepage.meta.highlights %}
 	<div class="container">
 		<div class="columns is-centered is-multiline">
-			{% for highlight in VOKIBLOG_HIGHLIGHTS %}
+			{% for highlight in articlepage.meta.highlights | default([]) %}
 			<div class="column">
 				<div class="box has-background-light">
 					<h1 class="title">{{ highlight.title }}</h1>
@@ -54,42 +70,19 @@
 			{% endfor %}
 		</div>
 	</div>
+	{% endif %}
 
 </section>
 
-<section id="section_sectors" class="section sectors has-background-info-light has-text-info">
+<section class="section is-bold is-small">
 	<div class="container">
-				<h1 class="title">
-					Sectores
-				</h1>
-				<h3 class="subtitle">
-					¿Cuál te querrías quitar de encima?
-				</h3>
-				<div class="columns is-multiline is-centered">
-					{% for category, category_articles in categories | sort %}
-					<div class="column is-one-quarter">
-						<a href="{{ SITEURL }}/{{ category.url }}">
-							<div class="box">
-								<article class="media">
-									<figure class="media-left">
-										<p class="image is-64x64">
-											<img alt={{ category }} src="/images/categories/{{ category | lower }}.png" />
-										</p>
-									</figure>
-									<div class="media-content">
-										<p>
-										{{ category }}
-										</p>
-										<div class="tag is-primary is-light">
-										{{ category_articles | length }} articles.
-										</div>
-									</div>
-								</article>
-							</div>
-						</a>
-					</div>
-					{% endfor %}
+		<div class="columns is-centered is-multiline">
+			<div class="column">
+				<div class="content">
+						{{articlepage.content}}
 				</div>
+			</div>
+		</div>
 	</div>
 </section>
 
