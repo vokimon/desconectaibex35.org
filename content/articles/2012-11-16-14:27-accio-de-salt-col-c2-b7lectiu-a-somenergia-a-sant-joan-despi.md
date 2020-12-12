@@ -1,15 +1,15 @@
-Title: Acció de salt col·lectiu a SomEnergia a Sant Joan Despí
-Date: 2012-11-16 14:27
-Author: vokimon
-Category: Campaña, Electricidad
-Tags: Charla, Acción, Som Energia
-Location: Sant Joan Despí
-Slug: accio-de-salt-collectiu-a-somenergia-a-sant-joan-despi
-Status: published
-Language: ca
-Attachments: uploads/2012/11/saltcollectiuSomEnergia.jpg, uploads/2012/11/CartellSaltCollectiuSomEnergia.png
-
-::: categories
+---
+title: Acció de salt col·lectiu a SomEnergia a Sant Joan Despí
+date: 2012-11-16 14:27
+author: vokimon
+category: Campaña, Electricidad
+tags: Charla, Acción, Som Energia
+location: Sant Joan Despí
+slug: accio-de-salt-collectiu-a-somenergia-a-sant-joan-despi
+status: published
+language: ca
+attachments: uploads/2012/11/saltcollectiuSomEnergia.jpg, uploads/2012/11/CartellSaltCollectiuSomEnergia.png
+---
 
 ::: figure {static}/uploads/2012/11/saltcollectiuSomEnergia.jpg style="width:50%"
 	Acción de salto colectivo

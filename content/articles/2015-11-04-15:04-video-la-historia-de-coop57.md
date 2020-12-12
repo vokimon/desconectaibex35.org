@@ -1,14 +1,14 @@
-Title: Video: La historia de Coop57
-Date: 2015-11-04 15:04
-Author: vokimon
-Category: Ahorro, Banca, Financiación
-Location: España, Barcelona
-Tags: Coop57
-Slug: video-la-historia-de-coop57
-Status: published
-Image: https://i.ytimg.com/vi_webp/AUSdOaRNtjk/maxresdefault.webp
-
-::: categories
+---
+title: "Video: La historia de Coop57"
+date: 2015-11-04 15:04
+author: vokimon
+category: Ahorro, Banca, Financiación
+location: España, Barcelona
+tags: Coop57
+slug: video-la-historia-de-coop57
+status: published
+image: https://i.ytimg.com/vi_webp/AUSdOaRNtjk/maxresdefault.webp
+---
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 

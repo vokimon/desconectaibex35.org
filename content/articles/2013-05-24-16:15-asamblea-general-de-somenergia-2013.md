@@ -1,14 +1,14 @@
-Title: Asamblea General de SomEnergia 2013
-Date: 2013-05-24 16:15
-Author: vokimon
-Category: Electricidad
-Location: España
-Tags: Som Energia
-Slug: asamblea-general-de-somenergia-2013
-Status: published
-Attachments: uploads/2013/05/somenergia-assemblea.jpg
-
-::: categories
+---
+title: Asamblea General de SomEnergia 2013
+date: 2013-05-24 16:15
+author: vokimon
+category: Electricidad
+location: España
+tags: Som Energia
+slug: asamblea-general-de-somenergia-2013
+status: published
+attachments: uploads/2013/05/somenergia-assemblea.jpg
+---
 
 ::: figure {static}/uploads/2013/05/somenergia-assemblea.jpg right
 	Socios votando en la asamblea del año pasado

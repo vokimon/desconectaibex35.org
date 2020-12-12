@@ -1,14 +1,14 @@
-Title: Eticom-SomConnexió, construyendo la alternativa ética integral para las telecos
-Date: 2014-01-09 22:42
-Author: vokimon
-Category: Telecomunicaciones
-Locations: Baix Llobregat, Barcelona, Barcelonés, Bilbo, Catalunya, El Prat de Llobregat, España, Euskadi, Mungia, Rubí, Sant Joan Despí
-Tags: Som Connexio, GuifiBaix
-Slug: eticom-somconnexio-construyendo-la-alternativa-etica-integral-para-las-telecos
-Status: published
-Attachments: uploads/2014/01/FlyerPReticomScnxio.jpg
-
-::: categories
+---
+title: Eticom-SomConnexió, construyendo la alternativa ética integral para las telecos
+date: 2014-01-09 22:42
+author: vokimon
+category: Telecomunicaciones
+locations: Baix Llobregat, Barcelona, Barcelonés, Bilbo, Catalunya, El Prat de Llobregat, España, Euskadi, Mungia, Rubí, Sant Joan Despí
+tags: Som Connexio, GuifiBaix
+slug: eticom-somconnexio-construyendo-la-alternativa-etica-integral-para-las-telecos
+status: published
+attachments: uploads/2014/01/FlyerPReticomScnxio.jpg
+---
 
 ::: figure {static}/uploads/2014/01/FlyerPReticomScnxio.jpg right
 	Flyer de la presentación de Eticom/SomConnexió

@@ -1,14 +1,14 @@
-Title: Compartir, otra forma de desconectarse
-Date: 2013-01-14 02:14
-Author: vokimon
-Category: Campaña
-Location: España
-Tags: Recursos, Consumo Colaborativo
-Slug: compartir-otra-forma-de-desconectarse
-Status: published
-Image: https://www.consumocolaborativo.com/wp-content/uploads/2013/08/introduccion_consumo.jpg
-
-::: categories
+---
+title: Compartir, otra forma de desconectarse
+date: 2013-01-14 02:14
+author: vokimon
+category: Campaña
+location: España
+tags: Recursos, Consumo Colaborativo
+slug: compartir-otra-forma-de-desconectarse
+status: published
+image: https://www.consumocolaborativo.com/wp-content/uploads/2013/08/introduccion_consumo.jpg
+---
 
 ::: figure http://www.consumocolaborativo.com/wp-content/uploads/2011/07/CC_logo_small.png right
 	Logo de "Consumo Colaborativo"

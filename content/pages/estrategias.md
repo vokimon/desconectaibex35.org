@@ -1,8 +1,10 @@
-Title: Estrategias
-Date: 2012-05-10 00:26
-Author: vokimon
-Slug: estrategias
-Status: published
+---
+title: Estrategias
+date: 2012-05-10 00:26
+author: vokimon
+slug: estrategias
+status: published
+---
 
 <center>
 <iframe width="480px" height="270px"

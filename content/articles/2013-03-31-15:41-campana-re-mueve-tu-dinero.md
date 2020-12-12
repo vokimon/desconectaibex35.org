@@ -1,14 +1,14 @@
-Title: Campaña Re-Mueve tu dinero
-Date: 2013-03-31 15:41
-Author: vokimon
-Category: Ahorro, Banca, Financiación
-Location: España
-Slug: campana-re-mueve-tu-dinero
-Status: published
-Image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Cajero_Banelco.jpg
-OriginalImage: http://remuevetudinero.net/files/2013/03/colaenelbanco-300x199.jpg
-
-::: categories
+---
+title: Campaña Re-Mueve tu dinero
+date: 2013-03-31 15:41
+author: vokimon
+category: Ahorro, Banca, Financiación
+location: España
+slug: campana-re-mueve-tu-dinero
+status: published
+image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Cajero_Banelco.jpg
+originalImage: http://remuevetudinero.net/files/2013/03/colaenelbanco-300x199.jpg
+---
 
 ::: figure https://upload.wikimedia.org/wikipedia/commons/a/ae/Cajero_Banelco.jpg right
 	Ciudadanos haciendo cola para retirar su dinero del banco.

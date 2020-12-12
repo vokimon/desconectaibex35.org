@@ -1,14 +1,14 @@
-Title: El 26 de Junio, 5 empresas decidiran en subasta qué pagaremos de luz
-Date: 2012-06-01 13:30
-Author: vokimon
-Category: Electricidad
-Tags: CMNV, Endesa, Iberdrola, Fenosa, HC, Eon, TUR
-Location: España
-Slug: el-26-de-junio-5-empresas-decidiran-en-subasta-que-pagaremos-de-luz
-Status: published
-Image: https://img.europapress.es/fotoweb/fotonoticia_20120601132908_640.jpg
-
-::: categories
+---
+title: El 26 de Junio, 5 empresas decidiran en subasta qué pagaremos de luz
+date: 2012-06-01 13:30
+author: vokimon
+category: Electricidad
+tags: CMNV, Endesa, Iberdrola, Fenosa, HC, Eon, TUR
+location: España
+slug: el-26-de-junio-5-empresas-decidiran-en-subasta-que-pagaremos-de-luz
+status: published
+image: https://img.europapress.es/fotoweb/fotonoticia_20120601132908_640.jpg
+---
 
 [Una noticia](http://www.europapress.es/economia/energia-00341/noticia-economia-energia-subasta-electrica-celebrara-26-junio-condicionara-revision-luz-julio-20120601132908.html) dada por Europa Press recuerda que el 26 de Junio se producirá la subasta que fijará el 50% de la Tarifa de Último Recurso (TUR) que pagamos la mayoría de consumidores que no estamos en el mercado libre. El otro 50% de la tarifa lo fijan los costes regulados del sistema eléctrico: los peajes de distribución y gestión que subieron un 23% en la última evaluación por presión de las electricas alegando el *deficit de tarifa* acomulado.
 

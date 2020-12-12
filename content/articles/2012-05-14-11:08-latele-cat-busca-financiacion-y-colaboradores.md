@@ -1,13 +1,13 @@
-Title: LaTele.cat busca financiación y colaboradores
-Date: 2012-05-14 11:08
-Author: vokimon
-Category: Televisión, Financiación
-Tags: Alternativa, Llamada, La Mosca TV, Goteo, Lanzanos
-Location: Barcelona
-Slug: latele-cat-busca-financiacion-y-colaboradores
-Status: published
-
-::: categories
+---
+title: LaTele.cat busca financiación y colaboradores
+date: 2012-05-14 11:08
+author: vokimon
+category: Televisión, Financiación
+tags: Alternativa, Llamada, La Mosca TV, Goteo, Lanzanos
+location: Barcelona
+slug: latele-cat-busca-financiacion-y-colaboradores
+status: published
+---
 
 El proyecto de televisión autogestionada [latele.cat](http://www.latele.cat) que emite en el canal 37 para Barcelona y cercanías,
 está buscando financiación y colaboradores.

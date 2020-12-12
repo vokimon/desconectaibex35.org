@@ -1,13 +1,13 @@
-Title: Participa: Borrador colaborativo para las alternativas a la banca
-Date: 2012-06-09 12:57
-Author: vokimon
-Category: Ahorro, Financiación
-Tags: OikoCredit, Accio Solidaria, Fidem, CASX
-Slug: participa-borrador-colaborativo-para-las-alternativas-a-la-banca
-Status: published
-Image: https://i.ytimg.com/vi/5IjtVwItoJg/hqdefault.jpg
-
-::: categories
+---
+title: Participa: Borrador colaborativo para las alternativas a la banca
+date: 2012-06-09 12:57
+author: vokimon
+category: Ahorro, Financiación
+tags: OikoCredit, Accio Solidaria, Fidem, CASX
+slug: participa-borrador-colaborativo-para-las-alternativas-a-la-banca
+status: published
+image: https://i.ytimg.com/vi/5IjtVwItoJg/hqdefault.jpg
+---
 
 ::: youtube 5IjtVwItoJg
 

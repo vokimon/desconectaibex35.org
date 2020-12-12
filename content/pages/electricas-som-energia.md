@@ -1,9 +1,11 @@
-Title: Electricas: Som Energia
-Date: 2012-05-11 22:20
-Author: vokimon
-Category: Electricidad
-Slug: electricas-som-energia
-Status: published
+---
+title: "Electricas: Som Energia"
+date: 2012-05-11 22:20
+author: vokimon
+category: Electricidad
+slug: electricas-som-energia
+status: published
+---
 
 [TOC]
 

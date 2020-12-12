@@ -1,13 +1,13 @@
-Title: ¿Por qué pagamos la energía más cara de Europa?
-Date: 2012-10-29 14:05
-Author: vokimon
-Category: Electricidad
-Location: España
-Tags: Monopolio, Privatización
-Slug: por-que-pagamos-la-energia-mas-cara-de-europa
-Status: published
-
-::: categories
+---
+title: ¿Por qué pagamos la energía más cara de Europa?
+date: 2012-10-29 14:05
+author: vokimon
+category: Electricidad
+location: España
+tags: Monopolio, Privatización
+slug: por-que-pagamos-la-energia-mas-cara-de-europa
+status: published
+---
 
 Un buen [artículo](http://www.cotizalia.com/opinion/disparate-economico/2012/10/29/por-que-pagamos-la-energia-mas-cara-de-europa-7614/%20 "Enlace al artículo")
 en cotizalia en el que un insider destripa la historia del sector energético en España

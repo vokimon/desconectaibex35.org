@@ -1,14 +1,14 @@
-Title: #Oligopoly 2: El imperio contra todos.
-Date: 2013-05-17 21:28
-Author: vokimon
-Category: Electricidad
-Tags: Jordi Évole, Alba del Campo, Ricard Jornet, Px1NME, Documental
-Location: España
-Slug: oligopoly-2-el-imperio-contra-todos
-Status: published
-Image: https://i.ytimg.com/vi_webp/E8_vSep6c_8/maxresdefault.webp
-
-::: categories
+---
+title: "#Oligopoly 2: El imperio contra todos."
+date: 2013-05-17 21:28
+author: vokimon
+category: Electricidad
+tags: Jordi Évole, Alba del Campo, Ricard Jornet, Px1NME, Documental
+location: España
+slug: oligopoly-2-el-imperio-contra-todos
+status: published
+image: https://i.ytimg.com/vi_webp/E8_vSep6c_8/maxresdefault.webp
+---
 
 La [Plataforma por un Nuevo Modelo Energético](http://www.nuevomodeloenergetico.org), creada hace unos meses por [colectivos y personas en sintonía con las renovables](http://www.nuevomodeloenergetico.org/pgs2/index.php/cada-vez-somos-mas/), estrenó el pasado 16 de mayo la continuación, en forma de documental, del programa que Salvados dedicó al oligopolio eléctrico [que ya anunciamos por aquí](http://desconexionibex35.org/blog/2012/11/16/salvados-oligopoly-juego-energia/).
 

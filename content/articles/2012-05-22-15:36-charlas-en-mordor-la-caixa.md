@@ -1,14 +1,14 @@
-Title: Charlas en Mordor (La Caixa): Alternativas a la gran Banca
-Date: 2012-05-22 15:36
-Author: vokimon
-Category: Ahorro, Banca, Financiación
-Tags: Charla, Acción, Enric Duran, Ada Colau, Mordor, CIC, PAH
-Location: España
-Slug: charlas-en-mordor-la-caixa
-Status: published
-Image: https://i.ytimg.com/vi/pbz0TEUq8b4/sddefault.jpg
-
-::: categories
+---
+title: "Charlas en Mordor (La Caixa): Alternativas a la gran Banca"
+date: 2012-05-22 15:36
+author: vokimon
+category: Ahorro, Banca, Financiación
+tags: Charla, Acción, Enric Duran, Ada Colau, Mordor, CIC, PAH
+location: España
+slug: charlas-en-mordor-la-caixa
+status: published
+image: https://i.ytimg.com/vi/pbz0TEUq8b4/sddefault.jpg
+---
 
 En las concentraciones que se están haciendo en sede central La Caixa en la avenida Diagonal de Barcelona ([La banca es Mordor](http://labancaesmordor.ourproject.org)) se estan haciendo algunas interesantes charlas en las que se presentan alternativas a los bancos.
 

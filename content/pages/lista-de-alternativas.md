@@ -1,9 +1,11 @@
-Title: Lista de alternativas
-Date: 2012-05-11 16:51
-Author: vokimon
-Category: Ahorro, Banca, Electricidad, Financiacion, Medios, Periódicos, Seguros, Telecomunicaciones, Televisión
-Slug: lista-de-alternativas
-Status: published
+---
+title: Lista de alternativas
+date: 2012-05-11 16:51
+author: vokimon
+category: Ahorro, Banca, Electricidad, Financiacion, Medios, Periódicos, Seguros, Telecomunicaciones, Televisión
+slug: lista-de-alternativas
+status: published
+---
 
 Esto es un esquema de los **sectores** en los que hemos detectado oligopolios y de las **alternativas** que hemos ido encontrado. Es una lista viva y seguro que incompleta, amplíala o complétala en los comentarios, enviándolo a info (algarroba) desconexionibex35.org o en la [wiki](/wiki). Iremos cubriendo cada alternativa con artículos más explicativos como los que ya hemos hecho sobre
 [Som Energia]({filename}/pages/electricas-som-energia.md),

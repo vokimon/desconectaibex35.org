@@ -1,14 +1,13 @@
-Title: Primera ficha: Som Energia
-Date: 2012-05-12 15:10
-Author: vokimon
-Category: Electricidad
-Tags: Alternativa, Som Energia
-Location: España
-Slug: primera-ficha-som-energia
-Status: published
-Cover: '/uploads/2012/05/somenergia_logo.jpg'
-
-::: categories
+title: "Primera ficha: Som Energia"
+date: 2012-05-12 15:10
+author: vokimon
+category: Electricidad
+tags: Alternativa, Som Energia
+location: España
+slug: primera-ficha-som-energia
+status: published
+cover: '/uploads/2012/05/somenergia_logo.jpg'
+---
 
 También hoy, para inaugurar la web,
 añadimos la [primera ficha] de la web:

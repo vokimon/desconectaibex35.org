@@ -1,8 +1,10 @@
-Title: Participa
-Date: 2012-05-11 23:54
-Author: vokimon
-Slug: colabora
-Status: published
+---
+title: Participa
+date: 2012-05-11 23:54
+author: vokimon
+slug: colabora
+status: published
+---
 
 Puedes participar de muchas maneras:
 

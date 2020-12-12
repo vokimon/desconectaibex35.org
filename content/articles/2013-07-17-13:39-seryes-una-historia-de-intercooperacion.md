@@ -1,14 +1,14 @@
-Title: SERYES - Una historia de intercooperación
-Date: 2013-07-17 13:39
-Author: vokimon
-Category: Seguros
-Location: España
-Tags: Seryes, Arç, Atlantis, Documental
-Slug: seryes-una-historia-de-intercooperacion
-Status: published
-Image: https://i.vimeocdn.com/video/438258862.jpg
-
-::: categories
+---
+title: SERYES, Una historia de intercooperación
+date: 2013-07-17 13:39
+author: vokimon
+category: Seguros
+location: España
+tags: Seryes, Arç, Atlantis, Documental
+slug: seryes-una-historia-de-intercooperacion
+status: published
+image: https://i.vimeocdn.com/video/438258862.jpg
+---
 
 La cooperativa de seguros [Seryes] publica un interesante vídeo que explica,
 desde su punto de vista,

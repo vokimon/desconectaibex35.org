@@ -1,16 +1,17 @@
-Title: Mercadona, ¿supermercados de confianza?
-Date: 2014-02-05 21:59
-Author: vokimon
-Category: Supermercados
-Location: España, Barcelona
-Tags: CoopMercat, Mercadona
-Slug: mercadona-supermercados-de-confianza
-Status: published
-Summary:
+---
+title: Mercadona, ¿supermercados de confianza?
+date: 2014-02-05 21:59
+author: vokimon
+category: Supermercados
+location: España, Barcelona
+tags: CoopMercat, Mercadona
+slug: mercadona-supermercados-de-confianza
+status: published
+summary:
 	Dos artículos sobre alimentación muy relacionados.
 	En uno Esther Vivas explica los impactos de Mercadona en las economías locales, en origen como en destino.
 	En el segundo, Mikel López Iturriaga informa sobre CoopMercat, una alternativa ética a la gran distribución.
-
+---
 
 :::categories
 

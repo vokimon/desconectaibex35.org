@@ -1,13 +1,12 @@
-Title: Facilitando las colaboraciones: nueva wiki
-Date: 2012-05-22 20:02
-Author: vokimon
-Category: Campaña, Banca
-Slug: facilitando-las-colaboraciones-nueva-wiki
-Status: published
-Image: https://upload.wikimedia.org/wikipedia/commons/8/81/Wikimedia-logo.svg
-
-::: categories
-
+---
+title: "Facilitando las colaboraciones: nueva wiki"
+date: 2012-05-22 20:02
+author: vokimon
+category: Campaña, Banca
+slug: facilitando-las-colaboraciones-nueva-wiki
+status: published
+image: https://upload.wikimedia.org/wikipedia/commons/8/81/Wikimedia-logo.svg
+---
 
 ::: important "Actualizacion 2020-05-30"
 	La wiki recibía muchos ataques y ha sido desactivada por seguridad.

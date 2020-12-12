@@ -1,13 +1,13 @@
-Title: Dos formas diferentes de ser una banca ética
-Date: 2012-05-24 13:34
-Author: vokimon
-Category: Ahorro, Banca, Financiación
-Tags: Fiare, La Caixa
-Slug: dos-formas-diferentes-de-ser-una-banca-etica
-Status: published
-Image: https://logos-download.com/wp-content/uploads/2016/12/Fiare_Banca_Etica_logo_logotipo.png
-
-::: categories
+---
+title: Dos formas diferentes de ser una banca ética
+date: 2012-05-24 13:34
+author: vokimon
+category: Ahorro, Banca, Financiación
+tags: Fiare, La Caixa
+slug: dos-formas-diferentes-de-ser-una-banca-etica
+status: published
+image: https://logos-download.com/wp-content/uploads/2016/12/Fiare_Banca_Etica_logo_logotipo.png
+---
 
 Hoy [Diagonal](http://www.diagonalperiodico.net/) da dos notícias que ilustran dos formas diametralmente opuestas de entender lo que es una banca ética.
 
@@ -16,3 +16,4 @@ Por un lado CaixaBank oferece una línia de inversión de [‘Fondos éticos’ 
 La otra noticia es que [la Banca Popolare Etica y Fiare sellan su compromiso](http://diagonalperiodico.net/La-Banca-Popolare-Etica-y-Fiare.html): Eso quiere decir que [Fiare](http://www.fiare.org/), futura Cooperativa de Credito con principios de inversión éticos, gracias al acuerdo con su hermana, ya establecida en Italia, [Banca Popolare Etica](http://es.wikipedia.org/wiki/Banca_Popolare_Etica). Este tipo de entidad garantizan que los depositarios decidan en asamblea que inversiones se consideran éticas.
 
 Puedes consultar el [borrador de la ficha de alternativas a la banca abusiva](http://desconexionibex35.org/wiki/index.php?title=Banca), que estamos elaborando de forma colaborativa en la wiki del proyecto. Puedes crear un usuario en la wiki y colaborar o enviar tus aportaciones a info (algarroba) desconexionibex35.org
+

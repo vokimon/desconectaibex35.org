@@ -1,14 +1,14 @@
-Title: Próximo Salvados: "Oligopoly, el juego de la energía". ¿Alternativas?
-Date: 2012-11-16 10:36
-Author: vokimon
-Category: Electricidad
-Tags: Somenergia, Documental, Jordi Évole
-Location: España
-Slug: salvados-oligopoly-juego-energia
-Status: published
-Image: https://i.ytimg.com/vi/ZXRVfA132w4/sddefault.jpg
-
-::: categories
+---
+title: 'Próximo Salvados: "Oligopoly, el juego de la energía". ¿Alternativas?'
+date: 2012-11-16 10:36
+author: vokimon
+category: Electricidad
+tags: Somenergia, Documental, Jordi Évole
+location: España
+slug: salvados-oligopoly-juego-energia
+status: published
+image: https://i.ytimg.com/vi/ZXRVfA132w4/sddefault.jpg
+---
 
 Atención al pròximo capítulo de Salvados. Hablan del [del sector energético](http://www.lasexta.com/programas/salvados/avances/consumidores-son-que-estan-pringando-tarifa-electrica_2012111500123.html): El porqué de las tarifas, la situación de oligopolio, la connivencia con el gobierno... Abajo algunas alternativas.
 

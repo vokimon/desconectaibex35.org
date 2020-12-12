@@ -1,10 +1,12 @@
-Title: Inicio del proyecto "Desconexion IBEX35"
-Date: 2012-05-12 12:58
-Author: vokimon
-Category: Campaña
-Location: España
-Slug: inicio-del-proyecto
-Status: published
+---
+title: Inicio del proyecto "Desconexion IBEX35"
+date: 2012-05-12 12:58
+author: vokimon
+category: Campaña
+location: España
+slug: inicio-del-proyecto
+status: published
+---
 
 ![Logo del proyecto]({static}/images/logo-desconexionibex35.svg){: width=100%}
 

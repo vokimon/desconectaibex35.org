@@ -1,14 +1,14 @@
-Title: Castigados sin publicidad de La Caixa
-Date: 2012-05-19 18:02
-Author: vokimon
-Category: Banca, Medios, Prensa, Televisión
-Tags: Cafe amb Llet, La Caixa, Denuncia, Directa, Diagonal, Sirius, Nació Digital, VilaWeb, Media.cat, Publico
-Location: Barcelona
-Slug: castigados-sin-publicidad-de-la-caixa
-Status: published
-Attachments: uploads/2012/05/caixarolada18m.jpg
-
-::: categories
+---
+title: Castigados sin publicidad de La Caixa
+date: 2012-05-19 18:02
+author: vokimon
+category: Banca, Medios, Prensa, Televisión
+tags: Cafe amb Llet, La Caixa, Denuncia, Directa, Diagonal, Sirius, Nació Digital, VilaWeb, Media.cat, Publico
+location: Barcelona
+slug: castigados-sin-publicidad-de-la-caixa
+status: published
+attachments: uploads/2012/05/caixarolada18m.jpg
+---
 
 ::: figure {static}/uploads/2012/05/caixarolada18m.jpg right
 	Cartel convocando #occupymordor

@@ -1,9 +1,11 @@
-Title: Del deficit de tarifa y el balance neto o de como las electricas nos roban
-Date: 2012-07-15 21:34
-Author: vokimon
-Category: Uncategorized
-Slug: del-deficit-de-tarifa-y-el-balance-neto-o-de-como-las-electricas-nos-roban
-Status: draft
+---
+title: Del deficit de tarifa y el balance neto o de como las electricas nos roban
+date: 2012-07-15 21:34
+author: vokimon
+category: Uncategorized
+slug: del-deficit-de-tarifa-y-el-balance-neto-o-de-como-las-electricas-nos-roban
+status: draft
+---
 
 Artículo interesante:
 

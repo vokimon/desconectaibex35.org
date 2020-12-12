@@ -1,10 +1,11 @@
-Title: 
-Date: 2012-05-12 12:58
-Author: vokimon
-Category: 
-Slug: landing-page-about-hidden
-Status: hidden
-
+---
+title: 
+date: 2012-05-12 12:58
+author: vokimon
+category: 
+slug: landing-page-about-hidden
+status: hidden
+---
 
 ![Logo de la campaña]({static}/images/logo-desconexionibex35.svg){: width=100% rel=ligthbox}
 

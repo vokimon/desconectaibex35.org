@@ -1,14 +1,14 @@
-Title: Ordago de Cafe amb Llet para ampliar su difusión a toda Cataluña
-Date: 2014-02-08 01:22
-Author: vokimon
-Category: Banca, Medios, Prensa
-Locations: Catalunya
-Tags: Cafe amb Llet, Albano Dante, Marta Sibina
-Slug: cafe-amb-llet-la-publicacion-con-mas-ejemplares-en-cataluna
-Status: published
-Image: https://dg9aaz8jl1ktt.cloudfront.net/the_files/25015/project_main_cover.jpg
-
-::: categories
+---
+title: Ordago de Cafe amb Llet para ampliar su difusión a toda Cataluña
+date: 2014-02-08 01:22
+author: vokimon
+category: Banca, Medios, Prensa
+locations: Catalunya
+tags: Cafe amb Llet, Albano Dante, Marta Sibina
+slug: cafe-amb-llet-la-publicacion-con-mas-ejemplares-en-cataluna
+status: published
+image: https://dg9aaz8jl1ktt.cloudfront.net/the_files/25015/project_main_cover.jpg
+---
 
 ::: verkami 7948-que-el-cafeambllet-arribi-a-tot-catalunya landscape
 

@@ -1,14 +1,14 @@
-Title: Documentos TV: Finanzas Éticas
-Date: 2012-12-31 14:11
-Author: vokimon
-Category: Ahorro, Banca, Financiación
-Location: España
-Tags: Fiare, Triodos, Coop57, Documental
-Slug: documentos-tv-financias-eticas
-Status: published
-Image: http://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG
-
-::: categories
+---
+title: "Documentos TV: Finanzas Éticas"
+date: 2012-12-31 14:11
+author: vokimon
+category: Ahorro, Banca, Financiación
+location: España
+tags: Fiare, Triodos, Coop57, Documental
+slug: documentos-tv-financias-eticas
+status: published
+image: http://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG
+---
 
 El dia 30 de diciembre se emitio en el programa Documentos TV un [documental sobre banca ética](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-finanzas-eticas/1629722/).
 

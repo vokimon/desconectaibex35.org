@@ -1,13 +1,13 @@
-Title: El siguiente paso: Redes eléctricas municipalizadas
-Date: 2013-12-29 15:46
-Author: vokimon
-Category: Electricidad
-Slug: el-siguiente-paso-redes-electricas-municipalizadas
-Status: published
-Tags: Christoph Grote, Energetisch, Som Energia, Goiener
-Image: https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg
-
-::: categories
+---
+title: "El siguiente paso: Redes eléctricas municipalizadas"
+date: 2013-12-29 15:46
+author: vokimon
+category: Electricidad
+slug: el-siguiente-paso-redes-electricas-municipalizadas
+status: published
+tags: Christoph Grote, Energetisch, Som Energia, Goiener
+image: https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg
+---
 
 ::: figure https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg right
 	Stefan Taschner, de Energetisch Berlin, y Christoph Grote, de Unser Netz- Unser Hamburg

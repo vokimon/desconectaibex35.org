@@ -1,10 +1,11 @@
-Title: Telecos: Guifi.net
-Date: 2012-05-13 01:27
-Author: vokimon
-Category: Telecomunicaciones
-Slug: telecos-guifi-net
-Status: published
-
+---
+title: "Telecos: Guifi.net"
+date: 2012-05-13 01:27
+author: vokimon
+category: Telecomunicaciones
+slug: telecos-guifi-net
+status: published
+---
 
 ### El mercado de las telecomunicaciones fijas
 

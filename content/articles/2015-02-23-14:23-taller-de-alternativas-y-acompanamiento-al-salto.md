@@ -1,14 +1,14 @@
-Title: Taller de alternativas y acompañamiento al salto
-Date: 2015-02-23 14:23
-Author: vokimon
-Category: Campaña
-Location: Baix Llobregat, Barcelona, Sant Joan Despí
-Tags: Campaña
-Slug: taller-de-alternativas-y-acompanamiento-al-salto
-Status: published
-Attachments: uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png
-
-::: categories
+---
+title: Taller de alternativas y acompañamiento al salto
+date: 2015-02-23 14:23
+author: vokimon
+category: Campaña
+location: Baix Llobregat, Barcelona, Sant Joan Despí
+tags: Campaña
+slug: taller-de-alternativas-y-acompanamiento-al-salto
+status: published
+attachments: uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png
+---
 
 ::: figure {static}/uploads/2015/02/2015-02-23-Cartell-AAVVElPi-XerradaTallerDesconnexio-2.png right
 	Cartel de la charla

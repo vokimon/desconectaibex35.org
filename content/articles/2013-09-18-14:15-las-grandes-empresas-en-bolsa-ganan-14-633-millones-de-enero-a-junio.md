@@ -1,11 +1,13 @@
-Title: Las grandes empresas en bolsa ganan 14.633 millones de enero a junio
-Date: 2013-09-18 14:15
-Author: vokimon
-Category: General
-Location: España
-Tags: Beneficios
-Slug: las-grandes-empresas-en-bolsa-ganan-14-633-millones-de-enero-a-junio
-Status: published
+---
+title: Las grandes empresas en bolsa ganan 14.633 millones de enero a junio
+date: 2013-09-18 14:15
+author: vokimon
+category: General
+location: España
+tags: Beneficios
+slug: las-grandes-empresas-en-bolsa-ganan-14-633-millones-de-enero-a-junio
+status: published
+---
 
 ::: figure http://upload.wikimedia.org/wikipedia/commons/8/80/IBEX_35.png style="max-width:90%"
 	Evolucion del índice IBEX-35

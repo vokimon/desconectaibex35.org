@@ -1,12 +1,12 @@
-Title: El decálogo Robin Hood en Yorokobu
-Date: 2013-09-18 09:54
-Author: vokimon
-Category: Campaña
-Location: España
-Slug: el-decalogo-robin-hood-en-yorokobu
-Status: published
-
-::: categories
+---
+title: El decálogo Robin Hood en Yorokobu
+date: 2013-09-18 09:54
+author: vokimon
+category: Campaña
+location: España
+slug: el-decalogo-robin-hood-en-yorokobu
+status: published
+---
 
 ::: figure https://upload.wikimedia.org/wikipedia/commons/5/5a/Robin-hood-and-maid-marion-01.png right
 	Ilustración de Robin Hood y Marian de un panfleto del siglo XVI
