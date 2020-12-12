@@ -140,6 +140,7 @@ PLUGINS=[
 	'extract_toc', # Aside responsive TOC
 	'tipue_search', # Search
 	'deadlinks', # complaint on deadlinks and provide archive.org versions
+	'pelican-yaml-metadata', # full yaml markdown metadata (https://github.com/pR0Ps/pelican-yaml-metadata)
 	#'assets', # join and minimize css and js
 ]
 

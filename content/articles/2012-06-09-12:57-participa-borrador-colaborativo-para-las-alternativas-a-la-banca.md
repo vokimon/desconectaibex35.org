@@ -1,5 +1,5 @@
 ---
-title: Participa: Borrador colaborativo para las alternativas a la banca
+title: "Participa: Borrador colaborativo para las alternativas a la banca"
 date: 2012-06-09 12:57
 author: vokimon
 category: Ahorro, Financiación

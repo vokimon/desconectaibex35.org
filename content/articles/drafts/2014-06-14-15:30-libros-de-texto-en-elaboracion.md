@@ -1,7 +1,8 @@
-Title: Libros de Texto (borrador)
-Date: 2014-06-14 15:30
-Author: vokimon
-Slug: libros-de-texto-en-elaboracion
-Status: draft
-
+---
+title: Libros de Texto (borrador)
+date: 2014-06-14 15:30
+author: vokimon
+slug: libros-de-texto-en-elaboracion
+status: draft
+---
 

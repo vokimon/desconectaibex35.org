@@ -7,10 +7,10 @@ location: España, Barcelona
 tags: CoopMercat, Mercadona
 slug: mercadona-supermercados-de-confianza
 status: published
-summary:
-	Dos artículos sobre alimentación muy relacionados.
-	En uno Esther Vivas explica los impactos de Mercadona en las economías locales, en origen como en destino.
-	En el segundo, Mikel López Iturriaga informa sobre CoopMercat, una alternativa ética a la gran distribución.
+summary: |
+  Dos artículos sobre alimentación muy relacionados.
+  En uno Esther Vivas explica los impactos de Mercadona en las economías locales, en origen como en destino.
+  En el segundo, Mikel López Iturriaga informa sobre CoopMercat, una alternativa ética a la gran distribución.
 ---
 
 :::categories
