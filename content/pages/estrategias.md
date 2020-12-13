@@ -3,8 +3,8 @@ title: Estrategias
 date: 2012-05-10 00:26
 author: vokimon
 slug: estrategias
-status: published
 category: Campaña
+status: published
 ---
 
 <center>

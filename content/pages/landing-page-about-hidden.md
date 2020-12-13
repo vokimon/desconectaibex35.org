@@ -2,7 +2,7 @@
 title: 
 date: 2012-05-12 12:58
 author: vokimon
-category: 
+category: Campaña
 slug: landing-page-about-hidden
 status: hidden
 ---

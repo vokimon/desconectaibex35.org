@@ -3,7 +3,7 @@ title: "Sector: Electricidad"
 author: vokimon
 slug: sector-electricidad
 date: 2012-05-10 00:40
-category: electricidad
+category: Electricidad
 status: published
 meta:
   highlights:
