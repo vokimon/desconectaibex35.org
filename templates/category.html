@@ -28,31 +28,31 @@
 
 {% block content %}
 
-{% set articlepage = pages | selectattr('slug', 'equalto', 'sector-'+category.slug) | first | default("No extra info") %}
-
-{% for page in pages %}
-- {{ page.slug }}
-{% endfor %}
+{% set page = pages | selectattr('slug', 'equalto', 'sector-'+category.slug) | first | default("No extra info") %}
 
 <section class="section hero is-bold is-small">
 
   <div class="hero-header">
 		<div class="container">
-			<p class="subtitle is-3 image is-64x64">
-				<img src="/images/categories/{{category.slug}}.png">
-			</p>
-			<h1 class="title is-1">Sector: {{category.name}}</h1>
-
-			<div class="content">
-					{{articlepage.summary}}
-			</div>
+			<div class= columns is-centered is-multiline">
+				<div class="column is-6">
+					<h1 class="title is-1">Sector: {{category.name}}</h1>
+					<p class="subtitle is-3 image is-64x64">
+						<img src="/images/categories/{{category.slug}}.png">
+					</p>
+				</div>
+				<div class="column is-6">
+					<div class="notification is-light">
+							{{page.summary}}
+					</div>
+				</div>
 		</div>
 	</div>
 
-	{% if articlepage and articlepage.meta and articlepage.meta.highlights %}
+	{% if page and page.meta and page.meta.highlights %}
 	<div class="container">
 		<div class="columns is-centered is-multiline">
-			{% for highlight in articlepage.meta.highlights | default([]) %}
+			{% for highlight in page.meta.highlights | default([]) %}
 			<div class="column">
 				<div class="box has-background-light">
 					<h1 class="title">{{ highlight.title }}</h1>
@@ -74,17 +74,45 @@
 
 </section>
 
-<section class="section is-bold is-small">
-	<div class="container">
-		<div class="columns is-centered is-multiline">
-			<div class="column">
-				<div class="content">
-						{{articlepage.content}}
+{% if page and page.meta and page.meta.alternatives %}
+<section id="section_sectors" class="section sectors has-background-info-light has-text-info">
+  {% for group in page.meta.alternatives %}
+		<div class="container">
+				<h1 class="title">
+					{{ group.title }}
+				</h1>
+				<h3 class="subtitle">
+					{{ group.subtitle }}
+				</h3>
+				<div class="columns is-multiline is-centered">
+					{% for project in group.projects %}
+					<div class="column is-one-third">
+						<a href="{{ project.url }}">
+							<div class="box">
+								<article class="media">
+									<figure class="media-left">
+										<p class="image" style="width: 128px">
+											<img alt=Logo src="{{ project.logo }}" />
+										</p>
+									</figure>
+									<div class="media-content">
+										<h1 class="title is-5">
+										{{ project.title }}
+										</h1>
+										<div class="is-primary is-light">
+										{{ project.subtitle }}
+										</div>
+									</div>
+								</article>
+							</div>
+						</a>
+					</div>
+					{% endfor %}
 				</div>
-			</div>
 		</div>
-	</div>
+  {% endfor %}
 </section>
+{% endif %}
 
 {% from '_includes/_defaults.html' import RECENT_ARTICLES_COUNT, ARCHIVES_URL with context %}
 
@@ -124,7 +152,7 @@
 
 <section id="section_news" class="section blog-posts">
 	<div class="container">
-		<h1 class="title">Noticias</h1>
+		<h1 class="title">Noticias - {{category.name}}</h1>
 		<div class="columns">
 			<div class="column is-10 is-offset-1">
 				<div class="columns featured-post is-multiline card">
