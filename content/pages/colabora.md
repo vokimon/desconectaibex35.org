@@ -1,9 +1,10 @@
 ---
-title: Participa
+title: Colabora
 date: 2012-05-11 23:54
 author: vokimon
 slug: colabora
 status: published
+category: Campaña
 ---
 
 Puedes participar de muchas maneras:

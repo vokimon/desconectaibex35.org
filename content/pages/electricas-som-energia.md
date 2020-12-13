@@ -11,9 +11,6 @@ status: published
 
 ### El mercado eléctrico español
 
-[![Electricidad]({static}/uploads/2012/05/ktip.png "Electricidad")]({category}/Electricidad})
-{: width="64" heigth="auto" style="float:right;margin-left:3ex" }
-
 El sector eléctrico era un monopolio público que tras los procesos de privatización y posterior liberalización ha dejado un mercado organizado de la siguiente manera:
 
 -   **Transporte:** La red troncal de energía, la alta tensión, que sigue siendo monopolio de una empresa ([Red Electrica de España](http://es.wikipedia.org/wiki/Red_El%C3%A9ctrica_de_Espa%C3%B1a)) que mantiene un fuerte componente público.
@@ -21,7 +18,7 @@ El sector eléctrico era un monopolio público que tras los procesos de privatiz
 -   **Producción:**Son las empresas que generan energia y la vuelcan a la red. Este sector está liberalizado pero hay un alto componente de gran producción (nucleares, térmicas, hidroeléctricas...) que pertenecen a filiales de las distribuidoras privatizadas.
 -   **Comercialización:** Es la empresa que te hace la factura, compra la energia a las productoras, paga peajes y alquileres de contadores a las distribuidora y ofrece una tarifa final al consumidor.
 
-Más informacion en [Wikipedia: Agentes del mercado español de energia](http://es.wikipedia.org/wiki/Agentes_del_mercado_espa%C3%B1ol_de_energ%C3%ADa_el%C3%A9ctrica))
+Más informacion en [Wikipedia: Agentes del mercado español de energia](http://es.wikipedia.org/wiki/Agentes_del_mercado_espa%C3%B1ol_de_energ%C3%ADa_el%C3%A9ctrica)
 
 Pendiente de explicar: TUR, Deficit de tarifa, regimen especial, puertas giratorias del sector
 

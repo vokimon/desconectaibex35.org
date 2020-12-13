@@ -4,7 +4,10 @@ date: 2012-05-10 00:40
 author: vokimon
 slug: la-idea
 status: published
+category: Campaña
 ---
+
+[TOC]
 
 <center>
 <iframe width="480px" height="270px"

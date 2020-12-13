@@ -4,6 +4,7 @@ date: 2012-05-10 00:26
 author: vokimon
 slug: estrategias
 status: published
+category: Campaña
 ---
 
 <center>
@@ -78,4 +79,7 @@ La otra pata que sustenta los oligopolios es el propio desgobierno. El poder eco
 -   **Agotar recursos a instancias superiores:** El camino legal es posible, hoy en dia la instancia judicial más alta no es el tribunal constitucional, si no el tribunal de Estrasburgo. Gran parte de la legislación que se genera actualmente no es más que una adaptación de una directiva europea y mucha legislación nacional esta en conflicto con la europea.
 
 De cara a pensar una estrategia contra un entorno legal adverso puede ser muy inspirador escuchar esta charla de Josep Jover, el abogado que llevo el canon de la SGAE a Bruselas y ganó. (En catalán)  
-`<iframe src="http://www.youtube.com/embed/Phbz_AVjO-I" frameborder="0" width="640" height="390">`{=html}`</iframe>`{=html}
+
+::: youtube Phbz_AVjO-I
+
+
