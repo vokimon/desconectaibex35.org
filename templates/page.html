@@ -1,0 +1,152 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ page.title|striptags|e }} {% if page.subtitle %} - {{ page.subtitle|striptags|e }} {% endif %} · {{ super() }}
+{% endblock title %}
+
+{% block head_description %}
+{% if page.summary %}
+{{ page.summary|striptags|e }}
+{% endif %}
+{% endblock head_description %}
+
+{% block meta_tags_in_head %}
+{% if page.redirect %}
+<meta http-equiv="refresh" content="0;URL={{ page.redirect }}" />
+{% endif %}
+{{ super() }}
+{% if page.tags or page.category or page.keywords %}
+<meta name="keywords" content="{{ (
+	(page.tags | default([]))  +
+	(page.categories | default([page.category] if page.category else []) ) +
+	([page.keywords] if page.keywords else [])
+	) | join(', ') }}" />
+{% endif %}
+
+{% from '_includes/smo_metadata.html' import smo_metadata with context %}
+{{ smo_metadata(page) }}
+{% endblock meta_tags_in_head %}
+
+{% block head_links %}
+{{ super() }}
+{% include '_includes/photos_header.html' %}
+{% endblock head_links %}
+
+{% block content %}
+<section class="section">
+<div class="container">
+<page itemscope>
+	<div class="columns">
+		<header class="page-header column is-10 is-offset-2">
+			<h1 class="title">
+				{{ page.title }}
+				{% if page.subtitle %}
+				<small class="subtitle">
+					{{ page.subtitle }}
+				</small>
+				{% endif %}
+			</h1>
+		</header>
+	</div>
+
+	<div class="columns">
+		{% if page.toc %}
+		<div class="column is-2 table-of-content">
+			<nav>
+				<h4>Contents</h4>
+				{{ page.toc }}
+			</nav>
+		</div>
+		<div class="column is-8 article-content">
+		{% else %}
+		<div class="column is-8 is-offset-2 article-content">
+		{% endif %}
+			{% import '_includes/translations.html' as translations with context %}
+			{{ translations.translations_for(page) }}
+			<div class='content'>
+				{{ page.content }}
+			</div>
+
+			{% if page.photo_gallery %}
+			<div class="gallery">
+				{% for title, gallery in page.photo_gallery %}
+				<h1>{{ title }}</h1>
+				{% for name, photo, thumb, exif, caption in gallery %}
+				<a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img
+					src="{{ SITEURL }}/{{ thumb }}"></a>
+				{% endfor %}
+				{% endfor %}
+			</div>
+			{% endif %}
+
+			{% from '_includes/applause_button.html' import applause_button with context %}
+			{{ applause_button(page) }}
+			{% from '_includes/share_links.html' import share_links with context %}
+			{{ share_links(page) }}
+			{% from '_includes/article_author.html' import article_author with context %}
+			{{ article_author(page) }}
+			{% from '_includes/comments.html' import comments_section with context %}
+			{{ comments_section(page) }}
+			{# {% include '_includes/related_posts.html' with context %} #}{# TODO: port from articles to pages #}
+		</div>
+		<section id="article-sidebar" class="column is-2">
+			{# {% include '_includes/post_stats.html' %} #} {# TODO: migrate from article to page #}
+			{#
+			{% if page.date %}
+				<section class="article-date" title="Fecha de publicación">
+					<time itemprop="dateCreated" datetime="{{ page.date.isoformat() }}">
+					{{ page.locale_date }}
+					</time>
+				</section>
+			{% endif %}
+			#}
+			{# {% include '_includes/last_updated.html' %} #} {# TODO: migrate from article to page #}
+			{# {% include '_includes/series.html' %} #} {# TODO: migrate from article to page #}
+			{% if page.category|trim|count > 0 %}
+				<section class="article-sectors">
+					{% for category in page.categories or [page.category] %}
+					<div class="sector">
+						<a class="category-link" href="{{ SITEURL }}/{{ category.url }}">
+							<span class="image is-64x64">
+								<img alt="{{category}}" src="{{ SITEURL }}/images/categories/{{ category | lower }}.png" />
+							</span>
+						</a>
+						<a class="category-link" href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
+					</div>
+					{% endfor %}
+				</section>
+			{% endif %}
+			{% if page.tags and page.tags[0]|trim|count > 0 %}
+			{% from '_includes/_defaults.html' import TAGS_URL with context %}
+			<section class="article-tags">
+				<ul class="list-of-tags tags-in-article">
+					{% for tag in page.tags|sort %}
+					<li class="tag"><a href="{{ SITEURL }}/{{ TAGS_URL }}#{{ tag.slug }}-ref">{{ tag }}
+						{% for aTag, tagged_articles in tags if aTag == tag %}
+						<span class="superscript">{{ tagged_articles|count }}</span>
+						{% endfor %}</a></li>
+					{% endfor %}
+				</ul>
+			</section>
+			{% endif %}
+			{#% include '_includes/social_links.html' %#}
+			{% from '_includes/mailchimp.html' import mailchimp with context %}
+			{{ mailchimp(page) }}
+			{% from '_includes/freelists.html' import freelists with context %}
+			{{ freelists(page) }}
+		</section>
+	</div>
+</article>
+</div>
+</section>
+{% include '_includes/photoswipe.html' %}
+{% endblock content %}
+
+{% block script %}
+	{{ super() }}
+	{% from '_includes/comments.html' import comments_script with context %}
+	{{ comments_script() }}
+	{% include '_includes/photos_footer.html' %}
+{% endblock script %}
+<!-- vim: noet ts=2 sw=2
+-->
