@@ -1,0 +1,18 @@
+- [ ] Cambiar rutas blog/wp-content
+- [x] Article: date
+- [x] Article: categories as icons
+- [x] Article: title line colora
+- [x] Article: tags
+- [x] Category: link to the concrete category page
+- [x] Use https://github.com/joachimneu/pelican-md-metayaml for metadata
+- [x] Main: News miniatures image and title link to the article
+- [x] Main: Categories links on main page
+- [x] Page: Template
+- [x] Enlace a los motivos
+- [ ] Estilo para el TOC
+- [ ] Article: footer
+- [ ] Article: fix gallery
+- [ ] youtube: Margen debajo
+- [ ] Social: Crear Twitter
+- [ ] Social: Crear Mastodon
+

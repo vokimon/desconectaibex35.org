@@ -56,17 +56,20 @@ LINKS = (
 
 MENUITEMS=(
 	('Proyecto', (
-        ('Motivación', ''),
-        ('Estrategia', ''),
-        ('Colabora', ''),
+        ('Motivación', 'la-idea/'),
+        ('Estrategia', 'estrategias/'),
+        ('Colabora', 'colabora/'),
     )),
+    ('Sectores', "#section_sectors"),
+    ('Noticias', "#section_news"),
 	('Información', (
-        ("Quienes somos", ''),
-        ("Recursos", ''),
-        ("Créditos", ''),
+        ("Alternativas", 'lista-de-alternativas'),
+        ("Telecos: Guifi.net", 'telecos-guifi-net'),
+        ("Electricas: Som energia", 'electricas-som-energia'),
+#        ("Quienes somos", ''),
+#        ("Recursos", ''),
+#        ("Créditos", ''),
     )),
-    ('Sectores', "/#section_sectors"),
-    ('Noticies', "/#section_news"),
 )
 VOKIBLOG_SITELOGO = 'images/desconexionibex35-logo-black.png'
 VOKIBLOG_BANNER = "images/logo-desconexionibex35.svg"
@@ -108,9 +111,9 @@ VOKIBLOG_HIGHLIGHTS = (
 VOKIBLOG_SOCIAL = (
 #	('eMail', '', 'has-text-light-grey', "fas fa-envelope"),
 	('Feed RSS', FEED_ALL_ATOM, 'has-text-danger', 'fas fa-rss'),
-	('Mastodon', '', 'has-text-primary','fab fa-mastodon'),
+#	('Mastodon', '', 'has-text-primary','fab fa-mastodon'),
 	('Facebook', 'https://www.facebook.com/DesconexionIBEX35', 'has-text-link', 'fab fa-facebook'),
-	('Twitter', '', 'has-text-primary','fab fa-twitter'),
+#	('Twitter', '', 'has-text-primary','fab fa-twitter'),
 	('GitHub', 'http://github.com/vokimon/desconectaibex35.org', 'has-text-dark', 'fab fa-github'),
 )
 
