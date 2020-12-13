@@ -3,7 +3,14 @@ title: El 26 de Junio, 5 empresas decidiran en subasta qué pagaremos de luz
 date: 2012-06-01 13:30
 author: vokimon
 category: Electricidad
-tags: CMNV, Endesa, Iberdrola, Fenosa, HC, Eon, TUR
+tags:
+- CMNV
+- Endesa
+- Iberdrola
+- Fenosa
+- HC
+- Eon
+- TUR
 location: España
 slug: el-26-de-junio-5-empresas-decidiran-en-subasta-que-pagaremos-de-luz
 status: published

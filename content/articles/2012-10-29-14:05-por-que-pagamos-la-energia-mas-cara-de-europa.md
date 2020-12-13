@@ -4,7 +4,9 @@ date: 2012-10-29 14:05
 author: vokimon
 category: Electricidad
 location: España
-tags: Monopolio, Privatización
+tags:
+- Monopolio
+- Privatización
 slug: por-que-pagamos-la-energia-mas-cara-de-europa
 status: published
 ---

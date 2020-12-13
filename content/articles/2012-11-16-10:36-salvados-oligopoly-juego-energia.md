@@ -3,7 +3,10 @@ title: 'Próximo Salvados: "Oligopoly, el juego de la energía". ¿Alternativas?
 date: 2012-11-16 10:36
 author: vokimon
 category: Electricidad
-tags: Somenergia, Documental, Jordi Évole
+tags:
+- Somenergia
+- Documental
+- Jordi Évole
 location: España
 slug: salvados-oligopoly-juego-energia
 status: published

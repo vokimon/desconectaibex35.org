@@ -4,7 +4,9 @@ date: 2014-02-05 21:59
 author: vokimon
 category: Supermercados
 location: España, Barcelona
-tags: CoopMercat, Mercadona
+tags:
+- CoopMercat
+- Mercadona
 slug: mercadona-supermercados-de-confianza
 status: published
 summary: |

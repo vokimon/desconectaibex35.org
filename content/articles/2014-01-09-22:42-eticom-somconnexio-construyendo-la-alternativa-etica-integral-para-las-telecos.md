@@ -4,7 +4,9 @@ date: 2014-01-09 22:42
 author: vokimon
 category: Telecomunicaciones
 locations: Baix Llobregat, Barcelona, Barcelonés, Bilbo, Catalunya, El Prat de Llobregat, España, Euskadi, Mungia, Rubí, Sant Joan Despí
-tags: Som Connexio, GuifiBaix
+tags:
+- Som Connexio
+- GuifiBaix
 slug: eticom-somconnexio-construyendo-la-alternativa-etica-integral-para-las-telecos
 status: published
 attachments: uploads/2014/01/FlyerPReticomScnxio.jpg

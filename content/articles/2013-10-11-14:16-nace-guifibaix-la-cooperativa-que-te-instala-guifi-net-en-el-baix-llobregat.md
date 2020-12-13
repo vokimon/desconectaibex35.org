@@ -3,7 +3,9 @@ title: Nace GuifiBaix, la cooperativa que te instala Guifi.net en el Baix Llobre
 date: 2013-10-11 14:16
 author: vokimon
 category: Telecomunicaciones
-tags: GuifiBaix, GATS
+tags:
+- GuifiBaix
+- GATS
 locations: Baix Llobregat, El Prat de Llobregat, Sant Joan Despí
 slug: nace-guifibaix-la-cooperativa-que-te-instala-guifi-net-en-el-baix-llobregat
 status: published

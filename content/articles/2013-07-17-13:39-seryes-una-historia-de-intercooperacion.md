@@ -4,7 +4,11 @@ date: 2013-07-17 13:39
 author: vokimon
 category: Seguros
 location: España
-tags: Seryes, Arç, Atlantis, Documental
+tags:
+- Seryes
+- Arç
+- Atlantis
+- Documental
 slug: seryes-una-historia-de-intercooperacion
 status: published
 image: https://i.vimeocdn.com/video/438258862.jpg

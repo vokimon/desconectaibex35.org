@@ -3,7 +3,9 @@ title: Cómo vestir sin mano de obra esclava
 date: 2013-10-16 07:25
 author: vokimon
 category: Ropa
-tags: Setem, Recursos
+tags:
+- Setem
+- Recursos
 location: España
 slug: como-vestir-sin-mano-de-obra-esclava
 status: published

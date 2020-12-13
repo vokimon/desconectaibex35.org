@@ -4,7 +4,11 @@ date: 2012-12-31 14:11
 author: vokimon
 category: Ahorro, Banca, Financiación
 location: España
-tags: Fiare, Triodos, Coop57, Documental
+tags:
+- Fiare
+- Triodos
+- Coop57
+- Documental
 slug: documentos-tv-financias-eticas
 status: published
 image: http://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG

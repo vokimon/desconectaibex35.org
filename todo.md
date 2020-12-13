@@ -9,6 +9,7 @@
 - [x] Main: Categories links on main page
 - [x] Page: Template
 - [x] Enlace a los motivos
+- [ ] Tags page template
 - [ ] Support multicategories in pages
 - [ ] Estilo para el TOC
 - [ ] Article: footer

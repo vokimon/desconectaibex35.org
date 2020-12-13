@@ -4,7 +4,8 @@ date: 2013-05-24 16:15
 author: vokimon
 category: Electricidad
 location: España
-tags: Som Energia
+tags:
+- Som Energia
 slug: asamblea-general-de-somenergia-2013
 status: published
 attachments: uploads/2013/05/somenergia-assemblea.jpg

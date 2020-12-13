@@ -4,7 +4,8 @@ date: 2015-11-04 15:04
 author: vokimon
 category: Ahorro, Banca, Financiación
 location: España, Barcelona
-tags: Coop57
+tags:
+- Coop57
 slug: video-la-historia-de-coop57
 status: published
 image: https://i.ytimg.com/vi_webp/AUSdOaRNtjk/maxresdefault.webp

@@ -3,7 +3,14 @@ title: "Charlas en Mordor (La Caixa): Alternativas a la gran Banca"
 date: 2012-05-22 15:36
 author: vokimon
 category: Ahorro, Banca, Financiación
-tags: Charla, Acción, Enric Duran, Ada Colau, Mordor, CIC, PAH
+tags:
+- Charla
+- Acción
+- Enric Duran
+- Ada Colau
+- Mordor
+- CIC
+- PAH
 location: España
 slug: charlas-en-mordor-la-caixa
 status: published

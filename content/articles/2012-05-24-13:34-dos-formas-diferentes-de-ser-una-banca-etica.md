@@ -3,7 +3,9 @@ title: Dos formas diferentes de ser una banca ética
 date: 2012-05-24 13:34
 author: vokimon
 category: Ahorro, Banca, Financiación
-tags: Fiare, La Caixa
+tags:
+- Fiare
+- La Caixa
 slug: dos-formas-diferentes-de-ser-una-banca-etica
 status: published
 image: https://logos-download.com/wp-content/uploads/2016/12/Fiare_Banca_Etica_logo_logotipo.png

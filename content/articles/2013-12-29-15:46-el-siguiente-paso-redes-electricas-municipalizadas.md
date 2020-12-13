@@ -5,7 +5,11 @@ author: vokimon
 category: Electricidad
 slug: el-siguiente-paso-redes-electricas-municipalizadas
 status: published
-tags: Christoph Grote, Energetisch, Som Energia, Goiener
+tags:
+- Christoph Grote
+- Energetisch
+- Som Energia
+- Goiener
 image: https://www.tagesspiegel.de/images/taschner-dpa/9023258/3-format43.jpg
 ---
 

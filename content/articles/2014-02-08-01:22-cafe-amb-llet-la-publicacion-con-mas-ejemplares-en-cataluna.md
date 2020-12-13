@@ -4,7 +4,10 @@ date: 2014-02-08 01:22
 author: vokimon
 category: Banca, Medios, Prensa
 locations: Catalunya
-tags: Cafe amb Llet, Albano Dante, Marta Sibina
+tags:
+- Cafe amb Llet
+- Albano Dante
+- Marta Sibina
 slug: cafe-amb-llet-la-publicacion-con-mas-ejemplares-en-cataluna
 status: published
 image: https://dg9aaz8jl1ktt.cloudfront.net/the_files/25015/project_main_cover.jpg

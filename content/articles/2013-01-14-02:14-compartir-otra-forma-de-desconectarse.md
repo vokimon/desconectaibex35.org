@@ -4,7 +4,9 @@ date: 2013-01-14 02:14
 author: vokimon
 category: Campaña
 location: España
-tags: Recursos, Consumo Colaborativo
+tags:
+- Recursos
+- Consumo Colaborativo
 slug: compartir-otra-forma-de-desconectarse
 status: published
 image: https://www.consumocolaborativo.com/wp-content/uploads/2013/08/introduccion_consumo.jpg
