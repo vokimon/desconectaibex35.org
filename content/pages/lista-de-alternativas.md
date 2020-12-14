@@ -32,7 +32,22 @@ Iremos cubriendo cada alternativa con artículos más explicativos como los que 
 -   Agua
 -   Transporte diario: Bici, sharing,[T11](http://t11targeta.blogspot.com.es/), [memetro](http://www.memetro.net)...
 -   Transporte largas distáncias
--   Seguros: [Arç](http://www.arccoop.coop) (cooperativa de seguros y servicios), [Atlantis](http://www.atlantis-seguros.es) (Asseguradora ètica? Necesitamos más información)
+-   Seguros:
+    - [EthSI](http://ethsi.net/es/) Sello Europeo de calidad para los seguros éticos.
+        - E3: Responsabilidad laboral, económica y ambiental. Transparència.
+        - E2: Añade gobernanza democrática y un comité ético
+        - E1: Añade finanzas éticas
+    - Corredurías de seguros éticos
+        - [Arç](http://www.arccoop.coop) (E1)
+        - [Seryes](https://www.seryes.com) (E1)
+        - [CAES - Cooperación para el Aseguramiento Ético y Solidario](https://caes.coop) La associación española de seguros éticos. (Incluye Arç y Seryes)
+    - Aseguradoras de seguros éticos
+        - [Atlantis](http://www.atlantis-seguros.es) (E2)
+            - Ojo: La absorvió Assurances du Crédit Mutuel (Grupo ACM), que también absorvió hace poco Cofidis, financiadora que hasta ahora no era demasiado ética
+        - [Nortlan](http://www.nortlan.com/) (E2)
+        - [Previsora General(https://www.previsorageneral.com) (E2) Salud, responsabilidad civil, decesos...
+        - [Lagun Aro](https://www.seguroslagunaro.com/) (E3) cooperativa del grupo Mondragon
+        - [Mútua Cat](https://www.mutuacat.cat) (E3) Seguro de salud (EthSI) Antigua Mútua Manresana
 -   Medios de comunicación:
     -   Existentes:
         -   [la mosca.tv](http://lamosca.tv) Una tele alternativa
