@@ -11,7 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=desconexionibex35.org
 SSH_PORT=22
 SSH_USER=dgarcia
-SSH_TARGET_DIR=/home/dgarcia/desconexionibex35.org/new
+SSH_TARGET_DIR=/home/dgarcia/desconexionibex35.org-new/
 
 GITHUB_PAGES_BRANCH=ghpages
 
