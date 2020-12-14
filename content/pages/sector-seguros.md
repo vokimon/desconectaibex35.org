@@ -89,54 +89,51 @@ meta:
 [TOC]
 
 El seguro tiene la loable **función social** de **reducir la desigualdad**
-que se genera cuando se producen hechos **poco probables**, **los siniestros**.
-Esta función la puede cubrir la **solidaridad**:
+que se genera cuando se producen hechos **poco probables**,
+en lenguage del sector, **los siniestros**.
+Esta misma función la puede cubrir la **solidaridad**:
 Las personas de la comunidad cubren a la persona en desgracia.
 Para poder cubrir desgracias mayores,
 ya es necesario establecer fondos de **solidaridad**.
-Serían las **mutualidades** a las que se le pagan las **cuotas**.
-Otra forma diferente de cubrir el riesgo es que una **persona con capital suficiente**
-se comprometa a cubrirlo, a cambio, **se quedaría las cuotas** que irían al fondo de solidaridad.
-De esas cuotas se extrae el beneficio.
-Estas dos formas, la mútua y la capitalista, han convivido a lo largo de la historia
-pero las sucesivas legislaciones han lapidado su lado solidario
-y hoy en día cuesta diferenciar entre una
-mútua y una aseguradora capitalista.
-Una aseguradora capitalista quiere **generar dividendos** para sus accionistas
-y eso se consigue haciendo cosas que no son muy éticas
-**poner excusas para evitar atender siniestros**,
-**cobrar la máxima cuota que acepte el mercado**,
+Esto serían las **mutualidades** a las que se le pagan las **cuotas**.
+Otra forma diferente de cubrir el riesgo es que una **persona o entidad con capital suficiente**
+se comprometa a cubrirlo, a cambio, **se quedaría las cuotas** que en una mutualidad irían al fondo de solidaridad.
+De esas cuotas una parte iría a la reserva para cubrir eventuales siniestros
+y la otra a gastos y generar beneficio que es lo que motiva al capitalista a hacer esta función.
+La motivación capitalista por **generar dividendos** para sus accionistas
+puede acabar derivando en cosas poco éticas como
+**evitar atender siniestros**,
+**cobrar la máxima cuota que acepte el mercado haga o no falta para cubrir los siniestros**,
 o **invertir el fondo de reserva en actividades contaminantes o belicistas**.
 
-Formulas de solidaridad alternativa pueden suplir los seguros.
+Estas dos formas de atender siniestros, la mutualista y la capitalista,
+han convivido a lo largo de la historia
+pero la cercanía de las organizaciones solidarias con el movimiento obrero
+generó reacción en forma de reformas legislativas que fueron lapidando su lado solidario.
+Hoy en día, las llamadas Mútuas, poco se diferencian de una aseguradora capitalista.
+
+Fórmulas de solidaridad alternativa pueden suplir los seguros.
 Algunos seguros (viajes, decesos, hogar...) puedes escoger tomarlos o no a tu riesgo.
-Pero hay algunos que tienes que tomarlos por ley: vehiculos, responsabilidad civil...
-
-Las entidades aseguradoras han pervertido lo que llegaron a ser las Mutuas.
-Las mutualidades unían a diferentes personas,
-normalmente humildes para hacer frente a situaciones inexperadas como un entierro o un incendio.
-Como este tipo de asociaciones formaban parte del movimiento obrero se las persiguió.
-Tras muchos cambios legislativos, a lo largo del siglo,
-las mútuas son apenas una empresa de seguros más.
-
+Pero hay algunos que tienes que tomarlos por ley: vehículos, responsabilidad civil...
+Para esas obligaciones legales podemos optar por seguros éticos.
 
 ## Historia
 
 Las mutualidades surgieron en el siglo XVIII, en Gran Bretaña,
 con la Revolucion Industrial.
 Diferentes personas se unían para poder hacer frente a los gastos de entierro.
-Las mutualidades 
-Las mútua se extendieron por el movimiento obrero
-
-Se extendió con el movimiento mutualista en que las mutualistas
-como una forma de apoyo mutuo entre 
+Las mutualidades extendieron por el movimiento obrero
+y llegaron a las zonas industriales de España.
+Esta relación con el movimiento obrero y las sospechas de que fueran el germen de organización obrera
+hizo que diversas reformas legislativas limitaran el alcance de estas asociaciones.
 
 Si vamos al origen, los seguros empezaron como las sociedades de soporte mútuo.
 Las personas participantes se cubrían entre ellas cuando sucedía una desgracia imprevista.
 Eso dió paso a las mútuas que eran algo bastante distinto a lo que son ahora.
-Poco a poco
-El sector de los seguros esta dominado por empresas multinacionales como
+
+Hoy en día, el sector de los seguros esta dominado por empresas multinacionales como
 Mapfre, Zurich, AXA, Allianz...
+
 
 
 
