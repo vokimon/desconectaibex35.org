@@ -28,17 +28,20 @@ meta:
   alternatives:
   - title: Cooperativas de usuarios
     subtitle:
-      Los usuarios se agrupan como operadora virtual,
-      y conseguir condiciones favorables que solo consiguen
-      teniendo muchos números en cartera.
-      El trato 
+      Las personas se agrupan en una operadora virtual sin ánimo de lucro, no hay que pagar dividendos.
+      En mercado mayorista, consiguen condiciones más favorables que negociadas como usuarias individuales.
+      Al ser una cooperativa se decide en asamblea la estrategia y la atención a la socia es muy humana.
     projects:
     - title: Som Connexió
       subtitle: La primera. Prat de Llobregat.
       url: https://somconnexio.coop
       logo: /images/logos/logo-somconnexio.png
   - title: Red libre, abierta y neutral
-    subtitle: ''
+    subtitle:
+      La desconexión perfecta sería no depender de la infrastructura del monopolio.
+      Existe una red que permita su uso y extension por parte de usuarias y empresas, sin discriminar.
+      La empezaron voluntarios conectando masías de Osona con antenas wifi.
+      Y gracias a su licencia viral se ha extendido libre por todo el estado.
     projects:
     - title: Guifi.net
       subtitle: La red de todos
@@ -46,27 +49,41 @@ meta:
       logo: /images/logos/logo-guifi.png
   - title: Desplegadoras de Guifi.net
     subtitle:
-      Normalmente hay voluntarios y empresas que hacen el mantenimiento
-      de la red Guifi
+      Asociaciones de voluntarios, cooperativas y empresas que
+      mantienen, extienden y dan servicio mediante la red Guifi.
     projects:
+    - title: eXo
+      subtitle: Associación de promoción de la Red. Barcelona
+      url: https://exo.cat
+      logo: /images/logos/logo-exo.png
     - title: GuifiBaix
-      subtitle: Cooperativa. Baix Llobregat.
+      subtitle: Cooperativa sin ánimo de lucro. Baix Llobregat. Surgida de DesconexionIBEX35
       url: https://guifibaix.coop
       logo: /images/logos/logo-guifibaix.svg
+    - title: Capa8
+      subtitle: Pyme. Desplega Guifi.net. Barcelona. Molta solera.
+      url: https://guifi.net
+      logo: /images/logos/logo-guifi.png
+  - title: Alojamiento de servicios
+    subtitle:
+      Cuando queremos algo más que consumir Internet.
+    projects:
+    - title: Pangea
+      subtitle: Hosting asociativo y sostenible en la Economía Social
+      url: https://pangea.org
+      logo: /images/logos/logo-pangea.jpg
 ---
 
-Una accion comercial agresiva que acomula **records de quejas de consumo**.
-Telefónica, una **empresa privatizada** ha tenido el 
-**dominio monopolistico** al acceso a la banda ancha mediante el par de cobre
-que pagamos entre todos cuando era pública.
-El resto de empresas dependían de la empresa dominante para dar servicio.
-Ese monopolio ha desincentivado la inversión en fibra de la competencia durante 20 años
+La **agresiva acción comercial** y la **mala calidad de servicio** del oligopolio acomula **records de quejas de consumo**.
+Una compañía **privatizada** en los 90's, Telefónica,
+se quedo las línias de cobre desplegadas cuando era pública.
+El resto de empresas dependían de esta empresa dominante para dar servicio.
+Una situación de **monopolio mal regulado** que ha desincentivado la inversion en fibra de la competencia durante 20 años
 hasta que Europa nos dió un ultimàtum en 2018.
-Los intentos de montar una infrastructura de fibra consorciada fueron torpedeados por el miembro más grande del consorcio.
-Por eso al final se han duplicado redes, llenando nuestras fachadas de dispositivos y cables redundantes.
-No tener un consorcia dificulta también que las empresas pequeñas puedan hacer una cobertura universal.
-Por la parte de la telefonia móbil, se licenciaro solon cuatro bandas de frecuencias de forma directa.
-El resto de empresas tienen que operar virtualmente usando las antenas de las cuatro grandes.
+En vez de una red consorciada que llegue a todo el mundo por la que puedan dar servicio todas las empresas,
+hay redes de fibra cuatriplicadas en unos sitios y en otros más aislados no llega ninguna.
+Respecto la telefonia móbil, se licenciaron solo cuatro paquetes de frecuencias de forma directa.
+El resto de empresas tienen que operar virtualmente usando las antenas de las cuatro grandes que ganaron la subasta.
 
 [TOC]
 
@@ -75,13 +92,15 @@ El resto de empresas tienen que operar virtualmente usando las antenas de las cu
 
 La **privatización de Telefónica** a finales de los 90 dejó en manos de una sola compañia,
 a partir de entonces privada, la **infraestructura de par de cobre** de telefono que **llegaba a todas las casas**.
-Se le quitó importancia, un consorcio de empresas montaría la infraestructura de fibra óptica que dejaría obsoleto el par de cobre.
-Telefónica, como parte importante de este consorcio, lo torpedeó.
-Y los años siguiente se dejó de implantar fibra de forma generalizada.
+Se le quitó importancia, el cobre era tecnología obsoleta,
+y se había montado un consorcio de empresas montaría la infraestructura de fibra óptica que substituiría el cobre.
+Telefónica, como parte importante de este consorcio, lo torpedeó
+y los años siguientes se dejó de implantar fibra de forma generalizada.
 Hemos estado 20 años explotando al máximo el cobre con la la tecnología ADSL en monopolio del par de cobre.
 Telefónica estaba obligada a cederlo a precio regulado,
-pero aún regulado, implica que Telefónica se beneficiaba de los ingresos de la competencia en una posición privilegiada.
-Y a la competencia no le interesaba invertir en red propia porque el margen
+pero aún regulado, implica que Telefónica se beneficiaba de los ingresos de la competencia y de da una posición privilegiada.
+Pero hemos estado 20 años evolucionando los precios y las prestaciones reguladas
+de una manera que la competencia no tenía ningún incentivo a hacer inversiones importantes en red propia.
 
 Han salido perjudicados los usuarios porque el suelo del precio regulado
 el precio regulado seguía siendo beneficiario para ella y 
