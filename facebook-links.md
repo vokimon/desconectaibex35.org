@@ -27,7 +27,7 @@ Que una petrolera financie las investigaciones de una universidad que pretenden 
 https://www.elnacional.cat/es/economia/nace-la-catedra-repsol-en-transicion-energetica-para-luchar-contra-el-cambio-climatico_421061_102.html
 
 Infografia de las puertas giratorias
-https://www.facebook.com/SomComuns/photos/a.2347649325484592/2348750495374475/
+https://www.asivaespana.com/politica/enchufados-del-pp-y-psoe-en-empresas-energeticas
 
 (CAT) El decrecimiento no es que no sea malo. Ahora es necesario.
 https://www.ccma.cat/324/el-decreixement-economic-una-formula-radical-per-afrontar-la-crisi-climatica/noticia/2948041/
@@ -37,7 +37,7 @@ La diferencia entre reivindicacion y accion. Reivindicacion: Mogollon de gente, 
 
 Via XES: Food Coop BCN benvinguda a la #XES! 😄
 L'associació per l’impuls dels supermercats cooperatius i el mercat social és una iniciativa que treballa per posar en marxa un 🛒 #supermercatcooperatiu a Barcelona sota els criteris del consum responsable, ètic i sostenible.
-https://foodcoopbcn.cat/coneix-nos/
+https://foodcoopbcn.cat/es/conocenos/
 
 Via Coop57: El grau d’autogestió i la flexibilitat de què gaudeix Coop57 permet actuar de la manera que més convingui al projecte i a les necessitats del moment, sense estar lligades a altres indicadors oficials que s’escapen del nostre control. També ens ofereix estabilitat
 https://coop57.coop/ca/noticia/com-es-decideix-la-remuneraci%C3%B3-de-l%E2%80%99estalvi-i-el-cost-del-pr%C3%A9stec
@@ -677,8 +677,8 @@ https://www.elmundo.es/pais-vasco/2015/03/29/5517dac822601de5048b4573.html
 [ENG] 'Porqué digo adios a Apple, Google y Microsoft'
 https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd
 
-No volien això a la portada? Doncs portada i contraportada
-https://www.cafeambllet.com/no-volien-aixo-a-la-portada-doncs-portada-i-contraportada/
+No querían esto en la portada? Pues portada y contraportada
+http://www.cafeambllet.com/no-querian-esto-en-la-portada-pues-portada-y-contraportada/
 
 En SomEnergia se han inventado una forma de saltarse las trabas del nuevo decreto de auto-consumo inventandose la auto-produccion colectiva. Hoy han publicado un video que explica como funciona la Generation kWh!.
 https://blog.somenergia.coop/destacados/2015/11/nou-video-que-es-la-generacio-kwh/
