@@ -451,3 +451,14 @@ ul.articles-timeline {
 	vertical-align: super;
 }
 
+.table-of-content h4 {
+	font-size: 120%;
+	font-weight: bold;
+	margin-bottom: 1em;
+	color: #565;
+	border-bottom: 4pt solid #eee;
+}
+.table-of-content li {
+	margin-bottom: 0.5em;
+}
+
