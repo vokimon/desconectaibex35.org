@@ -23,8 +23,9 @@ original:
   description: El presidente de Iberdrola, Ignacio Sánchez Galán, ha recibido este
     domingo la Cruz de Plata del Mérito de...
 tags:
-- untagged
-category: ''
+- honores inmerecidos
+- Iberdrola
+category: Electricidad
 location: España
 author: vokimon
 

@@ -23,8 +23,8 @@ original:
   description: La llibreria i editorial crítica Veus amb veu reobrirà la setmana que
     ve i acollirà el nou punt de venda
 tags:
-- untagged
-category: ''
+- Cooperativa Top Manta
+category: Ropa
 location: España
 author: vokimon
 

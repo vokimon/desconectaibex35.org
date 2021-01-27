@@ -18,8 +18,8 @@ original:
   description: El tribunal desmonta todas las alegaciones del Ministerio de Hacienda,
     que conducen a la "íntegra desestimación"
 tags:
-- untagged
-category: ''
+- municipalización
+category: Agua
 location: España
 author: vokimon
 

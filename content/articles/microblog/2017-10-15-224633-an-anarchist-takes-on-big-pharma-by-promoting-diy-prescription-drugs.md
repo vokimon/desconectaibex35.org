@@ -19,8 +19,10 @@ original:
     is now working on a kit to let patients make other medicines at home — patents
     be damned.
 tags:
-- untagged
-category: ''
+- farmacos
+- do it yourself
+- Four Thieves Vinegar
+category: Sanidad
 location: España
 author: vokimon
 

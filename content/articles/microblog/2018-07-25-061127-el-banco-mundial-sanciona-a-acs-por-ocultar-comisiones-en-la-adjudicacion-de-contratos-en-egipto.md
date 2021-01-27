@@ -36,8 +36,9 @@ original:
     de sus agentes en el marco de los proyectos El Tebbin y Giza North Power", según
     el organismo
 tags:
-- untagged
-category: ''
+- ACS
+- licitaciones amañadas
+category: Infrastructuras
 location: España
 author: vokimon
 

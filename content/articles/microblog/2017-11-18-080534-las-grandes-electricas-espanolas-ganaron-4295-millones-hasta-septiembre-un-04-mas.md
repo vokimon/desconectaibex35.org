@@ -19,8 +19,8 @@ original:
   description: El beneficio de las grandes eléctricas españolas alcanzó los 4.295
     millones de euros entre enero y septiembre de 2017, lo que supone un ascenso del...
 tags:
-- untagged
-category: ''
+- beneficios desorbidados
+category: Electricidad
 location: España
 author: vokimon
 

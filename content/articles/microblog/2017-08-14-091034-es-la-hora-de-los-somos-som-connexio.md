@@ -1,5 +1,5 @@
 ---
-title: És l'hora dels som? - Som Connexió
+title: És la hora de los somos? - Som Connexió
 date: &id001 2017-08-14 09:10:34+00:00
 status: published
 original:
@@ -22,14 +22,13 @@ original:
     funcionant bé en la relació entre l’economia, la nostra societat i el tros de
     terra compartit que ens acull. Es parlava del càncer dels mercats, es va…
 tags:
-- untagged
-category: ''
+- Som Connexió
+category: Campaña
 location: España
 author: vokimon
 
 ---
-[CAT] Es l'hora dels Som?
+¿Es la hora de los Somos?
 
-:::linkcard https://somconnexio.coop/lhora-dels-som/ image="https://somconnexio.coop/wp-content/uploads/2017/07/thumb_IMG_1489_1024.jpg" title="És l'hora dels som? - Som Connexió"
-    No cal retrocedir a l’any 2008, per adonar-nos que alguna cosa no estava funcionant bé en la relació entre l’economia, la nostra societat i el tros de terra compartit que ens acull. Es parlava del càncer dels mercats, es va…
+:::linkcard https://somosconexion.coop/es-la-hora-de-los-somos/
 

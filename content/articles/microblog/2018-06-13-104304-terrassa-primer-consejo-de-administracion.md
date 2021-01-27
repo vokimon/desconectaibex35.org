@@ -1,5 +1,6 @@
 ---
-title: Twitter
+title: 'Terrassa: Primer consejo de administración de la empresa pública de agua'
+
 date: &id001 2018-06-13 10:43:04+00:00
 status: published
 original:
@@ -19,14 +20,18 @@ original:
   siteurl: https://twitter.com
   description: ''
 tags:
-- untagged
-category: ''
+- Ajuntament de Terrassa
+- municipalización
+category: Agua
 location: España
 author: vokimon
-
+image: https://pbs.twimg.com/media/DfkCUl3WkAA405k?format=jpg&name=900x900
 ---
 Terrassa: Primer consejo de administración de la empresa pública de agua
 
-:::linkcard https://twitter.com/aiguaesvida/status/1006842764984758272 image="None" title='Twitter'
+:::figure https://pbs.twimg.com/media/DfkCUl3WkAA405k?format=jpg&name=900x900
+
+:::twitter aiguaesvida 1006842764984758272
+
 
 

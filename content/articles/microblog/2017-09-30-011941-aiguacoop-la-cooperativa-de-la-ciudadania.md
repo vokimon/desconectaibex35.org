@@ -20,9 +20,10 @@ original:
   description: La Societat Minera Olesana, en la provincia de Barcelona, demuestra
     que otra forma de gestionar el agua es posible
 tags:
-- untagged
-category: ''
-location: España
+- Aigua.coop
+- Societat Minera Olesana
+category: Agua
+location: Olesa, Barcelona
 author: vokimon
 
 ---

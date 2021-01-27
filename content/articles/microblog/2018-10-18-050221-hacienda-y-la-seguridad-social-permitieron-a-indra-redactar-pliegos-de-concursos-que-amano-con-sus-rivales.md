@@ -21,8 +21,9 @@ original:
     jactaba Indra en 2014 respecto a un contrato que la Agencia Tributaria le adjudicaría
     meses después por 7,8 millones'
 tags:
-- untagged
-category: ''
+- Indra
+- licitaciones amañadas
+category: Tecnología
 location: España
 author: vokimon
 

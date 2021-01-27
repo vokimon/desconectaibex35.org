@@ -25,8 +25,11 @@ original:
   description: Las tres grandes constructoras suman 411 de los 603 millones de euros
     en sobreprecios aprobados por el ministerio de Fomento desde diciembre de 2014
 tags:
-- untagged
-category: ''
+- ACS
+- Fomento
+- Acciona
+- sobrecostes
+category: Infrastructuras
 location: España
 author: vokimon
 

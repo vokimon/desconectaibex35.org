@@ -20,8 +20,10 @@ original:
   description: El mercado libre, el más favorable a las empresas, sigue despuntando
     y ha sumado en un año 906.727 clientes, hasta 14,5 millones
 tags:
-- untagged
-category: ''
+- comerciales agresivos
+- oligopolio
+- precios injustos
+category: Electricidad
 location: España
 author: vokimon
 

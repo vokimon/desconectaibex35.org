@@ -20,8 +20,9 @@ original:
     mergers. John Oliver explains why that could make you want to physically destroy
     your ca...
 tags:
-- untagged
-category: ''
+- John Oliver
+- concentración empresarial
+category: Campaña
 location: España
 author: vokimon
 

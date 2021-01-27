@@ -21,8 +21,8 @@ original:
   description: Los consejeros ejecutivos cobran de media 3,1 millones de euros, su
     nivel más alto, tras aumentar su remuneración un 12%, según datos de la CNMV
 tags:
-- untagged
-category: ''
+- supersueldos directivos
+category: Campaña
 location: España
 author: vokimon
 

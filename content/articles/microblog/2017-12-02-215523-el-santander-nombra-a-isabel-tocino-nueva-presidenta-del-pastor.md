@@ -17,8 +17,11 @@ original:
   siteurl: https://www.lavozdegalicia.es
   description: La exministra se pone al frente del segundo mayor banco de Galicia
 tags:
-- untagged
-category: ''
+- puertas giratorias
+- Banco Pastor
+- Banco Santander
+- Isabel Tocino
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 

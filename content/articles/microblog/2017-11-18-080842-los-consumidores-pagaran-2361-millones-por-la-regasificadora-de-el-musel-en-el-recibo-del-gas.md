@@ -18,14 +18,15 @@ original:
   description: Entre 2012 y 2016 Enagás ya repercutió otros 119,81 millones en las
     facturas de los usuarios por la planta gijonesa
 tags:
-- untagged
-category: ''
+- externalización costes
+- Enagas
+category: Electricidad
 location: España
 author: vokimon
 
 ---
 Entre 2012 y 2016 Enagás ya repercutió otros 119,81 millones en las facturas de los usuarios por la planta gijonesa
 
-:::linkcard https://www.lne.es/gijon/2017/03/21/consumidores-pagaran-23-millones-regasificadora/2076454.html image="https://fotos01.lne.es/2017/03/21/690x278/consumidores-pagaran.jpg" title='Los consumidores pagarán 23,61 millones por la regasificadora de El Musel en el recibo del gas'
+:::linkcard https://www.lne.es/gijon/2017/03/21/consumidores-pagaran-23-millones-regasificadora/2076454.html image="https://estaticos-cdn.prensaiberica.es/clip/cc38183f-198a-428e-86f8-c8ca736a61f3_16-9-aspect-ratio_default_0.jpg" title='Los consumidores pagarán 23,61 millones por la regasificadora de El Musel en el recibo del gas'
     Entre 2012 y 2016 Enagás ya repercutió otros 119,81 millones en las facturas de los usuarios por la planta gijonesa
 

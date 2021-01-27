@@ -20,8 +20,10 @@ original:
   description: 'CRÍTIC ha tingut accés a un document de la companyia que detalla la
     despesa realitzada en comunicació durant 2017 i 2018 '
 tags:
-- untagged
-category: ''
+- Agbar
+- limpiado de cara
+- municipalización
+category: Agua
 location: España
 author: vokimon
 

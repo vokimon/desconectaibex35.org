@@ -21,8 +21,13 @@ original:
     el miércoles le tocó a Intel, mientras que ayer le volvió a tocar a Telefónica.
     Todas ellas han tenido en lo
 tags:
-- untagged
-category: ''
+- multas anuladas
+- Intel
+- Repsol
+- Telefónica
+- Vodafone
+- Orange
+category: Tecnología, Telecomunicaciones
 location: España
 author: vokimon
 

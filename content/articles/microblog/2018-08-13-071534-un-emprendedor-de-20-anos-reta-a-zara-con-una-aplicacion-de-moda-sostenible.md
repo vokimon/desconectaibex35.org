@@ -17,14 +17,16 @@ original:
   description: El estudiante de Publicidad está a punto de lanzar una plataforma para
     comprar ropa solo en marcas de moda sostenible.
 tags:
-- untagged
-category: ''
+- Zara
+- trabajo precario
+- contaminación
+category: Ropa
 location: España
 author: vokimon
 
 ---
 El estudiante de Publicidad está a punto de lanzar una plataforma para comprar ropa solo en marcas de moda sostenible.
 
-:::linkcard https://www.lainformacion.com/empresas/emprendedor-20-anos-quiere-etica-moda/6362004/ image="None" title='Un emprendedor de 20 años reta a Zara con una aplicación de moda sostenible'
+:::linkcard https://www.lainformacion.com/empresas/emprendedor-20-anos-quiere-etica-moda/6362004/ image="https://imagenes.lainformacion.com/files/image_606_387/uploads/imagenes/2018/08/06/5b682ec820400.jpeg" title='Un emprendedor de 20 años reta a Zara con una aplicación de moda sostenible'
     El estudiante de Publicidad está a punto de lanzar una plataforma para comprar ropa solo en marcas de moda sostenible.
 

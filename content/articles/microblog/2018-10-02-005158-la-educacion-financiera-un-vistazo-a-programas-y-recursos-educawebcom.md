@@ -19,13 +19,16 @@ original:
   description: ''
 tags:
 - untagged
-category: ''
+category: Banca, Edición, Financiación, Ahorro
 location: España
 author: vokimon
 
 ---
 Cuando la Banca del IBEX y la especulacion se mete en las aulas, hay que combatirla.
 
-:::linkcard https://www.educaweb.com/noticia/2018/09/27/educacion-financiera-vistazo-programas-recursos-18568/ image="None" title='La educación financiera: un vistazo a programas y recursos - educaweb.com'
+Se les dice a los niños que tienen que hacer planes de pensiones,
+que invertir en fondos de riesgo...
+
+:::linkcard https://www.educaweb.com/noticia/2018/09/27/educacion-financiera-vistazo-programas-recursos-18568/ title='La educación financiera: un vistazo a programas y recursos - educaweb.com' image=https://eu.edcwb.com/educanews/interface/images/noticies/18568-d9bece50d2304301bc338ee9200229b1.jpg
 
 

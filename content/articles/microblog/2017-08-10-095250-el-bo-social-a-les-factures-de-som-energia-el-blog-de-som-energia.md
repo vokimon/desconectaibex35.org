@@ -24,13 +24,26 @@ original:
   description: '[También en: Castellano] [Actualització: 12 d''abril de 2018] Des
     de l’1 de juliol de 2017 apareix un'
 tags:
-- untagged
-category: ''
+- precios injustos
+- externalización costes
+- competencia pervertida
+category: Electricidad
 location: España
 author: vokimon
 
 ---
-Otra legislacion cambiada a medida de las grandes. Hasta ahora el bono social que rebajaba el precio de los subministros, lo pagaban a pachas el estado y las grandes. A cambio, solo lo podian ofrecer las grandes. Tampoco les gustaba mucho eso de ser solidarios asi que despues de una legion de abogados y un poco de cabildeo de los amiguetes esos del consejo de administracion, se cambia la ley para que ahora lo pague todo el mundo estes en la compañia que estes pero la posibilidad de ofrecerlo sigue en exclusividad de las grandes.
+Otra legislacion cambiada a medida de las grandes.
+El bono social a partir de ahora lo pagaran todas las comercializadoras
+aunque no puedan ofertarlo a sus clientes, y se benefician solo las grandes.
+
+Hasta ahora el bono social que rebajaba el precio de los subministros,
+lo pagaban a pachas el estado y las grandes.
+A cambio, solo lo podian ofrecer las grandes.
+
+Tampoco les gustaba mucho eso de ser solidarios asi que,
+despues de una legion de abogados y un poco de cabildeo de los amiguetes esos del consejo de administracion,
+se cambia la ley para que ahora lo pague todo el mundo estés en la compañia que estés
+pero la posibilidad de ofrecerlo sigue en exclusividad de las grandes.
 
 :::linkcard https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2017/08/el-bo-social-a-les-factures-de-som-energia/ image="https://blog.somenergia.coop/wp-content/uploads/2017/08/bo-social-real-decret-factura-de-la-llum-660x330.png" title='El Bo Social a les factures de Som Energia - El Blog de Som Energia'
     [También en: Castellano] [Actualització: 12 d'abril de 2018] Des de l’1 de juliol de 2017 apareix un

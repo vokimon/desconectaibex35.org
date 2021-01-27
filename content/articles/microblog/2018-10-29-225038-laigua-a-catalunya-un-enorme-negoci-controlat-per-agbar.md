@@ -17,13 +17,17 @@ original:
   description: CRÍTIC radiografia la influència d'aquesta empresa sobre el territori
     i recull les principals polèmiques que l'han esquitxat
 tags:
-- untagged
-category: ''
+- Agbar
+- L'Aigua És Vida
+- Marc Font
+category: Agua
 location: España
 author: vokimon
 
 ---
-L’aigua a Catalunya, un negoci enorme controlat per Agbar
+CRÍTIC publica un reportage de Marc Font que
+radiografia la influència de AGBAR sobre el territorio
+y recoge las principales polémicas que le han salpicado.
 
 :::linkcard https://www.elcritic.cat/reportatges/laigua-a-catalunya-un-negoci-enorme-controlat-per-agbar-10665 image="https://s3-eu-west-1.amazonaws.com/elcritic.cat/wp-content/uploads/2018/10/26160912/fotopica-1200x630.jpg" title="L'aigua a Catalunya, un enorme negoci controlat per Agbar"
     CRÍTIC radiografia la influència d'aquesta empresa sobre el territori i recull les principals polèmiques que l'han esquitxat
