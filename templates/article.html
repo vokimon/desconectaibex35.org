@@ -132,7 +132,7 @@
 					<div class="sector">
 						<a class="category-link" href="{{ SITEURL }}/{{ category.url }}">
 							<span class="image is-64x64">
-								<img alt="{{category}}" src="{{ SITEURL }}/images/categories/{{ category | lower }}.png" />
+								<img alt="{{category[0] | upper}}" src="{{ SITEURL }}/images/categories/{{ category | lower }}.png" />
 							</span>
 						</a>
 						<a class="category-link" href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
