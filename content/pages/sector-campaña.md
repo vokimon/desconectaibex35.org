@@ -72,6 +72,20 @@ meta:
       logo: /images/logos/logo-alternativeto.svg
       subtitle:
         "Buscador colaborativo de alternativas a aplicaciones y servicios online"
+    - title: United Explanations
+      url: https://unitedexplanations.org
+      logo: /images/logos/logo-unitedexplanations.jpg
+      subtitle:
+        "Colectivo de divulgadores socio-políticos.
+		Entender el mundo fuera de la vorágine de la actualidad.
+        Reportajes."
+    - title: Carro de Combate
+      url: https://carrodecombate.com
+      logo: /images/logos/logo-carroecombate.png
+      subtitle:
+        "El consumo como motor de cambio social.
+        Reportajes."
+
 ---
 
 Estos son algunos otros recursos a los que puedes recurrir para buscar más asesoramiento sobre alternativas.
