@@ -163,14 +163,14 @@
 </article>
 </div>
 </section>
-{% include '_includes/photoswipe.html' %}
+{#% include '_includes/photoswipe.html' %#}
 {% endblock content %}
 
 {% block script %}
 	{{ super() }}
 	{% from '_includes/comments.html' import comments_script with context %}
 	{{ comments_script() }}
-	{% include '_includes/photos_footer.html' %}
+	{#% include '_includes/photos_footer.html' %#}
 {% endblock script %}
 <!-- vim: noet ts=2 sw=2
 -->
