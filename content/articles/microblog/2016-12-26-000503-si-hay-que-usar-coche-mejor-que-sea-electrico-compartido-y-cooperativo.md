@@ -17,13 +17,15 @@ original:
   description: Mientras en Madrid Emov se suma como segundo operador de car sharing
     eléctrico, en Cataluña se pone en marcha Som Mobilitat.
 tags:
-- untagged
-category: ''
+- eMov
+- Som Mobilitat
+category: Transporte
 location: España
 author: vokimon
 
 ---
-Mientras en Madrid Emov se suma como segundo operador de car sharing eléctrico, en Cataluña se pone en marcha Som Mobilitat.
+Mientras en Madrid Emov se suma como segundo operador de car sharing eléctrico,
+en Cataluña se pone en marcha Som Mobilitat.
 
 :::linkcard https://www.eldiario.es/desde-mi-bici/usar-coche-mejor-electrico-cooperativo_6_593600686.html image="https://static.eldiario.es/clip/49046333-f26e-41e5-9119-9951d22153d3_facebook-aspect-ratio_default_0.jpg" title='Si hay que usar coche, mejor que sea eléctrico, compartido y cooperativo'
     Mientras en Madrid Emov se suma como segundo operador de car sharing eléctrico, en Cataluña se pone en marcha Som Mobilitat.

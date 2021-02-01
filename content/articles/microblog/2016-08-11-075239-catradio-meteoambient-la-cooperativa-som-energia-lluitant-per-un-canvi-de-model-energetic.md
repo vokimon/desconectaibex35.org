@@ -20,8 +20,9 @@ original:
     ens porta a Pep Puig, que és Dr. Enginyer industrial i director d''Ecoserveis.
     Som Energia ...'
 tags:
-- untagged
-category: ''
+- Som Energia
+- Pep Puig
+category: Electricidad
 location: España
 author: vokimon
 

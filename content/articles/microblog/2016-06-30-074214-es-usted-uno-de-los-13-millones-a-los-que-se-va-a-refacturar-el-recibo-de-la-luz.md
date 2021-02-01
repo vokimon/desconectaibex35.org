@@ -24,8 +24,8 @@ original:
     mayor margen comercial a las eléctricas reguladas, supondrá una subida mínima
     del 1,1% para los domésticos
 tags:
-- untagged
-category: ''
+- precions injustos
+category: Electricidad
 location: España
 author: vokimon
 

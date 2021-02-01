@@ -88,13 +88,14 @@ original:
   description: Los falsos comerciales puerta a puerta utilizan un abanico de mentiras
     para salir ganando. Estos son sus anzuelos más habituales. ¡No piques!
 tags:
-- untagged
-category: ''
+- comerciales agresivos
+category: Electricidad
 location: España
 author: vokimon
 
 ---
 Estas son algunas de las trolas mas frecuentes que te cuelan los comerciales puerta a puerta de las electricas, Se pueden generalizar en 4:
+
 - La primera no decirte que lo son: son de tu compañia, de tu distribuidora, son agentes, son testigos de jehova (que ya les abren mas que a ellos)...
 - La segunda que te van a ofrecer algo bueno o necesario: te estan adaptando a la normativa, antes te estaban cobrando de mas, van a activar tu contador digital... a menudo relacionado con las noticias sobre el sector para que a la gente les suena de algo.
 - La tercera que para ello necesistan algo necesario para contratar: Tu numero de CUPS, tu factura donde esta tu numero de CUPS, que firmes algo, tu numero de cuenta o, lo ultimo, que hables con una operadora que graba tu asentimiento con el cambio de contrato.

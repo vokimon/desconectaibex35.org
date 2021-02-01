@@ -19,14 +19,16 @@ original:
   siteurl: https://www.elsalmoncontracorriente.es
   description: ''
 tags:
-- untagged
-category: ''
+- Visa
+- Mastercard
+- FairPay
+category: Banca
 location: España
 author: vokimon
-
 ---
 Y ya que estamos, ordago a VISA y Mastercard!
 
-:::linkcard https://www.elsalmoncontracorriente.es/?Fairpay-la-tarjeta-de-pagos-que image="http://www.elsalmoncontracorriente.es/IMG/arton1382.jpg" title='Fairpay, la tarjeta de pagos que pone a VISA y Mastercard fuera de juego - El salmón contracorriente'
+:::linkcard https://www.elsalmoncontracorriente.es/?Fairpay-la-tarjeta-de-pagos-que title='Fairpay, la tarjeta de pagos que pone a VISA y Mastercard fuera de juego - El salmón contracorriente' image=/uploads/2016/12/fairpay.jpg
+	En estas fechas de consumismo desaforado, existen alternativas para apoyar otro tipo de economía. La FairCoop lanza el FairPay, la tarjeta de (...)
 
 

@@ -1,5 +1,5 @@
 ---
-title: Facebook
+title: Ruta de las Rebajas... en Derechos Humanos
 date: &id001 2016-07-09 09:50:21+00:00
 status: published
 original:
@@ -17,14 +17,22 @@ original:
   siteurl: https://www.facebook.com
   description: ''
 tags:
-- untagged
-category: ''
+- explotación laboral
+- H&M
+- Inditex
+- El Corte Inglés
+category: Ropa
 location: España
 author: vokimon
 
 ---
-Ruta de las Rebajas... en Derechos Humanos
 
-:::linkcard https://www.facebook.com/setemcatalunya/photos/a.151460889628/10154306268789629/?type=3&theater image="None" title='Facebook'
+La campaña Roba Neta (Ropa Limpia) organiza
+el 21 de julio una ruta turística llamada "Rebajas en Derechos Humanos"
+para visitar las cloacas de la industria téxtil de las marcas
+que ocupan la calle comercial de Portal de l'Angel de Barcelona.
+Os invitan a participar.
 
+
+:::linkcard https://robaneta.wordpress.com/2016/07/07/el-21-de-juliol-vine-a-la-ruta-rebaixes-en-drets-humans/ nowideimage
 

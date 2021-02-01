@@ -27,8 +27,11 @@ original:
     53,448 millones en pensiones, cifra que incluía los 20,34 millones del exconsejero
     delegado Francisco Gómez
 tags:
-- untagged
-category: ''
+- Banco Popular
+- Banco Santander
+- megasueldos directivos
+- concentración empresarial
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 

@@ -24,8 +24,8 @@ original:
     de la información fiscal que las empresas del IBEX 35 presentan en sus memorias
     anuales
 tags:
-- untagged
-category: ''
+- evasión fiscal
+category: Campaña
 location: España
 author: vokimon
 

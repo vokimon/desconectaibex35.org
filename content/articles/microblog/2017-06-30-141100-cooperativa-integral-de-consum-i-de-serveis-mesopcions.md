@@ -26,8 +26,8 @@ original:
     i la transformació del model socioeconòmic incorporant elements com la demòcràcia,
     po...
 tags:
-- untagged
-category: ''
+- Opcions
+category: Campaña
 location: España
 author: vokimon
 

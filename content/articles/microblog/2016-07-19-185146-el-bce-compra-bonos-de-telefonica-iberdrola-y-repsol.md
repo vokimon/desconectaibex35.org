@@ -23,8 +23,11 @@ original:
   description: El Banco de España ha adquirido deuda corporativa de las principales
     empresas no financieras del IBEX 35, entre ellas Telefónica, Iberdrola y...
 tags:
-- untagged
-category: ''
+- rescate empresarial
+- Telefónica
+- Iberdrola
+- Repsol
+category: Telecomunicaciones, Electricidad
 location: España
 author: vokimon
 

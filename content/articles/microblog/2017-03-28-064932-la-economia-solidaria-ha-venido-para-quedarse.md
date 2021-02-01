@@ -21,13 +21,13 @@ original:
     y estable: ha crecido el número de empresas, la facturación y los puestos de trabajo
     y se ha irrumpido en nuevos sectores, como la energía o las telecomunicaciones'
 tags:
-- untagged
-category: ''
+- Economía solidaria
+category: Campaña
 location: España
 author: vokimon
 
 ---
-La economía solidaria ha venido para quedarse
+El Diario publica un informe sobre sobre el estado de la economía social.
 
 :::linkcard https://www.eldiario.es/tribunaabierta/economia-solidaria-venido-quedarse_6_625447485.html image="https://static.eldiario.es/clip/3d145896-bbe4-4126-b052-ab066d526cfe_facebook-aspect-ratio_default_0.jpg" title='La economía solidaria ha venido para quedarse'
     La economía solidaria se ha consolidado como una alternativa sólida y estable: ha crecido el número de empresas, la facturación y los puestos de trabajo y se ha irrumpido en nuevos sectores, como la energía o las telecomunicaciones

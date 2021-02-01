@@ -19,8 +19,8 @@ original:
     Su casa se ha convertido en uno de los primeros ejemplos de disidencia y rebeldía
     energética
 tags:
-- untagged
-category: ''
+- autoproducción
+category: Electricidad
 location: España
 author: vokimon
 

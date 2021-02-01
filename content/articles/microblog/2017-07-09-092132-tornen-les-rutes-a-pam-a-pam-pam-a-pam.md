@@ -25,8 +25,8 @@ original:
     I ja fa anys que vam començar a organitzar les rutes de Pam a Pam i a aquestes
     alçada ben probablement n’hem fet més d’una vintenta!
 tags:
-- untagged
-category: ''
+- Pam-a-Pam
+category: Campaña
 location: España
 author: vokimon
 

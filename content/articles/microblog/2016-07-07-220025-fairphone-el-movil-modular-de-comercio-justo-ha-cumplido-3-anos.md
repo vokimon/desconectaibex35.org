@@ -20,14 +20,18 @@ original:
   description: Fue presentado hace ya más de tres años, y el móvil modular de comercio
     justo sigue vendiéndose en todo el mundo. ¿Qué ha sido del Fairphone?
 tags:
-- untagged
-category: ''
+- Fairphone
+- obsolescencia programada
+- reparabilidad
+- mineria de sangre
+- explotacion laboral
+category: Tecnología
 location: España
 author: vokimon
 
 ---
 Fairphone, el mobil modular del comercio justo cumple 3 años
 
-:::linkcard https://elandroidelibre.elespanol.com/2016/07/fairphone-movil-modular-comercio-justo.html image="None" title='Fairphone, el móvil modular de comercio justo ha cumplido 3 años'
+:::linkcard https://elandroidelibre.elespanol.com/2016/07/fairphone-movil-modular-comercio-justo.html image="None" title='Fairphone, el móvil modular de comercio justo ha cumplido 3 años' image=/uploads/2016/07/fairphone-movil-modular-comercio-justo.jpg
     Fue presentado hace ya más de tres años, y el móvil modular de comercio justo sigue vendiéndose en todo el mundo. ¿Qué ha sido del Fairphone?
 

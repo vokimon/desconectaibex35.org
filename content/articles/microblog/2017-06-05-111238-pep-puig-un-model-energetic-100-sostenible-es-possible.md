@@ -27,8 +27,9 @@ original:
     de socis permet que … Continue reading Pep Puig: ‘Un model energètic 100% sostenible
     és possible’ →'
 tags:
-- untagged
-category: ''
+- Som Energia
+- Pep Puig
+category: Electricidad
 location: España
 author: vokimon
 

@@ -26,7 +26,7 @@ tags:
 - desastres ecológicos
 - nacionalización de perdidas
 - externalización costes
-category: ''
+category: Infrastructuras, Transporte
 location: España
 author: vokimon
 

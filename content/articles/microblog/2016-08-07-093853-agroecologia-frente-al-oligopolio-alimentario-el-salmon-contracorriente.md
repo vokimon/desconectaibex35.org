@@ -21,16 +21,21 @@ original:
   siteurl: https://www.elsalmoncontracorriente.es
   description: ''
 tags:
-- untagged
-category: ''
+- agroecología
+- cooperativas de consumo
+category: Alimentación
 location: España
 author: vokimon
 
 ---
-Agroecología frente al oligopolio alimentario
+Agroecología frente al oligopolio alimentario.
+Las alternativas de consumo como un compromiso para crear un modelo económico alternativo, viable y necesario.
 
-https://www.facebook.com/ElSalmonContra/posts/1078688225546413
+El Salmón Contracorriente publica un artículo sobre como diferentes
+proyectos locales (cooperativas de consumo, agricultores, restauración, distribución...)
+convergen en red y crean sinergias para potenciarse y llegar a más gente.
 
-:::linkcard https://www.elsalmoncontracorriente.es/?Agroecologia-frente-al-oligopolio image="http://www.elsalmoncontracorriente.es/IMG/arton1186.jpg" title='Agroecología frente al oligopolio alimentario - El salmón contracorriente'
+
+:::linkcard https://www.elsalmoncontracorriente.es/?Agroecologia-frente-al-oligopolio image=/uploads/2016/08/agroecologia.jpg title="Agroecología frente al oligopolio alimentario - El salmón contracorriente"
 
 

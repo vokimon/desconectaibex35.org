@@ -28,8 +28,9 @@ original:
     pasos con los que abrir, en 18 meses, Caixa Catalana, una nueva caja de ahorros,
     abiertamente favorable a una Catalu&ntilde;a independiente.
 tags:
-- untagged
-category: ''
+- Caixa Catalana
+- banca ética
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 

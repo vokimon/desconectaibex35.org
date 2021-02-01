@@ -19,14 +19,22 @@ original:
     cuyos beneficios redunden en la comunidad. La economía colaborativa retoma la
     tradición cooperativista
 tags:
-- untagged
-category: ''
+- Airbnb
+- Uber
+- economía de plataforma
+- economía colaborativa
+- extractivismo
+category: Vivienda, Transporte
 location: España
 author: vokimon
 
 ---
+El último número de Alernativas Económicas
+incluye un dosier con varios articulos
+que analiza la economía colaborativa
+cuando se dejan al lado el extractivismo.
 Economia colaborativa sin elementos extractivos.
 
-:::linkcard http://alternativaseconomicas.coop/articulo/dossier/si-airbnb-fuera-de-todos-los-usuarios image="None" title='Si Airbnb fuera de todos los usuarios... | Alternativas Económicas'
+:::linkcard http://alternativaseconomicas.coop/articulo/dossier/si-airbnb-fuera-de-todos-los-usuarios image="None" title='Si Airbnb fuera de todos los usuarios... | Alternativas Económicas' image='https://alternativaseconomicas.coop/sites/default/files/shared/publicaciones/revistas/2016/42/fotos/BIENVENIDOS%20copia.jpg'
     Usuarios, trabajadores y hasta ciudades pueden lanzar plataformas propias cuyos beneficios redunden en la comunidad. La economía colaborativa retoma la tradición cooperativista
 

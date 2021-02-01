@@ -1,5 +1,5 @@
 ---
-title: Aquestes festes desconnecta’t del capitalisme, instal·la’t les alternatives!
+title: Aquestes festes, desconnecta’t del capitalisme, instal·la’t les alternatives!
 date: &id001 2016-12-28 08:33:51+00:00
 status: published
 original:
@@ -21,8 +21,9 @@ original:
     És per això que aquestes festes et convidem a deixar enrere un consum que perpetua
     les injustícies i t’animem a actuar. La …
 tags:
-- untagged
-category: ''
+- install party
+- difusión alternativas
+category: Campaña
 location: España
 author: vokimon
 

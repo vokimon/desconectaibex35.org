@@ -22,13 +22,20 @@ original:
   description: Empleó durante años una estructura fiscal española para enviar a su
     matriz estadounidense dinero sin coste.
 tags:
-- untagged
-category: ''
+- Microsoft
+- evasión fiscal
+- Linux
+- LibreOffice
+category: Tecnología
 location: España
 author: vokimon
 
 ---
-Recordamos que usar sus productos no es "inevitable" muchos usamos alterntativas como Linux i Libreoffice para sus productos y compramos ordenadores sin su sistema preinstalado. Cuantos mas seamos mas facil se lo pondremos a los que quieran seguirnos
+Recordamos que usar sus productos no es "inevitable".
+Hay alternativas libres que funcionan incluso mejor.
+
+Cuantos más seamos más fácil se lo pondremos a los que quieran seguirnos.
+El efecto red cuenta.
 
 :::linkcard https://www.elespanol.com/economia/empresas/20170309/199480637_0.html image="https://s1.eestatic.com/2016/06/16/invertia/economia/Microsoft-Empresas_tecnologicas-Impuestos-Economia_133001739_46817066_1280x1706.jpg" title='Microsoft usó España para repatriar 450 millones de dividendos europeos sin tributar'
     Empleó durante años una estructura fiscal española para enviar a su matriz estadounidense dinero sin coste.

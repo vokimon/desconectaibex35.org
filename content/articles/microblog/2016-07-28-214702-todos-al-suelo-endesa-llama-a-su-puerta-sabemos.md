@@ -17,14 +17,16 @@ original:
   siteurl: https://sabemos.es
   description: ''
 tags:
-- untagged
-category: ''
+- Endesa
+- comerciales agresivos
+- publicidad engañosa
+category: Electricidad
 location: España
 author: vokimon
 
 ---
 Un recopilatorio de las trolas esperpenticas que usan los comerciales puerta a puerta de las grandes electricas.
 
-:::linkcard https://sabemos.es/todos-al-suelo-endesa-llama-puerta/ image="None" title='Todos al suelo: Endesa llama a su puerta | sabemos'
+:::linkcard https://sabemos.es/todos-al-suelo-endesa-llama-puerta/ title='Todos al suelo: Endesa llama a su puerta | sabemos' image=https://sabemos.es/wp-content/uploads/2016/07/15130102610_42bb48b63a_k-e1469681078506-696x196.jpg
 
 

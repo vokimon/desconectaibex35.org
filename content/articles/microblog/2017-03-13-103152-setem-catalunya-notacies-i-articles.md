@@ -1,5 +1,5 @@
 ---
-title: SETEM Catalunya / NotÃ­cies i articles
+title: Oferta de trabajo en la economía social, Setem
 date: &id001 2017-03-13 10:31:52+00:00
 status: published
 original:
@@ -17,14 +17,15 @@ original:
   siteurl: http://www.setem.org
   description: ''
 tags:
-- untagged
-category: ''
+- oferta laboral
+category: Campaña
 location: España
 author: vokimon
 
 ---
-Ofertas de trabajo en la economia social.
 
-:::linkcard http://www.setem.org/blog/cat/catalunya/oferta-de-feina-responsable-de-voluntariat-activisme image="None" title='SETEM Catalunya / NotÃ\xadcies i articles'
+En Setem buscan una persona que haga de responsable de coordinar el voluntariado.
+
+:::linkcard http://www.setem.org/blog/cat/catalunya/oferta-de-feina-responsable-de-voluntariat-activisme image=http://www.setem.org/media/images/sized/Captura_de_pantalla_2017-03-09_a_la(s)_15.55_.18_.png
 
 

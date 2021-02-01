@@ -18,8 +18,8 @@ original:
     a fer-se imprescindible, els dies s’escurcen i els carrers s’omplen de llums de
     colors, és un mes per reflexionar, pensar, posar ordre i fer balanç.…
 tags:
-- untagged
-category: ''
+- Som Connexió
+category: Telecomunicaciones
 location: España
 author: vokimon
 

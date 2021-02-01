@@ -23,13 +23,15 @@ original:
   description: Cada vez son más los movimiento sociales que nacen para denunciar la
     esclavitud en el mundo de la moda y asumir nuestra responsabilidad como consumidores
 tags:
-- untagged
-category: ''
+- esclavitud infantil
+- Diseño Social
+category: Ropa
 location: España
 author: vokimon
 
 ---
-Como encontrar ropa etica.
+Presentan un sello para marcar la ropa libre de esclavitud infantil
+y un directorio de las marcas que lo llevan.
 
 :::linkcard https://muhimu.es/comunidad/etiqueta-para-distinguir-la-ropa-libre-de-esclavitud-infantil-listado-de-marcas-que-lo-llevan/ image="https://muhimu.es/wp-content/uploads/2016/04/libre-de-esclavitud-infantil.jpg" title='Etiquetas y directorio para distinguir la ropa libre de esclavitud'
     Cada vez son más los movimiento sociales que nacen para denunciar la esclavitud en el mundo de la moda y asumir nuestra responsabilidad como consumidores

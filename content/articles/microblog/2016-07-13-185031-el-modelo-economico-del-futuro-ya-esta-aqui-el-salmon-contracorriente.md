@@ -21,8 +21,8 @@ original:
   siteurl: https://www.elsalmoncontracorriente.es
   description: ''
 tags:
-- untagged
-category: ''
+- economía social
+category: Campaña
 location: España
 author: vokimon
 
@@ -31,6 +31,6 @@ El modelo económico del futuro ya está aquí
 
 https://www.facebook.com/ElSalmonContra/posts/1063538390394730
 
-:::linkcard https://www.elsalmoncontracorriente.es/?El-modelo-economico-del-futuro-ya image="http://www.elsalmoncontracorriente.es/IMG/arton1141.jpg" title='El modelo económico del futuro ya está aquí - El salmón contracorriente'
+:::linkcard https://www.elsalmoncontracorriente.es/?El-modelo-economico-del-futuro-ya image="/uploads/2016/07/modelo-economico-futuro.jpg" title='El modelo económico del futuro ya está aquí - El salmón contracorriente' nowideimage
 
 

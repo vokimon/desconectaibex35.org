@@ -21,16 +21,23 @@ original:
   siteurl: https://www.elsalmoncontracorriente.es
   description: ''
 tags:
-- untagged
-category: ''
+- Fairphone
+- minería de sangre
+- explotación laboral
+category: Tecnología
 location: España
 author: vokimon
 
 ---
-10 ventajas del Fairphone 2
+10 ventajas del Fairphone 2.
+El primer smartphone de comercio justo.
 
-El primer smartphone de comercio justo
+Sin obsolescencia programada.
+Reparable.
+Con software libre.
+Sin minerales de sangre.
+Mejorando las condiciones laborales en minería y ensamblaje.
 
-:::linkcard https://www.elsalmoncontracorriente.es/?10-ventajas-del-Fairphone-2 image="http://www.elsalmoncontracorriente.es/IMG/arton1190.jpg" title='10 ventajas del Fairphone 2 - El salmón contracorriente'
+:::linkcard https://www.elsalmoncontracorriente.es/?10-ventajas-del-Fairphone-2 image="http://www.elsalmoncontracorriente.es/IMG/arton1190.jpg" title='10 ventajas del Fairphone 2 - El salmón contracorriente' image=/uploads/2016/11/fairphone-congo.jpg
 
 

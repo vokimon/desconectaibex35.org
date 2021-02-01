@@ -26,15 +26,18 @@ original:
   description: La sanción es solo en vía administrativa, por lo que cabe recurrirla
     ante la Audiencia Nacional
 tags:
-- untagged
-category: ''
+- La Caixa
+- multas
+- atención al cliente deficiente
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 
 ---
-Si pedíamos nuestro "Cuadro de Amortización" se negaban a dárnoslo o los lo daban y por ello nos cobraban ... recordáis ? Pues eso mismo por ejemplo es una "Mala Atención al Cliente" !!
 
-Via Stop Clausula Suelo
+> Si pedíamos nuestro "Cuadro de Amortización" se negaban a dárnoslo o los lo daban y por ello nos cobraban ... recordáis ? Pues eso mismo por ejemplo es una "Mala Atención al Cliente" !!
+> 
+> Via Stop Clausula Suelo
 
 :::linkcard https://www.abc.es/economia/abci-cnmv-multa-caixabank-750000-euros-mala-atencion-clientes-201707121112_noticia.html image="https://static3.abc.es/media/economia/2017/07/12/caixabank-oficina-k87D--1240x698@abc.jpg" title='La CNMV multa a Caixabank con 750.000 euros por mala atención a clientes'
     La sanción es solo en vía administrativa, por lo que cabe recurrirla ante la Audiencia Nacional

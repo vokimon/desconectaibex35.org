@@ -21,8 +21,9 @@ original:
   description: La Secretaría de Estado de Telecomunicaciones y Sociedad de la Información
     (Setsi) obligó a pagar 634 euros a la compañía tras la reclamación del usuario
 tags:
-- untagged
-category: ''
+- altas no solicitadas
+- Vodafone
+category: Telecomunicaciones
 location: España
 author: vokimon
 

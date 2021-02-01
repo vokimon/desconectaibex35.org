@@ -19,14 +19,32 @@ original:
   description: El nuevo decreto del Gobierno que carga el bono social solo a las empresas
     comercializadoras, lo cual beneficia a Endesa, Iberdrola y Gas Natural Fenosa
 tags:
-- untagged
-category: ''
+- beneficios record
+- precios abusivos
+category: Electricidad
 location: España
 author: vokimon
 
 ---
-¿Quien ha de pagar el bono social? Un analisis critico y fundamentado sobre lo que la nueva ley llama 'beneficios razonables' de las grandes electricas.
+¿Quién debería pagar el bono social?
+Desmontando con datos
+los 'beneficios razonables'
+que la nueva ley pretende garantizar
+a las grandes electricas.
+Cuando cobras según lo que dices que pierdes, pero ganas, y ganas mucho.
 
-:::linkcard https://www.lamarea.com/2017/02/05/cuanto-ganan-las-grandes-electricas-en-espana/ image="https://www.lamarea.com/wp-content/uploads/2016/11/Endesa.jpg" title='¿Cuánto ganan las grandes eléctricas en España? | lamarea.com'
+Este artículo de
+Marta Victoria y
+José Luis Velasco
+del [Observatorio Crítico de la Energia](http://observatoriocriticodelaenergia.org/)
+en La Marea
+pone el dedo en la llaga.
+El precio de la electricidad está regulado por el gobierno.
+Pero este precio está basado en unos supuestos costes que tienen las distribuidoras,
+que según repiten y repiten les genera pérdidas.
+
+Los periodistas desmontan con datos estas afirmaciones:
+
+:::linkcard https://www.lamarea.com/2017/02/05/cuanto-ganan-las-grandes-electricas-en-espana/ image=https://chart-studio.plotly.com/~martich_5/21.png?share_key=KYnMJYsKbViTvJX9ekEEAI
     El nuevo decreto del Gobierno que carga el bono social solo a las empresas comercializadoras, lo cual beneficia a Endesa, Iberdrola y Gas Natural Fenosa
 

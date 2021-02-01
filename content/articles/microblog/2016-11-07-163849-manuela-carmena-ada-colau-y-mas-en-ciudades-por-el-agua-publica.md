@@ -16,14 +16,14 @@ original:
   siteurl: https://www.youtube.com
   description: ' '
 tags:
-- untagged
-category: ''
+- agua pública
+- municipalización
+category: Agua
 location: España
 author: vokimon
-
+image: https://i.ytimg.com/vi/GohHZ0gD35Y/maxresdefault.jpg
 ---
-Acabando con la privatizacion de los monopolios de suministro
+Acabando con la privatización de los monopolios de suministro
 
-:::linkcard https://www.youtube.com/watch?v=GohHZ0gD35Y image="https://i.ytimg.com/vi/GohHZ0gD35Y/maxresdefault.jpg" title='Manuela Carmena, Ada Colau y más en Ciudades por el agua pública'
-     
+:::youtube GohHZ0gD35Y
 

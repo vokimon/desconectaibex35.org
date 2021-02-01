@@ -19,7 +19,7 @@ original:
     y tengo una hipoteca.
 tags:
 - no es noticia
-- control medios
+- control mediático
 category: Prensa, Televisión, Medios
 location: España
 author: vokimon

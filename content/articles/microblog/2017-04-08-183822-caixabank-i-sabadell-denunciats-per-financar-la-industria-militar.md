@@ -21,13 +21,15 @@ original:
   description: Aquest dijous un grup d’activistes faran una acció de protesta a les
     portes de la Caixa abans de la celebració de la Junta d’Acccionistes
 tags:
-- untagged
-category: ''
+- La Caixa
+- Banc Sabadell
+- banca armada
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 
 ---
-EN OBERT | Si téns diners aquí, hauries de llegir aquest reportatge
+Si téns diners aquí, hauries de llegir aquest reportatge
 
 :::linkcard https://www.elcritic.cat/noticies/inversions-polemiques-de-la-caixa-i-del-banc-sabadell-explosius-missils-nuclears-i-tecnologia-militar-11113 image="https://s3-eu-west-1.amazonaws.com/elcritic.cat/wp-content/uploads/2017/04/05175140/caixa-portada-1024x393-1200x630.jpg" title='Caixabank i Sabadell, denunciats per finançar la indústria militar'
     Aquest dijous un grup d’activistes faran una acció de protesta a les portes de la Caixa abans de la celebració de la Junta d’Acccionistes

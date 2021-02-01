@@ -1,5 +1,5 @@
 ---
-title: Oikocredit Catalunya
+title: Descubre si tu banco invierte en armas
 date: &id001 2016-07-09 09:34:48+00:00
 status: published
 original:
@@ -48,8 +48,8 @@ original:
   description: ¡Mira si tu banco está en el Top 20 de los bancos que invierten en
     armas! Más información en el nuevo informe del Centre Delàs d'Estudis per la Pau...
 tags:
-- untagged
-category: ''
+- banca armada
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 
@@ -60,6 +60,6 @@ El informe anual del Centre Delàs d'Estudis per la Pau evalua el sector financi
 
 La alternativa, banca y seguros éticos (Fiare, Coop57, Oikocredit, Triodos, Atlantis, Arç...)
 
-:::linkcard https://www.facebook.com/oikocreditcat/photos/a.188625297979490/620950924746923/ image="https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/13584987_620950924746923_2028821249831227343_o.jpg?_nc_cat=105&_nc_sid=2d5d41&_nc_ohc=-1B_GLGBuS8AX_5kGiC&_nc_ht=scontent-mad1-1.xx&oh=99f2e9dad1f4834df6236d0634164b62&oe=5F573D9B" title='Oikocredit Catalunya'
+:::linkcard http://centredelas.org/publicacions/los-bancos-que-invierten-en-armas-actualizacion-de-la-financiacion-de-armamento-nuclear-de-bombas-de-racimo-y-de-las-principales-industrias-militares-espanolas-2011-2016/ image=/uploads/2016/07/informe-28.jpg
     ¡Mira si tu banco está en el Top 20 de los bancos que invierten en armas! Más información en el nuevo informe del Centre Delàs d'Estudis per la Pau...
 

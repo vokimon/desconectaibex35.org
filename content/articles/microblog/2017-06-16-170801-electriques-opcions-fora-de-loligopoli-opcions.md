@@ -21,7 +21,8 @@ original:
     elèctric. Us expliquem quines són i en què es diferencien.
 tags:
 - untagged
-category: ''
+- Opcions
+category: Electricidad
 location: España
 author: vokimon
 

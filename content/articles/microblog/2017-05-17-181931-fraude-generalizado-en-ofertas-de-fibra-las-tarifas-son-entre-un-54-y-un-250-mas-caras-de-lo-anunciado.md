@@ -25,8 +25,9 @@ original:
     y Yoigo por publicidad engañosa, ya que anuncian unos precios considerablemente
     inferiores a los que luego cobran.
 tags:
-- untagged
-category: ''
+- publicidad engañosa
+- precios injustos
+category: Telecomunicaciones
 location: España
 author: vokimon
 

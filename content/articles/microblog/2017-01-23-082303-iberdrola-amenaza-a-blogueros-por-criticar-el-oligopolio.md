@@ -26,12 +26,11 @@ tags:
 category: Electricidad, Prensa
 location: España
 author: vokimon
-
 ---
 Iberdrola amenaza con acciones legales a los blogueros de rokambol y iniciativa-debate
 que criticaron a las empresas del oligopolio eléctrico
 por las subidas de precios y los cortes de luz de esta semana.
 
-:::linkcard https://iniciativadebate.org/2017/01/23/patata-electrica/
+:::linkcard https://puntocritico.com/2017/01/23/la-patata-electrica/
 
 

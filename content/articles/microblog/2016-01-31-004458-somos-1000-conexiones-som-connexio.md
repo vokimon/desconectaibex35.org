@@ -19,8 +19,8 @@ original:
     hace ilusión y una cifra de 4 dígitos… ¡son palabras mayores! No sabéis la ilusión
     que hace esta meta a las personas del equipo y todo el mundo que…
 tags:
-- untagged
-category: ''
+- Som Connexio
+category: Telecomunicaciones
 location: España
 author: vokimon
 
