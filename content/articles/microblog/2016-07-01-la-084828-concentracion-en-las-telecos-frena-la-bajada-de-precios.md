@@ -40,7 +40,7 @@ Las últimas absorciones entre empresas del sector
 lo ha devuelto a la desolación del oligopolio más duro.
 Lo confirma la CNMC, los precios rompen su tendencia a la baja.
 
-:::linkcard https://blog.cnmc.es/2016/07/01/panel-cnmc-mas-paquetes-y-mas-gasto/
+:::linkcard https://blog.cnmc.es/2016/07/01/panel-cnmc-mas-paquetes-y-mas-gasto/ image=https://blog.cnmc.es/wp-content/uploads/2016/06/20521684_841aea9c6b_o.jpg title="Panel CNMC: Más paquetes y más gasto"
     Anàlisi del Panel de Hogares 4T 2015 de la CNMV:
 	"Se rompe la tendencia a la baja en los precios de los paquetes
 	y servicios de telecomunicaciones"...

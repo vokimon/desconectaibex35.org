@@ -1,5 +1,5 @@
 ---
-title: Quien financiamos
+title: "Fiare: ¿A quién financiamos?"
 date: &id001 2016-02-27 10:04:55+00:00
 status: published
 original:
@@ -23,8 +23,10 @@ original:
     la intermediación financiera, bajo los principios de la transparencia, la participación,
     la democracia y el crédito como derecho.'
 tags:
-- untagged
-category: ''
+- Fiare
+- banca ética
+- transparencia
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 

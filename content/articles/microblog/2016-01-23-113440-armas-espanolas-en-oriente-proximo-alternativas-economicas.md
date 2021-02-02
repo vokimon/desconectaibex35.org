@@ -28,14 +28,17 @@ original:
     porque Morenés, antes de ser ministro, había desempeñado diversos cargos en empresas
     militares y de seguridad.
 tags:
-- untagged
-category: ''
+- banca armada
+- Pedro Morenés
+- Alternativas Económicas
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 
 ---
-Ei, que genera empleo, asi que chitón. (Y no pienses que existe ya una banca ética que no invierte en la industria armamentistica)
+Ei, que genera empleo, asi que chitón.
+(Y no pienses que existe ya una banca ética que no invierte en la industria armamentistica)
 
-:::linkcard https://alternativaseconomicas.coop/articulo/el-tema-del-mes/armas-espanolas-en-oriente-proximo image="None" title='Armas españolas en Oriente Próximo | Alternativas Económicas'
+:::linkcard https://alternativaseconomicas.coop/articulo/el-tema-del-mes/armas-espanolas-en-oriente-proximo image='' title='Armas españolas en Oriente Próximo | Alternativas Económicas'
     La llegada de Pedro Morenés al Ministerio de Defensa en 2011, ha marcado un hito en las exportaciones de armas españolas. Esto ha sido así por un motivo, porque Morenés, antes de ser ministro, había desempeñado diversos cargos en empresas militares y de seguridad.
 

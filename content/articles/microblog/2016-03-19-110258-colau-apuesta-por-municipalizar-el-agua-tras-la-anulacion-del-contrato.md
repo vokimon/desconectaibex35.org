@@ -26,13 +26,17 @@ original:
   description: El Área Metropolitana de Barcelona no recurrirá el fallo en contra
     de la sociedad mixta controlada por Agbar
 tags:
-- untagged
-category: ''
-location: España
+- Area Metropolitana de Barcelona
+- Agbar
+- Ada Colau
+- municipalización
+category: Agua
+location: Barcelona
 author: vokimon
 
 ---
-Remunicipalizando servicios en Barcelona. Empecemos por el agua que es el mas hiriente.
+Remunicipalizando servicios en Barcelona.
+Empecemos por el agua que es el más hiriente.
 
 :::linkcard https://elpais.com/ccaa/2016/03/17/catalunya/1458245198_462057.html image="https://ep00.epimg.net/ccaa/imagenes/2016/03/17/catalunya/1458245198_462057_1458247228_noticia_normal.jpg" title='Colau apuesta por municipalizar el agua tras la anulación del contrato'
     El Área Metropolitana de Barcelona no recurrirá el fallo en contra de la sociedad mixta controlada por Agbar

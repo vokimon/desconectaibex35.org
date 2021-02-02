@@ -23,8 +23,9 @@ original:
     en el Mediterráneo», promovido por la ACIM (Agencia para la cooperación internacional
     y el desarrollo local en el Mediterráneo ).
 tags:
-- untagged
-category: ''
+- Fiare
+- Coopmed
+category: Banca, Financiación
 location: España
 author: vokimon
 

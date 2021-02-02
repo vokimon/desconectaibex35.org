@@ -20,8 +20,11 @@ original:
     y su trabajo está elaborado con entrevistas a los propios consejeros de las sociedades
     cotizadas en España
 tags:
-- untagged
-category: ''
+- Spencer Stuart
+- adedismo
+- endogamia empresarial
+- liderazgo autoritario
+category: Campaña
 location: España
 author: vokimon
 

@@ -37,8 +37,10 @@ original:
     tindrà una part d’assemblea amb un espai obert per encabir-hi altres propostes
     de...
 tags:
-- untagged
-category: ''
+- Xarxa per la Sobirania Energètica
+- distribución eléctrica
+- municipalización
+category: Electricidad
 location: España
 author: vokimon
 

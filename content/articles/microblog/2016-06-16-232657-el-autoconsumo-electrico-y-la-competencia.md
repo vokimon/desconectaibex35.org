@@ -21,13 +21,13 @@ original:
     y la competencia elaboradas por parte de la Autoritat Catalana de la Competència
     a la v...
 tags:
-- untagged
-category: ''
+- autoconsumo
+category: Electricidad
 location: España
 author: vokimon
 
 ---
-El autoconsumo electrico y la competencia
+El autoconsumo electrico y la competencia [Video]
 
 :::linkcard https://www.youtube.com/watch?v=GfqRgP9pEiM image="https://i.ytimg.com/vi/GfqRgP9pEiM/maxresdefault.jpg" title='El autoconsumo eléctrico y la competencia'
     Video explicativo de las observaciones sobre el autoconsumo eléctrico y la competencia elaboradas por parte de la Autoritat Catalana de la Competència a la v...

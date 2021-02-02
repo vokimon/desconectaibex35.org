@@ -21,16 +21,18 @@ original:
   siteurl: https://www.elsalmoncontracorriente.es
   description: ''
 tags:
-- untagged
-category: ''
+- rescate empresarial
+category: Telecomunicaciones
 location: España
 author: vokimon
-
+via: https://www.facebook.com/ElSalmonContra/posts/1042273545854548
 ---
-El BCE rescata a Telefónica con nuestro dinero
+El BCE rescata a Telefónica con nuestro dinero.
+Un dia de esto les dara por rescatar personas.
 
-https://www.facebook.com/ElSalmonContra/posts/1042273545854548
-
-:::linkcard https://www.elsalmoncontracorriente.es/?El-BCE-rescata-a-Telefonica-con image="http://www.elsalmoncontracorriente.es/IMG/arton1088.jpg" title='El BCE rescata a Telefónica con nuestro dinero - El salmón contracorriente'
-
+:::linkcard https://www.elsalmoncontracorriente.es/?El-BCE-rescata-a-Telefonica-con image="http://www.elsalmoncontracorriente.es/IMG/arton1088.jpg" title='El BCE rescata a Telefónica con nuestro dinero - El salmón contracorriente' image=/uploads/2016/06/bce-rescata-a-telefonica.jpg
+  Hace tres meses el Banco Central Europeo,
+  con Mario Draghi al frente, anunció un nuevo plan de estímulo para reanimar la economía europea.
+  Una de las medidas estrella fue el anuncio de comprar deuda a grandes empresas no financieras.
+  Hoy han arrancado esas medidas y una de las primeras empresas que se han beneficiado de este estímulo ha sido la española Telefónica.
 

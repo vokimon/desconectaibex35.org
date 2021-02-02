@@ -24,8 +24,9 @@ original:
     en el mercado y pueden influir en los precios y salarios. Eso es lo que ocurre
     cuando la competencia desaparece.
 tags:
-- untagged
-category: ''
+- Joseph Stiglitz
+- monopolio
+category: Campaña
 location: España
 author: vokimon
 

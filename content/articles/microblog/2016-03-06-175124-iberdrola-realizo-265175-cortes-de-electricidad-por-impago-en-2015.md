@@ -25,8 +25,10 @@ original:
   description: Estas cifras suponen un descenso del 21% con respecto a las 335.731
     suspensiones del suministro de 2014.
 tags:
-- untagged
-category: ''
+- Iberdrola
+- cortes de suministro
+- pobreza energética
+category: Electricidad
 location: España
 author: vokimon
 

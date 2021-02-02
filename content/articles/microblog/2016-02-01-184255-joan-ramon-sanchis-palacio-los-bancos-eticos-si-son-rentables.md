@@ -22,8 +22,9 @@ original:
   siteurl: http://losojosdehipatia.com.es
   description: 'Joan Ramon Sanchis Palacio: “Los bancos éticos sí son rentables”'
 tags:
-- untagged
-category: ''
+- Ramón Sanchís Palacio
+- banca ética
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 

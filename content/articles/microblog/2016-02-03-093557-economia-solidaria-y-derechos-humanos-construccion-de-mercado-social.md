@@ -18,8 +18,11 @@ original:
   description: El Observatorio DESC, la XES y REAS presentan una publicación online
     interactiva que vincula los derechos humanos, económicos, sociales y culturales,…
 tags:
-- untagged
-category: ''
+- XES
+- REAS
+- Observatorio DESC
+- derechos humanos
+category: Campaña
 location: España
 author: vokimon
 

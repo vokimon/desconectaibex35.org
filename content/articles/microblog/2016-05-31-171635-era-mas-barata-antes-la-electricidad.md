@@ -20,13 +20,16 @@ original:
   description: 'Analizamos la evolución de los precios de la electricidad en los últimos
     30 años: término de energía, termino de potencia, impuestos,e tc...'
 tags:
-- untagged
-category: ''
+- precios abusivos
+category: Electricidad
 location: España
 author: vokimon
 
 ---
-Aqui teneis tambien un articulo con la evolucion de los precios de la energia. Aqui el precio hasta hace poco era regulado aunque siempre con atencion a qué decían las grandes. Por eso el subidón de la poténcia cuando empezó a bajar el consumo por la crisis.
+
+El siguiente articulo analiza la evolucion de los precios de la energia ajustados al IPC.
+El precio hasta hace poco era regulado aunque siempre con atencion a qué decían las grandes.
+Por eso el subidón de la poténcia cuando empezó a bajar el consumo por la crisis.
 
 :::linkcard https://nergiza.com/era-mas-barata-antes-la-electricidad/ image="https://nergiza.com/wp-content/uploads/nominal.png" title='¿Era más barata antes la electricidad?'
     Analizamos la evolución de los precios de la electricidad en los últimos 30 años: término de energía, termino de potencia, impuestos,e tc...

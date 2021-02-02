@@ -20,8 +20,9 @@ original:
   siteurl: https://www.youtube.com
   description: Entrevista al economista Juan Torres (Tesis - ATV, 16/04/16)
 tags:
-- untagged
-category: ''
+- élites franquistas
+- Juan Torres
+category: Campaña
 location: España
 author: vokimon
 

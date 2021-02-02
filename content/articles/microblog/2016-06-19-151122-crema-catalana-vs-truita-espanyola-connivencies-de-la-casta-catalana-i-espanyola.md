@@ -22,8 +22,12 @@ original:
     (Govern central, Corona i Generalitat) han sabut treure sucosos beneficis. Dels
     Pujol als Borbón. Les elits catalana i espanyola forjades al Pont …
 tags:
-- untagged
-category: ''
+- Rafa Burgos
+- plutocracia
+- oligopolio
+- puertas giratorias
+- amaño concursos
+category: Campaña
 location: España
 author: vokimon
 

@@ -21,14 +21,16 @@ original:
   description: '[També en: Català] Después de la participación de la cooperativa Som
     Energia en la subasta eólica de'
 tags:
-- untagged
-category: ''
+- concursos amañados
+- legislación a medida
+category: Electricidad
 location: España
 author: vokimon
 
 ---
-Mercados diseñados para beneficiar a las grandes. SomEnergia denuncia el diseño de la subasta eolica que deja fuera a los productores que quieren entrar en el mercado.
+Un mercado diseñado para beneficiar a las grandes.
+SomEnergia denuncia el diseño de la subasta eolica que deja fuera a los productores que quieren entrar en el mercado.
 
 :::linkcard https://blog.somenergia.coop/comunicados-prensa/2016/01/som-energia-denuncia-la-tendenciosa-subasta-eolica-creada-para-maquillar-la-legislatura-antirenovable-del-gobierno/ image="https://blog.somenergia.coop/wp-content/uploads/2016/01/subasta-eolica.jpg" title='[NdP] Som Energia denuncia la tendenciosa subasta eólica creada para maquillar la legislatura antirenovable del Gobierno - El Blog de Som Energia'
-    [També en: Català] Después de la participación de la cooperativa Som Energia en la subasta eólica de
+    Después de la participación de la cooperativa Som Energia en la subasta eólica de
 
