@@ -4,7 +4,7 @@ date: 2012-06-01 13:30
 author: vokimon
 category: Electricidad
 tags:
-- CMNV
+- CNMV
 - Endesa
 - Iberdrola
 - Fenosa
