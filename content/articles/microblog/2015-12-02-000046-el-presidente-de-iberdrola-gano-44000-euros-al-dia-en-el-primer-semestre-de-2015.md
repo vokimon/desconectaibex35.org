@@ -52,13 +52,18 @@ original:
     millones de euros fueron en efectivo y 3,24 millones, en acciones. Por tanto,
     al día, la...
 tags:
-- untagged
-category: ''
+- Ignacio Sánchez Galán
+- Iberdrola
+- supersueldos directivos
+category: Electricidad
 location: España
 author: vokimon
 
 ---
-Me da que se lo ha ganado con esfuerzo y seguro que el pobre no tiene ni para comer. El coste de la factura de la luz se han multiplicado en los ultimos años y muchas familias no la pueden pagar. A pesar de estos sueldazos de los directivos y de los supuestos costos que el gobierno les reconoce en el deficit de tarifa, cada año tienen record de beneficios.
+Me da que se lo ha ganado con esfuerzo y seguro que el pobre no tiene ni para comer.
+El coste de la factura de la luz se han multiplicado en los ultimos años
+y muchas familias no la pueden pagar.
+A pesar de estos sueldazos de los directivos y de los supuestos costos que el gobierno les reconoce en el deficit de tarifa, cada año tienen record de beneficios.
 
 Alternativas: Autoproduccion, Cooperativas de usuarios como Som Energia, Goiener y no volver a votar a partidos con personajes en los puestos de direccion de estas empresas.
 

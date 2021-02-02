@@ -1,5 +1,5 @@
 ---
-title: untitled
+title: En tu calle se fabrican misiles nucleares - El Salmon Contracorriente
 date: &id001 2015-12-09 17:51:40+00:00
 status: published
 original:
@@ -19,14 +19,19 @@ original:
   date: *id001
   link: https://www.elsalmoncontracorriente.es/?En-tu-calle-se-fabrican-misiles
 tags:
-- untagged
-category: ''
+- banca armada
+- BBVA
+- Banco Santander
+- Banco Sabadell
+category: Banca, Financiación, Ahorro
 location: España
 author: vokimon
 
 ---
 La alternativa: banca etica como Fiare, Triodos, La Coop Cincuentaysiete, CASH... Tu decides donde pones tu dinero y para que se usa.
 
-:::linkcard https://www.elsalmoncontracorriente.es/?En-tu-calle-se-fabrican-misiles image="NOIMAGE" title='NOTITLE'
-
+:::linkcard https://www.elsalmoncontracorriente.es/?En-tu-calle-se-fabrican-misiles image="/uploads/2015/01/arton794.png" title='En tu calle se fabrican misiles nucleares - El Salmon Contracorriente'
+	El estudio “Don´t bank on the bomb” muestra las cifras sobre
+	la profunda implicación de parte de la banca española
+	en la industria armamentística nuclear
 

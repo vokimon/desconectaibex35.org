@@ -28,13 +28,18 @@ original:
   description: La CNMC considera probado que la eléctrica controló sus instalaciones
     hidráulicas para subir los precios antes de la subasta de diciembre de 2013
 tags:
-- untagged
-category: ''
+- Iberdrola
+- manipulación del mercado
+- multas
+category: Electricidad
 location: España
 author: vokimon
 
 ---
-Algo que hemos denunciado otras veces. Desconectan las centrales baratas, las renovables, como la eolica, para que entren en la subasta las fuentes de energia que suben el precio (las fosiles) y asi todo el lote se paga a ese precio caro y ese precio caro es el que se translada al consumidor. Que, como el precio de subasta es común a todos los comercializadores (con un cierto margen variable), el consumidor solo puede tragar o... hay alguna alternativa?
+Algo que hemos denunciado otras veces.
+Desconectan las centrales baratas, las renovables, como la eolica,
+para que entren en la subasta las fuentes de energia
+que suben el precio (las fosiles) y asi todo el lote se paga a ese precio caro y ese precio caro es el que se translada al consumidor. Que, como el precio de subasta es común a todos los comercializadores (con un cierto margen variable), el consumidor solo puede tragar o... hay alguna alternativa?
 
 Som Energia hackea el mecanismo para beneficiar al usuario con GenerationKWh, compra y vende la misma energia a mercado al precio de subasta, compensandose, y, donde Iberdrola tiene beneficios, Som Energia traslada el precio de coste real, mas barato que el de mercado, al usuario.
 

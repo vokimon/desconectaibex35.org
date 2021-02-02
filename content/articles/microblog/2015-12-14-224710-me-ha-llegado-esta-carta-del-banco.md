@@ -17,8 +17,8 @@ original:
   siteurl: https://medium.com
   description: 'Apreciado señor Rubio:'
 tags:
-- untagged
-category: ''
+- comisiones abusivas
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 

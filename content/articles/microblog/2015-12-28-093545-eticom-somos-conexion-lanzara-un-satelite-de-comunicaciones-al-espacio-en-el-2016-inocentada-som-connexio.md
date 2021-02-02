@@ -21,8 +21,9 @@ original:
     para avanzar hacia la sobirania en el campo de las telecomunicaciones, desconectandose
     totalmente de los satelites del…
 tags:
-- untagged
-category: ''
+- Som Connexió
+- inocentada
+category: Telecomunicaciones
 location: España
 author: vokimon
 
