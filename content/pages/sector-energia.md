@@ -80,6 +80,10 @@ meta:
       subtitle: Acceso universal a la energía
       logo: /images/logos/logo-aliancapobresaenergetica.png
       url: http://pobresaenergetica.es/es/
+    - title: Xarxa per la Sobirania Energètica
+      subtitle: Red de entidades. Municipalización de la red de distribución
+      logo: /images/logos/logo-xse.png
+      url: http://xse.cat
 #    - title: Grupos locales de Som Energia
 #      subtitle: Soporte mutuo, charlas y difusión de alternativas
 #      logo: /images/logos/logo-somenergia.svg
