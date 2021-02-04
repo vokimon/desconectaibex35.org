@@ -21,7 +21,7 @@ original:
     perjudicades pels canvis en la'
 tags:
 - Som Energia
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

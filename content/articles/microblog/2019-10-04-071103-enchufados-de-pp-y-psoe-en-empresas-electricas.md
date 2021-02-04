@@ -22,7 +22,7 @@ tags:
 - Endesa
 - Gas Natural
 - Repsol
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

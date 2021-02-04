@@ -26,7 +26,7 @@ original:
 tags:
 - Iberdrola
 - beneficios
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

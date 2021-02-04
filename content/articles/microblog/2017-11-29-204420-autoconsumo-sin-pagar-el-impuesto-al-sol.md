@@ -33,7 +33,7 @@ original:
     casa con placas solares el exceso de producción de energía que no usa
 tags:
 - Eléctrica Benéfica Abaterense
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

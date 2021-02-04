@@ -21,7 +21,7 @@ original:
     30 años: término de energía, termino de potencia, impuestos,e tc...'
 tags:
 - precios abusivos
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

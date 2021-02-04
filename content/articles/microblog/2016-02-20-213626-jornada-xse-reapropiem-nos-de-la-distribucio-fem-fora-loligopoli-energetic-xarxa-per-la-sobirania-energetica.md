@@ -40,7 +40,7 @@ tags:
 - Xarxa per la Sobirania Energètica
 - distribución eléctrica
 - municipalización
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

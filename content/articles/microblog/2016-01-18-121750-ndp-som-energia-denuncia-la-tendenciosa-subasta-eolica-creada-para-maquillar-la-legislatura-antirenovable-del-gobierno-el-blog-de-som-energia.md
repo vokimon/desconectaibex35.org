@@ -23,7 +23,7 @@ original:
 tags:
 - concursos amañados
 - legislación a medida
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

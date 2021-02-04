@@ -25,7 +25,7 @@ original:
 tags:
 - honores inmerecidos
 - Iberdrola
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

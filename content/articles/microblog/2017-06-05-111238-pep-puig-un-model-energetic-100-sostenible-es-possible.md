@@ -29,7 +29,7 @@ original:
 tags:
 - Som Energia
 - Pep Puig
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

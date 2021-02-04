@@ -28,7 +28,7 @@ tags:
 - Iberdrola
 - cortes de suministro
 - pobreza energética
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

@@ -21,7 +21,7 @@ original:
     a precio de mercado
 tags:
 - primas a las renovables
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 ---

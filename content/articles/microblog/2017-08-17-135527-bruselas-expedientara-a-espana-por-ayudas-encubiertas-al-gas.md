@@ -27,7 +27,7 @@ tags:
 - ayudas a la competencia
 - pagos por desconexión
 - pagos por capacidad
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

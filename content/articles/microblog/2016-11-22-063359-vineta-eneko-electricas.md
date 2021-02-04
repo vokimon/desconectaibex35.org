@@ -23,7 +23,7 @@ tags:
 - Eneko
 - Gas Natural
 - pobreza energética
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 ---

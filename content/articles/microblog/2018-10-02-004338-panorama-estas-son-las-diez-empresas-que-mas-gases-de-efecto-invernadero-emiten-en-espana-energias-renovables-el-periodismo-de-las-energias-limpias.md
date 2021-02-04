@@ -31,7 +31,7 @@ tags:
 - Iberdrola
 - Cementos Portland
 - Cemex
-category: Electricidad, Infrastructuras
+category: Energía, Infrastructuras
 location: España
 author: vokimon
 

@@ -23,7 +23,7 @@ tags:
 - Iberdrola
 - coacción a medios
 - libertad de prensa
-category: Electricidad, Prensa
+category: Energía, Prensa
 location: España
 author: vokimon
 ---

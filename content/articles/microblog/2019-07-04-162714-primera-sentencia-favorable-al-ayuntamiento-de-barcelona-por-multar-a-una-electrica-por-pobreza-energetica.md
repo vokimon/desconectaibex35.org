@@ -22,7 +22,7 @@ tags:
 - Ada Colau
 - Endesa
 - pobreza energética
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

@@ -55,7 +55,7 @@ tags:
 - Ignacio Sánchez Galán
 - Iberdrola
 - supersueldos directivos
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

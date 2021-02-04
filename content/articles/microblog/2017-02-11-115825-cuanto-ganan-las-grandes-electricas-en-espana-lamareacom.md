@@ -21,7 +21,7 @@ original:
 tags:
 - beneficios record
 - precios abusivos
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

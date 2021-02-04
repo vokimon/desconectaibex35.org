@@ -28,7 +28,7 @@ tags:
 - Santiago Lanzuela
 - Daniel Arveras
 - Beatriz de Munck
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

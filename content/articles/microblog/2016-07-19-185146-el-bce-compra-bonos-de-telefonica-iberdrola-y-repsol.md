@@ -27,7 +27,7 @@ tags:
 - Telefónica
 - Iberdrola
 - Repsol
-category: Telecomunicaciones, Electricidad
+category: Telecomunicaciones, Energía
 location: España
 author: vokimon
 

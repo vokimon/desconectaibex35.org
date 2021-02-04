@@ -23,7 +23,7 @@ tags:
 - comerciales agresivos
 - oligopolio
 - precios injustos
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

@@ -26,7 +26,7 @@ tags:
 - Blanqueamiento
 - Repsol
 - Cambio Climático
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

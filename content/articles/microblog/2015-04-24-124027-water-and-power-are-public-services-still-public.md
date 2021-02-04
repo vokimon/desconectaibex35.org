@@ -26,7 +26,7 @@ original:
 tags:
 - corportivización
 - gestión privada resursos publicos
-category: Agua, Electricidad, Sanidad
+category: Agua, Energía, Sanidad
 location: España
 author: vokimon
 

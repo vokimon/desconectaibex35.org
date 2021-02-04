@@ -26,7 +26,7 @@ tags:
 - fracking
 - puertas giratorias
 - Alberto Garzón
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

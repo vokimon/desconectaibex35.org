@@ -33,7 +33,7 @@ original:
 tags:
 - Volta Motorbikes
 - Som Energia
-category: Electricidad, Transporte
+category: Energía, Transporte
 location: España
 author: vokimon
 

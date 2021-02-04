@@ -21,7 +21,7 @@ original:
     desde su puesta en marcha en 2013
 tags:
 - multas inútiles
-category: Telecomunicaciones, Banca, Electricidad
+category: Telecomunicaciones, Banca, Energía
 location: España
 author: vokimon
 

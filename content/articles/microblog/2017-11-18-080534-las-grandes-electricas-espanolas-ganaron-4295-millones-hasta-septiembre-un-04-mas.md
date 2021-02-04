@@ -20,7 +20,7 @@ original:
     millones de euros entre enero y septiembre de 2017, lo que supone un ascenso del...
 tags:
 - beneficios desorbidados
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

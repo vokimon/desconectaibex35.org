@@ -24,7 +24,7 @@ tags:
 - mala gestión
 - puertas giratorias
 - nepotismo
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

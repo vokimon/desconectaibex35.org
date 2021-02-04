@@ -21,7 +21,7 @@ original:
 tags:
 - Iberdrola
 - supersueldos directivos
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

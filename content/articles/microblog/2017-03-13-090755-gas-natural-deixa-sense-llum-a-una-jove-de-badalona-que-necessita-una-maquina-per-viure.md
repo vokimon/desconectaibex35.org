@@ -22,7 +22,7 @@ original:
 tags:
 - pobreza energética
 - Gas Natural
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

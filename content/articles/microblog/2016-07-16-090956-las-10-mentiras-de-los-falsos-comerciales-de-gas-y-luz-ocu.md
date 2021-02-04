@@ -89,7 +89,7 @@ original:
     para salir ganando. Estos son sus anzuelos más habituales. ¡No piques!
 tags:
 - comerciales agresivos
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

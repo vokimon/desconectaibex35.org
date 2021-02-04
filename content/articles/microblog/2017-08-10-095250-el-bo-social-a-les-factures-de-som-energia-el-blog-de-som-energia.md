@@ -27,7 +27,7 @@ tags:
 - precios injustos
 - externalización costes
 - competencia pervertida
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

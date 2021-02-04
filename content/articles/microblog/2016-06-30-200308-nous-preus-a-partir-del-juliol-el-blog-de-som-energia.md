@@ -21,7 +21,7 @@ original:
 tags:
 - precios injustos
 - Som Energia
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

@@ -24,7 +24,7 @@ tags:
 - desastres ecológicos
 - nacionalización de perdidas
 - externalización costes
-category: Electricidad, Infrastructuras
+category: Energía, Infrastructuras
 location: España
 author: vokimon
 

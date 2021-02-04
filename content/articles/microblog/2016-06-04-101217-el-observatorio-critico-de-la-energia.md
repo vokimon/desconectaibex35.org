@@ -21,7 +21,7 @@ original:
     son los principales accionistas de las empresas...
 tags:
 - estructura accionarial
-category: Electricidad, Banca
+category: Energía, Banca
 location: España
 author: vokimon
 

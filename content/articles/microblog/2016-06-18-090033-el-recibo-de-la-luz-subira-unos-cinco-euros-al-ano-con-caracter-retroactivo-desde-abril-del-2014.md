@@ -48,7 +48,7 @@ original:
 tags:
 - resoluciones judiciales
 - precios injustos
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

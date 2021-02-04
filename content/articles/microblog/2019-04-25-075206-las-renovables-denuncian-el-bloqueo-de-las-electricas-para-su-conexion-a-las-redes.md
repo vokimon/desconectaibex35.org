@@ -25,7 +25,7 @@ tags:
 - Iberdrola
 - Gas Natural
 - EDP
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

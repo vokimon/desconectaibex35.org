@@ -22,7 +22,7 @@ tags:
 - Aramco
 - contaminación
 - externalidades
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

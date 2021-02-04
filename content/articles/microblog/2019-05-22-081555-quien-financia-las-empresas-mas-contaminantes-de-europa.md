@@ -19,7 +19,7 @@ original:
 tags:
 - Endesa
 - contaminación
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 

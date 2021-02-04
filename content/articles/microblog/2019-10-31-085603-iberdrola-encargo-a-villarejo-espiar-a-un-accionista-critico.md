@@ -20,7 +20,7 @@ tags:
 - Villarejo
 - Florentino Pérez
 - ACS
-category: Electricidad
+category: Energía
 location: España
 author: vokimon
 
