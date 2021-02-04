@@ -1,7 +1,7 @@
 ---
-title: "Sector: Electricidad"
+title: "Sector: Energía"
 author: vokimon
-slug: sector-electricidad
+slug: sector-energia
 date: 2012-05-10 00:40
 category: Energia
 status: published
@@ -11,7 +11,7 @@ meta:
     subtitle: "¿Porqué debería desconectar?"
     description: ""
     action: "Entérate"
-    action_url: /sector-electricidad
+    action_url: /sector-energia
     action_class: "is-danger"
   - title: "Alternativas"
     subtitle: "¿Qué puedo hacer para desconectarme?"
