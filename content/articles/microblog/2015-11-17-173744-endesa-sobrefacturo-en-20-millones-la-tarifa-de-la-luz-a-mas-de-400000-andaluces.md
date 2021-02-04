@@ -19,8 +19,9 @@ original:
   description: La multinacional no informa a los usuarios y el Gobierno andaluz ha
     tardado seis años en ordenar la devolución de las cantidades cobradas en exceso
 tags:
-- untagged
-category: ''
+- Endesa
+- sobrefacturación
+category: Electricidad
 location: España
 author: vokimon
 

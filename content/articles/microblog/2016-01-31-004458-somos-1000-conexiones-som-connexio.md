@@ -27,6 +27,10 @@ author: vokimon
 ---
 Eticom llega al hito del millar de personas socias! ¿Y tu? ¿Aun tienes tu mobil con una empresa del oligopolio? ¿A que esperas? #1000Conexiones
 
+Eticom es una ambiciosa cooperativa de consumidores de telecomunicaciones que se autoprestan el servicio.
+Desde hace unos meses ofrecen voz y datos mobiles en red de Orange y estan al caer internet i fijo.
+Contra mas socios seamos mas cosas podremos hacer y tendremos mas fuerza para mejorar las condiciones que imponen los oligopolios o incluso independizarnos totalmente desplegando red propia y libre, en regimen de comunes.
+
 :::linkcard https://somconnexio.coop/es/somos-1000-conexiones/ image="https://somosconexion.coop/wp-content/uploads/2017/07/1000ESC.png" title='Somos 1000 Conexiones - Som Connexió'
     ¡Ya somos 1.000 personas socias! Llegar a estas cifras redondas siempre hace ilusión y una cifra de 4 dígitos… ¡son palabras mayores! No sabéis la ilusión que hace esta meta a las personas del equipo y todo el mundo que…
 

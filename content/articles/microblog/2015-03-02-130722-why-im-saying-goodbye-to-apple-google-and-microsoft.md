@@ -19,13 +19,19 @@ original:
   siteurl: https://medium.com
   description: I’m done sending my money and data to corporations I don’t trust
 tags:
-- untagged
-category: ''
+- Microsoft
+- Apple
+- GNU/Linux
+- Cyanogenmod
+category: Tecnología
 location: España
 author: vokimon
 
 ---
 [ENG] 'Porqué digo adios a Apple, Google y Microsoft'
+
+Continua, 'Estoy cansado de enviar mi dinero y mis datos a corporaciones en las que no confio'
+
 
 :::linkcard https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd image="https://miro.medium.com/max/1200/1*g075TE8V6filRvhrmucvzA.jpeg" title='Why I’m Saying Goodbye to Apple, Google and Microsoft'
     I’m done sending my money and data to corporations I don’t trust

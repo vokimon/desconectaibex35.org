@@ -1,5 +1,5 @@
 ---
-title: 'Water and Power: Are public services still public?'
+title: '[Video] Water and Power: Are public services still public?'
 date: &id001 2015-04-24 12:40:27+00:00
 status: published
 original:
@@ -24,15 +24,17 @@ original:
     utilities are now undergoing “corporatization”: they have legal autonomy and manage
     thei...'
 tags:
-- untagged
-category: ''
+- corportivización
+- gestión privada resursos publicos
+category: Agua, Electricidad, Sanidad
 location: España
 author: vokimon
 
 ---
 ¿Los servicios publicos son aun publicos?
-Son els serveis publics, encara publics?
 
 :::linkcard https://www.youtube.com/watch?v=DNkno9Bw51E image="https://i.ytimg.com/vi/DNkno9Bw51E/maxresdefault.jpg" title='Water and Power: Are public services still public?'
-    Public water and electricity are back in vogue! Yet many state-owned utilities are now undergoing “corporatization”: they have legal autonomy and manage thei...
+    Public water and electricity are back in vogue!
+	Yet many state-owned utilities are now undergoing “corporatization”:
+	they have legal autonomy and manage thei...
 

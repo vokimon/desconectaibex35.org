@@ -1,5 +1,5 @@
 ---
-title: Guifi punt net premiada a Europa
+title: Guifi.net premiada en Europa
 date: &id001 2015-11-30 21:45:55+00:00
 status: published
 original:
@@ -28,8 +28,8 @@ original:
   siteurl: https://www.ccma.cat
   description: ''
 tags:
-- untagged
-category: ''
+- Guifi.net
+category: Telecomunicaciones
 location: España
 author: vokimon
 

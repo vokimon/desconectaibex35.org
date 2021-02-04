@@ -37,17 +37,25 @@ original:
   link: http://promoetic.coop
 tags:
 - PromoÈtic
-category: Merchandising, Ropa
+category: Ropa
 location: España
 author: vokimon
-
+image: /images/logos/logo-promoetic.coop.jpg
 ---
-@[372519099620049:274:Promoètic]: Merchandising ecológico y de comercio justo.
+[Promoètic](https://www.facebook.com/promoetic/): Merchandising ecológico y de comercio justo.
 
-Son las personas que diseñaron la propaganda de BcnEnComu. Después de hacer para la campaña el esfuerzo de buscar proveedores éticos para los diferentes materiales de difusion (papeleria, camisetas...), decidieron montar una cooperativa para que otras entidades con criterios éticos puedan promocionarse según sus principios.
+Son las personas que diseñaron la propaganda de BcnEnComu.
+Después de hacer para la campaña el esfuerzo de buscar proveedores éticos
+para los diferentes materiales de difusion (papeleria, camisetas...),
+decidieron montar una cooperativa para que otras entidades con criterios éticos puedan promocionarse según sus principios.
 
-http://promoetic.coop
+:::linkcard https://www.facebook.com/promoetic/ image=/images/logos/logo-promoetic.coop.jpg nowideimage
 
-:::linkcard http://promoetic.coop image="NOIMAGE" title='NOTITLE'
+:::information Actualizado 2020-12-01
+	Parece que la iniciativa no tuvo suficiente respuesta.
+	En 2016 tuvieron que parar su actividad temporalmente.
+	Puesto que la [web](https://promoetic.coop) esta de baja,
+	edito el enlace para
+	apuntar a su Facebook donde aun hay información.
 
 

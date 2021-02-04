@@ -55,7 +55,7 @@ tags:
 category: Telecomunicaciones
 location: España
 author: vokimon
-
+image: https://i.ytimg.com/vi_webp/gD3HYeD4Lm4/maxresdefault.webp
 ---
 
 Guifi.net, la red libre, abierta y neutral,

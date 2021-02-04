@@ -21,8 +21,8 @@ original:
     Presiden una entidad que ha integrado a Fiare Banca Etica, que acaba de inaugurar
     en Bilbao su primera sede
 tags:
-- untagged
-category: ''
+- Fiare
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 

@@ -29,5 +29,6 @@ author: vokimon
 No querían esto en la portada? Pues portada y contraportada
 
 :::linkcard http://www.cafeambllet.com/no-querian-esto-en-la-portada-pues-portada-y-contraportada/ image="http://www.cafeambllet.com/wp-content/uploads/2014/06/contra_cast_ok.jpg" title='¿No querian esto en la portada? ¡Pues portada y contraportada!'
-    No queremos vivir en un país donde esta portada no se pueda publicar en papel. Con este texto lo contamos a nuestros lectores:
+    No queremos vivir en un país donde esta portada no se pueda publicar en papel.
+    Con este texto lo contamos a nuestros lectores:
 

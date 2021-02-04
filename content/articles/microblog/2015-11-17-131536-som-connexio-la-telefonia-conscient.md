@@ -1,5 +1,5 @@
 ---
-title: Som Connexió - La telefonia conscient
+title: Eticom Som Connexio ya ofrece fijo y ADSL
 date: &id001 2015-11-17 13:15:36+00:00
 status: published
 original:
@@ -22,13 +22,15 @@ original:
   description: Som la primera cooperativa de telefonia. Som consum conscient i sostenible.
     Oferim serveis d'internet, fix i telefonia mòbil.
 tags:
-- untagged
-category: ''
+- Som Connexió
+category: Telecomunicaciones
 location: España
 author: vokimon
 
 ---
-Eticom ya ofrece servicio de fijo y ADSL.
+Eticom Som Connexió por fin puede ofrecer servicio de figo y ADSL.
+Han llegado a un trato con varias operadoras para operar como operador virtual.
+
 
 :::linkcard https://somconnexio.coop image="https://somconnexio.coop/wp-content/uploads/2019/10/peixos_fonsfosc_fbk.jpg" title='Som Connexió - La telefonia conscient'
     Som la primera cooperativa de telefonia. Som consum conscient i sostenible. Oferim serveis d'internet, fix i telefonia mòbil.

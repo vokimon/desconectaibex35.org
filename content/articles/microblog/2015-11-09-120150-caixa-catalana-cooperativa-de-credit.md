@@ -1,5 +1,5 @@
 ---
-title: Caixa Catalana Cooperativa de Crèdit
+title: Poniendo en marcha Caixa Catalana Cooperativa de Crèdit
 date: &id001 2015-11-09 12:01:50+00:00
 status: published
 original:
@@ -36,14 +36,19 @@ original:
 
     Fem una primera convocatòria a les 18h amb inici...'
 tags:
-- untagged
-category: ''
+- Caixa Catalana
+category: Banca, Ahorro, Financiación
 location: España
 author: vokimon
 
 ---
-Poniendo en marcha la @[378033285721814:274:Caixa Catalana Cooperativa de Crèdit]. En Girona este Jueves.
+Poniendo en marcha la Caixa Catalana Cooperativa de Crèdit. Se convoca, en Girona, este Jueves.
 
-:::linkcard https://www.facebook.com/378033285721814/photos/a.383753735149769/465712563620552/?type=3&theater image="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/12208525_465712563620552_13414437645101831_n.jpg?_nc_cat=105&_nc_sid=2d5d41&_nc_ohc=KZWrIwkxSMwAX_Pt8zQ&_nc_ht=scontent-mad1-1.xx&oh=1e4daa1eb5cd86b4c7560f7ccb7aa398&oe=5FA6524D" title='Caixa Catalana Cooperativa de Crèdit'
-    El dijous dia 12 de Novembre a les 19h us esperem a Girona ciutat, a la Aula 2 de la Casa de Cultura de la Diputació de Girona.        Plaça Hospital, 6        Fem una primera convocatòria a les 18h amb inici...
+:::linkcard https://www.facebook.com/378033285721814/photos/a.383753735149769/465712563620552/?type=3&theater image=/uploads/2015/11/planol-convocatoria-caixa-catalana.jpg title='Caixa Catalana Cooperativa de Crèdit'
+	El dijous dia 12 de Novembre a les 19h us esperem a Girona ciutat, a la Aula 2 de la Casa de Cultura de la Diputació de Girona.
 
+	Plaça Hospital, 6
+
+	Fem una primera convocatòria a les 18h amb inici formal de la tertúlia a les 19h
+
+	Us hi esperem a tots, que tenim al davant una enorme feinada, per recuperar l'esperit inicial de les Caixes d'Estalvi que han desaparegut.

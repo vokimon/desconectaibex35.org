@@ -1,6 +1,5 @@
 ---
-title: Heu revisat la potència contractada a la vostra escala de veïns/es? - El Blog
-  de Som Energia
+title: ¿Habéis revisado la potencia contratada en vuestra escalera de vecinos/as?
 date: &id001 2015-11-26 19:12:52+00:00
 status: published
 original:
@@ -21,14 +20,14 @@ original:
   description: '[También en: Castellano] Les comunitats de veïns s''han vist greument
     perjudicades pels canvis en la'
 tags:
-- untagged
-category: ''
+- Som Energia
+category: Electricidad
 location: España
 author: vokimon
 
 ---
 Som Energia hace campaña para pasar la luz de las comunidades de vecinos, que normalmente contratan condiciones sobredimensionadas, asi que ofrecen asesoramiento para reducir sus costes de luz.
 
-:::linkcard https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2015/11/heu-revisat-la-potencia-contractada-a-la-vostra-escala-de-veinses/ image="https://blog.somenergia.coop/wp-content/uploads/2015/11/Comunidad-660x330.jpg" title='Heu revisat la potència contractada a la vostra escala de veïns/es? - El Blog de Som Energia'
+:::linkcard https://blog.somenergia.coop/destacados/2015/11/habeis-revisado-la-potencia-contratada-en-vuestra-escalera-de-vecinosas/ image="https://blog.somenergia.coop/wp-content/uploads/2015/11/Comunidad-660x330.jpg" title='¿Habéis revisado la potencia contratada en vuestra escalera de vecinos/as?'
     [También en: Castellano] Les comunitats de veïns s'han vist greument perjudicades pels canvis en la
 
