@@ -3,7 +3,7 @@ title: Lista de alternativas
 date: 2012-05-11 16:51
 author: vokimon
 category: Campaña
-#category: Ahorro, Banca, Electricidad, Financiacion, Medios, Periódicos, Seguros, Telecomunicaciones, Televisión
+#category: Ahorro, Banca, Energia, Financiacion, Medios, Periódicos, Seguros, Telecomunicaciones, Televisión
 slug: lista-de-alternativas
 status: published
 ---

@@ -2,7 +2,7 @@
 title: "Electricas: Som Energia"
 date: 2012-05-11 22:20
 author: vokimon
-category: Electricidad
+category: Energia
 slug: electricas-som-energia
 status: published
 ---
