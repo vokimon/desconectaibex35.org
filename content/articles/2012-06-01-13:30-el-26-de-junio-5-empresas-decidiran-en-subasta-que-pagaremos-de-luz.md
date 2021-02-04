@@ -2,7 +2,7 @@
 title: El 26 de Junio, 5 empresas decidiran en subasta qué pagaremos de luz
 date: 2012-06-01 13:30
 author: vokimon
-category: Electricidad
+category: Energia
 tags:
 - CNMV
 - Endesa

@@ -2,7 +2,7 @@
 title: 'Próximo Salvados: "Oligopoly, el juego de la energía". ¿Alternativas?'
 date: 2012-11-16 10:36
 author: vokimon
-category: Electricidad
+category: Energia
 tags:
 - Somenergia
 - Documental

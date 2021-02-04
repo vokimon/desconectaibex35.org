@@ -2,7 +2,7 @@
 title: "#Oligopoly 2: El imperio contra todos."
 date: 2013-05-17 21:28
 author: vokimon
-category: Electricidad
+category: Energia
 tags:
 - Jordi Évole
 - Alba del Campo

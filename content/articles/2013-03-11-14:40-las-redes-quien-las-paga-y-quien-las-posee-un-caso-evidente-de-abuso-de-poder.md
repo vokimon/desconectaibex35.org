@@ -2,7 +2,7 @@
 title: "Las redes, ¿quién las paga y quién las posee?: un caso evidente de abuso de poder"
 date: 2013-03-11 14:40
 author: vokimon
-category: Electricidad
+category: Energia
 tags:
 - Pep Puig
 - Som Energia

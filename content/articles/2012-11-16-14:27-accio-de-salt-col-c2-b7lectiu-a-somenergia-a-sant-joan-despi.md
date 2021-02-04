@@ -2,7 +2,7 @@
 title: Acció de salt col·lectiu a SomEnergia a Sant Joan Despí
 date: 2012-11-16 14:27
 author: vokimon
-category: Campaña, Electricidad
+category: Campaña, Energia
 tags:
 - Charla
 - Acción

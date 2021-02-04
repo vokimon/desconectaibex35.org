@@ -2,7 +2,7 @@
 title: "Primera ficha: Som Energia"
 date: 2012-05-12 15:10
 author: vokimon
-category: Electricidad
+category: Energia
 tags:
 - Alternativa
 - Som Energia

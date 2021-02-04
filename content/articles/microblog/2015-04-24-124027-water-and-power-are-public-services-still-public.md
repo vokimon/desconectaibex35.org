@@ -24,14 +24,24 @@ original:
     utilities are now undergoing “corporatization”: they have legal autonomy and manage
     thei...'
 tags:
-- corportivización
-- gestión privada resursos publicos
-category: Agua, Energía, Sanidad
+- servicios publicos
+- gestión privada
+- corporativización
+category: Agua, Energía, Sanidad, Telecomunicaciones
 location: España
 author: vokimon
 
 ---
 ¿Los servicios publicos son aun publicos?
+Un video sobre la tendencia de convertir servicios públicos gestionados por la administración
+en empresas públicas de gestión independiente.
+
+- La propia estructura de empresa pública facilita una posterior privatización.
+- Al convertirlos en empresas independientes, se reduce la capacidad de compartir recursos entre ellas.
+- Tienden a poner el énfasis en la optimiización financiera antes que el impacto social.
+- La necesidad de ingresos les puede llevar a promover crecimiento en el uso del recurso, cuando socialmente habría que hacer un uso sensato.
+- Tienden a hacer prácticas empresariales que van en contra de la clase trabajadora como el outsourcing y la deslocalización.
+
 
 :::linkcard https://www.youtube.com/watch?v=DNkno9Bw51E image="https://i.ytimg.com/vi/DNkno9Bw51E/maxresdefault.jpg" title='Water and Power: Are public services still public?'
     Public water and electricity are back in vogue!

@@ -2,7 +2,7 @@
 title: ¿Por qué pagamos la energía más cara de Europa?
 date: 2012-10-29 14:05
 author: vokimon
-category: Electricidad
+category: Energia
 location: España
 tags:
 - Monopolio

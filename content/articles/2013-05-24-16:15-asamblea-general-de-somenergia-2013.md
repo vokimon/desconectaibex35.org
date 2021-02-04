@@ -2,7 +2,7 @@
 title: Asamblea General de SomEnergia 2013
 date: 2013-05-24 16:15
 author: vokimon
-category: Electricidad
+category: Energia
 location: España
 tags:
 - Som Energia
