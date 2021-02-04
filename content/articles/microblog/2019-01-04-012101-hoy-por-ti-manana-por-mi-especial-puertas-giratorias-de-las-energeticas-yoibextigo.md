@@ -24,7 +24,7 @@ original:
 tags:
 - puertas giratorias
 - Yoibextigo
-category: Energía, Gas
+category: Energía
 location: España
 author: vokimon
 

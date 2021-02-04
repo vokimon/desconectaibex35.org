@@ -24,7 +24,7 @@ original:
 tags:
 - pobreza energética
 - Gas Natural
-category: Energía, Gas
+category: Energía
 location: Reus
 author: vokimon
 ---
