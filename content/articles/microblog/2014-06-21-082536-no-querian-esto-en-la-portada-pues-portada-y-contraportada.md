@@ -20,8 +20,9 @@ original:
   description: 'No queremos vivir en un país donde esta portada no se pueda publicar
     en papel. Con este texto lo contamos a nuestros lectores:'
 tags:
-- untagged
-category: ''
+- Café amb Llet
+- control mediático
+category: Medios, Prensa
 location: España
 author: vokimon
 
