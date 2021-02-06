@@ -47,6 +47,7 @@
 	box-shadow:0 1px 1px rgba(0,0,0,.05);
 	overflow:auto;
 	/*zoom:2*/
+	margin-bottom: 1em;
 }
 .linkcard a {
  color:#82878c;
