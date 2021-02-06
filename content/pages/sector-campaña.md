@@ -81,7 +81,7 @@ meta:
         Reportajes."
     - title: Carro de Combate
       url: https://carrodecombate.com
-      logo: /images/logos/logo-carroecombate.png
+      logo: /images/logos/logo-carrodecombate.png
       subtitle:
         "El consumo como motor de cambio social.
         Reportajes."
