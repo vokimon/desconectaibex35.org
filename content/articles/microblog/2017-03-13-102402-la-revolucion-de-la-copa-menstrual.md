@@ -38,6 +38,6 @@ y la culpabilidad publicitaria,
 y un producto de consumo continuo y desechable contaminante y poco sano.
 Hay alternativas ecologicas y empoderantes.
 
-:::youtube N-FR-iyfXMY image=https://i.ytimg.com/vi_webp/N-FR-iyfXMY/hqdefault.webp
+:::youtube N-FR-iyfXMY
 
 
