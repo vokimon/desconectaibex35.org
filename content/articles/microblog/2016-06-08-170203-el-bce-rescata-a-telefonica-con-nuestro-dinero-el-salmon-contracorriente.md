@@ -30,7 +30,7 @@ via: https://www.facebook.com/ElSalmonContra/posts/1042273545854548
 El BCE rescata a Telefónica con nuestro dinero.
 Un dia de esto les dara por rescatar personas.
 
-:::linkcard https://www.elsalmoncontracorriente.es/?El-BCE-rescata-a-Telefonica-con image="http://www.elsalmoncontracorriente.es/IMG/arton1088.jpg" title='El BCE rescata a Telefónica con nuestro dinero - El salmón contracorriente' image=/uploads/2016/06/bce-rescata-a-telefonica.jpg
+:::linkcard https://www.elsalmoncontracorriente.es/?El-BCE-rescata-a-Telefonica-con image="https://www.elsalmoncontracorriente.es/IMG/arton1088.jpg" title='El BCE rescata a Telefónica con nuestro dinero - El salmón contracorriente' image=/uploads/2016/06/bce-rescata-a-telefonica.jpg
   Hace tres meses el Banco Central Europeo,
   con Mario Draghi al frente, anunció un nuevo plan de estímulo para reanimar la economía europea.
   Una de las medidas estrella fue el anuncio de comprar deuda a grandes empresas no financieras.

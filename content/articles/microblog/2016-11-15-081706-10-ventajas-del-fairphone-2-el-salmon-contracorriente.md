@@ -38,6 +38,6 @@ Con software libre.
 Sin minerales de sangre.
 Mejorando las condiciones laborales en minería y ensamblaje.
 
-:::linkcard https://www.elsalmoncontracorriente.es/?10-ventajas-del-Fairphone-2 image="http://www.elsalmoncontracorriente.es/IMG/arton1190.jpg" title='10 ventajas del Fairphone 2 - El salmón contracorriente' image=/uploads/2016/11/fairphone-congo.jpg
+:::linkcard https://www.elsalmoncontracorriente.es/?10-ventajas-del-Fairphone-2 image="https://www.elsalmoncontracorriente.es/IMG/arton1190.jpg" title='10 ventajas del Fairphone 2 - El salmón contracorriente' image=/uploads/2016/11/fairphone-congo.jpg
 
 
