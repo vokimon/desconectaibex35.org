@@ -82,7 +82,7 @@ VOKIBLOG_HIGHLIGHTS = (
             "a la ciudadania, a la economía y al medioambiente. "
             "Por eso, queremos dejar de nutrirles con nuestro dinero.",
         action = "Los motivos",
-        action_url = "",
+        action_url = "/la-idea/",
         action_class = "is-info",
     ),
     dict(
@@ -92,8 +92,8 @@ VOKIBLOG_HIGHLIGHTS = (
             "Buscamos alternativas a las grandes empresas. "
             "Las difundimos y las facilitamos, acompañandonos en el tránsito. "
             "Si no existen, fomentamos su creación.",
-        action = "Colabora",
-        action_url = "/colabora",
+        action = "Como",
+        action_url = "/estrategias/",
         action_class = "is-success",
     ),
     dict(
