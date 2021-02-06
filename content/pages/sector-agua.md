@@ -53,11 +53,20 @@ meta:
       subtitle:
       url: https://aiguabcn.org/
       logo: /images/logos/logo-moviment-aigua-publica.jpg
-    - title: Associació de Municipis i Entitats per l’Aigua Pública
+    - title: Agua Pública
+      subtitle: Red Estatal de Ciudades por el Agua Pública
+      url: https://redaguapublica.wordpress.com
+      logo: 
+    - title: Associació de Municipis i Entitats per l'Aigua Pública
       subtitle:
-        Ayuntamientos de diferente color aliados para una estrategia común de municipalización
+        Ayuntamientos catalanes de diferente color aliados para una estrategia común de municipalización
       url: https://amap.cat/
       logo: /images/logos/logo-amap.svg
+    - title: Red Agua Pública
+      subtitle:
+        Ciudades y pueblos de Madrid por la agua pública
+      url: https://www.redaguapublicamadrid.org/
+      logo: /images/logos/logo-rapm.png
     - title: Plataforma contra la Privatización del Canal Isabel II
       url: https://plataformacontralaprivatizaciondelcyii.org/
   - title: Remunicipalizaciones
@@ -83,8 +92,8 @@ meta:
       logo: /images/icons/Escut_de_Terrassa.svg
   - title: Empresas públicas
     subtitle:
-       No sin amenazas de privatización subsisten muchas empresas públicas
-       de gestión del agua.
+       Entre la corrupción y amenazas de privatización,
+       subsisten muchas empresas públicas de gestión del agua.
     projects:
     - title: Canal Isabel II
       subtitle:
@@ -210,11 +219,103 @@ para generar noticias amigables.
 
 ## Agua embotellada
 
+:::figure https://www.lamarea.com/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-25-a-las-12.09.03.jpg right
+
 Otra forma de privatizar el agua es embotellarla.
 Las embotelladoras generan un monton de residuos plásticos de un solo uso
 y toda la contaminación del transporte por carretera,
 cuando normalmente el transporte de agua desde origen
 lo puedo hacer la propia gravedad.
+
+- [El negocio del agua mineral: fuentes públicas, beneficios privados](https://www.lamarea.com/2017/10/25/100954/) (La Marea)
+
+## Grandes obras
+
+Pendiente redacción: Embalses y trasvases.
+
+## Lobbies empresariales
+
+De cara a identificar de dónde vienen las informaciones
+es importante reconocer las patronales y lobbies de las grandes empresas.
+
+- [Asociación Española de Empresas Gestoras de los Servicios de Agua Urbana](http://asoaga.com) (AGA)
+	- [Lista de asociados](https://www.asoaga.com/asociados/), más o menos los mismos que AEAS
+	- Empresas de servicios relacionadas con el ciclo del agua
+	- Considera que el agua en españa está «por debajo de la media europea y muy por debajo del 3% del presupuesto familiar que considera lo justo la ONU».
+		En corto, aun se pueden subir los precios.
+	- Que un precio tan bajo no sirve para conscienciar a la sociedad de que es un bien escaso. Erre que erre.
+	- Insisten en una bajada de impuestos que según ellos entorpecen el aprovechamiento energético y la destrucción del hambre en el mundo
+	- Ponen en valor el esfuerzo inversor que hacen las empresas privadas en infrastructuras
+	- Se ofrecen como actores de buenaventura en la creacion de empleo y promocion de actividades benéficas y super molonas.
+- [Asociación Española de Abastecimiento de Agua y Saneamiento](http://www.aeas.es) (AEAS)
+	- [Miembros](http://www.aeas.es/servlet/mgc?pg=DisplayOurCompanySections&ret=links&linkCategory=1&areaCode=publicarea)
+	- Empresas privadas:
+		- Acciona Agua (filial de Acciona)
+		- Agües de Vic (ejecucion de obras, privada y local)
+		- Aguas de Valencia (Fomento Urbano de Castellón SA + Agbar/Suez)
+		- Todas las filiales de Agbar (Aquona, Hidraqua...)
+		- ...
+	- Mixtas participadas con filiales de Agbar/Suez
+		- Aguas de Albacete (26% Ayuntamiento, 74% Aquona/Agbar/Suez)
+		- Aguas de Benahavis (Ayuntamiento + Hidralia/Agbar/Suez)
+		- Aguas de Avilés (Ayuntamiento + Asturagua/Agbar/Suez)
+		- Aguas de Cieza (Ayuntamiento + Hidrogea/Agbar/Suez)
+		- Aguas de Jumilla (Ayuntamiento + Agbar/Suez)
+		- Aguas de Lorca (Ayuntamiento + Hidrogea/Agbar/Suez)
+		- Aguas de Montilla (Ayuntamiento + Hidralia/Agbar/Suez)
+		- Aguas de Puerto Llano (Ayuntamiento + Aquona/Agbar/Suez)
+		- Aguas de Teide (Ayuntamientos + Canaragua/Suez)
+		- Agamed (Ayuntamiento Torrevieja + Hidraqua/Agbar/Suez)
+		- Aterca (Ayuntamiento Calvià + Sorea/Agbar/Suez)
+		- Aguas de Alicante (Ayuntamiento + Hidraqua/Agbar/Suez)
+		- Aguasvira (Consorcio Vega-Sierra Elvira + Hidralia/Agbar/Suez)
+		- ASTOAM (Ayuntamiento Torremolinos + Hidralia/Agbar/Suez)
+		- Aigua de Rigat (Anoia, filial 100% Suez)
+		- Aigües Colomenques (Ajuntament Sta Coloma Farnés + Sorea/Agbar/Suez)
+		- Aigües d'Osona (Conserll comarcal + Aigues de Vic + Sorea/Agbar/Suez)
+		- Aigües de Barcelona Empresa Metropolitana (Area metropolitana de Barcelona + Agbar/Suez)
+		- Aigues de Cullera (Ayuntamiento + Hidraqua/Agbar/Suez)
+		- Aigües i Sanejament d'Elx (Ayuntamiento + Hidraqua/Agbar/Suez)
+		- Aigües Municipales de Paterna (Ayuntamiento + Hidraqua/Agbar/Suez)
+		- Comaigua (Consell Comarcal Baix Camp + Sorea/Agbar/Suez)
+		- ...
+	- Otras mixtas 
+		- Aigües de Lleida (100% Aqualia/FCC)
+		- Aigues de Castellbisball (mixta pero amb qui???)
+		- Aigües de Girona, Salt i Sarria de Ter (Ayuntamientos + Girona SA (Aqualia/FCC + Agbar/Suez + CaixaBank))
+		- Codeur (Ayuntamiento Vera + Key Lanzarote)
+		- Aigües de Sagunt (Ayuntamiento + Aguas de Valencia)
+		- ...
+	- 100% publicas
+		- Acosol (pública Costa del Sol)
+		- Aguas de Añarbe (Mancomunidad de municipios)
+		- Amjasa (Ayuntamiento Xabia) (municipalizó la parte que pertenecía a Aquagest/Agbar/Suez)
+		- Amvisa (Ayuntamiento Victoria-Gazteiz)
+		- Apemsa (Ayuntamiento Puerto de Santa Maria + Aqualia/FCC)
+			(Teoricamente es gestión directa pùblica pero Manuel Ferraz Sumillera, su gerente, es el delegado de Aqualia en Cadiz)
+		- Aigües Manresa (Ayuntamiento)
+		- Aigües de Mataró (Ayuntamiento, participa con Sorea/Agbar/Suez en las compañias que hacen la gestión directa)
+		- Chiclana Natural (Ayuntamiento)
+		- ...
+
+:::information
+	La lista de socios es mucho más larga pero la tónica general es que,
+    con excepciones, la mayoria son empresas participadas por Agbar/Suez o Aqualia/FCC.
+
+## La resistencia
+
+Comisión de Coordinación de la Red Agua Pública (Integrada por
+
+- AEOPAS
+- Aigua és Vida
+- Asamblea Agua Pública 100% Región Murciana, Attac
+- Fundación Nueva Cultura del Agua
+- Marea Azul del Sur
+- Plataforma ciudadana por la defensa del agua pública en Asturies
+- Plataforma de Bizkaia Ur Publikoa
+- Red Agua Pública de Aragón
+- Plataforma contra la privatización del Canal de Isabel II
+- Xarxa Valenciana per l´aigua pública
 
 
 ## Otros recursos
