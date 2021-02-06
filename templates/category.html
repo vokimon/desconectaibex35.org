@@ -131,7 +131,7 @@
 			<div class="is-pulled-right is-clearfix">
 					{% for cat in article.categories or [article.category] %}
 					<span class="is-pulled-left">
-						<a href="{{ SITEURL }}/{{ article.category.url }}">
+						<a href="{{ SITEURL }}/{{ cat.url }}">
 							<span class="image is-32x32">
 								<img alt="{{cat}}" title="{{cat}}" src="{{ SITEURL }}/images/categories/{{ cat | lower }}.png" alt="{{ cat }}" />
 							</span>
