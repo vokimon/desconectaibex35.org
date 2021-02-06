@@ -56,7 +56,7 @@ dedicado a Som Energia, cooperativa de consumo de energía verde sin ánimo de l
 > 
 > Nos lo cuenta el portavoz del grupo local de València de SOM ENERGIA y presidente de la sección territorial de València de la cooperativa.
 
-:::linkcard https://www.ivoox.com/som-energia-cooperativa-consumo-energia-verde-audios-mp3_rf_17375038_1.html image="http://static-1.ivoox.com/audios/2/6/7/2/9451488812762_XXL.jpg" title='Som Energia, cooperativa de consumo de energía verde sin ánimo de lucro'
+:::linkcard https://www.ivoox.com/som-energia-cooperativa-consumo-energia-verde-audios-mp3_rf_17375038_1.html image="https://static-1.ivoox.com/audios/2/6/7/2/9451488812762_XXL.jpg" title='Som Energia, cooperativa de consumo de energía verde sin ánimo de lucro'
     Programa: Puertas Abiertas. Canal: CVRadio. Tiempo: 16:32 Subido 06/03 a las 15:00:25 17375038 
     Som Energia es una cooperativa de consumo de energía verde sin ánimo de lucro.
     Sus principales actividades son la comercialización y producción de...

@@ -26,6 +26,6 @@ author: vokimon
 
 En Setem buscan una persona que haga de responsable de coordinar el voluntariado.
 
-:::linkcard http://www.setem.org/blog/cat/catalunya/oferta-de-feina-responsable-de-voluntariat-activisme image=http://www.setem.org/media/images/sized/Captura_de_pantalla_2017-03-09_a_la(s)_15.55_.18_.png
+:::linkcard http://www.setem.org/blog/cat/catalunya/oferta-de-feina-responsable-de-voluntariat-activisme image=https://www.setem.org/media/images/sized/Captura_de_pantalla_2017-03-09_a_la(s)_15.55_.18_.png
 
 
