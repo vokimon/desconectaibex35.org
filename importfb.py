@@ -3,15 +3,16 @@
 from pathlib import Path
 from yamlns import namespace as ns
 from customblocks.utils import Fetcher, PageInfo
-from consolemsg import step, warn
+from consolemsg import step, warn, error
+from slug import slug
+import json
 
-linkfile = Path('facebook-links.md')
+linkfile = Path('facebook-links-2021-01.md')
 
 linkfile_content = linkfile.read_text(encoding='utf-8')
 posts = [art.strip() for art in linkfile_content.split('\n\n') if art.strip()]
 
 def renderPost(post):
-	print(post.dump())
 	description = "".join(
 		'    '+line for line in post.description.split('\n')
 		) if post.get('description','') else ''
@@ -29,6 +30,38 @@ def renderPost(post):
 {link}
 
 ----
+"""
+	return result
+
+def renderStandAlone(post):
+	description = "".join(
+		'    '+line for line in post.description.split('\n')
+		) if post.get('description','') else ''
+
+	content = post.data.get('post') or post.data.get('past','') or post.get('description','')
+
+	link = f"""\
+:::linkcard {post.link} image="{post.get('image', 'NOIMAGE')}" title={repr(str(post.get('title','NOTITLE')))}
+{description}
+""" if 'link' in post else ''
+	meta = ns(
+		title = post.get('title', 'untitled'),
+		date = post.date,
+		status = 'published',
+		original = post,
+		tags = ['untagged'],
+		category = '',
+		location = 'España',
+		author = 'vokimon',
+	)
+
+	result = f"""\
+---
+{meta.dump()}
+---
+{content}
+
+{link}
 """
 	return result
 
@@ -55,7 +88,8 @@ for post in posts:
 import json
 import datetime
 fetcher = Fetcher('remotecache')
-fbexport = Path('facebook/posts/posts_1.json').read_text(encoding='utf8')
+fbexport = Path('posts_2021-01.json').read_text(encoding='utf8')
+#fbexport = Path('facebook/posts/posts_1.json').read_text(encoding='utf8')
 fbposts = ns.loads(fbexport)
 print(len(relinedPosts), '/', len(fbposts))
 for post in fbposts:
@@ -98,12 +132,19 @@ for post in fbposts:
 	else:
 		post.title = 'TittlePending'
 
-	print(renderPost(post))
+	#print(renderPost(post))
 	
 	if handcontent[:5] != fbcontent[:5]:
 		if handcontent and fbcontent:
 			error("Masses diferencies")
 			break
+
+postdir = Path('content/articles/microblog')
+postdir.mkdir(parents=True, exist_ok=True)
+for post in fbposts:
+	postfile = postdir / '{post.date:%Y-%m-%d-%H%M%S}-{slug}.md'.format(post=post, slug=slug(post.get('title','untitled')))
+	step("Writing {}...", postfile)
+	postfile.write_text(renderStandAlone(post), encoding='utf8')
 
 ns(posts=fbposts).dump('lala.yaml')
 

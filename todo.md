@@ -9,12 +9,16 @@
 - [x] Main: Categories links on main page
 - [x] Page: Template
 - [x] Enlace a los motivos
+- [x] Estilo para el TOC
+- [ ] Archive: Category icons alt just first letter
 - [ ] Tags page template
 - [ ] Support multicategories in pages
-- [ ] Estilo para el TOC
 - [ ] Article: footer
 - [ ] Article: fix gallery
 - [ ] youtube: Margen debajo
 - [ ] Social: Crear Twitter
 - [ ] Social: Crear Mastodon
-
+- [ ] linkcard: Dejar sitio para sitenames largos
+- [ ] linkcard: porque no baja la info de contrainformacion.es
+- [ ] evitar baneo del salmon contracorriente
+- [ ] https://www.quicksprout.com/how-to-create-an-seo-friendly-infinite-scrolling-page/
