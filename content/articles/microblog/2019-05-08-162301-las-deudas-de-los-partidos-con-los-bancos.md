@@ -11,10 +11,9 @@ original:
 tags:
 - PP
 - PSOE
-- Santander
+- Banco Santander
 - La Caixa
-- Santander
-- Sabadell
+- Banc Sabadell
 category: Banca
 location: España
 author: vokimon

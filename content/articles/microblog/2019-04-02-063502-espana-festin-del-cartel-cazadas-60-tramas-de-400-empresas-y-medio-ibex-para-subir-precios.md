@@ -33,8 +33,8 @@ tags:
 - Adif
 - CaixaBank
 - BBVA
-- Santander
-- Sabadell
+- Banco Santander
+- Banc Sabadell
 - Ferrovial
 - FCC
 - Deloitte

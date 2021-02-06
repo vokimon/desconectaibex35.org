@@ -21,7 +21,7 @@ original:
     los daños causados'
 tags:
 - CaixaBank
-- Santander
+- Banco Santander
 - Bankia
 - Castor
 - ACS

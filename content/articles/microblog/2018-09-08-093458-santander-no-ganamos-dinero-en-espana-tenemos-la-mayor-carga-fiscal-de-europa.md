@@ -21,7 +21,7 @@ original:
     criticado con fuerza en Las Cortes la presión fiscal que ya sufre su entidad y
     el sector financiero en general y '
 tags:
-- Santander
+- Banco Santander
 - fiscalidad a medida
 - morro
 category: Banca, Ahorro

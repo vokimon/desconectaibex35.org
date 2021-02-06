@@ -20,7 +20,7 @@ original:
   description: Periféria inflamable, Santa Marta De Tormes, Castilla y León, Spain.
     16 mil Me gusta. contrahegemonicos
 tags:
-- Santander
+- Banco Santander
 - puertas giratorias
 - despidos
 - megasueldos directivos

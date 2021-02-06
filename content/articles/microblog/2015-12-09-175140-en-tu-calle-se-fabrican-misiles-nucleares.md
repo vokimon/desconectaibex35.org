@@ -22,7 +22,7 @@ tags:
 - banca armada
 - BBVA
 - Banco Santander
-- Banco Sabadell
+- Banc Sabadell
 category: Banca, Financiación, Ahorro
 location: España
 author: vokimon
