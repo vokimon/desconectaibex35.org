@@ -12,11 +12,11 @@ Esto es un esquema de los **sectores** en los que hemos detectado oligopolios y 
 Iremos cubriendo cada alternativa con artículos más explicativos como los que ya hemos hecho sobre
 [Som Energia]({filename}/pages/electricas-som-energia.md),
 [Guifi.net]({filename}/pages/telecos-guifi-net.md) y
-[Banca Ética](http://desconexionibex35.org/wiki/index.php?title=Banca).
+[Banca Ética](https://desconexionibex35.org/wiki/index.php?title=Banca).
 
 -   Telefonia, Internet: [Guifi.net](http://guifi.net), [SomConnexió](http://somconnexio.coop)
 -   Eléctricas: [Som Energia](http://somenergia.coop)
--   Bancos: [Fets](http://www.fets.org) (associación de entidades de banca ética)
+-   Bancos: [Fets](https://www.fets.org) (associación de entidades de banca ética)
     -   Banca ètica: [Fiare](http://www.fiare.org/caste/index4.asp), [Triodos](http://www.triodos.es/es/particulares/)
     -   Cooperativas de crédito sectoriales: [Arquia](http://arquia.org), [Caixa d'Enginyers](http://www.caixa-enginyers.com)...
     -   Cooperativas de servicios financieros (financiar proyectos de forma colaborativa

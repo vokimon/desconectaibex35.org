@@ -31,7 +31,7 @@ como [alternativa]({filename}/pages/lista-de-alternativas.md) a los Bancos para 
 	emite desde 2017 en el canal 28 de la TDT en el àrea de Barcelona.
 	Sigue siendo un proyecto participativo y sigue necesitando financiación y voluntariado.
 
-![Logo del Canal](http://latele.cat/lamoscatv/wp-content/uploads/2019/05/La-mosca-groc.jpg)
+![Logo del Canal](https://latele.cat/lamoscatv/wp-content/uploads/2019/05/La-mosca-groc.jpg)
 
 ::: goteo dona-ales-a-lamosca-tv
 
