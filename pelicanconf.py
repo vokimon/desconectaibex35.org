@@ -123,6 +123,12 @@ SOCIAL = (
 	('GitHub', 'http://github.com/vokimon/desconectaibex35.org'),
 	('DesconexionIBEX35', 'https://www.facebook.com/DesconexionIBEX35'),
 )
+SHARE_POST_INTRO = "Comparte vía"
+VOKI_SHARE_LINKS = (
+	('facebook', 'Facebook', 'has-text-link', 'fab fa-facebook'),
+    ('twitter', 'Twitter', 'has-text-primary', 'fab fa-twitter'),
+)
+
 
 DEFAULT_PAGINATION = 20
 
@@ -145,6 +151,7 @@ PLUGINS=[
 	'deadlinks', # complaint on deadlinks and provide archive.org versions
 	'pelican-yaml-metadata', # full yaml markdown metadata (https://github.com/pR0Ps/pelican-yaml-metadata)
 	#'assets', # join and minimize css and js
+    'share_post', # Share post in social media
 ]
 
 MARKDOWN = {

@@ -517,3 +517,12 @@ ul.list-articles-under-tag-category li time {
 	color: #400;
 	margin-right: 3ex;
 }
+
+/* share links */
+#post-share-links:not(a) {
+  color: #6f6f6f;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+#post-share-links a {
+  text-shadow: 0 0;
+}
