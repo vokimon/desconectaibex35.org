@@ -19,7 +19,7 @@ DEFAULT_METADATA = {
 }
 
 PATH = 'content'
-DIRECT_TEMPLATES = ['index', 'archives', 'tags', 'categories', 'search', '404']
+DIRECT_TEMPLATES = ['index', 'archives', 'tags', 'categories', 'search']
 THEME_TEMPLATES_OVERRIDES = ['templates']
 ARTICLE_PATHS = ['articles']
 PAGE_PATHS = ['pages']
