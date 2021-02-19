@@ -9,6 +9,19 @@ This site has been developed using Pelican as generator
 and Bulma as CSS framework.
 It has been inspired on the structure of Elegant theme.
 
+## Building
+
+```
+# TODO clone this repo
+git fetch https://github.com/getpelican/pelican-plugins.git
+git clone https://github.com/pR0Ps/pelican-yaml-metadata.git pelican-plugins/pelican-yaml-metadata
+# TODO clone elegant fork in the PR
+mkvirtualenv pelican
+pip install -r requirements
+pelican-themes -i themes/elegant/
+```
+
+
 
 ## Contributing and reusing
 

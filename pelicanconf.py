@@ -144,7 +144,7 @@ PLUGINS=[
     'representative_image', # extract images from summary and pick one as featured image
 	'pelican_javascript',
 	'pelican.plugins.more_categories', # Multiple categories per article, hierarchical categories
-	'video_privacy_enhancer', # (Unused) Embed videos with privacy until played
+	#'video_privacy_enhancer', # (Unused) Embed videos with privacy until played
 	'neighbors', # To show next-prev links in articles
 	'extract_toc', # Aside responsive TOC
 	'tipue_search', # Search
