@@ -12,7 +12,7 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://vokimon.github.io/desconectaibex35.org/'
-SITEURL = 'https://desconexionibex35.org'
+SITEURL = 'https://desconexionibex35.org/'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

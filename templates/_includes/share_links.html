@@ -1,17 +1,26 @@
 {% macro share_links(article) %}
     {% from '_includes/_defaults.html' import SHARE_LINKS with context %}
     {% if article.share_post and article.status != 'draft' and SHARE_LINKS %}
-    <p id="post-share-links">
-    {% if article.share_post_intro %}
-    {{ article.share_post_intro }}
-    {% else %}
-    {% from '_includes/_defaults.html' import SHARE_POST_INTRO with context %}
-    {{ SHARE_POST_INTRO }}
-    {% endif %}
+    <div class="post-share-links">
+      <p class="header">
+        <i class="fa fa-share-alt"></i>
+        {% if article.share_post_intro %}
+          {{ article.share_post_intro }}
+        {% else %}
+          {% from '_includes/_defaults.html' import SHARE_POST_INTRO with context %}
+          {{ SHARE_POST_INTRO }}
+        {% endif %}
+      </p>
     {% for network, label, classes, icon in VOKI_SHARE_LINKS %}
       {% if not loop.first %}  {% endif %}
-      <a href="{{ article.share_post[network] }}" target="_blank" rel="nofollow noopener noreferrer" title="Share {% if network == 'email' %}via{% else %}on{% endif %} {{ label }}" class="icon {{classes}}"><i class="{{ icon }}"></i></a>
+      <a
+        href="{{ article.share_post[network] }}"
+        target="_blank"
+        rel="nofollow noopener noreferrer"
+        title="{{ label }}"
+        class="icon {{classes}}"
+      ><i class="{{ icon }}"></i></a>
     {% endfor %}
-    </p>
+    </div>
     {% endif %}
 {% endmacro %}

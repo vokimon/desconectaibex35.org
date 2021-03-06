@@ -436,11 +436,12 @@ section.article-tags .tags-in-article a
 	margin-top: 1rem;
 }
 .articles-timeline li.previous-article {
-	float: left;
+	no-float: left;
 }
 .articles-timeline li.next-article {
-	float: right;
-	margin-left: 2rem;
+	no-float: right;
+	text-align: right;
+	amargin-left: 2rem;
 }
 ul.articles-timeline {
 	list-style-type: none;
@@ -510,19 +511,35 @@ a:not(.collapsed).accordion-toggle.category-title-inside-accordion {
   color: #fff;
 }
 .tag-title {
-	font-weight: bold;
-	color: #030;
+	padding-top: 1em;
 }
 ul.list-articles-under-tag-category li time {
 	color: #400;
-	margin-right: 3ex;
+	ddmargin-right: 3ex;
 }
 
 /* share links */
-#post-share-links:not(a) {
+.post-share-links {
+  margin-top: 3em;
+  text-align: center;
+  clear: both;
+}
+.post-share-links:not(a) {
   color: #6f6f6f;
   text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
 }
-#post-share-links a {
+.navbar-end a.icon,
+.post-share-links a.icon {
   text-shadow: 0 0;
+  transition: transform .2s;
 }
+.navbar-end a.icon:hover,
+.post-share-links a.icon:hover {
+  transform: scale(1.5);
+}
+
+
+
+
+
+

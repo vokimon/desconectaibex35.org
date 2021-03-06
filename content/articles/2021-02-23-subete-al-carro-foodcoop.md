@@ -7,17 +7,34 @@ tags:
 category: Supermercados
 location: España
 autor: vokimon
+image: /uploads/2021/02/campanyafoodcoop.jpg
 ---
 
-:::figure /uploads/2021/02/campanyafoodcoop.jpg left
+:::figure /uploads/2021/02/campanyafoodcoop.jpg right
 	Promo de la campaña
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 El supermercado cooperativo y participativo de Barcelona, [FoodCoop],
 inicia una [campaña] para sumar las 500 socias necesarias para hacer
 viable el proyecto.
+<!-- PELICAN_END_SUMMARY -->
 
-[Hacerse socia] implica una aportación fraccionable de 90€
-y colaborar con unas 3h mensuales de dedicación a la cooperativa.
+Un mercado cooperativo en el barrio de l'Eixample' de Barcelona.
+Concretamente en Passatge d'Aragó, 9, de Barcelona.
+
+[Hacerse socia] implica una aportación fraccionable de 90€.
+También colaborar con unas 3h mensuales de dedicación a tareas de la cooperativa:
+organizar pedidos, colocar las mercancias, hacer difusión...
+
+¿Qué aporta?
+
+- Poder hacer la compra básica en un solo sitio.
+- Productos mayoritariamente agroecológicos y de proximidad.
+- Trazabilidad de origen.
+- Reducción de envases.
+- Precio justo a los productores.
+- Con el trabajo de las socias se consigue reducir costes.
+
 
 
 [FoodCoop]: http://foodcoopbcn.cat

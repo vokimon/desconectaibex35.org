@@ -118,20 +118,18 @@ meta:
 
 [TOC]
 
-La electricidad es un **suministro básico** de los hogares.
-Por ley, toda vivienda tiene que tener agua y luz para ser habitada.
+La electricidad es uno de los **suministros básicos**
+que la ley exige para que una vivienda se considere habitable.
 Para recibirla. nuestros hogares están conectados a una **red
 de acceso** que está en manos de una compañía concreta según la zona.
-**Monopolio en cada zona**.
 **Endesa**, **Iberdrola**, **Naturgy**, **EDP** o **Viesgo**.
-Empresas públicas que se privatizaron tras la **liberalización de 1997**.
-Los **mecanismos artificiosos** que se plantearon para dinamizar la competencia,
-han sido **insuficientes** y estas empresas siguen dominando el mercado.
-Los políticos de los sucesivos gobiernos
-disfrutan de retiros dorados en sus consejos de administración.
-Se entiende que no haya voluntad política a revertir la situación.
-Las famosas **puertas giratorias**.
-Digan lo que digan en las **campañas publicitarias**,
+En ese sentido sigue siendo un **monopolio en cada zona**.
+Estas empresas fueron públicas hasta que se fueron privatizando tras la **liberalización de 1997**.
+Los **mecanismos artificiosos** con los que se dotó al mercado
+han sido insuficientes para compensar este dominio físico sobre el cable.
+Mucho tienen que ver las intensas **puertas giratorias**
+entre los sucesivos gobiernos y los consejos de administración.
+Aunque lo blanqueen con **campañas publicitarias**,
 son las empresas españolas que más impacto tienen en el **cambio climático**.
 También son lideres en **quejas de consumo** y en **prácticas deshonestas** para el consumidor.
 
@@ -148,23 +146,27 @@ Transporte y distribución son monopolios naturales al menos que dupliquemos inf
 El **Transporte** está en manos de [Red Electrica Española](https://www.ree.es/en) y es de gestión público-privada.
 
 ::: figure /images/mapa-distribuidoras-electricas-2020.jpg right
-	Cada compañía distribuidora tiene asignada una zona en monopolio.
+	Cada distribuidora tiene asignada una zona en monopolio.
 
 La **Distribución** está en manos de las empresas privatizadas originales que mantienen monopolio por zonas.
 La complicación administrativa del sector ha hecho que muchas de las pequeñas distribuidoras de ámbito local que aún existen
 vayan poco a poco desistiendo y dejándose comprar por las grandes.
 
-Cuando se liberalizó la **Produccíon**, era poco probable que pequeñas empresas o particulares fueran a hacer una nuclear o una hidroeléctrica.
-Con las renovables esto cambió y por eso el lobby (Unesa, ahora Enelec) se dedicó a bombardear su desarrollo si no es por su mano.
-Sin embargo, como usuario final tampoco tienes opción a escoger de donde te viene la energia.
+En 1997, parecía seguro para las grandes liberalizar la **Produccíon**.
+Era poco probable que pequeñas empresas o particulares fueran a hacer una nuclear o una hidroeléctrica.
+Con las renovables esto cambió y por eso el lobby (Unesa, ahora Enelec)
+se dedicó durante años a bombardear su desarrollo si no es por su mano.
 
-La **Comercialización** es la rama donde el usuario puede elegir.
-La empresa comercializadora, que es la que ofrece las tarifas.
-Estas empresas cobran la factura al usuario.
-Con lo que cobra la comercializadora,
-tiene que pagar los peajes de transporte y distribución,
-comprar energía a los productores para cubrir el consumo de sus clientes,
-y cubrir sus propios costes.
+Sin embargo, tampoco tenemos opción a escoger directamente quien produce nuestra energía.
+La **Comercialización** es la rama del sector que podemos elegir directamente.
+La comercializadora nos ofrece tarifas y cobra las facturas.
+Con el importe de esas facturas la comercializadora:
+
+- cubre la demanda de sus usuarios comprando la energia que los productores vuelcan a la red,
+- paga los peajes por usar las redes transporte y distribución,
+- cubre su propios costes, y
+- genera beneficios a sus accionistas.
+
 
 ## La factura de la luz
 

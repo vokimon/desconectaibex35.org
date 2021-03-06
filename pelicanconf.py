@@ -123,10 +123,14 @@ SOCIAL = (
 	('GitHub', 'http://github.com/vokimon/desconectaibex35.org'),
 	('DesconexionIBEX35', 'https://www.facebook.com/DesconexionIBEX35'),
 )
-SHARE_POST_INTRO = "Comparte vía"
+SHARE_POST_INTRO = "Compártelo"
 VOKI_SHARE_LINKS = (
 	('facebook', 'Facebook', 'has-text-link', 'fab fa-facebook'),
     ('twitter', 'Twitter', 'has-text-primary', 'fab fa-twitter'),
+    ('mastodon', 'Mastodon', 'has-text-link-dark', 'fab fa-mastodon'),
+    ('telegram', 'Telegram', 'has-text-primary', 'fab fa-telegram'),
+    ('linkedin', 'Linkedin', 'has-text-link', 'fab fa-linkedin'),
+    ('whatsapp', 'WhatsApp', 'has-text-success-dark', 'fab fa-whatsapp'),
 )
 
 
@@ -190,13 +194,11 @@ LANDING_PAGE_TITLE = "Desconecta del IBEX-35"
 FEATURED_IMAGE = 'desconexionibex35-logo.png'
 SITE_DESCRIPTION="""\
 No queremos apoyar con nuestro dinero
-a las grandes empresas (del IBEX-35 y otras)
+a las grandes empresas
 por los diversos abusos que cometen.
 
-Investigamos, generamos y fomentamos alternativas
-con diferentes niveles de compromiso
-que se puedan adaptar a las posibilidades de cada persona.
-Las promovemos y nos acompañamos en el salto.
+Investigamos, creamos y fomentamos alternativas,
+y nos acompañamos en el salto.
 
 Si encuentras este proyecto interesante, no lo dudes, ¡súmate!
 """
@@ -207,4 +209,5 @@ SITE_UPDATED = datetime.date.today()
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# vim: et ts=4 sw=4
+
+# vim et ts=4 sw=4

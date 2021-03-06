@@ -57,7 +57,7 @@ All tags used in the {{ SITENAME|striptags|e }} blog.
 <div class="columns">
     <div class="column is-offset-2 is-8">
         {% for tag, articles in tags|sort %}
-        <h2 id="{{ tag.slug }}-ref" class="tag-title is-title is-2">{{ tag }}</h2>
+        <h2 id="{{ tag.slug }}-ref" class="tag-title title is-4">{{ tag }}</h2>
         <ul class="list-articles-under-tag-category">
             {% for article in articles|sort(reverse = true, attribute = 'date') %}
             <li itemscope>
