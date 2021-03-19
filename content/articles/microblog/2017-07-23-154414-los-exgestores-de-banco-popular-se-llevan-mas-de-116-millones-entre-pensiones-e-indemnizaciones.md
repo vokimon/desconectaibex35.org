@@ -29,7 +29,7 @@ original:
 tags:
 - Banco Popular
 - Banco Santander
-- megasueldos directivos
+- supersueldos directivos
 - concentración empresarial
 category: Banca, Ahorro, Financiación
 location: España

@@ -31,7 +31,7 @@ tags:
 - GuifiBaix
 - Telefónica
 - refugio de corruptos
-- sueldos directivos
+- supersueldos directivos
 category: Telecomunicaciones
 location: España
 author: vokimon

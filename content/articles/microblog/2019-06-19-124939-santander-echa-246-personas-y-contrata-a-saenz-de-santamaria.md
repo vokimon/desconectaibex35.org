@@ -23,7 +23,7 @@ tags:
 - Banco Santander
 - puertas giratorias
 - despidos
-- megasueldos directivos
+- supersueldos directivos
 category: Banca
 location: España
 author: vokimon
