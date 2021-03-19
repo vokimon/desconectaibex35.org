@@ -15,54 +15,43 @@ status: draft
 <!-- PELICAN_BEGIN_SUMMARY -->
 [QuèViure],
 es una **cooperativa** de segundo grado, **sin ánimo de lucro**,
-que **distribuye productos** entre las entidades socias.
-Las _socias de servicio_ son entidades que ofrecen producto
-agroecológico, de comercio justo o social.
-Las _socias de consumo_ reciben los productos:
-grupos de consumo, supermercados cooperativos, economatos,
-restaurantes, comedores...
-Se unen con el objetivo de agregar escala
-para que la distribución sea más eficiente.
+que **distribuye** productos entre las entidades socias.
+Estas entidades socias son **proveedoras y consumidoras de productos 
+agroecológicos, de comercio justo o socialmente sostenibles**.
+Se unen para **agregar escala** en la distribución para que
+sea más eficiente y sin abusos.
 <!-- PELICAN_END_SUMMARY -->
 
-El nombre de la cooperativa es una [alofonía] en catalán de 
+Se creó en 2013, cuando varios grupos de consumo se juntaron
+para hacer **compras conjuntas**.
+El nombre que han escogido es una [alofonía] en catalán de 
 _queviure_ (víveres) y _què viure_ (qué vivir).
-
-Participan cooperativas de consumo como:
-
-- [El Llevat](https://llevat.org)
-  (Cooperativa de consumo agroecológico de Nou Barris, Barcelona)
-- [El rec](https://afocainiciativessolidaries.wordpress.com/el-rec/)
-  (Cooperativa de consumo agroecológico de Congrés, Barcelona)
-- [30 panxes](https://30panxes.wordpress.com)
-  (Cooperativa de consumo agroecológico de Sagrera, Barcelona)
-- [El Cabàs](https://lskrida.wordpress.com/el-cabas/)
-  (Cooperativa de consumo agroecológico de Santa Coloma de Gramanet)
-- [L'Economat Social](http://leconomat.queviure.cat/ca/)
-  (Supermercat cooperatiu de Sants)
-
-
-La iniciativa responde a algunas conclusiones
-a las que llegaron participantes en diferentes alternativas
-de consumo:
 
 [alofonía]: https://es.wikipedia.org/wiki/Al%C3%B3fono
 
-> Al grupo de consumo nos servían pageses que al final les salía más a cuenta
-> vender toda la cosecha a bajo precio a una gran distribuidora que
-> ir llevando 20 y 20 lechugas a diferentes grupos de consumo.
+La cooperativa tiene una estructura basada en tres pilares.
+Por un lado, están las **socias de trabajo**,
+que hacen las labores de logística y gestión.
+Por otro, están las _socias de servicio_,
+que son algunas de las **proveedoras de la cooperativa**.
+No todas las proveedoras son socias pero se las invita a que acaben siéndolo tarde o temprano.
+Y por último, están las entidades **socias de consumo**,
+que no solo son los **grupos de consumo**
+sinó que también hay **comercios cooperativos**
+especializados en productos agroecológicos
+y cooperativas de **restauración y catering**.
 
-> A veces teníamos que esperar un par de meses para agregar
-> suficiente pedido para que nos sirvieran.
-> Mientras tanto muchas comprabamos el producto en el supermercado.
+Es muy interesante las reflexiones que llevaron a la creación y madurez de la cooperativa.
+Así que, voy a entrar en cada una de ellas.
+
 
 ## Hegemonía o residualidad
 
 Ciertas iniciativas a nivel local, como los grupos de consumo,
 sirven para demostrar que un otro modelo económico es posibile.
-Pero no sirven por ellas mismas como alternativa de modelo económico.
+Pero no bastan por ellas mismas para que ese modelo económico sea el hegemónico en la sociedad.
 El consumo ético cubre solo una parte de la población
-y de ella solo una parte de los productos.
+y de esa parte solo una parte de los productos.
 
 La gran distribución 
 
@@ -73,6 +62,15 @@ La gran distribución
 - Que los productores minoritarios no pueden mantener una red de distribución minorista
 
 
+> Al grupo de consumo nos servían pageses que al final les salía más a cuenta
+> vender toda la cosecha a bajo precio a una gran distribuidora que
+> ir llevando 20 y 20 lechugas a diferentes grupos de consumo.
+> La distribución era tan costosa que el pagés tenía que subirnos el precio para que saliera a cuenta.
+
+> A veces teníamos que esperar un par de meses para agregar
+> suficiente pedido para que nos sirvieran.
+> Mientras tanto muchas comprabamos el producto en el supermercado.
+
 
 grupos de consumo agroecológico, supermercados cooperativos...
 y por otro lado productores, tales como pequeños productores,
@@ -81,5 +79,34 @@ Os presentamos una iniciativa audaz e innovadora.
 
 [QuèViure]: https://www.queviure.cat
 
+
+Participan cooperativas de consumo agroecológico como:
+
+- [El Llevat](https://llevat.org)
+  (Nou Barris, Barcelona)
+- [El rec](https://afocainiciativessolidaries.wordpress.com/el-rec/)
+  (Congrés, Barcelona)
+- [30 panxes](https://30panxes.wordpress.com)
+  (Sagrera, Barcelona)
+- [El Cabàs](https://lskrida.wordpress.com/el-cabas/)
+  (Santa Coloma de Gramanet)
+- [El Borró](http://elborro.blogspot.com/)
+  (Sant Andreu, Barcelona)
+
+No sólo grupos de consumo, también, tiendas, restaurantes, cocinas...
+
+- [L'Economat Social](http://leconomat.queviure.cat/ca/)
+  (Supermercado cooperativo de Sants, Barcelona)
+- [Fleca L'Aresta]()
+  (Panaderia cooperativa, Santa Coloma de Queralt)
+- [Menjador Ca La Rosa](https://menjadorcalarosa.cat/)
+  (Cooperativa de cocina agroecológica, menús escolares, catering...)
+- [El Rodal](http://elrodal.coop)
+  (Tienda cooperativa, Sabadells)
+- [Espai Orgànic](http://www.organicgava.cat/)
+  (Tienda cooperativa agroecológica, Gavá)
+
+
+https://opcions.org/es/entrevistas/diana-amigo-alejandro-guzman/
 
 

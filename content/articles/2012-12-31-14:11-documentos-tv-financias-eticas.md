@@ -14,7 +14,8 @@ status: published
 image: https://img.irtve.es/imagenes/documentos-tv-finanzas-eticas/1356913595883.JPG
 ---
 
-El dia 30 de diciembre se emitio en el programa Documentos TV un [documental sobre banca ética](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-finanzas-eticas/1629722/).
+El dia 30 de diciembre se emitio en el programa Documentos TV
+un [documental sobre banca ética](http://www.rtve.es/alacarta/videos/documentos-tv/documentos-tv-finanzas-eticas/1629722/).
 
 De la sipnosis del documental:
 
