@@ -71,12 +71,6 @@ La gran distribución
 > suficiente pedido para que nos sirvieran.
 > Mientras tanto muchas comprabamos el producto en el supermercado.
 
-
-grupos de consumo agroecológico, supermercados cooperativos...
-y por otro lado productores, tales como pequeños productores,
-cooperativas productivas, entidades que promocionan el comercio justo...
-Os presentamos una iniciativa audaz e innovadora.
-
 [QuèViure]: https://www.queviure.cat
 
 
