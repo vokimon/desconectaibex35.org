@@ -84,6 +84,10 @@ meta:
       subtitle: Red de entidades. Municipalización de la red de distribución
       logo: /images/logos/logo-xse.png
       url: http://xse.cat
+    - title: Associació de Municipis i Entitats per l’Energia Pública (AMEP)
+      subtitle: Municipalizacion de la distibución y producción eléctrica
+      logo: /images/logos/logo-amep.png
+      url: https://www.terrassa.cat/associacio-de-municipis-i-entitats-per-l-energia-publica
 #    - title: Grupos locales de Som Energia
 #      subtitle: Soporte mutuo, charlas y difusión de alternativas
 #      logo: /images/logos/logo-somenergia.svg
