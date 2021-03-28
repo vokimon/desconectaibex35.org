@@ -75,7 +75,7 @@ Como dicen Nuria Vega y Ricard Espelt en esta [entrevista en La Directa](https:/
 
 > La palabra “ecológico” solo se refiere al método de producción
 > y quiere decir que no se utilizan herbicidas o pesticidas,
->y según como tampoco químicos de síntesis como fertilizantes.
+> y según como tampoco químicos de síntesis como fertilizantes.
 > El movimiento agroecológico tiene una visión mucho más holística
 > y también mira
 > las condiciones sociales de los agricultores, 
