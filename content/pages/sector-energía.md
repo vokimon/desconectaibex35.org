@@ -92,6 +92,10 @@ meta:
       subtitle: Municipalizacion de la distibución y producción eléctrica
       logo: /images/logos/logo-amep.png
       url: https://www.terrassa.cat/associacio-de-municipis-i-entitats-per-l-energia-publica
+    - title: Alianza por el Autoconsumo (AxAC)
+      subtitle: Entidades unidas para potenciar el autoconsumo
+      logo: /images/logos/logo-axac.png
+      url: https://alianzaautoconsumo.org
 #    - title: Grupos locales de Som Energia
 #      subtitle: Soporte mutuo, charlas y difusión de alternativas
 #      logo: /images/logos/logo-somenergia.svg
