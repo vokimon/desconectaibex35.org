@@ -63,6 +63,10 @@ meta:
       subtitle: Cooperativa usuarios. Galiza.
       url: https://www.nosaenerxia.gal/index.php/gl/
       logo: /images/logos/logo-nosaenerxia.jpg
+    - title: Megara Energia
+      subtitle: Cooperativa usuarios. Soria.
+      url: https://www.megaraenergia.com
+      logo: /images/logos/logo-megara.png
     - title: Unión Renovables
       subtitle: Agrupa todas las anteriores y algunas más
       url: http://www.unionrenovables.coop
