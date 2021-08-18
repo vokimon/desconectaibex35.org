@@ -18,6 +18,8 @@
    inkscape:export-filename="/home/vokimon/Documentos/webs/desconectaibex35.org/content/images/icons/higiene.png"
    inkscape:export-xdpi="96.000008"
    inkscape:export-ydpi="96.000008">
+  <title
+     id="title69">Personal hygiene products</title>
   <defs
      id="defs2">
     <linearGradient
@@ -224,8 +226,8 @@
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1680"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -237,8 +239,51 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Personal hygiene products</dc:title>
+        <dc:date>2020-09-04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>David García Garzón (vokimon)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>@ David García Garzón, 2020 </dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hygiene</rdf:li>
+            <rdf:li>toothbrush</rdf:li>
+            <rdf:li>toothpaste</rdf:li>
+            <rdf:li>toilet paper</rdf:li>
+            <rdf:li>shampoo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>http://desconexionibex35.org</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>A bunch of personal hygiene products including toothbrush and paste, toilet paper and a flask of shampoo. Squared to be used as icon.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
