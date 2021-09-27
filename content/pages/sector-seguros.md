@@ -32,15 +32,15 @@ meta:
     projects:
     - title: E3
       subtitle: Responsabilidad social, económica y laboral y transparencia.
-      url: https://ethsi.eu
+      url: https://ethsi.net
       logo: /images/logos/logo-ethsi-insurance-E3.png
     - title: E2
       subtitle: Añade gobernanza democrática y comité ético
-      url: https://ethsi.eu
+      url: https://ethsi.net
       logo: /images/logos/logo-ethsi-insurance-E2.png
     - title: E1
       subtitle: Añade uso de finanzas éticas
-      url: https://ethsi.eu
+      url: https://ethsi.net
       logo: /images/logos/logo-ethsi-insurance-E1.png
   - title: Corredurías
     subtitle:
