@@ -4,6 +4,7 @@ date: 2021-02-23 09:15
 status: published
 tags:
 - FoodCoop
+- supermercado cooperativo
 category: Supermercados
 location: España
 autor: vokimon
