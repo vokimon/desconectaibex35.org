@@ -1,13 +1,13 @@
 ---
 title: 'Más periodismo no es mejor periodismo: la noticia que no me dejaron dar'
-date: &id001 2019-04-04 07:41:55+00:00
+date:  2019-04-04 07:41:55+00:00
 status: published
 original:
   timestamp: 1554363715
   data:
     post: Los medios de comunicacion tambien son IBEX, y nos lo recuerdan.
     update_timestamp: 1554363715
-  date: *id001
+  date: 2019-04-04 07:41:55+00:00
   link: https://www.elsaltodiario.com/medios/Podemos-vox-periodismo-censura-la-sexta-al-rojo-vivo
   title: 'Más periodismo no es mejor periodismo: la noticia que no me dejaron dar'
   image: https://www.elsaltodiario.com/uploads/fotos/rs600/a67fdafb/Ferreras_ARV.jpg?v=63721181686

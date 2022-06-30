@@ -1,6 +1,6 @@
 ---
 title: Quitar los servicios de cuidados de las manos corporativas | El Salto
-date: &id001 2020-05-29 06:43:53+00:00
+date:  2020-05-29 06:43:53+00:00
 status: published
 original:
   timestamp: 1590734633
@@ -11,7 +11,7 @@ original:
       COVID19 en sus residencias y la cantidad de adjudicaciones de urgencia que han
       caido en sus manos durante la crisis.
     update_timestamp: 1590734633
-  date: *id001
+  date: 2020-05-29 06:43:53+00:00
   link: https://www.elsaltodiario.com/ciudades-vs-multinacionales/quitar-servicios-cuidados-residencias-manos-corporativas
   title: Quitar los servicios de cuidados de las manos corporativas
   image: https://www.elsaltodiario.com/uploads/fotos/rs600/c45f6e1a/Cities%20VS%20a_19.%20Econom%C3%ADa%20feminista%20en%20las%20ciudades.jpg?v=63757869651

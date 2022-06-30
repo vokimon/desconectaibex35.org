@@ -1,6 +1,6 @@
 ---
 title: Una familia española se libera de la red comercial y genera su propia energía
-date: &id001 2017-02-13 14:33:53+00:00
+date:  2017-02-13 14:33:53+00:00
 status: published
 original:
   timestamp: 1486996433
@@ -8,7 +8,7 @@ original:
   data:
     post: Desconectarse, literalmente
     update_timestamp: 1486996433
-  date: *id001
+  date: 2017-02-13 14:33:53+00:00
   link: https://muhimu.es/inspiracional/una-familia-espanola-se-libera-la-red-comercial-genera-energia/
   title: Una familia española se libera de la red comercial y genera su propia energía
   image: https://muhimu.es/wp-content/uploads/2017/02/torresok-575x323.jpg

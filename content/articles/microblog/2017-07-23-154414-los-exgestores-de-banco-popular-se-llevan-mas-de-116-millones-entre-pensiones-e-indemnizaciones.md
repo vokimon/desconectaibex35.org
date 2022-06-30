@@ -1,7 +1,7 @@
 ---
 title: Los exgestores de Banco Popular se llevan más de 116 millones entre pensiones
   e indemnizaciones
-date: &id001 2017-07-23 15:44:14+00:00
+date:  2017-07-23 15:44:14+00:00
 status: published
 original:
   timestamp: 1500824654
@@ -15,7 +15,7 @@ original:
 
 
       Via PAH SantBoi'
-  date: *id001
+  date: 2017-07-23 15:44:14+00:00
   link: https://www.eldiario.es/economia/antiguos-Banco-Popular-pensiones-indemnizaciones_0_652335021.html
   title: Los exgestores de Banco Popular se llevan más de 116 millones entre pensiones
     e indemnizaciones

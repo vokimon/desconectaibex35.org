@@ -1,14 +1,14 @@
 ---
 title: ¿Es razonable la pensión estratosférica con la que Francisco González se despide
   del BBVA?
-date: &id001 2019-01-01 23:51:38+00:00
+date:  2019-01-01 23:51:38+00:00
 status: published
 original:
   timestamp: 1546386698
   data:
     post: No. Siguiente pregunta.
     update_timestamp: 1546386698
-  date: *id001
+  date: 2019-01-01 23:51:38+00:00
   link: https://www.eldiario.es/alternativaseconomicas/razonable-pension-millones-Francisco-Gonzalez_6_851174877.html
   title: ¿Es razonable la pensión estratosférica con la que Francisco González se
     despide del BBVA?

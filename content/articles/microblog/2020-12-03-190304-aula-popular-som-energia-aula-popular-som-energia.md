@@ -1,6 +1,6 @@
 ---
 title: El Aula Popular de Som Energia
-date: &id001 2020-12-03 19:03:04+00:00
+date:  2020-12-03 19:03:04+00:00
 status: published
 original:
   timestamp: 1607022184
@@ -9,7 +9,7 @@ original:
     post: Formacion para que cualquiera que tenga interés pueda formar parte de los
       organos de gobierno de la cooperativa.
     update_timestamp: 1607022184
-  date: *id001
+  date: 2020-12-03 19:03:04+00:00
   link: https://aulapopular.somenergia.coop/
   title: Aula Popular Som Energia – Aula Popular Som Energia
   image: null

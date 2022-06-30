@@ -1,7 +1,7 @@
 ---
 title: Nace la Cátedra Repsol en Transición Energética para luchar contra el cambio
   climático
-date: &id001 2019-10-05 10:59:53+00:00
+date:  2019-10-05 10:59:53+00:00
 status: published
 original:
   timestamp: 1570273193
@@ -12,7 +12,7 @@ original:
       para relativizar el impacto de los fosiles. ¿Nos extinguimos ya o que? Gracias
       por repostar.
     update_timestamp: 1570273193
-  date: *id001
+  date: 2019-10-05 10:59:53+00:00
   link: https://www.elnacional.cat/es/economia/nace-la-catedra-repsol-en-transicion-energetica-para-luchar-contra-el-cambio-climatico_421061_102.html
   title: Nace la Cátedra Repsol en Transición Energética para luchar contra el cambio
     climático

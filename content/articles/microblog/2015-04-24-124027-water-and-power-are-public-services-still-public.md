@@ -1,6 +1,6 @@
 ---
 title: '[Video] Water and Power: Are public services still public?'
-date: &id001 2015-04-24 12:40:27+00:00
+date:  2015-04-24 12:40:27+00:00
 status: published
 original:
   timestamp: 1429879227
@@ -13,7 +13,7 @@ original:
 
       + Son els serveis publics, encara publics?'
     past: ¿Los servicios publicos son aun publicos?
-  date: *id001
+  date: 2015-04-24 12:40:27+00:00
   link: https://www.youtube.com/watch?v=DNkno9Bw51E
   title: 'Water and Power: Are public services still public?'
   image: https://i.ytimg.com/vi/DNkno9Bw51E/maxresdefault.jpg

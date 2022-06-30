@@ -1,7 +1,7 @@
 ---
 title: El Banco Mundial sanciona a ACS por ocultar comisiones en la adjudicación de
   contratos en Egipto
-date: &id001 2018-07-25 06:11:27+00:00
+date:  2018-07-25 06:11:27+00:00
 status: published
 original:
   timestamp: 1532499087
@@ -24,7 +24,7 @@ original:
       ACS sancionada por ocultar las comisiones abonadas a un intermediario por la
       adjudicación de contratos para la construcción de dos centrales eléctricas en
       Egipto.'
-  date: *id001
+  date: 2018-07-25 06:11:27+00:00
   link: https://www.eldiario.es/economia/Banco-Mundial-ACS-adjudicacion-Egipto_0_795821180.html
   title: El Banco Mundial sanciona a ACS por ocultar comisiones en la adjudicación
     de contratos en Egipto

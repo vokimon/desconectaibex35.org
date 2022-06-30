@@ -1,6 +1,6 @@
 ---
 title: La CNMC desregula el mercado de los Operadores Móviles Virtuales
-date: &id001 2017-04-12 19:40:17+00:00
+date:  2017-04-12 19:40:17+00:00
 status: published
 original:
   timestamp: 1492026017
@@ -10,7 +10,7 @@ original:
       virtuales ofreciendoles precios super guais para acceder a sus redes. Utopias
       del neoliberalismo en el BOE.
     update_timestamp: 1492026017
-  date: *id001
+  date: 2017-04-12 19:40:17+00:00
   link: https://civio.es/el-boe-nuestro-de-cada-dia/2017/04/12/la-cnmc-desregula-el-mercado-de-los-operadores-moviles-virtuales/
   title: La CNMC desregula el mercado de los Operadores MÃ³viles Virtuales
   image: null

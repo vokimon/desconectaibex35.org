@@ -1,7 +1,7 @@
 ---
 title: 'Jornada Xse: Reapropiem-nos de la distribució, fem fora l''oligopoli energètic!
   - Xarxa per la sobirania energètica'
-date: &id001 2016-02-20 21:36:26+00:00
+date:  2016-02-20 21:36:26+00:00
 status: published
 original:
   timestamp: 1456004186
@@ -23,7 +23,7 @@ original:
 
 
       https://www.facebook.com/somenergia/posts/967568789958726'
-  date: *id001
+  date: 2016-02-20 21:36:26+00:00
   link: https://xse.cat/reapropiem-nos-distribucio/
   title: 'Jornada Xse: Reapropiem-nos de la distribució, fem fora l''oligopoli energètic!
     - Xarxa per la sobirania energètica'

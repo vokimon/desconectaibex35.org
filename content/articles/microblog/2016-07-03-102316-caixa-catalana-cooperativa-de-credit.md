@@ -1,6 +1,6 @@
 ---
 title: Caixa Catalana Cooperativa de Crèdit comienza a caminar
-date: &id001 2016-07-03 10:23:16+00:00
+date:  2016-07-03 10:23:16+00:00
 status: published
 original:
   timestamp: 1467541396
@@ -31,7 +31,7 @@ original:
       lo consiguió pero después de buscar alianzas con otras entidades similares en
       Europa.'
     update_timestamp: 1467541396
-  date: *id001
+  date: 2016-07-03 10:23:16+00:00
   link: https://www.facebook.com/378033285721814/photos/a.383753735149769/543018562556618/?type=3&theater
   title: Caixa Catalana Cooperativa de Crèdit
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/13567241_543018562556618_1107496829102020271_n.jpg?_nc_cat=110&_nc_sid=2d5d41&_nc_ohc=aS-1e95gwHcAX9qF-I7&_nc_ht=scontent-mad1-1.xx&oh=a986874be91cc19353b5734a0e27c5bd&oe=5FA93AD9

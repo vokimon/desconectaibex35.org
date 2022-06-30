@@ -1,6 +1,6 @@
 ---
 title: Competencia no cobra ni una multa desde su creación
-date: &id001 2016-12-25 10:24:48+00:00
+date:  2016-12-25 10:24:48+00:00
 status: published
 original:
   timestamp: 1482661488
@@ -10,7 +10,7 @@ original:
       va a acabar con las puertas giratorias porque "Papa estado" es "Papa grandes
       empresas".
     update_timestamp: 1482661488
-  date: *id001
+  date: 2016-12-25 10:24:48+00:00
   link: https://www.abc.es/economia/abci-cnmc-no-cobra-ninguna-multa-desde-creacion-201610020231_noticia.html
   title: Competencia no cobra ni una multa desde su creación
   image: https://static2.abc.es/media/economia/2016/10/02/marin-kKEH--620x349@abc.jpg

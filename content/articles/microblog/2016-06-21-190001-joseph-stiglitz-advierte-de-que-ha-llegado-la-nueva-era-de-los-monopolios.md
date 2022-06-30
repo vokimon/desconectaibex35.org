@@ -1,6 +1,6 @@
 ---
 title: Joseph Stiglitz advierte de que ''ha llegado la nueva era de los monopolios''
-date: &id001 2016-06-21 19:00:01+00:00
+date:  2016-06-21 19:00:01+00:00
 status: published
 original:
   timestamp: 1466535601
@@ -10,7 +10,7 @@ original:
 
       + '
     past: Joseph Stiglitz advierte de que "ha llegado la nueva era de los monopolios"
-  date: *id001
+  date: 2016-06-21 19:00:01+00:00
   link: https://www.eleconomista.es/economia/noticias/7570427/05/16/Joseph-Stiglitz-advierte-de-que-ha-llegado-la-nueva-era-de-los-monopolios.html
   title: Joseph Stiglitz advierte de que ''ha llegado la nueva era de los monopolios''
   image: https://s03.s3c.es/imag/_v0/700x420/8/4/0/stiglitz-monopolio.jpg

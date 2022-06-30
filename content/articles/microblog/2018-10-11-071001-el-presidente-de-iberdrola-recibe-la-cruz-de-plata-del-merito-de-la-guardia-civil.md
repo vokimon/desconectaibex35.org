@@ -1,7 +1,7 @@
 ---
 title: El presidente de Iberdrola recibe la Cruz de Plata del Mérito de la Guardia
   Civil
-date: &id001 2018-10-11 07:10:01+00:00
+date:  2018-10-11 07:10:01+00:00
 status: published
 original:
   timestamp: 1539241801
@@ -12,7 +12,7 @@ original:
       El presidente de Iberdrola recibe la Cruz de Plata del Mérito de la Guardia
       Civil'
     update_timestamp: 1539241801
-  date: *id001
+  date: 2018-10-11 07:10:01+00:00
   link: https://www.europapress.es/economia/noticia-presidente-iberdrola-recibe-cruz-plata-merito-guardia-civil-20181007161200.html
   title: El presidente de Iberdrola recibe la Cruz de Plata del Mérito de la Guardia
     Civil

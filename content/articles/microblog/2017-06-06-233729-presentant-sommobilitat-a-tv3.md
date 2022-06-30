@@ -1,6 +1,6 @@
 ---
 title: Presentando Som Mobilitat a TV3
-date: &id001 2017-06-06 23:37:29+00:00
+date:  2017-06-06 23:37:29+00:00
 status: published
 original:
   timestamp: 1496792249
@@ -12,7 +12,7 @@ original:
 
 
       www.ccma.cat/tv3/alacarta/programa/arnau-vilardell-la-mobilitat-sesta-situant-en-el-centre-del-debat/video/5671232/'
-  date: *id001
+  date: 2017-06-06 23:37:29+00:00
   title: TittlePending
 tags:
 - Som Mobilitat

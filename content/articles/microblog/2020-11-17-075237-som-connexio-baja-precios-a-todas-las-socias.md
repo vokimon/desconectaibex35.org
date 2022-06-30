@@ -1,6 +1,6 @@
 ---
 title: Som Connexió baja precios a todas sus socias
-date: &id001 2020-11-17 07:52:37+00:00
+date:  2020-11-17 07:52:37+00:00
 status: published
 original:
   timestamp: 1605599557
@@ -12,7 +12,7 @@ original:
       y para todas las cooperativistas y con la fuerza de los casi 13mil contratos
       unidos.
     update_timestamp: 1605599557
-  date: *id001
+  date: 2020-11-17 07:52:37+00:00
   link: https://www.facebook.com/somconnexio/posts/1754977794666855
   title: Som Connexió
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t45.1600-4/cp0/q75/spS444/c183.0.403.403a/p403x403/123689939_23846497540110042_6366515777125214258_n.jpg?_nc_cat=100&ccb=2&_nc_sid=67cdda&_nc_ohc=UBfjy5lKbZAAX8d-36M&_nc_ht=scontent-mad1-1.xx&oh=d5b5a3c3271ebc99cf9acfee4dbfc041&oe=60453342

@@ -1,13 +1,13 @@
 ---
 title: Si hay que usar coche, mejor que sea eléctrico, compartido y cooperativo
-date: &id001 2016-12-26 00:05:03+00:00
+date:  2016-12-26 00:05:03+00:00
 status: published
 original:
   timestamp: 1482710703
   attachments: []
   data:
     update_timestamp: 1482710703
-  date: *id001
+  date: 2016-12-26 00:05:03+00:00
   link: https://www.eldiario.es/desde-mi-bici/usar-coche-mejor-electrico-cooperativo_6_593600686.html
   title: Si hay que usar coche, mejor que sea eléctrico, compartido y cooperativo
   image: https://static.eldiario.es/clip/49046333-f26e-41e5-9119-9951d22153d3_facebook-aspect-ratio_default_0.jpg

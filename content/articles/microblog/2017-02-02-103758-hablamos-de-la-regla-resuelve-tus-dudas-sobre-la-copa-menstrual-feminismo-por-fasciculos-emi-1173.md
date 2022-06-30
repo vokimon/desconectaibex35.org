@@ -1,7 +1,7 @@
 ---
 title: Hablamos de la regla, resuelve tus dudas sobre la copa menstrual – Feminismo
   por fascículos [Podcast]
-date: &id001 2017-02-02 10:37:58+00:00
+date:  2017-02-02 10:37:58+00:00
 status: published
 original:
   timestamp: 1486031878
@@ -28,7 +28,7 @@ original:
     past: Patriarcado, deteriodo del medio ambiente, exposicion quimica y atadura
       a un oligopolio que impone sus normas y precios a una necesidad básica. ¿Crees
       que no hay opciones? Alba Saladie León te explica.
-  date: *id001
+  date: 2017-02-02 10:37:58+00:00
   link: https://elmomentoinutil.wordpress.com/2017/01/31/hablamos-de-la-regla-resuelve-tus-dudas-sobre-la-copa-menstrual-feminismo-por-fasciculos-emi-11x73/
   title: Hablamos de la regla, resuelve tus dudas sobre la copa menstrual – Feminismo
     por fascículos. EMI 11×73

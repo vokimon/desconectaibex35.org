@@ -1,12 +1,12 @@
 ---
 title: ¿Quién financia las empresas más contaminantes de Europa?
-date: &id001 2019-05-22 08:15:55+00:00
+date:  2019-05-22 08:15:55+00:00
 status: published
 original:
   timestamp: 1558512955
   data:
     update_timestamp: 1558512955
-  date: *id001
+  date: 2019-05-22 08:15:55+00:00
   link: https://www.eldiario.es/ballenablanca/transicion_energetica/financia-empresas-contaminantes-Europa_0_901510534.html
   title: ¿Quién financia las empresas más contaminantes de Europa?
   image: https://static.eldiario.es/clip/9e9ab04e-bf27-4c57-9759-f7d7762557e3_facebook-watermarked-aspect-ratio_default_0.jpg

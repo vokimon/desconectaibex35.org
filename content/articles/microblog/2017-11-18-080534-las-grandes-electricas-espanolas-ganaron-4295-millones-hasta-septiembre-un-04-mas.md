@@ -1,14 +1,14 @@
 ---
 title: Las grandes eléctricas españolas ganaron 4.295 millones hasta septiembre, un
   0,4% más
-date: &id001 2017-11-18 08:05:34+00:00
+date:  2017-11-18 08:05:34+00:00
 status: published
 original:
   timestamp: 1510992334
   attachments: []
   data:
     update_timestamp: 1510992334
-  date: *id001
+  date: 2017-11-18 08:05:34+00:00
   link: https://www.servimedia.es/noticias/757950
   title: Las grandes eléctricas españolas ganaron 4.295 millones hasta septiembre,
     un 0,4% más

@@ -1,6 +1,6 @@
 ---
 title: Multan a Vodafone con 20.000 euros tras dar de alta a un cliente sin solicitarlo
-date: &id001 2016-09-13 20:38:33+00:00
+date:  2016-09-13 20:38:33+00:00
 status: published
 original:
   timestamp: 1473799113
@@ -11,7 +11,7 @@ original:
 
       + '
     past: Multan a Vodafone con 20.000 euros tras dar de alta a un cliente sin solicitarlo
-  date: *id001
+  date: 2016-09-13 20:38:33+00:00
   link: https://cadenaser.com/ser/2016/09/12/sociedad/1473671743_133510.html
   title: Multan a Vodafone con 20.000 euros tras dar de alta a un cliente sin solicitarlo
   image: https://cadenaser00.epimg.net/ser/imagenes/2016/09/12/sociedad/1473671743_133510_1473673597_noticia_normal.jpg

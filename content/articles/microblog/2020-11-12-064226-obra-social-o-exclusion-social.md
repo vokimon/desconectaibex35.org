@@ -1,6 +1,6 @@
 ---
 title: La obra social de hundirte en la miseria
-date: &id001 2020-11-12 06:42:26+00:00
+date:  2020-11-12 06:42:26+00:00
 status: published
 original:
   timestamp: 1605163346
@@ -13,7 +13,7 @@ original:
 
 
       :::figure /uploads/2020/11/124978955_10221949436559048_6590803790901010080_n.jpg'
-  date: *id001
+  date: 2020-11-12 06:42:26+00:00
   link: https://www.facebook.com/photo.php?fbid=10221949436519047
   title: Facebook
   image: null

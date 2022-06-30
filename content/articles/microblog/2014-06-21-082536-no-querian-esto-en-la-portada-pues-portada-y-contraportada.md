@@ -1,6 +1,6 @@
 ---
 title: ¿No querian esto en la portada? ¡Pues portada y contraportada!
-date: &id001 2014-06-21 08:25:36+00:00
+date:  2014-06-21 08:25:36+00:00
 status: published
 original:
   timestamp: 1403339136
@@ -10,7 +10,7 @@ original:
 
       + '
     past: No querían esto en la portada? Pues portada y contraportada
-  date: *id001
+  date: 2014-06-21 08:25:36+00:00
   link: http://www.cafeambllet.com/no-querian-esto-en-la-portada-pues-portada-y-contraportada/
   title: ¿No querian esto en la portada? ¡Pues portada y contraportada!
   image: http://www.cafeambllet.com/wp-content/uploads/2014/06/contra_cast_ok.jpg

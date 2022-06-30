@@ -1,12 +1,12 @@
 ---
 title: Las deudas de los partidos con los bancos | Contrainformación
-date: &id001 2019-05-08 16:23:01+00:00
+date:  2019-05-08 16:23:01+00:00
 status: published
 original:
   timestamp: 1557332581
   data:
     update_timestamp: 1557332581
-  date: *id001
+  date: 2019-05-08 16:23:01+00:00
   link: https://contrainformacion.es/las-deudas-de-los-partidos-politicos-con-los-bancos/
 tags:
 - PP

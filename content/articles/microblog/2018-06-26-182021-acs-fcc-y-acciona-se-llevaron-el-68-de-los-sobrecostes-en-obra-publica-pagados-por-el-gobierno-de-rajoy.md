@@ -1,7 +1,7 @@
 ---
 title: ACS, FCC y Acciona se llevaron el 68% de los sobrecostes en obra pública pagados
   por el Gobierno de Rajoy
-date: &id001 2018-06-26 18:20:21+00:00
+date:  2018-06-26 18:20:21+00:00
 status: published
 original:
   timestamp: 1530037221
@@ -14,7 +14,7 @@ original:
       + '
     past: ACS, FCC y Acciona se llevaron el 68% de los sobrecostes en obra pública
       pagados por el Gobierno de Rajoy
-  date: *id001
+  date: 2018-06-26 18:20:21+00:00
   link: https://www.eldiario.es/politica/Gobierno-Rajoy-ACS-FCC-Acciona_0_784621912.html
   title: ACS, FCC y Acciona se llevaron el 68% de los sobrecostes en obra pública
     pagados por el Gobierno de Rajoy

@@ -1,6 +1,6 @@
 ---
 title: Las puertas giratorias del Banc Sabadell
-date: &id001 2019-06-25 08:35:42+00:00
+date:  2019-06-25 08:35:42+00:00
 status: published
 original:
   timestamp: 1561451742
@@ -8,7 +8,7 @@ original:
     post: '[CAT] Investigación de las puertas giratorias del Banc Sabadell. Ex-altos
       cargos de PSOE, PSC, PP, CiU que se han recolocado en el banco,'
     update_timestamp: 1561451742
-  date: *id001
+  date: 2019-06-25 08:35:42+00:00
   link: https://www.elcritic.cat/investigacio/les-portes-giratories-del-banc-sabadell-29699
   title: Les 'portes giratòries' del Banc Sabadell
   image: https://s3-eu-west-1.amazonaws.com/elcritic.cat/wp-content/uploads/2019/06/20201414/Edificio_Corporativo_Banco_Sabadell_en_Sant_Cugat-1200x630.jpg

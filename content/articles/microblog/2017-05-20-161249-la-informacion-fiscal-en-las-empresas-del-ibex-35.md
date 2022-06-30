@@ -1,6 +1,6 @@
 ---
 title: La información fiscal en las empresas del IBEX 35
-date: &id001 2017-05-20 16:12:49+00:00
+date:  2017-05-20 16:12:49+00:00
 status: published
 original:
   timestamp: 1495296769
@@ -13,7 +13,7 @@ original:
       + '
     past: 'El 1 de junio Observatorio RSC presenta su Informe sobre aspectos fiscales
       en empresas del #IBEX35 Inscríbete #RSC http://bit.ly/2pVvXzu'
-  date: *id001
+  date: 2017-05-20 16:12:49+00:00
   link: https://observatoriorsc.org/informacion-fiscal-empresas-ibex-35-2/
   title: La información fiscal en las empresas del IBEX 35
   image: https://observatoriorsc.org/wp-content/uploads/2017/05/Evento_info_fiscal_junio2017-300x255.jpg

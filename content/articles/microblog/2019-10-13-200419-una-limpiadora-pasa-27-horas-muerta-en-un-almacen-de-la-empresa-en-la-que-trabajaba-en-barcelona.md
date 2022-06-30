@@ -1,6 +1,6 @@
 ---
 title: 20Minutos oculta que la cuba de fermentación donde murió una limpiadora era de Mercadona
-date: &id001 2019-10-13 20:04:19+00:00
+date:  2019-10-13 20:04:19+00:00
 status: published
 original:
   timestamp: 1570997059
@@ -17,7 +17,7 @@ original:
       no se ha vendido. Les importa poco la seguridad de sus trabajadoras tan poco
       como la de sus clientas.'
     update_timestamp: 1570997059
-  date: *id001
+  date: 2019-10-13 20:04:19+00:00
   link: https://www.20minutos.es/noticia/3798717/0/27-horas-muerta-almacen-mercadona/
   title: Una limpiadora pasa 27 horas muerta en un almacén de la empresa en la que
     trabajaba en Barcelona

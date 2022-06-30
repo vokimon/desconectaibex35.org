@@ -1,6 +1,6 @@
 ---
 title: Etiquetas y directorio para distinguir la ropa libre de esclavitud
-date: &id001 2017-07-02 09:01:42+00:00
+date:  2017-07-02 09:01:42+00:00
 status: published
 original:
   timestamp: 1498986102
@@ -13,7 +13,7 @@ original:
 
 
       Vía Diseño Social'
-  date: *id001
+  date: 2017-07-02 09:01:42+00:00
   link: https://muhimu.es/comunidad/etiqueta-para-distinguir-la-ropa-libre-de-esclavitud-infantil-listado-de-marcas-que-lo-llevan/
   title: Etiquetas y directorio para distinguir la ropa libre de esclavitud
   image: https://muhimu.es/wp-content/uploads/2016/04/libre-de-esclavitud-infantil.jpg

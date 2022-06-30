@@ -1,6 +1,6 @@
 ---
 title: 'L''estafa del negoci de l''aigua. Agbar és #AiguaPassada'
-date: &id001 2019-10-27 18:33:51+00:00
+date:  2019-10-27 18:33:51+00:00
 status: published
 original:
   timestamp: 1572201231
@@ -9,7 +9,7 @@ original:
     post: 'AGBAR-Suez: El timo del agua en el Area Metropolitana de Barcelona. Nos
       han robado millones y despues hacen campañas beneficas para limpiar la cara.'
     update_timestamp: 1572201231
-  date: *id001
+  date: 2019-10-27 18:33:51+00:00
   link: https://www.youtube.com/watch?v=eJ9I9KSAgAU
   title: 'L''estafa del negoci de l''aigua. Agbar és #AiguaPassada'
   image: https://i.ytimg.com/vi/eJ9I9KSAgAU/maxresdefault.jpg

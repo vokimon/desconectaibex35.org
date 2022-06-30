@@ -1,6 +1,6 @@
 ---
 title: 'Endesa sobrefacturó en 20 millones la tarifa de la luz a más de 400.000 andaluces '
-date: &id001 2015-11-17 17:37:44+00:00
+date:  2015-11-17 17:37:44+00:00
 status: published
 original:
   timestamp: 1447781864
@@ -8,7 +8,7 @@ original:
     post: El faro de la economia española, las empresas del IBEX, a las espaldas de
       los españoles de a pie.
     update_timestamp: 1447781864
-  date: *id001
+  date: 2015-11-17 17:37:44+00:00
   link: https://www.elconfidencial.com/empresas/2015-11-14/endesa-sobrefacturo-en-20-millones-la-tarifa-de-la-luz-a-mas-de-400-000-andaluces_1084855/
   title: 'Endesa sobrefacturó en 20 millones la tarifa de la luz a más de 400.000
     andaluces '

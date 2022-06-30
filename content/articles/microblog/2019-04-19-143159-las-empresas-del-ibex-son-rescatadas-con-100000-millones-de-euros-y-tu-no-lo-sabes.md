@@ -1,14 +1,14 @@
 ---
 title: Las empresas del IBEX son rescatadas con 100.000 millones de euros y tú no
   lo sabes
-date: &id001 2019-04-19 14:31:59+00:00
+date:  2019-04-19 14:31:59+00:00
 status: published
 original:
   timestamp: 1555684319
   data:
     post: Nos toman por tontos. Quizas lo somos.
     update_timestamp: 1555684319
-  date: *id001
+  date: 2019-04-19 14:31:59+00:00
   link: https://spanishrevolution.org/las-empresas-del-ibex-son-rescatadas-con-100-000-millones-de-euros-y-tu-no-lo-sabes/
   title: Las empresas del IBEX son rescatadas con 100.000 millones de euros y tú no
     lo sabes

@@ -1,7 +1,7 @@
 ---
 title: 'Fraude generalizado en ofertas de fibra: las tarifas son entre un 54% y un
   250% más caras de lo anunciado'
-date: &id001 2017-05-17 18:19:31+00:00
+date:  2017-05-17 18:19:31+00:00
 status: published
 original:
   timestamp: 1495045171
@@ -13,7 +13,7 @@ original:
       + '
     past: 'Fraude generalizado en ofertas de fibra: las tarifas son entre un 54% y
       un 250% más caras de lo anunciado'
-  date: *id001
+  date: 2017-05-17 18:19:31+00:00
   link: https://www.facua.org/es/noticia.php?Id=11361
   title: 'Fraude generalizado en ofertas de fibra: las tarifas son entre un 54% y
     un 250% más caras de lo anunciado'

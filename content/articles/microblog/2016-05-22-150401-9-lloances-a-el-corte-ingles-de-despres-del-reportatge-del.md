@@ -1,6 +1,6 @@
 ---
 title: El Financial Times deununcia que Corte Inglés no paga impuestos, la prensa española lo blanquea y vitorea
-date: &id001 2016-05-22 15:04:01+00:00
+date:  2016-05-22 15:04:01+00:00
 status: published
 original:
   timestamp: 1463929441
@@ -21,7 +21,7 @@ original:
       El mismisimo Financial Times publica un articulo denunciando que El Corte Ingles
       no paga impuestos y durante toda la semana los medios patrios no han hecho mas
       que publicar noticias tontas sobre la empresa'
-  date: *id001
+  date: 2016-05-22 15:04:01+00:00
   link: https://www.media.cat/2016/05/19/lloances-sobre-corte-ingles-despres-reportatge-financial-times/
   title: 9 lloances a El Corte Inglés de després del reportatge del
   image: https://www.media.cat/wp-content/uploads/2016/02/corte-ingles2.jpg

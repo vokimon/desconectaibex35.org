@@ -1,7 +1,7 @@
 ---
 title: 'Álvaro Porro: “Les institucions poden facilitar les coses, però l’economia
   social i solidària la fa la gent”'
-date: &id001 2019-03-24 13:38:37+00:00
+date:  2019-03-24 13:38:37+00:00
 status: published
 original:
   timestamp: 1553434717
@@ -9,7 +9,7 @@ original:
     post: Si dejamos las instituciones en manos del IBEX35, las usaran para frenarnos.
       Pero no podemos esperar que un cambio en las instituciones sea todo lo que hacemos.
     update_timestamp: 1553434717
-  date: *id001
+  date: 2019-03-24 13:38:37+00:00
   link: https://www.elcritic.cat/mes/espai-critic/alvaro-porro-les-institucions-poden-facilitar-les-coses-pero-leconomia-social-i-solidaria-la-fa-la-gent-14788
   title: 'Álvaro Porro: “Les institucions poden facilitar les coses, però l’economia
     social i solidària la fa la gent”'

@@ -1,6 +1,6 @@
 ---
 title: Si Airbnb fuera de todos los usuarios... | Alternativas Económicas
-date: &id001 2016-12-04 10:53:25+00:00
+date:  2016-12-04 10:53:25+00:00
 status: published
 original:
   timestamp: 1480848805
@@ -8,7 +8,7 @@ original:
   data:
     post: Economia colaborativa sin elementos extractivos.
     update_timestamp: 1480848805
-  date: *id001
+  date: 2016-12-04 10:53:25+00:00
   link: http://alternativaseconomicas.coop/articulo/dossier/si-airbnb-fuera-de-todos-los-usuarios
   title: Si Airbnb fuera de todos los usuarios... | Alternativas Económicas
   image: null

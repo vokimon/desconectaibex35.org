@@ -1,12 +1,12 @@
 ---
 title: 'Elpidio Silva: "Salvo dos empresas, todo en el Ibex es franquismo"'
-date: &id001 2019-10-09 22:39:44+00:00
+date:  2019-10-09 22:39:44+00:00
 status: published
 original:
   timestamp: 1570660784
   data:
     update_timestamp: 1570660784
-  date: *id001
+  date: 2019-10-09 22:39:44+00:00
   link: https://espiaenelcongreso.com/2014/03/21/elpidio-silva-salvo-dos-empresas-todo-lo-que-hay-en-el-ibex-es-franquismo/
   title: 'Elpidio Silva: "Salvo dos empresas, todo en el Ibex es franquismo"'
   image: https://espiaenelcongreso.com/wp-content/uploads/2014/03/017ced91e13d710ae706512fa7e36b5e_XL.jpg

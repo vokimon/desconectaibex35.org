@@ -1,13 +1,13 @@
 ---
 title: 'Grandes medios de comunicación: de quién son y a quién se deben | Opcions'
-date: &id001 2019-12-13 04:24:04+00:00
+date:  2019-12-13 04:24:04+00:00
 status: published
 original:
   timestamp: 1576211044
   data:
     post: Otro gran reportaje de Opcions sobre los medios de comunicacion.
     update_timestamp: 1576211044
-  date: *id001
+  date: 2019-12-13 04:24:04+00:00
   link: http://opcions.org/es/consumo/grandes-medios-comunicacion/
   title: 'Grandes medios de comunicación: de quién son y a quién se deben | Opcions'
   image: https://opcions.org/wp-content/uploads/2019/11/grans_mitjansP.jpg

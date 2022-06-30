@@ -1,6 +1,6 @@
 ---
 title: Somos 1000 Conexiones - Som Connexió
-date: &id001 2016-01-31 00:44:58+00:00
+date:  2016-01-31 00:44:58+00:00
 status: published
 original:
   timestamp: 1454201098
@@ -8,7 +8,7 @@ original:
     post: 'Eticom llega al hito del millar de personas socias! ¿Y tu? ¿Aun tienes
       tu mobil con una empresa del oligopolio? ¿A que esperas? #1000Conexiones'
     update_timestamp: 1454201098
-  date: *id001
+  date: 2016-01-31 00:44:58+00:00
   link: https://somconnexio.coop/es/somos-1000-conexiones/
   title: Somos 1000 Conexiones - Som Connexió
   image: https://somosconexion.coop/wp-content/uploads/2017/07/1000ESC.png

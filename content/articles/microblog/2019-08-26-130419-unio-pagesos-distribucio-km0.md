@@ -1,6 +1,6 @@
 ---
 title: Unió de Pagesos quiere crear un centro de distribución de productos KM-0 en Barcelona
-date: &id001 2019-08-26 13:04:19+00:00
+date:  2019-08-26 13:04:19+00:00
 status: published
 original:
   timestamp: 1566824659
@@ -8,7 +8,7 @@ original:
   data:
     post: Alternativa km0
     update_timestamp: 1566824659
-  date: *id001
+  date: 2019-08-26 13:04:19+00:00
   link: https://www.facebook.com/NoMesBlocs/photos/a.309677642701736/927536890915805/?type=3&theater
   title: No Més Blocs - Salvem L'H
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/67742856_927536894249138_8064227738816348160_o.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=yWmVZ8mrlwMAX_O8Rf4&_nc_ht=scontent-mad1-1.xx&oh=465c362d2517389ca88532b2ea4ecb55&oe=5FA6EB0B

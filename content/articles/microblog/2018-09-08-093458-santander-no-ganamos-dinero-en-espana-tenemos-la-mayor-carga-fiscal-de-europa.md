@@ -1,7 +1,7 @@
 ---
 title: 'Santander: "No ganamos dinero en España, tenemos la mayor carga fiscal de
   Europa"'
-date: &id001 2018-09-08 09:34:58+00:00
+date:  2018-09-08 09:34:58+00:00
 status: published
 original:
   timestamp: 1536399298
@@ -9,7 +9,7 @@ original:
   data:
     post: Pobrecitos, no tendreis un euro para ellos?
     update_timestamp: 1536399298
-  date: *id001
+  date: 2018-09-08 09:34:58+00:00
   link: https://www.elmundo.es/economia/empresas/2018/09/06/5b915e1822601d6f518b4611.html
   title: 'Santander: "No ganamos dinero en España, tenemos la mayor carga fiscal de
     Europa"'

@@ -1,6 +1,6 @@
 ---
 title: El Santander nombra a Isabel Tocino nueva presidenta del Pastor
-date: &id001 2017-12-02 21:55:23+00:00
+date:  2017-12-02 21:55:23+00:00
 status: published
 original:
   timestamp: 1512251723
@@ -8,7 +8,7 @@ original:
     post: Puertas giratorias cada dia. Esta despues de la adquisicion del Pastor por
       el Santander con la adquiesencia del PP.
     update_timestamp: 1512251723
-  date: *id001
+  date: 2017-12-02 21:55:23+00:00
   link: https://www.lavozdegalicia.es/noticia/economia/2017/11/28/santander-nombra-isabel-tocino-nueva-presidenta-pastor/00031511905446429825269.htm
   title: El Santander nombra a Isabel Tocino nueva presidenta del Pastor
   image: https://www.lavozdegalicia.es/default/2017/11/28/00121511904662321476151/Foto/Z16E2018.jpg

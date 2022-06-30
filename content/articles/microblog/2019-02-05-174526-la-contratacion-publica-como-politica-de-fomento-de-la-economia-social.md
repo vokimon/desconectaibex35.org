@@ -1,13 +1,13 @@
 ---
 title: ' La contratación pública como política de fomento de la Economía Social'
-date: &id001 2019-02-05 17:45:26+00:00
+date:  2019-02-05 17:45:26+00:00
 status: published
 original:
   timestamp: 1549388726
   data:
     post: La contratación pública como política de fomento de la Economía Social
     update_timestamp: 1549388726
-  date: *id001
+  date: 2019-02-05 17:45:26+00:00
   link: https://www.elsaltodiario.com/mecambio/-la-contratacion-publica-como-politica-de-fomento-de-la-economia-social
   title: ' La contratación pública como política de fomento de la Economía Social'
   image: https://www.elsaltodiario.com/uploads/fotos/rs600/cd2a3e30/contrata_general.jpg?v=63716235330

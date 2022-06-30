@@ -1,6 +1,6 @@
 ---
 title: Eticom Som Connexio ya ofrece fijo y ADSL
-date: &id001 2015-11-17 13:15:36+00:00
+date:  2015-11-17 13:15:36+00:00
 status: published
 original:
   timestamp: 1447766136
@@ -12,7 +12,7 @@ original:
 
 
       2015-11-17'
-  date: *id001
+  date: 2015-11-17 13:15:36+00:00
   link: https://somconnexio.coop
   title: Som Connexió - La telefonia conscient
   image: https://somconnexio.coop/wp-content/uploads/2019/10/peixos_fonsfosc_fbk.jpg

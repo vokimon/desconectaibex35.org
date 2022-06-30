@@ -1,6 +1,6 @@
 ---
 title: PromoÉtic - Merchandising ecológico y de comercio justo
-date: &id001 2015-11-04 15:27:04+00:00
+date:  2015-11-04 15:27:04+00:00
 status: published
 original:
   timestamp: 1446650824
@@ -33,7 +33,7 @@ original:
       materiales de difusion (papeleria, camisetas...), decidieron montar una cooperativa
       para que otras entidades con criterios éticos puedan promocionarse según sus
       principios.'
-  date: *id001
+  date: 2015-11-04 15:27:04+00:00
   link: http://promoetic.coop
 tags:
 - PromoÈtic

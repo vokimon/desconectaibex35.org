@@ -1,6 +1,6 @@
 ---
 title: Reivindicación y Acción
-date: &id001 2019-09-13 21:42:53+00:00
+date:  2019-09-13 21:42:53+00:00
 status: published
 original:
   timestamp: 1568410973
@@ -11,7 +11,7 @@ original:
       de pagar mensualmente a unas cuantas empresas del ibex. Acojonales donde les
       duele.'
   title: TittlePending
-  date: *id001
+  date: 2019-09-13 21:42:53+00:00
 tags:
 - acción directa
 category: Campaña

@@ -1,6 +1,6 @@
 ---
 title: Why I’m Saying Goodbye to Apple, Google and Microsoft
-date: &id001 2015-03-02 13:07:22+00:00
+date:  2015-03-02 13:07:22+00:00
 status: published
 original:
   timestamp: 1425301642
@@ -10,7 +10,7 @@ original:
 
       + '
     past: '[ENG] ''Porqué digo adios a Apple, Google y Microsoft'''
-  date: *id001
+  date: 2015-03-02 13:07:22+00:00
   link: https://medium.com/backchannel/why-i-m-saying-goodbye-to-apple-google-and-microsoft-78af12071bd
   title: Why I’m Saying Goodbye to Apple, Google and Microsoft
   image: https://miro.medium.com/max/1200/1*g075TE8V6filRvhrmucvzA.jpeg

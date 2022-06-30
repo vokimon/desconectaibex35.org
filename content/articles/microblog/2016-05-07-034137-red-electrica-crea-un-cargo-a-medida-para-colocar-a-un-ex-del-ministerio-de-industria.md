@@ -1,7 +1,7 @@
 ---
 title: Red Eléctrica crea un cargo a medida para colocar a un ex del Ministerio de
   Industria
-date: &id001 2016-05-07 03:41:37+00:00
+date:  2016-05-07 03:41:37+00:00
 status: published
 original:
   timestamp: 1462592497
@@ -9,7 +9,7 @@ original:
     post: Cero coma. Lo que ha tardado una empresa del IBEX del sector electrico en
       fichara este (presunto) defraudador. Por lo menos disimular, no?
     update_timestamp: 1462592497
-  date: *id001
+  date: 2016-05-07 03:41:37+00:00
   link: https://www.eldiario.es/economia/Red-Electrica-Soria-Ministerio-Industria_0_431507675.html
   title: Red Eléctrica crea un cargo a medida para colocar a un ex del Ministerio
     de Industria

@@ -1,6 +1,6 @@
 ---
 title: Fairphone, el móvil modular de comercio justo ha cumplido 3 años
-date: &id001 2016-07-07 22:00:25+00:00
+date:  2016-07-07 22:00:25+00:00
 status: published
 original:
   timestamp: 1467928825
@@ -10,7 +10,7 @@ original:
 
       + '
     past: Fairphone, el mobil modular del comercio justo cumple 3 años
-  date: *id001
+  date: 2016-07-07 22:00:25+00:00
   link: https://elandroidelibre.elespanol.com/2016/07/fairphone-movil-modular-comercio-justo.html
   title: Fairphone, el móvil modular de comercio justo ha cumplido 3 años
   image: null

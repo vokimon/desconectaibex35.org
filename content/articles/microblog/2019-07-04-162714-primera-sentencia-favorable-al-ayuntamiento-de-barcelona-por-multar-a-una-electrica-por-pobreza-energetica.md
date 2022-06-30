@@ -1,13 +1,13 @@
 ---
 title: Primera sentencia favorable al Ayuntamiento de Barcelona por multar a una eléctrica
   por pobreza energética
-date: &id001 2019-07-04 16:27:14+00:00
+date:  2019-07-04 16:27:14+00:00
 status: published
 original:
   timestamp: 1562257634
   data:
     update_timestamp: 1562257634
-  date: *id001
+  date: 2019-07-04 16:27:14+00:00
   link: https://www.eldiario.es/catalunya/Primera-sentencia-Ayuntamiento-Barcelona-energetica_0_916908367.html
   title: Primera sentencia favorable al Ayuntamiento de Barcelona por multar a una
     eléctrica por pobreza energética

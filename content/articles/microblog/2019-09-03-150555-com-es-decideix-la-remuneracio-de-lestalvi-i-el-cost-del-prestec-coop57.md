@@ -1,6 +1,6 @@
 ---
 title: Com es decideix la remuneració de l’estalvi i el cost del préstec? | Coop57
-date: &id001 2019-09-03 15:05:55+00:00
+date:  2019-09-03 15:05:55+00:00
 status: published
 original:
   timestamp: 1567523155
@@ -11,7 +11,7 @@ original:
       del moment, sense estar lligades a altres indicadors oficials que s’escapen
       del nostre control. També ens ofereix estabilitat'
     update_timestamp: 1567523155
-  date: *id001
+  date: 2019-09-03 15:05:55+00:00
   link: https://coop57.coop/ca/noticia/com-es-decideix-la-remuneraci%C3%B3-de-l%E2%80%99estalvi-i-el-cost-del-pr%C3%A9stec
   title: Com es decideix la remuneració de l’estalvi i el cost del préstec? | Coop57
   image: null

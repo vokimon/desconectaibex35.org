@@ -1,6 +1,6 @@
 ---
 title: An anarchist takes on Big Pharma — by promoting DIY prescription drugs
-date: &id001 2017-10-15 22:46:33+00:00
+date:  2017-10-15 22:46:33+00:00
 status: published
 original:
   timestamp: 1508107593
@@ -8,7 +8,7 @@ original:
     post: Atacando a uno de los monopolios mas sangrantes. Medicamentos de fuentes
       abiertas. «Cometer un robo esta justificado si evita un asesinato»
     update_timestamp: 1508107593
-  date: *id001
+  date: 2017-10-15 22:46:33+00:00
   link: https://www.statnews.com/2017/10/12/michael-laufer-drug-prices/
   title: An anarchist takes on Big Pharma — by promoting DIY prescription drugs
   image: https://www.statnews.com/wp-content/uploads/2017/10/STAT_20171012_44_LAUFER-1024x576.jpg

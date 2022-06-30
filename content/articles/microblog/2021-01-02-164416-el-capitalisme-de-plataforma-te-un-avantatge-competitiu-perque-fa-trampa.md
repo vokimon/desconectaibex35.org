@@ -1,6 +1,6 @@
 ---
 title: '"El capitalisme de plataforma té un avantatge competitiu perquè fa trampa"'
-date: &id001 2021-01-02 16:44:16+00:00
+date:  2021-01-02 16:44:16+00:00
 status: published
 original:
   timestamp: 1609605856
@@ -9,7 +9,7 @@ original:
       mal se llama colaborativo. Una mirada tambien sobre el estado de la economia
       social durante esta pandemia (CAT)
     update_timestamp: 1609605856
-  date: *id001
+  date: 2021-01-02 16:44:16+00:00
   link: https://www.publico.es/public/capitalisme-plataforma-avantatge-competitiu-perque-fa-trampa.html
   title: '"El capitalisme de plataforma té un avantatge competitiu perquè fa trampa"'
   image: https://www.publico.es/uploads/2020/12/30/5fecb4a016e93.jpeg

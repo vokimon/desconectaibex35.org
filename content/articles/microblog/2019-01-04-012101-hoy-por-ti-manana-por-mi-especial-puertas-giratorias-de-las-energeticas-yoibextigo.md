@@ -1,7 +1,7 @@
 ---
 title: Hoy por ti, mañana por mí. Especial puertas giratorias de las energéticas -
   Yoibextigo
-date: &id001 2019-01-04 01:21:01+00:00
+date:  2019-01-04 01:21:01+00:00
 status: published
 original:
   timestamp: 1546564861
@@ -11,7 +11,7 @@ original:
       de redacción de leyes y decretos que favorecía a las grandes empresas. No te
       lo pierdas (PDF en acceso abierto)
     update_timestamp: 1546564861
-  date: *id001
+  date: 2019-01-04 01:21:01+00:00
   link: https://www.yoibextigo.lamarea.com/informe/noticias/puertas-giratorias/hoy-por-ti-manana-por-mi-especial-puertas-giratorias-de-las-energeticas-del-ibex/
   title: Hoy por ti, mañana por mí. Especial puertas giratorias de las energéticas
     - Yoibextigo

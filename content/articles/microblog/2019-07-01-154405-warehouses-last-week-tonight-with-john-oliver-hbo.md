@@ -1,6 +1,6 @@
 ---
 title: 'Warehouses: Last Week Tonight with John Oliver (HBO)'
-date: &id001 2019-07-01 15:44:05+00:00
+date:  2019-07-01 15:44:05+00:00
 status: published
 original:
   timestamp: 1561995845
@@ -8,7 +8,7 @@ original:
     post: John Oliver sobre las condiciones de trabajo en los grandes almacenes de
       Amazon y similares.
     update_timestamp: 1561995845
-  date: *id001
+  date: 2019-07-01 15:44:05+00:00
   link: https://www.youtube.com/watch?v=d9m7d07k22A
   title: 'Warehouses: Last Week Tonight with John Oliver (HBO)'
   image: https://i.ytimg.com/vi/d9m7d07k22A/maxresdefault.jpg

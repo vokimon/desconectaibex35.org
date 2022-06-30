@@ -1,6 +1,6 @@
 ---
 title: Guifi.net premiada en Europa
-date: &id001 2015-11-30 21:45:55+00:00
+date:  2015-11-30 21:45:55+00:00
 status: published
 original:
   timestamp: 1448919955
@@ -19,7 +19,7 @@ original:
 
 
       https://www.facebook.com/GuifiBaix/posts/801478666646489'
-  date: *id001
+  date: 2015-11-30 21:45:55+00:00
   link: https://www.ccma.cat/tv3/alacarta/telenoticies-comarques/guifi-punt-net-premiada.a.europa/video/5568255/
   title: Guifi punt net premiada a Europa
   image: https://statics.ccma.cat/multimedia/jpg/4/2/1448889110524.jpg

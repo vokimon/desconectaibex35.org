@@ -1,6 +1,6 @@
 ---
 title: Aigua.coop, la cooperativa de la ciudadanía
-date: &id001 2017-09-30 01:19:41+00:00
+date:  2017-09-30 01:19:41+00:00
 status: published
 original:
   timestamp: 1506734381
@@ -10,7 +10,7 @@ original:
       les ahorra a los vecinos el 60% del precio respecto a los otros pueblos de la
       comarca.
     update_timestamp: 1506734381
-  date: *id001
+  date: 2017-09-30 01:19:41+00:00
   link: https://www.eldiario.es/alternativaseconomicas/Aiguacoop-cooperativa-ciudadania_6_691590860.html
   title: Aigua.coop, la cooperativa de la ciudadanía
   image: https://static.eldiario.es/clip/f82818d9-7b63-4e64-925c-04487991e5ba_facebook-aspect-ratio_default_0.jpg

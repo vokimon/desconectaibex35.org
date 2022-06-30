@@ -1,7 +1,7 @@
 ---
 title: Iberdrola incorpora a las exministras del PP Báñez y Tejerina como consejeras
   de dos filiales en Latinoamérica
-date: &id001 2020-09-22 23:58:47+00:00
+date:  2020-09-22 23:58:47+00:00
 status: published
 original:
   timestamp: 1600819127
@@ -10,7 +10,7 @@ original:
       Iberdrola, porque saben mucho de eficiencia energetica, renovables y tarifas
       de la luz.
     update_timestamp: 1600819127
-  date: *id001
+  date: 2020-09-22 23:58:47+00:00
   link: https://www.eldiario.es/economia/iberdrola-incorpora-exministras-banez-tejerina-consejeras-filiales-latinoamerica_1_6237558.html
   title: Iberdrola incorpora a las exministras del PP Báñez y Tejerina como consejeras
     de dos filiales en Latinoamérica

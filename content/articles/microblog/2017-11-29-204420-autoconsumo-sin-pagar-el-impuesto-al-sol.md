@@ -1,6 +1,6 @@
 ---
 title: Autoconsumo sin pagar el impuesto al Sol
-date: &id001 2017-11-29 20:44:20+00:00
+date:  2017-11-29 20:44:20+00:00
 status: published
 original:
   timestamp: 1511988260
@@ -22,7 +22,7 @@ original:
 
 
       Via SomEnergia'
-  date: *id001
+  date: 2017-11-29 20:44:20+00:00
   link: https://www.diarioinformacion.com/vega-baja/2017/09/26/autoconsumo-pagar-impuesto-sol/1939602.html
   title: Autoconsumo sin pagar el impuesto al Sol
   image: https://fotos00.diarioinformacion.com/2017/09/25/690x278/autoconsumo-pagar.jpg

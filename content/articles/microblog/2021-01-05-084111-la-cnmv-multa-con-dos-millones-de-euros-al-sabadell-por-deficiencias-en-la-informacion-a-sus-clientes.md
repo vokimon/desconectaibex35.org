@@ -1,14 +1,14 @@
 ---
 title: 'La CNMV multa con dos millones de euros al Sabadell por deficiencias en la
   información a sus clientes '
-date: &id001 2021-01-05 08:41:11+00:00
+date:  2021-01-05 08:41:11+00:00
 status: published
 original:
   timestamp: 1609836071
   data:
     post: Multa por deficiencias en la información a sus clientes.
     update_timestamp: 1609836071
-  date: *id001
+  date: 2021-01-05 08:41:11+00:00
   link: https://www.facua.org/es/noticia.php?Id=16319
   title: 'La CNMV multa con dos millones de euros al Sabadell por deficiencias en
     la información a sus clientes '

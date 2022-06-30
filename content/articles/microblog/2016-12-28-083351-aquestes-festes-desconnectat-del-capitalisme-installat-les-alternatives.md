@@ -1,6 +1,6 @@
 ---
 title: Aquestes festes, desconnecta’t del capitalisme, instal·la’t les alternatives!
-date: &id001 2016-12-28 08:33:51+00:00
+date:  2016-12-28 08:33:51+00:00
 status: published
 original:
   timestamp: 1482914031
@@ -10,7 +10,7 @@ original:
       alternativas. Puede ser el empujoncito que necesitabas para dar el salto o para
       que den el salto tus conocidos, o para descubrir nuevas alternativas.
     update_timestamp: 1482914031
-  date: *id001
+  date: 2016-12-28 08:33:51+00:00
   link: https://comercjustibancaetica.org/2016/12/13/aquestes-festes-desconnectat-del-capitalisme-installat-les-alternatives/
   title: Aquestes festes desconnecta’t del capitalisme, instal·la’t les alternatives!
   image: https://festacjib.files.wordpress.com/2016/04/cabecera-fb-828x315-municipis.jpg

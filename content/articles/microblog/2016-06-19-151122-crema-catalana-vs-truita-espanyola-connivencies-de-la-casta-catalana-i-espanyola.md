@@ -1,6 +1,6 @@
 ---
 title: Crema Catalana vs. Truita espanyola. Connivències de la casta catalana i espanyola
-date: &id001 2016-06-19 15:11:22+00:00
+date:  2016-06-19 15:11:22+00:00
 status: published
 original:
   timestamp: 1466349082
@@ -8,7 +8,7 @@ original:
     post: '[CAT] Las miserias y machambrados de las grandes familias a un lado y otro
       del puente aerio. Un buen resumen de los dos libros de Rafa Burgos.'
     update_timestamp: 1466349082
-  date: *id001
+  date: 2016-06-19 15:11:22+00:00
   link: https://www.elcritic.cat/opinio/crema-catalana-vs-truita-espanyola-connivencies-de-la-casta-catalana-i-espanyola-12828
   title: Crema Catalana vs. Truita espanyola. Connivències de la casta catalana i
     espanyola

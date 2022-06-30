@@ -1,6 +1,6 @@
 ---
 title: Nous preus a partir del juliol - El Blog de Som Energia
-date: &id001 2016-06-30 20:03:08+00:00
+date:  2016-06-30 20:03:08+00:00
 status: published
 original:
   timestamp: 1467316988
@@ -9,7 +9,7 @@ original:
       de forma retroactiva por unos costes imaginarios. Las cooperativas de usuarios
       deciden bajar los precios porque simplemente preveen precios mas bajos.'
     update_timestamp: 1467316988
-  date: *id001
+  date: 2016-06-30 20:03:08+00:00
   link: https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2016/06/nous-preus-a-partir-del-juliol/
   title: Nous preus a partir del juliol - El Blog de Som Energia
   image: https://blog.somenergia.coop/wp-content/uploads/2016/06/Precios-660x244.jpg

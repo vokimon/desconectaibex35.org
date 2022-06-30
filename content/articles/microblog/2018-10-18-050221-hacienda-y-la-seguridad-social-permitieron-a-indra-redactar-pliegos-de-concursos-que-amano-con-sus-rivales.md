@@ -1,7 +1,7 @@
 ---
 title: Hacienda y la Seguridad Social permitieron a Indra redactar pliegos de concursos
   que amañó con sus rivales
-date: &id001 2018-10-18 05:02:21+00:00
+date:  2018-10-18 05:02:21+00:00
 status: published
 original:
   timestamp: 1539838941
@@ -9,7 +9,7 @@ original:
     post: Hacienda y la Seguridad Social permitieron a Indra redactar pliegos de concursos
       que amañó con sus rivales
     update_timestamp: 1539838941
-  date: *id001
+  date: 2018-10-18 05:02:21+00:00
   link: https://www.eldiario.es/economia/Hacienda-Seguridad-Social-permitieron-Indra_0_798970848.html
   title: Hacienda y la Seguridad Social permitieron a Indra redactar pliegos de concursos
     que amañó con sus rivales

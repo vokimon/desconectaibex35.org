@@ -1,14 +1,14 @@
 ---
 title: '[CATRadio] MeteoAmbient: La cooperativa Som Energia lluitant per un canvi
   de model energètic'
-date: &id001 2016-08-11 07:52:39+00:00
+date:  2016-08-11 07:52:39+00:00
 status: published
 original:
   timestamp: 1470901959
   data:
     post: '[CAT] Entrevista a Pep Puig sobre la coooperativa SomEnergia i renovables.'
     update_timestamp: 1470901959
-  date: *id001
+  date: 2016-08-11 07:52:39+00:00
   link: https://www.youtube.com/watch?v=SYgmLUjEOd8
   title: '[CATRadio] MeteoAmbient: La cooperativa Som Energia lluitant per un canvi
     de model energètic'

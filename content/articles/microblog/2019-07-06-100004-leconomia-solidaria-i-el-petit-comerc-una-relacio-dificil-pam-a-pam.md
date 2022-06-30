@@ -1,6 +1,6 @@
 ---
 title: 'L’Economia solidària i el petit comerç: una relació difícil | Pam a Pam'
-date: &id001 2019-07-06 10:00:04+00:00
+date:  2019-07-06 10:00:04+00:00
 status: published
 original:
   timestamp: 1562407204
@@ -22,7 +22,7 @@ original:
 
       L''Arnau Gal·lí, una xinxeta del Maresme i el Vallès Oriental, intenta escriure
       i explicar-ho en aquest nou article al blog de #pamApam!'
-  date: *id001
+  date: 2019-07-06 10:00:04+00:00
   link: https://pamapam.org/ca/blog/leconomia-solidaria-petit-comerc-relacio-dificil/
   title: 'L’Economia solidària i el petit comerç: una relació difícil | Pam a Pam'
   image: https://pamapam.org/wp-content/uploads/2019/06/comersbarri.jpg

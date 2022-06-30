@@ -1,6 +1,6 @@
 ---
 title: La ola por la municipalización del agua se extiende
-date: &id001 2019-01-28 18:45:00+00:00
+date:  2019-01-28 18:45:00+00:00
 status: published
 original:
   timestamp: 1548701100
@@ -8,7 +8,7 @@ original:
     post: Y hay que entender porque lo hacen. La gente esta dandose cuenta que eso
       de la empresa privada gestionando mejor es un timo.
     update_timestamp: 1548701100
-  date: *id001
+  date: 2019-01-28 18:45:00+00:00
   link: https://www.ara.cat/societat/onada-municipalitzacio-aigua-esten_0_2169982988.html
   title: L’onada per la municipalització de l’aigua s’estén
   image: https://www.ara.cat/2019/01/28/societat/onada-municipalitzacio-aigua-esten_2169993020_59993357_651x366.jpg

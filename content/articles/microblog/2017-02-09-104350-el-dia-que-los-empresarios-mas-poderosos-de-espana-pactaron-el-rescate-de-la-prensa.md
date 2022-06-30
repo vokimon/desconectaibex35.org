@@ -1,7 +1,7 @@
 ---
 title: El día que los empresarios más poderosos de España pactaron el rescate de la
   prensa
-date: &id001 2017-02-09 10:43:50+00:00
+date:  2017-02-09 10:43:50+00:00
 status: published
 original:
   timestamp: 1486637030
@@ -19,7 +19,7 @@ original:
       tosian.'
     past: Y desde entonces ningun medio les tose...  ni siquiera lo poco que antes
       les tosian.
-  date: *id001
+  date: 2017-02-09 10:43:50+00:00
   link: https://www.vozpopuli.com/medios/empresarios-poderosos-Espana-pactaron-rescate_0_996201736.html
   title: El día que los empresarios más poderosos de España pactaron el rescate de
     la prensa

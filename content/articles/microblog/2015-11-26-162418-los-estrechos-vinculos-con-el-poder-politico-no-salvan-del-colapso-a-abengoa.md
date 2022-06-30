@@ -1,6 +1,6 @@
 ---
 title: Los estrechos vínculos con el poder político no salvan del colapso a Abengoa
-date: &id001 2015-11-26 16:24:18+00:00
+date:  2015-11-26 16:24:18+00:00
 status: published
 original:
   timestamp: 1448555058
@@ -9,7 +9,7 @@ original:
       han quebrado Abengoa. Renovables, claro, a base de pelotazo y nepotismo, no.
       Una que deja de estar en el IBEX.
     update_timestamp: 1448555058
-  date: *id001
+  date: 2015-11-26 16:24:18+00:00
   link: https://www.eldiario.es/economia/estrechos-vinculos-Abengoa-politico-sevillano_0_456005422.html
   title: Los estrechos vínculos con el poder político no salvan del colapso a Abengoa
   image: https://static.eldiario.es/clip/d5885d25-f62f-4ad7-80d2-70be36e01627_facebook-watermarked-aspect-ratio_default_0.jpg

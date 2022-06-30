@@ -1,6 +1,6 @@
 ---
 title: Gas Natural corta la luz a una joven Badalonina que depende de una máquina para vivir
-date: &id001 2017-03-13 09:07:55+00:00
+date:  2017-03-13 09:07:55+00:00
 status: published
 original:
   timestamp: 1489396075
@@ -8,7 +8,7 @@ original:
     post: A pesar de los lavados de cara publicitaria, otra vez, Gas Natural Fenosa.
       Despues recurren concursos porque se vulneran sus derechos. Pobrecitos.
     update_timestamp: 1489396075
-  date: *id001
+  date: 2017-03-13 09:07:55+00:00
   link: https://catalunyadiari.com/successos/nova-denuncia-a-gas-natural-per-un-cas-de-pobresa-energetica-a-badalona
   title: Gas Natural deixa sense llum a una jove de Badalona que necessita una màquina
     per viure

@@ -1,6 +1,6 @@
 ---
 title: Santander echa a 246 trabajadores y contrata a Saez-Santamaria por 600.000€
-date: &id001 2019-06-19 12:49:39+00:00
+date:  2019-06-19 12:49:39+00:00
 status: published
 original:
   timestamp: 1560948579
@@ -10,7 +10,7 @@ original:
       a directivos... todo entrelazado en dos noticias para representar mejor que
       ninguna la marca del ibex
     update_timestamp: 1560948579
-  date: *id001
+  date: 2019-06-19 12:49:39+00:00
   link: https://www.facebook.com/PerifericaLabs/photos/a.850094128399937/2268257033250299/
   title: Periféria inflamable
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/62783820_2268257039916965_7174569621872181248_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=1lAPBREYkpkAX-23s9J&_nc_ht=scontent-mad1-1.xx&oh=1681ab4d3cdfd2d31a3d77bc3f0565da&oe=5F57ECE6

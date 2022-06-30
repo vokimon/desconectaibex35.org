@@ -1,6 +1,6 @@
 ---
 title: Este enero no subimos los precios - El Blog de Som Energia
-date: &id001 2021-01-08 21:32:45+00:00
+date:  2021-01-08 21:32:45+00:00
 status: published
 original:
   timestamp: 1610141565
@@ -8,7 +8,7 @@ original:
     post: Cuando mas falta hace el mercado triplica los precios de la energia. La
       economia social cuida.
     update_timestamp: 1610141565
-  date: *id001
+  date: 2021-01-08 21:32:45+00:00
   link: https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2020/12/este-enero-no-subimos-los-precios/
   title: Este enero no subimos los precios - El Blog de Som Energia
   image: https://blog.somenergia.coop/wp-content/uploads/2020/12/preus-llum-2021-blog-ES-660x330.png

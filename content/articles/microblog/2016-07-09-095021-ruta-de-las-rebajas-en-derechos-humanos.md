@@ -1,6 +1,6 @@
 ---
 title: Ruta de las Rebajas... en Derechos Humanos
-date: &id001 2016-07-09 09:50:21+00:00
+date:  2016-07-09 09:50:21+00:00
 status: published
 original:
   timestamp: 1468057821
@@ -8,7 +8,7 @@ original:
   data:
     post: Ruta de las Rebajas... en Derechos Humanos
     update_timestamp: 1468057821
-  date: *id001
+  date: 2016-07-09 09:50:21+00:00
   link: https://www.facebook.com/setemcatalunya/photos/a.151460889628/10154306268789629/?type=3&theater
   title: Facebook
   image: null

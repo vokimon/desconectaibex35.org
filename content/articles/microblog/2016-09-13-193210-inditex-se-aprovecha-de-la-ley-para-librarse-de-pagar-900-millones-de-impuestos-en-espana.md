@@ -1,7 +1,7 @@
 ---
 title: Inditex se aprovecha de la ley para librarse de pagar 900 millones de impuestos
   en España
-date: &id001 2016-09-13 19:32:10+00:00
+date:  2016-09-13 19:32:10+00:00
 status: published
 original:
   timestamp: 1473795130
@@ -14,7 +14,7 @@ original:
       + '
     past: Inditex se aprovecha de la ley para librarse de pagar 900 millones de impuestos
       en España
-  date: *id001
+  date: 2016-09-13 19:32:10+00:00
   link: https://www.elconfidencial.com/economia/2013-06-17/inditex-se-aprovecha-de-la-ley-para-librarse-de-pagar-900-millones-de-impuestos-en-espana_417027/
   title: Inditex se aprovecha de la ley para librarse de pagar 900 millones de impuestos
     en España

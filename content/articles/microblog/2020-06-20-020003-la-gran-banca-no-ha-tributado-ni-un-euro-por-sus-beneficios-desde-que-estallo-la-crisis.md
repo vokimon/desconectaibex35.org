@@ -1,7 +1,7 @@
 ---
 title: La gran banca no ha tributado ni un euro por sus beneficios desde que estalló
   la crisis
-date: &id001 2020-06-20 02:00:03+00:00
+date:  2020-06-20 02:00:03+00:00
 status: published
 original:
   timestamp: 1592618403
@@ -37,7 +37,7 @@ original:
 
       (la forma victimista de decir que han tenido beneficios y que de hecho han sido
       mas que el año pasado)'
-  date: *id001
+  date: 2020-06-20 02:00:03+00:00
   link: https://www.publico.es/economia/gran-banca-no-tributado-euro-beneficios-estallo-crisis.html
   title: La gran banca no ha tributado ni un euro por sus beneficios desde que estalló
     la crisis

@@ -1,6 +1,6 @@
 ---
 title: ¿Habéis revisado la potencia contratada en vuestra escalera de vecinos/as?
-date: &id001 2015-11-26 19:12:52+00:00
+date:  2015-11-26 19:12:52+00:00
 status: published
 original:
   timestamp: 1448565172
@@ -9,7 +9,7 @@ original:
       que normalmente contratan condiciones sobredimensionadas, asi que ofrecen asesoramiento
       para reducir sus costes de luz.
     update_timestamp: 1448565172
-  date: *id001
+  date: 2015-11-26 19:12:52+00:00
   link: https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2015/11/heu-revisat-la-potencia-contractada-a-la-vostra-escala-de-veinses/
   title: Heu revisat la potència contractada a la vostra escala de veïns/es? - El
     Blog de Som Energia

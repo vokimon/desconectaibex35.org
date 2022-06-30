@@ -1,12 +1,12 @@
 ---
 title: Iberdrola encargó a Villarejo espiar a un accionista crítico
-date: &id001 2019-10-31 08:56:03+00:00
+date:  2019-10-31 08:56:03+00:00
 status: published
 original:
   timestamp: 1572512163
   data:
     update_timestamp: 1572512163
-  date: *id001
+  date: 2019-10-31 08:56:03+00:00
   link: https://www.moncloa.com/iberdrola-villarejo-espiar-accionista/
   title: Iberdrola encargó a Villarejo espiar a un accionista crítico
   image: https://www.moncloa.com/wp-content/uploads/2019/06/Iberdrola-2.png

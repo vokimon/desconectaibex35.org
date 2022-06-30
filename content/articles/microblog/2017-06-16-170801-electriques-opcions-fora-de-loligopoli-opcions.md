@@ -1,6 +1,6 @@
 ---
 title: 'Elèctriques: opcions fora de l''oligopoli - Opcions'
-date: &id001 2017-06-16 17:08:01+00:00
+date:  2017-06-16 17:08:01+00:00
 status: published
 original:
   timestamp: 1497632881
@@ -10,7 +10,7 @@ original:
       y no lo son). La certificacion del origen renovable de la energia, cooperativismo,
       cambio del modelo energético.
     update_timestamp: 1497632881
-  date: *id001
+  date: 2017-06-16 17:08:01+00:00
   link: http://opcions.org/consum/electriques-fora-del-monopoli/
   title: 'Elèctriques: opcions fora de l''oligopoli - Opcions'
   image: https://opcions.org/wp-content/uploads/2017/05/renovables-1.jpg

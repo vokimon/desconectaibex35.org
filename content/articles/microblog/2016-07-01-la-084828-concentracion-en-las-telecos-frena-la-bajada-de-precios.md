@@ -1,6 +1,6 @@
 ---
 title: La concentración empresarial de las Telecos frena la bajada de precios
-date: &id001 2016-07-01 08:48:28+00:00
+date:  2016-07-01 08:48:28+00:00
 status: published
 original:
   timestamp: 1467362908
@@ -9,7 +9,7 @@ original:
     post: Como ya habiamos comentado por aqui, una vez consumada la concentracion
       de operadores, volvemos a estar en las mismas.
     update_timestamp: 1467362908
-  date: *id001
+  date: 2016-07-01 08:48:28+00:00
   link: https://www.facebook.com/somconnexio/posts/618952284936084
   title: Som Connexió
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p200x200/106218498_1626176967546939_9153508229483109504_n.jpg?_nc_cat=107&_nc_sid=dbb9e7&_nc_ohc=V-waARscdMQAX_eHp_L&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=09d8c7cdb8948fce21a478b86dea64ec&oe=5F564C5D

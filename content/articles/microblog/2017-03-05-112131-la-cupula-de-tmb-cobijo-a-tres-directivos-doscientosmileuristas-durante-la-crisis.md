@@ -1,7 +1,7 @@
 ---
 title: La cúpula de TMB cobijó a tres directivos ‘doscientosmileuristas’ durante la
   crisis
-date: &id001 2017-03-05 11:21:31+00:00
+date:  2017-03-05 11:21:31+00:00
 status: published
 original:
   timestamp: 1488712891
@@ -9,7 +9,7 @@ original:
   data:
     post: Executives and politicians, welcome
     update_timestamp: 1488712891
-  date: *id001
+  date: 2017-03-05 11:21:31+00:00
   link: https://www.lavanguardia.com/local/barcelona/20170305/42526424039/cupula-tmb-tres-directivos-200000-euros-sueldos.html
   title: La cúpula de TMB cobijó a tres directivos ‘doscientosmileuristas’ durante
     la crisis

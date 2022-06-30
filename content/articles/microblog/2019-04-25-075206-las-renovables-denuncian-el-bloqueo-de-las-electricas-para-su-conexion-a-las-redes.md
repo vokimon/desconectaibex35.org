@@ -1,7 +1,7 @@
 ---
 title: Las renovables denuncian el bloqueo de las eléctricas para su conexión a las
   redes
-date: &id001 2019-04-25 07:52:06+00:00
+date:  2019-04-25 07:52:06+00:00
 status: published
 original:
   timestamp: 1556178726
@@ -9,7 +9,7 @@ original:
     post: Las renovables denuncian el bloqueo de las eléctricas para su conexión a
       las redes
     update_timestamp: 1556178726
-  date: *id001
+  date: 2019-04-25 07:52:06+00:00
   link: https://cincodias.elpais.com/cincodias/2019/04/18/companias/1555603179_400613.html
   title: Las renovables denuncian el bloqueo de las eléctricas para su conexión a
     las redes

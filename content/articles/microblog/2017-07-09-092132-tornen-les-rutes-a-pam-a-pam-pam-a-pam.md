@@ -1,6 +1,6 @@
 ---
 title: Tornen les Rutes a Pam a Pam! | Pam a Pam
-date: &id001 2017-07-09 09:21:32+00:00
+date:  2017-07-09 09:21:32+00:00
 status: published
 original:
   timestamp: 1499592092
@@ -10,7 +10,7 @@ original:
       rutas por uno de los barrios mas activos de Barcelona para mostrar las iniciativas
       que estan presentes.'
     update_timestamp: 1499592092
-  date: *id001
+  date: 2017-07-09 09:21:32+00:00
   link: https://pamapam.org/ca/blog/tornen-les-rutes-a-pam-a-pam/
   title: Tornen les Rutes a Pam a Pam! | Pam a Pam
   image: https://pamapam.org/wp-content/uploads/2017/07/ruta1.jpg

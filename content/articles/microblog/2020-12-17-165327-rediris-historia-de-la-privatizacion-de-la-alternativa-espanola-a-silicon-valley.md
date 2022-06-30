@@ -1,13 +1,13 @@
 ---
 title: RedIRIS, historia de la privatización de la alternativa española a Silicon
   Valley
-date: &id001 2020-12-17 16:53:27+00:00
+date:  2020-12-17 16:53:27+00:00
 status: published
 original:
   timestamp: 1608224007
   data:
     update_timestamp: 1608224007
-  date: *id001
+  date: 2020-12-17 16:53:27+00:00
   link: https://www.elsaltodiario.com/tecnologia/rediris-historia-privatizacion-plataforma-espanola-alternativa-silicon-valley
   title: RedIRIS, historia de la privatización de la alternativa española a Silicon
     Valley

@@ -1,6 +1,6 @@
 ---
 title: Armas españolas en Oriente Próximo | Alternativas Económicas
-date: &id001 2016-01-23 11:34:40+00:00
+date:  2016-01-23 11:34:40+00:00
 status: published
 original:
   timestamp: 1453548880
@@ -16,7 +16,7 @@ original:
 
 
       https://www.facebook.com/RevistaAlterEco/posts/1321563274536438'
-  date: *id001
+  date: 2016-01-23 11:34:40+00:00
   link: https://alternativaseconomicas.coop/articulo/el-tema-del-mes/armas-espanolas-en-oriente-proximo
   title: Armas españolas en Oriente Próximo | Alternativas Económicas
   image: null

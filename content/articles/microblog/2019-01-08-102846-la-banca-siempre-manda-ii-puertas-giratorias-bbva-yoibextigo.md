@@ -1,13 +1,13 @@
 ---
 title: 'La banca siempre manda (II): puertas giratorias BBVA - Yoibextigo'
-date: &id001 2019-01-08 10:28:46+00:00
+date:  2019-01-08 10:28:46+00:00
 status: published
 original:
   timestamp: 1546943326
   data:
     post: Otro informe de YoIBEXtigo sobre las puertas giratorias del BBVA
     update_timestamp: 1546943326
-  date: *id001
+  date: 2019-01-08 10:28:46+00:00
   link: https://www.yoibextigo.lamarea.com/informe/bbva/quienes-son/la-banca-siempre-manda-puertas-giratorias-bbva/
   title: 'La banca siempre manda (II): puertas giratorias BBVA - Yoibextigo'
   image: https://www.yoibextigo.lamarea.com/wp-content/uploads/2018/12/bbva.jpg

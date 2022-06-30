@@ -1,6 +1,6 @@
 ---
 title: ACS demandará a España 500 millones por el AVE a Francia por falta de viajeros
-date: &id001 2016-09-13 20:10:38+00:00
+date:  2016-09-13 20:10:38+00:00
 status: published
 original:
   timestamp: 1473797438
@@ -10,7 +10,7 @@ original:
       de Sagrera) y despues cuando el proyecto sale mal demanda al estado (acordaos
       de Castor el almacen de gas submarino que provocaba terremotos)
     update_timestamp: 1473797438
-  date: *id001
+  date: 2016-09-13 20:10:38+00:00
   link: https://www.elconfidencial.com/empresas/2016-09-13/acs-demanda-garantia-estado-ave-francia-falta-viajeros_1258891/
   title: ACS demandará a España 500 millones por el AVE a Francia por falta de viajeros
   image: https://www.ecestaticos.com/imagestatic/clipping/b15/c20/b15c20c37119acd53190a52a19dbb6c1/acs-demandara-a-espana-500-millones-por-el-ave-a-francia-por-falta-de-viajeros.jpg?mtime=1579565836

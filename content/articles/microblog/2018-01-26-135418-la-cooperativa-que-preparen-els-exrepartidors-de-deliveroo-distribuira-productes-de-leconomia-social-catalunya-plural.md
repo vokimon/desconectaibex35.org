@@ -1,6 +1,6 @@
 ---
 title: Ex-repartidores de Delivero crean una cooperativa que distribuirá productos de la economía social
-date: &id001 2018-01-26 13:54:18+00:00
+date:  2018-01-26 13:54:18+00:00
 status: published
 original:
   timestamp: 1516974858
@@ -8,7 +8,7 @@ original:
     post: Davant dels abusos de la suposada "economia col·laborativa", l'economia
       social.
     update_timestamp: 1516974858
-  date: *id001
+  date: 2018-01-26 13:54:18+00:00
   link: http://catalunyaplural.cat/ca/cooperativa-que-preparen-exrepartidors-deliveroo-distribuira-productes-leconomia-social/
   title: La cooperativa que preparen els exrepartidors de Deliveroo distribuirà productes
     de l’economia social - Catalunya Plural

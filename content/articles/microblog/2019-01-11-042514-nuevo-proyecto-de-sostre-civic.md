@@ -1,13 +1,13 @@
 ---
 title: Nuevo proyecto de vivienda cooperativa de Sostre Cívic
-date: &id001 2019-01-11 04:25:14+00:00
+date:  2019-01-11 04:25:14+00:00
 status: published
 original:
   timestamp: 1547180714
   data:
     post: Nuevo proyecto de vivienda cooperativa de Sostre Civic.
     update_timestamp: 1547180714
-  date: *id001
+  date: 2019-01-11 04:25:14+00:00
   link: http://sostrecivic.coop/noticies/obrim-inscripcions-pel-projecte-dhabitatge-cooperatiu-roquetes
   title: '...'
   image: null

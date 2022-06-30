@@ -1,6 +1,6 @@
 ---
 title: El modelo económico del futuro ya está aquí - El salmón contracorriente
-date: &id001 2016-07-13 18:50:31+00:00
+date:  2016-07-13 18:50:31+00:00
 status: published
 original:
   timestamp: 1468435831
@@ -12,7 +12,7 @@ original:
 
 
       https://www.facebook.com/ElSalmonContra/posts/1063538390394730'
-  date: *id001
+  date: 2016-07-13 18:50:31+00:00
   link: https://www.elsalmoncontracorriente.es/?El-modelo-economico-del-futuro-ya
   title: El modelo económico del futuro ya está aquí - El salmón contracorriente
   image: http://www.elsalmoncontracorriente.es/IMG/arton1141.jpg

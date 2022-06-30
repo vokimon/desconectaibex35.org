@@ -1,7 +1,7 @@
 ---
 title: “En distribución agroecológica, hacen falta iniciativas de mayor dimensión"
   | Opcions
-date: &id001 2020-12-16 20:38:35+00:00
+date:  2020-12-16 20:38:35+00:00
 status: published
 original:
   timestamp: 1608151115
@@ -22,7 +22,7 @@ original:
       distribución podemos agregar las dimensiones de las pequeñas cooperativas de
       consumo y de los supermercados cooperativos para poder cubrir mas necesidades
       dentro de la economía social.
-  date: *id001
+  date: 2020-12-16 20:38:35+00:00
   link: https://opcions.org/es/entrevistas/diana-amigo-alejandro-guzman/
   title: “En distribución agroecológica, hacen falta iniciativas de mayor dimensión"
     | Opcions

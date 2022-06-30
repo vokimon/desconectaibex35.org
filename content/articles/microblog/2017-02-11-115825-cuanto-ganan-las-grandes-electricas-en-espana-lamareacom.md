@@ -1,6 +1,6 @@
 ---
 title: ¿Cuánto ganan las grandes eléctricas en España? | lamarea.com
-date: &id001 2017-02-11 11:58:25+00:00
+date:  2017-02-11 11:58:25+00:00
 status: published
 original:
   timestamp: 1486814305
@@ -9,7 +9,7 @@ original:
     post: ¿Quien ha de pagar el bono social? Un analisis critico y fundamentado sobre
       lo que la nueva ley llama 'beneficios razonables' de las grandes electricas.
     update_timestamp: 1486814305
-  date: *id001
+  date: 2017-02-11 11:58:25+00:00
   link: https://www.lamarea.com/2017/02/05/cuanto-ganan-las-grandes-electricas-en-espana/
   title: ¿Cuánto ganan las grandes eléctricas en España? | lamarea.com
   image: https://www.lamarea.com/wp-content/uploads/2016/11/Endesa.jpg

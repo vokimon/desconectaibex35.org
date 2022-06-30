@@ -1,6 +1,6 @@
 ---
 title: Así es como tiene lugar el robo mundial del agua
-date: &id001 2017-03-05 07:41:46+00:00
+date:  2017-03-05 07:41:46+00:00
 status: published
 original:
   timestamp: 1488699706
@@ -15,7 +15,7 @@ original:
     past: Desde hace décadas, las empresas de alimentación han intentado convencer
       a los consumidores de que el agua pública es perjudicial y que su alternativa
       en botella es mucho más sana. ¿Hasta qué punto es esto cierto?
-  date: *id001
+  date: 2017-03-05 07:41:46+00:00
   link: https://www.unitedexplanations.org/2014/03/22/asi-es-como-tiene-lugar-el-robo-mundial-del-agua/
   title: Así es como tiene lugar el robo mundial del agua
   image: https://www.unitedexplanations.org/wp-content/uploads/2014/03/stuff_bottled_water.jpg

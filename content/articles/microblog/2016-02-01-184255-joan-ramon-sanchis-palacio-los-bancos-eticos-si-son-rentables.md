@@ -1,6 +1,6 @@
 ---
 title: 'Joan Ramon Sanchis Palacio: “Los bancos éticos sí son rentables”'
-date: &id001 2016-02-01 18:42:55+00:00
+date:  2016-02-01 18:42:55+00:00
 status: published
 original:
   timestamp: 1454352175
@@ -13,7 +13,7 @@ original:
 
 
       https://www.facebook.com/elviejotopoedic/posts/1076196212412377'
-  date: *id001
+  date: 2016-02-01 18:42:55+00:00
   link: http://losojosdehipatia.com.es/socialpolitica/joan-ramon-sanchis-palacio-los-bancos-eticos-si-son-rentables/
   title: 'Joan Ramon Sanchis Palacio: “Los bancos éticos sí son rentables”'
   image: https://losojosdehipatia.com.es/wp-content/uploads/COVER2-Es-posible-un-mundo-sin-bancos.jpg

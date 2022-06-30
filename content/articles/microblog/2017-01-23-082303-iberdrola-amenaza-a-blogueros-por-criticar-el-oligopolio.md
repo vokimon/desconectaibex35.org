@@ -1,6 +1,6 @@
 ---
 title: Iberdrola amenaza legalmente a blogueros por criticar al oligopolio
-date: &id001 2017-01-23 08:23:03+00:00
+date:  2017-01-23 08:23:03+00:00
 status: published
 original:
   timestamp: 1485159783
@@ -9,7 +9,7 @@ original:
       que criticaron a las empresas del oligopolio eléctrico por las subidas de precios
       y los cortes de luz de esta semana.
     update_timestamp: 1485159783
-  date: *id001
+  date: 2017-01-23 08:23:03+00:00
   link: https://iniciativadebate.org/2017/01/23/patata-electrica/
   title: 403 Forbidden
   image: null

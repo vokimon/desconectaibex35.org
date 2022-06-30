@@ -1,6 +1,6 @@
 ---
 title: Alternatives a la gestió privada de l'aigua [TV3]
-date: &id001 2016-03-21 11:04:57+00:00
+date:  2016-03-21 11:04:57+00:00
 status: published
 original:
   timestamp: 1458558297
@@ -12,7 +12,7 @@ original:
 
 
       https://www.facebook.com/juntspervallirana/posts/490298171176534'
-  date: *id001
+  date: 2016-03-21 11:04:57+00:00
   link: https://www.ccma.cat/tv3/alacarta/telenoticies-migdia/alternatives-a-la-gestio-privada-de-laigua/video/5590353/
   title: Alternatives a la gestió privada de l'aigua
   image: https://statics.ccma.cat/multimedia/jpg/5/7/1458396169475.jpg

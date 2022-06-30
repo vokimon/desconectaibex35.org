@@ -1,6 +1,6 @@
 ---
 title: Four Thieves Vinegar
-date: &id001 2017-10-16 09:55:38+00:00
+date:  2017-10-16 09:55:38+00:00
 status: published
 original:
   timestamp: 1508147738
@@ -10,7 +10,7 @@ original:
       uno sus propias medicinas tiene riesgos, pero sirva para denunciar los hinchados
       precios que las farmaceuticas cobran por dichos tratamientos.
     update_timestamp: 1508147738
-  date: *id001
+  date: 2017-10-16 09:55:38+00:00
   link: https://www.fourthievesvinegar.org/
   title: Four Thieves Vinegar
   image: null

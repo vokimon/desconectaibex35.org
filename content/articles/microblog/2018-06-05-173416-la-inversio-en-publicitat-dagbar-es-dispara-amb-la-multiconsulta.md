@@ -1,6 +1,6 @@
 ---
 title: La inversió en publicitat d'Agbar es dispara amb la multiconsulta
-date: &id001 2018-06-05 17:34:16+00:00
+date:  2018-06-05 17:34:16+00:00
 status: published
 original:
   timestamp: 1528220056
@@ -10,7 +10,7 @@ original:
       y que pertenece a una multinacional, invierte para recordarte que si no fuera
       por ellos te moririas de sed.
     update_timestamp: 1528220056
-  date: *id001
+  date: 2018-06-05 17:34:16+00:00
   link: https://www.elcritic.cat/investigacio/la-inversio-en-publicitat-daigues-de-barcelona-es-dispara-despres-de-lanunci-de-la-multiconsulta-10496
   title: La inversió en publicitat d'Agbar es dispara amb la multiconsulta
   image: https://s3-eu-west-1.amazonaws.com/elcritic.cat/wp-content/uploads/2018/06/04174409/aigues_publicitat-1200x630.jpg

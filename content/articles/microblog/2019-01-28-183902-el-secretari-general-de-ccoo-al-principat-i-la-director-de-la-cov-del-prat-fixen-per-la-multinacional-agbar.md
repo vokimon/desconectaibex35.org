@@ -1,6 +1,6 @@
 ---
 title: Fichan por Agbar el secretario general de CCOO Cataluña y la directora de la COV
-date: &id001 2019-01-28 18:39:02+00:00
+date:  2019-01-28 18:39:02+00:00
 status: published
 original:
   timestamp: 1548700742
@@ -8,7 +8,7 @@ original:
     post: Localiza los cabecillas y untalos. Desactivando la resputesta social al
       monopolio privado sobre el recurso vital del agua en Barcelona.
     update_timestamp: 1548700742
-  date: *id001
+  date: 2019-01-28 18:39:02+00:00
   link: http://www.elpratllibertari.cat/?p=14075
   title: El secretari general de CCOO al Principat i la director de la COV del Prat
     fixen per la multinacional Agbar

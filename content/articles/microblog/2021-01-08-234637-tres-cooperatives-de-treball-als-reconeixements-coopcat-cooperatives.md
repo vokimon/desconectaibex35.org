@@ -1,6 +1,6 @@
 ---
 title: Reconocimientos CoopCat 2020 a cooperativas catalanas 
-date: &id001 2021-01-08 23:46:37+00:00
+date:  2021-01-08 23:46:37+00:00
 status: published
 original:
   timestamp: 1610149597
@@ -30,7 +30,7 @@ original:
 
 
       Si no las conocias, echales un ojo.'
-  date: *id001
+  date: 2021-01-08 23:46:37+00:00
   link: https://www.cooperativestreball.coop/cooperativisme/actualitat/tres-cooperatives-treball-als-reconeixements-coopcat
   title: Tres cooperatives de treball als Reconeixements CoopCat | Cooperatives
   image: null

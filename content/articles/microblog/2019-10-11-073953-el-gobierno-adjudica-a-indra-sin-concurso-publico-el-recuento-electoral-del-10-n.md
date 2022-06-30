@@ -1,7 +1,7 @@
 ---
 title: El Gobierno adjudica a Indra sin concurso público el recuento electoral del
   10-N
-date: &id001 2019-10-11 07:39:53+00:00
+date:  2019-10-11 07:39:53+00:00
 status: published
 original:
   timestamp: 1570779593
@@ -9,7 +9,7 @@ original:
     post: Poner al IBEX a contar los votos. (Al poco de ser imputados por la caja
       B del PP)
     update_timestamp: 1570779593
-  date: *id001
+  date: 2019-10-11 07:39:53+00:00
   link: https://elpais.com/politica/2019/10/09/actualidad/1570646711_621767.html
   title: El Gobierno adjudica a Indra sin concurso público el recuento electoral del
     10-N

@@ -1,6 +1,6 @@
 ---
 title: Inditex esquivó 600 millones en impuestos gracias a la ingeniería fiscal
-date: &id001 2016-12-08 16:26:22+00:00
+date:  2016-12-08 16:26:22+00:00
 status: published
 original:
   timestamp: 1481214382
@@ -8,7 +8,7 @@ original:
     post: Una de empresarios ejemplares. De esos que hacen marca España, o Suiza,
       o Holanda, o Irlanda, o Bahamas...
     update_timestamp: 1481214382
-  date: *id001
+  date: 2016-12-08 16:26:22+00:00
   link: https://www.publico.es/economia/inditex-esquivo-600-millones-impuestos.html
   title: Inditex esquivó 600 millones en impuestos gracias a la ingeniería fiscal
   image: https://www.publico.es/uploads/2016/11/03/581b257c1b50a.jpg

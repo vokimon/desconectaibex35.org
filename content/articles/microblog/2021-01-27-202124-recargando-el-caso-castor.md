@@ -1,6 +1,6 @@
 ---
 title: Recargando el Caso Castor
-date: &id001 2021-01-27 20:21:24+00:00
+date:  2021-01-27 20:21:24+00:00
 status: published
 original:
   timestamp: 1611778884
@@ -8,7 +8,7 @@ original:
     post: Vuelve a estar encima de la mesa que los ciudadanos paguemos el Castor de
       Florentino por decreto.
     update_timestamp: 1611778884
-  date: *id001
+  date: 2021-01-27 20:21:24+00:00
   link: https://casocastor.net/decretazo-castor
 tags:
 - Caso Castor

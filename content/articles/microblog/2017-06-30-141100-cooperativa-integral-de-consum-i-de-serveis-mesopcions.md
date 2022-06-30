@@ -1,6 +1,6 @@
 ---
 title: Cooperativa integral de consum i de serveis mésOPCIONS
-date: &id001 2017-06-30 14:11:00+00:00
+date:  2017-06-30 14:11:00+00:00
 status: published
 original:
   timestamp: 1498831860
@@ -15,7 +15,7 @@ original:
     past: '[Vídeo] Més Opcions Consum Responsable és una cooperativa integral que
       promou el consum responsable i la transformació del model socioeconòmic incorporant
       eleme...'
-  date: *id001
+  date: 2017-06-30 14:11:00+00:00
   link: https://www.youtube.com/watch?v=Xt5aJtvHocc
   title: Cooperativa integral de consum i de serveis mésOPCIONS
   image: https://i.ytimg.com/vi/Xt5aJtvHocc/maxresdefault.jpg

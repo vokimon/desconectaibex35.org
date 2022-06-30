@@ -1,6 +1,6 @@
 ---
 title: ¿Era más barata antes la electricidad?
-date: &id001 2016-05-31 17:16:35+00:00
+date:  2016-05-31 17:16:35+00:00
 status: published
 original:
   timestamp: 1464714995
@@ -10,7 +10,7 @@ original:
       decían las grandes. Por eso el subidón de la poténcia cuando empezó a bajar
       el consumo por la crisis.
     update_timestamp: 1464714995
-  date: *id001
+  date: 2016-05-31 17:16:35+00:00
   link: https://nergiza.com/era-mas-barata-antes-la-electricidad/
   title: ¿Era más barata antes la electricidad?
   image: https://nergiza.com/wp-content/uploads/nominal.png

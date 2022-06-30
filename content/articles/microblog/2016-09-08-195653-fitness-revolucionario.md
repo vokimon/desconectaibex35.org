@@ -1,6 +1,6 @@
 ---
 title: Danone - cuando los consejos de salud infantil los da una empresa
-date: &id001 2016-09-08 19:56:53+00:00
+date:  2016-09-08 19:56:53+00:00
 status: published
 original:
   timestamp: 1473364613
@@ -20,7 +20,7 @@ original:
 
 
       Vía Fitness Revolucionario'
-  date: *id001
+  date: 2016-09-08 19:56:53+00:00
   link: https://www.facebook.com/fitnessrevolucionario/photos/a.296737663740751/1103693083045201/?type=3&theater
   title: Fitness Revolucionario
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/14222247_1103693083045201_5638204848616581588_n.jpg?_nc_cat=109&_nc_sid=2d5d41&_nc_ohc=sRf38bqdtoMAX8BWoCR&_nc_ht=scontent-mad1-1.xx&oh=6a5c43971c5e6e905fa1d29d647bcae9&oe=5FA72AE6

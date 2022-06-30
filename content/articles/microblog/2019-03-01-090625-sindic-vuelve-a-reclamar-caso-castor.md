@@ -1,6 +1,6 @@
 ---
 title: El Síndic vuelve a reclamar la indemnización que se le dio a ACS por el Castor
-date: &id001 2019-03-01 09:06:25+00:00
+date:  2019-03-01 09:06:25+00:00
 status: published
 original:
   timestamp: 1551431185
@@ -8,7 +8,7 @@ original:
   data:
     post: ¿Seguimos subvencionando las cagadas del IBEX?
     update_timestamp: 1551431185
-  date: *id001
+  date: 2019-03-01 09:06:25+00:00
   link: https://www.facebook.com/NoPagoCastor/photos/a.377214796079956/583475568787210/
   title: Caso Castor
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/53204960_583475572120543_3424711483362115584_o.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=0aQlo7cJ0VIAX-JX0uB&_nc_ht=scontent-mad1-1.xx&oh=10e2a792a95e19b55891b7cfef363438&oe=5F581EAB

@@ -1,6 +1,6 @@
 ---
 title: El Bo Social a les factures de Som Energia - El Blog de Som Energia
-date: &id001 2017-08-10 09:52:50+00:00
+date:  2017-08-10 09:52:50+00:00
 status: published
 original:
   timestamp: 1502358770
@@ -14,7 +14,7 @@ original:
       ley para que ahora lo pague todo el mundo estes en la compañia que estes pero
       la posibilidad de ofrecerlo sigue en exclusividad de las grandes.
     update_timestamp: 1502358770
-  date: *id001
+  date: 2017-08-10 09:52:50+00:00
   link: https://blog.somenergia.coop/tarifas-electricidad-y-sector-electrico/2017/08/el-bo-social-a-les-factures-de-som-energia/
   title: El Bo Social a les factures de Som Energia - El Blog de Som Energia
   image: https://blog.somenergia.coop/wp-content/uploads/2017/08/bo-social-real-decret-factura-de-la-llum-660x330.png

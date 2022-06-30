@@ -1,13 +1,13 @@
 ---
 title: Los demandantes contra el cártel de los libros de texto calculan que el sobreprecio
   pagado por las familias alcanzó el 32%
-date: &id001 2019-10-07 21:02:51+00:00
+date:  2019-10-07 21:02:51+00:00
 status: published
 original:
   timestamp: 1570482171
   data:
     update_timestamp: 1570482171
-  date: *id001
+  date: 2019-10-07 21:02:51+00:00
   link: https://www.eldiario.es/sociedad/Denuncia-familias-libros-texto_0_950155086.html
   title: Los demandantes contra el cártel de los libros de texto calculan que el sobreprecio
     pagado por las familias alcanzó el 32%

@@ -1,13 +1,13 @@
 ---
 title: L'aigua a Catalunya, un enorme negoci controlat per Agbar
-date: &id001 2018-10-29 22:50:38+00:00
+date:  2018-10-29 22:50:38+00:00
 status: published
 original:
   timestamp: 1540853438
   data:
     post: L’aigua a Catalunya, un negoci enorme controlat per Agbar
     update_timestamp: 1540853438
-  date: *id001
+  date: 2018-10-29 22:50:38+00:00
   link: https://www.elcritic.cat/reportatges/laigua-a-catalunya-un-negoci-enorme-controlat-per-agbar-10665
   title: L'aigua a Catalunya, un enorme negoci controlat per Agbar
   image: https://s3-eu-west-1.amazonaws.com/elcritic.cat/wp-content/uploads/2018/10/26160912/fotopica-1200x630.jpg

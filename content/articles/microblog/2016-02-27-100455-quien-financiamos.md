@@ -1,6 +1,6 @@
 ---
 title: "Fiare: ¿A quién financiamos?"
-date: &id001 2016-02-27 10:04:55+00:00
+date:  2016-02-27 10:04:55+00:00
 status: published
 original:
   timestamp: 1456567495
@@ -8,7 +8,7 @@ original:
     post: ¿Quieres saber que proyectos se estan financiando con el dinero que depositas
       en Fiare? Transparencia total.
     update_timestamp: 1456567495
-  date: *id001
+  date: 2016-02-27 10:04:55+00:00
   link: https://www.fiarebancaetica.coop/conmidinero
   title: Quien financiamos
   image: https://www.fiarebancaetica.coop/sites/fiarebancaetica.com/themes/fiarebs/images/logo2800px.jpg

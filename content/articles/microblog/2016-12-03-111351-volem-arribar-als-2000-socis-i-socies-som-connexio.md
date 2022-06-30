@@ -1,13 +1,13 @@
 ---
 title: Volem arribar als 2.000 socis i sòcies! - Som Connexió
-date: &id001 2016-12-03 11:13:51+00:00
+date:  2016-12-03 11:13:51+00:00
 status: published
 original:
   timestamp: 1480763631
   data:
     post: Hito conseguido! 2000 personas socias forman parte ya de Eticom.
     update_timestamp: 1480763631
-  date: *id001
+  date: 2016-12-03 11:13:51+00:00
   link: https://somconnexio.coop/volem-arribar-als-2-000-socis-i-socies/
   title: Volem arribar als 2.000 socis i sòcies! - Som Connexió
   image: https://somconnexio.coop/wp-content/uploads/2017/07/BlogPortada_2000.jpg

@@ -1,6 +1,6 @@
 ---
 title: 'Alimentos kilométricos: por una dieta “baja en emisiones de CO2”'
-date: &id001 2016-01-26 00:15:50+00:00
+date:  2016-01-26 00:15:50+00:00
 status: published
 original:
   timestamp: 1453767350
@@ -12,7 +12,7 @@ original:
 
 
       https://www.facebook.com/ElSalmonContra/posts/955590401189530'
-  date: *id001
+  date: 2016-01-26 00:15:50+00:00
   link: https://www.elsalmoncontracorriente.es/?Alimentos-kilometricos-por-una
 tags:
 - alimentos kilométricos

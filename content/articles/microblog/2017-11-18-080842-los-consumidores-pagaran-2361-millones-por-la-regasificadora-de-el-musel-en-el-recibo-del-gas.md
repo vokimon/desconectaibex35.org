@@ -1,13 +1,13 @@
 ---
 title: Los consumidores pagarán 23,61 millones por la regasificadora de El Musel en
   el recibo del gas
-date: &id001 2017-11-18 08:08:42+00:00
+date:  2017-11-18 08:08:42+00:00
 status: published
 original:
   timestamp: 1510992522
   data:
     update_timestamp: 1510992522
-  date: *id001
+  date: 2017-11-18 08:08:42+00:00
   link: https://www.lne.es/gijon/2017/03/21/consumidores-pagaran-23-millones-regasificadora/2076454.html
   title: Los consumidores pagarán 23,61 millones por la regasificadora de El Musel
     en el recibo del gas

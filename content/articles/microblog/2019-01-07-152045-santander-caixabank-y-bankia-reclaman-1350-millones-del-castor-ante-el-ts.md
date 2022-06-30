@@ -1,6 +1,6 @@
 ---
 title: Santander, Caixabank y Bankia reclaman 1.350 millones del Castor ante el TS
-date: &id001 2019-01-07 15:20:45+00:00
+date:  2019-01-07 15:20:45+00:00
 status: published
 original:
   timestamp: 1546874445
@@ -9,7 +9,7 @@ original:
       del estado para pagarle a acciona. En serio, quitemonos a toda esta gente de
       encima. Saca tu pasta de la banca armada.
     update_timestamp: 1546874445
-  date: *id001
+  date: 2019-01-07 15:20:45+00:00
   link: https://www.laprovincia.es/economia/2019/01/04/santander-caixabank-bankia-reclaman-1350/1134667.html
   title: Santander, Caixabank y Bankia reclaman 1.350 millones del Castor ante el
     TS

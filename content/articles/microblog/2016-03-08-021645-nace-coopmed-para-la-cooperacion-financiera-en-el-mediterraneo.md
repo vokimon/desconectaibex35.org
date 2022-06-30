@@ -1,6 +1,6 @@
 ---
 title: Nace Coopmed para la cooperación financiera en el Mediterráneo
-date: &id001 2016-03-08 02:16:45+00:00
+date:  2016-03-08 02:16:45+00:00
 status: published
 original:
   timestamp: 1457403405
@@ -10,7 +10,7 @@ original:
 
       + '
     past: Nace Coopmed para la cooperación financiera en el Mediterráneo
-  date: *id001
+  date: 2016-03-08 02:16:45+00:00
   link: https://www.fiarebancaetica.coop/blog/nace-coopmed-para-cooperacion-financiera-en-el-mediterraneo
   title: Nace Coopmed para la cooperación financiera en el Mediterráneo
   image: https://www.fiarebancaetica.coop/sites/fiarebancaetica.com/files/blog//nace-coopmed-para-cooperacion-financiera-en-el-mediterraneo.jpg

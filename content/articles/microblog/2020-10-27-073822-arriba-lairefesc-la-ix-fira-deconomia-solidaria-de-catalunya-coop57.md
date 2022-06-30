@@ -1,6 +1,6 @@
 ---
 title: Arriba l'#AireFESC, la IX Fira d'Economia Solidària de Catalunya | Coop57
-date: &id001 2020-10-27 07:38:22+00:00
+date:  2020-10-27 07:38:22+00:00
 status: published
 original:
   timestamp: 1603784302
@@ -22,7 +22,7 @@ original:
       \ aire FESCo :-) Economia social y solidaria en Cataluña \n?               \
       \                                                 +\n\n+ \n+ https://coop57.coop/ca/catalunya/arriba-lairefesc-la-ix-fira-deconomia-solid%C3%A0ria-de-catalunya?fbclid=IwAR1hpV6CYRnJb3DU618KdkpdY0PVEMsUOP9eWgIgP7s1yniaKS7di-N9zmE"
     past: Queremos aire FESCo :-) Economia social y solidaria en Cataluña
-  date: *id001
+  date: 2020-10-27 07:38:22+00:00
   link: https://coop57.coop/ca/catalunya/arriba-lairefesc-la-ix-fira-deconomia-solidària-de-catalunya
   title: Arriba l'#AireFESC, la IX Fira d'Economia Solidària de Catalunya | Coop57
   image: null

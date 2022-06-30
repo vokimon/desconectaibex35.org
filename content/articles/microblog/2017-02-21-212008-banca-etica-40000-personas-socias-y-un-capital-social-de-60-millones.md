@@ -1,13 +1,13 @@
 ---
 title: 'Banca Etica: 40.000 personas socias y un capital social de 60 millones'
-date: &id001 2017-02-21 21:20:08+00:00
+date:  2017-02-21 21:20:08+00:00
 status: published
 original:
   timestamp: 1487712008
   data:
     post: Cierre anual espectacular tambien para Fiare.
     update_timestamp: 1487712008
-  date: *id001
+  date: 2017-02-21 21:20:08+00:00
   link: https://www.fiarebancaetica.coop/blog/banca-etica-40000-personas-socias-y-un-capital-social-de-60-millones
   title: 'Banca Etica: 40.000 personas socias y un capital social de 60 millones'
   image: https://www.fiarebancaetica.coop/sites/fiarebancaetica.com/files/blog//banca-etica-40.000-personas-socias-y-un-capital-social-de-60-millones.jpg

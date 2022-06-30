@@ -1,13 +1,13 @@
 ---
 title: Un emprendedor de 20 años reta a Zara con una aplicación de moda sostenible
-date: &id001 2018-08-13 07:15:34+00:00
+date:  2018-08-13 07:15:34+00:00
 status: published
 original:
   timestamp: 1534144534
   attachments: []
   data:
     update_timestamp: 1534144534
-  date: *id001
+  date: 2018-08-13 07:15:34+00:00
   link: https://www.lainformacion.com/empresas/emprendedor-20-anos-quiere-etica-moda/6362004/
   title: Un emprendedor de 20 años reta a Zara con una aplicación de moda sostenible
   image: null

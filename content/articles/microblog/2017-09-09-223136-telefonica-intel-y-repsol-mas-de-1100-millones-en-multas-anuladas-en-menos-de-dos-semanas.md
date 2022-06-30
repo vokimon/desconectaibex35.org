@@ -1,7 +1,7 @@
 ---
 title: Telefónica, Intel y Repsol... Más de 1.100 millones en multas anuladas en menos
   de dos semanas
-date: &id001 2017-09-09 22:31:36+00:00
+date:  2017-09-09 22:31:36+00:00
 status: published
 original:
   timestamp: 1504996296
@@ -9,7 +9,7 @@ original:
   data:
     post: Festival.
     update_timestamp: 1504996296
-  date: *id001
+  date: 2017-09-09 22:31:36+00:00
   link: https://www.elmundo.es/economia/2017/09/08/59b1accb22601d14628b4685.html
   title: Telefónica, Intel y Repsol... Más de 1.100 millones en multas anuladas en
     menos de dos semanas

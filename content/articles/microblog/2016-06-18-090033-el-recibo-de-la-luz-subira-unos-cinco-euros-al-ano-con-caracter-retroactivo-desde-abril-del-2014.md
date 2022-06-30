@@ -1,7 +1,7 @@
 ---
 title: El recibo de la luz subirá unos cinco euros al año con carácter retroactivo
   desde abril del 2014
-date: &id001 2016-06-18 09:00:33+00:00
+date:  2016-06-18 09:00:33+00:00
 status: published
 original:
   timestamp: 1466240433
@@ -35,7 +35,7 @@ original:
       a nuestros nuevos señores feudales para su uso y disfrute. Si, feudales, os
       acordais del pontaje, el molinaje... Pues hoy en dia se llaman luzaje, gasaje,
       telefonaje, internetaje, hipotecaje, peaje (este ni ha cambiado de nombre)...
-  date: *id001
+  date: 2016-06-18 09:00:33+00:00
   link: https://www.lavozdegalicia.es/noticia/economia/2016/06/18/recibo-luz-subira-cinco-euros-ano-caracter-retroactivo-abril-2014/0003_201606G18P45991.htm
   title: El recibo de la luz subirá unos cinco euros al año con carácter retroactivo
     desde abril del 2014

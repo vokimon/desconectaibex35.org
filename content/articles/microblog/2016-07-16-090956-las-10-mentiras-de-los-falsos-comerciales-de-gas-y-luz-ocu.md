@@ -1,6 +1,6 @@
 ---
 title: Las 10 mentiras de los falsos comerciales de gas y luz | OCU
-date: &id001 2016-07-16 09:09:56+00:00
+date:  2016-07-16 09:09:56+00:00
 status: published
 original:
   timestamp: 1468660196
@@ -78,7 +78,7 @@ original:
       una tarifa sin DH, quizas mas barata que las otras "sin DH", pero que la mitad
       del ahorro que podrias tener con una DH real se lo quedan ellos.'
   title: Las 10 mentiras de los falsos comerciales de gas y luz | OCU
-  date: *id001
+  date: 2016-07-16 09:09:56+00:00
   link: https://www.ocu.org/vivienda-y-energia/gas-luz/noticias/mentiras-comerciales-gas-luz
   image: https://www.ocu.org/-/media/ocu/images/home/vivienda y energia/gas y luz/vendedor
     a domicilio.jpg?rev=d93645eb-ebb4-4364-9d46-bcd97f289bd1&hash=C8E225F958CF236B4E500CBE98C2D2A7

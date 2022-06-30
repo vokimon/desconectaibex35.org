@@ -1,6 +1,6 @@
 ---
 title: 'Construïm L’Espora: llibreria i espai cooperatiu a L’H!'
-date: &id001 2020-12-10 17:25:59+00:00
+date:  2020-12-10 17:25:59+00:00
 status: published
 original:
   timestamp: 1607621159
@@ -26,7 +26,7 @@ original:
     past: Diversos colectivos de Hospitalet se unen para tener un espacio físico donde
       trabajar. L'Espora. Apóya su Goteo. La buena economía se construye desde abajo
       y cooperando.
-  date: *id001
+  date: 2020-12-10 17:25:59+00:00
   link: http://www.goteo.org/project/construim-lespora-llibreria-i-espai-cooperatiu-a-l
   title: 'Construïm L’Espora: llibreria i espai cooperatiu a L’H!'
   image: https://data.goteo.org/700x700/img-20201118-111420.jpg

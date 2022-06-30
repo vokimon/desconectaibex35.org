@@ -1,6 +1,6 @@
 ---
 title: Me ha llegado esta carta del banco
-date: &id001 2015-12-14 22:47:10+00:00
+date:  2015-12-14 22:47:10+00:00
 status: published
 original:
   timestamp: 1450133230
@@ -8,7 +8,7 @@ original:
     post: Carta ironica sobre como retuercen el lenguaje segun que empresas para que
       parezca que te estan haciendo un favor quitandote dinero por nada.
     update_timestamp: 1450133230
-  date: *id001
+  date: 2015-12-14 22:47:10+00:00
   link: https://medium.com/espanol/me-ha-llegado-esta-carta-del-banco-65987f6d7a31
   title: Me ha llegado esta carta del banco
   image: https://miro.medium.com/max/1024/1*xviwVAwaF2sStNJq6hbnBA.jpeg

@@ -1,6 +1,6 @@
 ---
 title: De Mercadona a la botiga ecològica de proximitat | Opcions
-date: &id001 2019-06-05 18:05:20+00:00
+date:  2019-06-05 18:05:20+00:00
 status: published
 original:
   timestamp: 1559757920
@@ -9,7 +9,7 @@ original:
     post: Articulazo de Marc Font haciendo un repaso a los principales grupos de distribucion
       y sus alternativas.
     update_timestamp: 1559757920
-  date: *id001
+  date: 2019-06-05 18:05:20+00:00
   link: http://opcions.org/consum/distribucio-alimentaria/
   title: De Mercadona a la botiga ecològica de proximitat | Opcions
   image: https://opcions.org/wp-content/uploads/2019/06/distribució_alimentàriaP.jpg

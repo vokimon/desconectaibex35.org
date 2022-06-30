@@ -1,6 +1,6 @@
 ---
 title: En tu calle se fabrican misiles nucleares - El Salmon Contracorriente
-date: &id001 2015-12-09 17:51:40+00:00
+date:  2015-12-09 17:51:40+00:00
 status: published
 original:
   timestamp: 1449683500
@@ -16,7 +16,7 @@ original:
 
 
       https://www.facebook.com/ElSalmonContra/posts/928475343901036'
-  date: *id001
+  date: 2015-12-09 17:51:40+00:00
   link: https://www.elsalmoncontracorriente.es/?En-tu-calle-se-fabrican-misiles
 tags:
 - banca armada

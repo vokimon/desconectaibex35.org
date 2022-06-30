@@ -1,6 +1,6 @@
 ---
 title: El acoso de los cobradores de Endesa, a juicio
-date: &id001 2020-12-14 08:51:48+00:00
+date:  2020-12-14 08:51:48+00:00
 status: published
 original:
   timestamp: 1607935908
@@ -8,7 +8,7 @@ original:
     post: Trato indignante y delictivo. Haciéndose pasar por funcionarios públicos
       y amenazando.
     update_timestamp: 1607935908
-  date: *id001
+  date: 2020-12-14 08:51:48+00:00
   link: https://www.goteo.org/project/acoso-cobradores-endesa-a-juicio
   title: El acoso de los cobradores de Endesa, a juicio
   image: https://data.goteo.org/700x700/goteoape2.jpg

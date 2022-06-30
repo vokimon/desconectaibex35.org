@@ -1,7 +1,7 @@
 ---
 title: Fairpay, la tarjeta de pagos que pone a VISA y Mastercard fuera de juego -
   El salmón contracorriente
-date: &id001 2016-12-29 06:59:41+00:00
+date:  2016-12-29 06:59:41+00:00
 status: published
 original:
   timestamp: 1482994781
@@ -9,7 +9,7 @@ original:
   data:
     post: Y ya que estamos, ordago a VISA y Mastercard!
     update_timestamp: 1482994781
-  date: *id001
+  date: 2016-12-29 06:59:41+00:00
   link: https://www.elsalmoncontracorriente.es/?Fairpay-la-tarjeta-de-pagos-que
   title: Fairpay, la tarjeta de pagos que pone a VISA y Mastercard fuera de juego
     - El salmón contracorriente

@@ -1,7 +1,7 @@
 ---
 title: L’Ajuntament de Barcelona dipositarà 50 milions d’euros a la banca ètica  -
   Promovem el finançament ètic i solidari
-date: &id001 2016-02-18 09:15:55+00:00
+date:  2016-02-18 09:15:55+00:00
 status: published
 original:
   timestamp: 1455786955
@@ -14,7 +14,7 @@ original:
 
 
       https://www.facebook.com/oikocreditcat/posts/554751151366901'
-  date: *id001
+  date: 2016-02-18 09:15:55+00:00
   link: http://fets.org/lajuntament-de-barcelona-dipositara-50-milions-deuros-a-la-banca-etica/
   title: L’Ajuntament de Barcelona dipositarà 50 milions d’euros a la banca ètica  -
     Promovem el finançament ètic i solidari

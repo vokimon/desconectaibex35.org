@@ -1,6 +1,6 @@
 ---
 title: Agroecología frente al oligopolio alimentario - El salmón contracorriente
-date: &id001 2016-08-07 09:38:53+00:00
+date:  2016-08-07 09:38:53+00:00
 status: published
 original:
   timestamp: 1470562733
@@ -12,7 +12,7 @@ original:
 
 
       https://www.facebook.com/ElSalmonContra/posts/1078688225546413'
-  date: *id001
+  date: 2016-08-07 09:38:53+00:00
   link: https://www.elsalmoncontracorriente.es/?Agroecologia-frente-al-oligopolio
   title: Agroecología frente al oligopolio alimentario - El salmón contracorriente
   image: http://www.elsalmoncontracorriente.es/IMG/arton1186.jpg

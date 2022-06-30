@@ -1,7 +1,7 @@
 ---
 title: El presidente de Iberdrola ganó 44.000 euros al día en el primer semestre de
   2015
-date: &id001 2015-12-02 00:00:46+00:00
+date:  2015-12-02 00:00:46+00:00
 status: published
 original:
   timestamp: 1449014446
@@ -39,7 +39,7 @@ original:
 
 
       https://www.facebook.com/alberto.g.espinosa/posts/10153416619568757'
-  date: *id001
+  date: 2015-12-02 00:00:46+00:00
   link: https://www.infolibre.es/noticias/economia/2015/07/27/el_presidente_iberdrola_gano_000_euros_dia_primer_semestre_2015_35956_1011.html
   title: El presidente de Iberdrola ganó 44.000 euros al día en el primer semestre
     de 2015

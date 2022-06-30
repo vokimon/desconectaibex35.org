@@ -1,6 +1,6 @@
 ---
 title: El 40% de los ministros de la Democracia se ha pasado a una gran empresa
-date: &id001 2016-03-15 19:01:43+00:00
+date:  2016-03-15 19:01:43+00:00
 status: published
 original:
   timestamp: 1458068503
@@ -8,7 +8,7 @@ original:
     post: El Diario.es ofrece en este articulo una interesante radiografia grafica
       e interactiva de las puertas giratorias en nuestro pais.
     update_timestamp: 1458068503
-  date: *id001
+  date: 2016-03-15 19:01:43+00:00
   link: https://www.eldiario.es/economia/ministros-democracia-pasado-sector-privado_0_494501429.html
   title: El 40% de los ministros de la Democracia se ha pasado a una gran empresa
   image: https://static.eldiario.es/clip/2f37ac0d-ad11-47ed-bb91-0b4ffdff9447_facebook-watermarked-aspect-ratio_default_0.jpg

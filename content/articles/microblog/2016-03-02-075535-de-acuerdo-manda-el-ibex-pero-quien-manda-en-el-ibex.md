@@ -1,6 +1,6 @@
 ---
 title: De acuerdo, manda el IBEX... ¿Pero quién manda en el IBEX?
-date: &id001 2016-03-02 07:55:35+00:00
+date:  2016-03-02 07:55:35+00:00
 status: published
 original:
   timestamp: 1456905335
@@ -13,7 +13,7 @@ original:
       OHL (obra civil) que une Abertis (autopistas) con Indra (tecnologia armamentistica
       y de control de masas)'
     update_timestamp: 1456905335
-  date: *id001
+  date: 2016-03-02 07:55:35+00:00
   link: https://ctxt.es/es/20160224/Politica/4542/Ibex-Bankia-Caixa-Blackrock-Espa%C3%B1a-Investigaci%C3%B3n--Los-grandes-titiriteros-de-la-corrupci%C3%B3n.htm
   title: De acuerdo, manda el IBEX... ¿Pero quién manda en el IBEX?
   image: http://ctxt.es/images/cms-image-000005658.jpg

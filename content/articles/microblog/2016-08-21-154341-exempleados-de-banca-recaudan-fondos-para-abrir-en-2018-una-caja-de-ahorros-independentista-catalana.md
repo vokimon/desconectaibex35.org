@@ -1,7 +1,7 @@
 ---
 title: Exempleados de banca recaudan fondos para abrir en 2018 una caja de ahorros
   independentista catalana
-date: &id001 2016-08-21 15:43:41+00:00
+date:  2016-08-21 15:43:41+00:00
 status: published
 original:
   timestamp: 1471794221
@@ -14,7 +14,7 @@ original:
 
 
       https://www.facebook.com/permalink.php?story_fbid=561462694045538&id=378033285721814'
-  date: *id001
+  date: 2016-08-21 15:43:41+00:00
   link: https://www.vozpopuli.com/economia-y-finanzas/empresas/Caixa_Catalana-Independencia-Cajas_de_ahorro-banca-caja-cajas_de_ahorro-independencia-independentistas-cataluna-catalanes-2017_0_861813841.html
   title: Exempleados de banca recaudan fondos para abrir en 2018 una caja de ahorros
     independentista catalana

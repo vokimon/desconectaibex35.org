@@ -1,6 +1,6 @@
 ---
 title: '''No debería haber miedo a hacer más preguntas a los bancos'''
-date: &id001 2015-03-31 16:07:25+00:00
+date:  2015-03-31 16:07:25+00:00
 status: published
 original:
   timestamp: 1427818045
@@ -10,7 +10,7 @@ original:
 
       + '
     past: '''No debería haber miedo a hacer más preguntas a los bancos'''
-  date: *id001
+  date: 2015-03-31 16:07:25+00:00
   link: https://www.elmundo.es/pais-vasco/2015/03/29/5517dac822601de5048b4573.html
   title: '''No debería haber miedo a hacer más preguntas a los bancos'''
   image: https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2015/03/29/14276266492964.jpg

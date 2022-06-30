@@ -1,6 +1,6 @@
 ---
 title: La CNMV multa a Caixabank con 750.000 euros por mala atención a clientes
-date: &id001 2017-07-13 05:23:46+00:00
+date:  2017-07-13 05:23:46+00:00
 status: published
 original:
   timestamp: 1499923426
@@ -16,7 +16,7 @@ original:
 
 
       Via Stop Clausula Suelo'
-  date: *id001
+  date: 2017-07-13 05:23:46+00:00
   link: https://www.abc.es/economia/abci-cnmv-multa-caixabank-750000-euros-mala-atencion-clientes-201707121112_noticia.html
   title: La CNMV multa a Caixabank con 750.000 euros por mala atención a clientes
   image: https://static3.abc.es/media/economia/2017/07/12/caixabank-oficina-k87D--1240x698@abc.jpg

@@ -1,6 +1,6 @@
 ---
 title: Bruselas expedientará a España por las ayudas encubiertas a las centrales de gas
-date: &id001 2017-08-17 13:55:27+00:00
+date:  2017-08-17 13:55:27+00:00
 status: published
 original:
   timestamp: 1502978127
@@ -14,7 +14,7 @@ original:
       de tarifa (que han perdido dinero las electricas estos años?) o las ayudas a
       la competencia que recibieron ilegamente las grandes y no devolvieron nunca.
     update_timestamp: 1502978127
-  date: *id001
+  date: 2017-08-17 13:55:27+00:00
   link: https://www.lainformacion.com/economia-negocios-y-finanzas/Electricidad-gas-centrales-expediente-Bruselas-Espana_0_1048396611.amp.html
   title: og_title.home
   image: https://www.lainformacion.com/static/images/compartir.png

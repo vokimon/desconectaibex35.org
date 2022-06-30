@@ -1,7 +1,7 @@
 ---
 title: 'España, festín del cártel: cazadas 60 tramas de 400 empresas y medio Ibex
   para subir precios'
-date: &id001 2019-04-02 06:35:02+00:00
+date:  2019-04-02 06:35:02+00:00
 status: published
 original:
   timestamp: 1554186902
@@ -10,7 +10,7 @@ original:
       mitad es el cartel de las contratas y las comisiones. ¿Que podemos hacer contra
       ellos?
     update_timestamp: 1554186902
-  date: *id001
+  date: 2019-04-02 06:35:02+00:00
   link: https://www.elmundo.es/economia/2019/03/31/5c9fbb7e21efa035598b4588.html
   title: 'España, festín del cártel: cazadas 60 tramas de 400 empresas y medio Ibex
     para subir precios'

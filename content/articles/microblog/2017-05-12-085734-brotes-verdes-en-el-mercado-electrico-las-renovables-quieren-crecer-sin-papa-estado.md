@@ -1,6 +1,6 @@
 ---
 title: Las renovables compiten ya a precio de mercado sin ayudas
-date: &id001 2017-05-12 08:57:34+00:00
+date:  2017-05-12 08:57:34+00:00
 status: published
 original:
   timestamp: 1494579454
@@ -8,7 +8,7 @@ original:
   data:
     post: Ni con "papa estado", ni con "titere de los poderosos estado"
     update_timestamp: 1494579454
-  date: *id001
+  date: 2017-05-12 08:57:34+00:00
   link: https://www.elconfidencial.com/economia/2017-04-23/energia-renovables-eolica-fotovoltaica-solar_1369953/
   title: 'Brotes verdes en el mercado eléctrico: las renovables quieren crecer sin
     ''Papá Estado'''

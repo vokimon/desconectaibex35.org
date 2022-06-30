@@ -1,13 +1,13 @@
 ---
 title: 'Expediente Rània: la quiebra más extraña'
-date: &id001 2021-01-18 08:09:39+00:00
+date:  2021-01-18 08:09:39+00:00
 status: published
 original:
   timestamp: 1610957379
   data:
     post: Una visión histórica al mercado de la leche Catalán [CAT]
     update_timestamp: 1610957379
-  date: *id001
+  date: 2021-01-18 08:09:39+00:00
   link: https://www.viaempresa.cat/empresa/llet-rania-fallida_2146948_102.html
   title: 'Expedient Rània: la fallida més estranya'
   image: https://www.viaempresa.cat/uploads/s1/25/96/68/64/vaques-en-una-granja-de-produccio-de-llet-en-refere-ncia-a-l-empresa-ra-nia-istock_11_640x380.jpeg

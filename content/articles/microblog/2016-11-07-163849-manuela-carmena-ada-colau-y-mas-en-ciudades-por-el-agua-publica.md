@@ -1,13 +1,13 @@
 ---
 title: Manuela Carmena, Ada Colau y más en Ciudades por el agua pública
-date: &id001 2016-11-07 16:38:49+00:00
+date:  2016-11-07 16:38:49+00:00
 status: published
 original:
   timestamp: 1478536729
   data:
     post: Acabando con la privatizacion de los monopolios de suministro
     update_timestamp: 1478536729
-  date: *id001
+  date: 2016-11-07 16:38:49+00:00
   link: https://www.youtube.com/watch?v=GohHZ0gD35Y
   title: Manuela Carmena, Ada Colau y más en Ciudades por el agua pública
   image: https://i.ytimg.com/vi/GohHZ0gD35Y/maxresdefault.jpg

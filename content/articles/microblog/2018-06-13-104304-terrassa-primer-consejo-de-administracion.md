@@ -1,7 +1,7 @@
 ---
 title: 'Terrassa: Primer consejo de administración de la empresa pública de agua'
 
-date: &id001 2018-06-13 10:43:04+00:00
+date:  2018-06-13 10:43:04+00:00
 status: published
 original:
   timestamp: 1528886584
@@ -11,7 +11,7 @@ original:
 
       + '
     past: 'Terrassa: Primer consejo de administración de la empresa pública de agua'
-  date: *id001
+  date: 2018-06-13 10:43:04+00:00
   link: https://twitter.com/aiguaesvida/status/1006842764984758272
   title: Twitter
   image: null

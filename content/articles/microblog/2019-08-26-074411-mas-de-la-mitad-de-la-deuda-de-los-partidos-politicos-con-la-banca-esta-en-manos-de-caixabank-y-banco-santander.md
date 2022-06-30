@@ -1,7 +1,7 @@
 ---
 title: Más de la mitad de la deuda de los partidos políticos con la banca está en
   manos de CaixaBank y Banco Santander
-date: &id001 2019-08-26 07:44:11+00:00
+date:  2019-08-26 07:44:11+00:00
 status: published
 original:
   timestamp: 1566805451
@@ -9,7 +9,7 @@ original:
     post: Estudio pormenorizado y con graficas de la deuda de los partidos políticos
       con los bancos.
     update_timestamp: 1566805451
-  date: *id001
+  date: 2019-08-26 07:44:11+00:00
   link: https://www.eldiario.es/economia/partidos-politicos-Caixa-Banco-Santander_0_928457452.html
   title: Más de la mitad de la deuda de los partidos políticos con la banca está en
     manos de CaixaBank y Banco Santander

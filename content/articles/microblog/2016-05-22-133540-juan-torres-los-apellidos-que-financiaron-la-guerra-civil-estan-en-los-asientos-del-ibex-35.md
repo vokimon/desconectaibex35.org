@@ -1,7 +1,7 @@
 ---
 title: 'Juan Torres: "Los apellidos que financiaron la guerra civil están en los asientos
   del Íbex 35"'
-date: &id001 2016-05-22 13:35:40+00:00
+date:  2016-05-22 13:35:40+00:00
 status: published
 original:
   timestamp: 1463924140
@@ -10,7 +10,7 @@ original:
       de administracion del IBEX". Y aun asi seguimos pagando a esas empresas cada
       mes. Si lo haces es porque quieres. Alternativas las hay.'
     update_timestamp: 1463924140
-  date: *id001
+  date: 2016-05-22 13:35:40+00:00
   link: https://www.youtube.com/watch?v=liOgRVgDdNk
   title: 'Juan Torres: "Los apellidos que financiaron la guerra civil están en los
     asientos del Íbex 35"'

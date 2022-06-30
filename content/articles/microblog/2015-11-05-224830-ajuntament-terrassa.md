@@ -1,6 +1,6 @@
 ---
 title: El ayuntamiento de Terrassa se desconecta de la banca del IBEX
-date: &id001 2015-11-05 22:48:30+00:00
+date:  2015-11-05 22:48:30+00:00
 status: published
 original:
   timestamp: 1446763710
@@ -8,7 +8,7 @@ original:
     post: El ayuntamiento de Terrassa decide desconectarse del IBEX, por lo que toca
       a bancos. ¿Y tu?
     update_timestamp: 1446763710
-  date: *id001
+  date: 2015-11-05 22:48:30+00:00
   link: https://www.elsalmoncontracorriente.es/?El-ayuntamiento-de-Terrassa
 tags:
 - Administración Pública

@@ -1,6 +1,6 @@
 ---
 title: Malasia descubre el tráfico ilegal de plásticos de España
-date: &id001 2019-05-25 14:52:45+00:00
+date:  2019-05-25 14:52:45+00:00
 status: published
 original:
   timestamp: 1558795965
@@ -11,7 +11,7 @@ original:
       son las empresas que venden productos envasados, el 20% las que fabrican los
       envases, y el 20% restante las cadenas de supermercados y grandes superficies.'
     update_timestamp: 1558795965
-  date: *id001
+  date: 2019-05-25 14:52:45+00:00
   link: https://www.lavanguardia.com/natural/actualidad/20190522/462411588632/trafico-de-plasticos-contrabando-espana.html
   title: Malasia descubre el tráfico ilegal de plásticos de España
   image: https://www.lavanguardia.com/r/GODO/LV/p6/WebSite/2019/05/22/Recortada/img_fmartinez_20190522-162407_imagenes_lv_otras_fuentes_yeo-bee-422-k49E-U462411588632nWB-992x558@LaVanguardia-Web.jpg

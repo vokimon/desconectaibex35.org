@@ -1,7 +1,7 @@
 ---
 title: '[NdP] Som Energia denuncia la tendenciosa subasta eólica creada para maquillar
   la legislatura antirenovable del Gobierno - El Blog de Som Energia'
-date: &id001 2016-01-18 12:17:50+00:00
+date:  2016-01-18 12:17:50+00:00
 status: published
 original:
   timestamp: 1453119470
@@ -10,7 +10,7 @@ original:
       diseño de la subasta eolica que deja fuera a los productores que quieren entrar
       en el mercado.
     update_timestamp: 1453119470
-  date: *id001
+  date: 2016-01-18 12:17:50+00:00
   link: https://blog.somenergia.coop/comunicados-prensa/2016/01/som-energia-denuncia-la-tendenciosa-subasta-eolica-creada-para-maquillar-la-legislatura-antirenovable-del-gobierno/
   title: '[NdP] Som Energia denuncia la tendenciosa subasta eólica creada para maquillar
     la legislatura antirenovable del Gobierno - El Blog de Som Energia'

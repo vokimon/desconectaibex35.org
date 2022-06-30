@@ -1,6 +1,6 @@
 ---
 title: Caixabank i Sabadell, denunciats per finançar la indústria militar
-date: &id001 2017-04-08 18:38:22+00:00
+date:  2017-04-08 18:38:22+00:00
 status: published
 original:
   timestamp: 1491676702
@@ -11,7 +11,7 @@ original:
 
       + '
     past: EN OBERT | Si téns diners aquí, hauries de llegir aquest reportatge
-  date: *id001
+  date: 2017-04-08 18:38:22+00:00
   link: https://www.elcritic.cat/noticies/inversions-polemiques-de-la-caixa-i-del-banc-sabadell-explosius-missils-nuclears-i-tecnologia-militar-11113
   title: Caixabank i Sabadell, denunciats per finançar la indústria militar
   image: https://s3-eu-west-1.amazonaws.com/elcritic.cat/wp-content/uploads/2017/04/05175140/caixa-portada-1024x393-1200x630.jpg

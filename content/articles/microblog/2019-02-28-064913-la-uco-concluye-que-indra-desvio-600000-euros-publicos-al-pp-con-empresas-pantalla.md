@@ -1,7 +1,7 @@
 ---
 title: La UCO concluye que Indra desvió 600.000 euros públicos al PP con empresas
   pantalla
-date: &id001 2019-02-28 06:49:13+00:00
+date:  2019-02-28 06:49:13+00:00
 status: published
 original:
   timestamp: 1551336553
@@ -11,7 +11,7 @@ original:
       no es un mal inevitable. Puedes empezar por dejar de votar a los partidos que
       traman con ella.
     update_timestamp: 1551336553
-  date: *id001
+  date: 2019-02-28 06:49:13+00:00
   link: https://www.elconfidencial.com/espana/2017-09-19/uco-concluye-indra-financio-pp-madrid-empresas-pantalla_1445621/
   title: La UCO concluye que Indra desvió 600.000 euros públicos al PP con empresas
     pantalla

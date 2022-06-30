@@ -1,14 +1,14 @@
 ---
 title: ETICOM SOMOS CONEXIÓN LANZARÁ UN SATELITE DE COMUNICACIONES AL ESPACIO EN EL
   2016 (inocentada) - Som Connexió
-date: &id001 2015-12-28 09:35:45+00:00
+date:  2015-12-28 09:35:45+00:00
 status: published
 original:
   timestamp: 1451295345
   data:
     post: La noticia "del dia"
     update_timestamp: 1451295345
-  date: *id001
+  date: 2015-12-28 09:35:45+00:00
   link: https://somconnexio.coop/es/eticom-som-connexio-llancara-un-satel-lit-de-comunicaciones-lespai-al-2016/
   title: ETICOM SOMOS CONEXIÓN LANZARÁ UN SATELITE DE COMUNICACIONES AL ESPACIO EN
     EL 2016 (inocentada) - Som Connexió

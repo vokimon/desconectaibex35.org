@@ -1,6 +1,6 @@
 ---
 title: Spencer Stuart revela el poder omnímodo de los 'capos' del Ibex en España
-date: &id001 2016-02-29 09:58:04+00:00
+date:  2016-02-29 09:58:04+00:00
 status: published
 original:
   timestamp: 1456739884
@@ -9,7 +9,7 @@ original:
       de los males de las grandes empresas españolas es la falta de division de poderes,
       el ferreo control de los presidentes, el adedismo, y el florerismo de los consejeros.
     update_timestamp: 1456739884
-  date: *id001
+  date: 2016-02-29 09:58:04+00:00
   link: https://www.elconfidencial.com/empresas/2016-02-28/spencer-stuart-revela-el-poder-omnimodo-de-los-capos-del-ibex-en-espana_1159272/
   title: Spencer Stuart revela el poder omnímodo de los 'capos' del Ibex en España
   image: https://www.ecestaticos.com/imagestatic/clipping/943/78a/94378a1c195a70b9afd991fbc62803a4/spencer-stuart-revela-el-poder-omnimodo-de-los-capos-del-ibex-en-espana.jpg?mtime=1579565836

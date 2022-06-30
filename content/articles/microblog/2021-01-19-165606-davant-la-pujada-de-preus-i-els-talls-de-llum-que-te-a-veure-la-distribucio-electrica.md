@@ -1,6 +1,6 @@
 ---
 title: Qué tiene que ver la distribución con la subida de precios y los cortes de luz
-date: &id001 2021-01-19 16:56:06+00:00
+date:  2021-01-19 16:56:06+00:00
 status: published
 original:
   timestamp: 1611075366
@@ -8,7 +8,7 @@ original:
     post: 'Como la distribución electrica es la responsable de los cortes y la pobreza
       energética: Auditoria ciudadana de la red electrica. [cat]'
     update_timestamp: 1611075386
-  date: *id001
+  date: 2021-01-19 16:56:06+00:00
   link: https://www.youtube.com/watch?v=woN7mQbDLQo
   title: Davant la pujada de preus i els talls de llum, què té a veure la distribució
     elèctrica?

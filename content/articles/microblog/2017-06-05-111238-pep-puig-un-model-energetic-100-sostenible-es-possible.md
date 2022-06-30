@@ -1,6 +1,6 @@
 ---
 title: 'Pep Puig: ''Un model energètic 100% sostenible és possible'''
-date: &id001 2017-06-05 11:12:38+00:00
+date:  2017-06-05 11:12:38+00:00
 status: published
 original:
   timestamp: 1496661158
@@ -13,7 +13,7 @@ original:
 
 
       Entrevista amb el president de Som Energia'
-  date: *id001
+  date: 2017-06-05 11:12:38+00:00
   link: https://www.vilaweb.cat/noticies/pep-puig-si-arribem-a-tenir-un-pais-com-cal-es-podra-posar-en-marxa-la-transicio-energetica/
   title: 'Pep Puig: ''Un model energètic 100% sostenible és possible'''
   image: https://imatges.vilaweb.cat/nacional/wp-content/uploads/2017/06/pep-puig-02182208.jpg

@@ -1,13 +1,13 @@
 ---
 title: El juzgado da la razón al Ayuntamiento de Valladolid y desestima la demanda
   de Montoro contra la remunicipalización del agua
-date: &id001 2017-11-18 08:07:13+00:00
+date:  2017-11-18 08:07:13+00:00
 status: published
 original:
   timestamp: 1510992433
   data:
     update_timestamp: 1510992433
-  date: *id001
+  date: 2017-11-18 08:07:13+00:00
   link: https://www.eldiario.es/politica/Ayuntamiento-Valladolid-desestima-Montoro-remunicipalizacion_0_708329538.html
   title: El juzgado da la razón al Ayuntamiento de Valladolid y desestima la demanda
     de Montoro contra la remunicipalización del agua

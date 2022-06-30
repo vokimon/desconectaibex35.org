@@ -1,13 +1,13 @@
 ---
 title: Bankia lanza un fondo que garantiza menos rentabilidad que comisiones
-date: &id001 2019-03-10 19:09:17+00:00
+date:  2019-03-10 19:09:17+00:00
 status: published
 original:
   timestamp: 1552244957
   data:
     post: Fantastico!
     update_timestamp: 1552244957
-  date: *id001
+  date: 2019-03-10 19:09:17+00:00
   link: https://www.elconfidencial.com/mercados/2019-03-10/bankia-fondo-garantizado-rentabilidad-comisiones_1865658/
   title: Bankia lanza un fondo que garantiza menos rentabilidad que comisiones
   image: https://www.ecestaticos.com/imagestatic/clipping/d01/eca/d01ecab4bb5518010014c2a8fb7a3f5d/bankia-lanza-un-fondo-que-garantiza-menos-rentabilidad-que-comisiones.jpg?mtime=1579565836

@@ -1,6 +1,6 @@
 ---
 title: Grupo Santander señalado como responsable de la quiebra de Puerto Rico
-date: &id001 2019-07-11 21:51:58+00:00
+date:  2019-07-11 21:51:58+00:00
 status: published
 original:
   timestamp: 1562881918
@@ -9,7 +9,7 @@ original:
     post: 'Via PACD: El grupo Santander señalado como el responsable de la quiebra
       de Puerto Rico.'
     update_timestamp: 1562881918
-  date: *id001
+  date: 2019-07-11 21:51:58+00:00
   link: https://www.youtube.com/watch?v=_wqxOJC6vA8
   title: Grupo Santander señalado como responsable de la quiebra de Puerto Rico
   image: https://i.ytimg.com/vi/_wqxOJC6vA8/maxresdefault.jpg

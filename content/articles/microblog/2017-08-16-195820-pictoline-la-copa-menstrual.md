@@ -1,6 +1,6 @@
 ---
 title: "Pictoline: La copa menstrual"
-date: &id001 2017-08-16 19:58:20+00:00
+date:  2017-08-16 19:58:20+00:00
 status: published
 original:
   timestamp: 1502913500
@@ -11,7 +11,7 @@ original:
 
       + '
     past: La copa menstrual
-  date: *id001
+  date: 2017-08-16 19:58:20+00:00
   link: https://www.facebook.com/pictoline/photos/a.1611821172410355/1964358673823268/
   title: Pictoline
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/20776822_1964358673823268_1639755027039559482_o.png?_nc_cat=101&_nc_sid=2d5d41&_nc_ohc=8KLkUoV6TKAAX8hwUcg&_nc_ht=scontent-mad1-1.xx&oh=107a1c8f76551b02dd090273c220949b&oe=5F564CFE

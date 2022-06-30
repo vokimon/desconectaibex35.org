@@ -1,6 +1,6 @@
 ---
 title: Entrevista a Toni Lodeiro, de Opcions
-date: &id001 2018-07-10 13:07:48+00:00
+date:  2018-07-10 13:07:48+00:00
 status: published
 original:
   timestamp: 1531228068
@@ -8,7 +8,7 @@ original:
   data:
     post: Despacio pero sin pausa. Empezando por una.
     update_timestamp: 1531228068
-  date: *id001
+  date: 2018-07-10 13:07:48+00:00
   link: https://www.facebook.com/photo.php?fbid=2195001540731519
   title: Toni Lodeiro Zas
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/36889537_2195001550731518_3193508892692709376_n.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=WQtDrAlMAUgAX9X4dba&_nc_ht=scontent-mad1-1.xx&oh=2b1f86ee5041fed4e51df6397f177f37&oe=5F55DF02

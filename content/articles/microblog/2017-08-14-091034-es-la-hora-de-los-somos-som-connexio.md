@@ -1,6 +1,6 @@
 ---
 title: És la hora de los somos? - Som Connexió
-date: &id001 2017-08-14 09:10:34+00:00
+date:  2017-08-14 09:10:34+00:00
 status: published
 original:
   timestamp: 1502701834
@@ -11,7 +11,7 @@ original:
 
       + '
     past: '[CAT] Es l''hora dels Som?'
-  date: *id001
+  date: 2017-08-14 09:10:34+00:00
   link: https://somconnexio.coop/lhora-dels-som/
   title: És l'hora dels som? - Som Connexió
   image: https://somconnexio.coop/wp-content/uploads/2017/07/thumb_IMG_1489_1024.jpg

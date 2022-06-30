@@ -1,7 +1,7 @@
 ---
 title: 'Los consejeros del Ibex cobraron un salario récord en 2017: 680.000 euros
   de media'
-date: &id001 2018-10-19 10:21:11+00:00
+date:  2018-10-19 10:21:11+00:00
 status: published
 original:
   timestamp: 1539944471
@@ -10,7 +10,7 @@ original:
     post: 'Los consejeros del Ibex cobraron un salario récord en 2017: 680.000 euros
       de media'
     update_timestamp: 1539944471
-  date: *id001
+  date: 2018-10-19 10:21:11+00:00
   link: https://www.eldiario.es/economia/consejeros-Ibex-cobraron-salario-record_0_825918263.html
   title: 'Los consejeros del Ibex cobraron un salario récord en 2017: 680.000 euros
     de media'

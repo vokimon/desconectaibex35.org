@@ -1,6 +1,6 @@
 ---
 title: 'Todos al suelo: Endesa llama a su puerta | sabemos'
-date: &id001 2016-07-28 21:47:02+00:00
+date:  2016-07-28 21:47:02+00:00
 status: published
 original:
   timestamp: 1469742422
@@ -8,7 +8,7 @@ original:
     post: Un recopilatorio de las trolas esperpenticas que usan los comerciales puerta
       a puerta de las grandes electricas.
     update_timestamp: 1469742422
-  date: *id001
+  date: 2016-07-28 21:47:02+00:00
   link: https://sabemos.es/todos-al-suelo-endesa-llama-puerta/
   title: 'Todos al suelo: Endesa llama a su puerta | sabemos'
   image: null

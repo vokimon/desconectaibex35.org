@@ -1,6 +1,6 @@
 ---
 title: '[Economía Solidaria y Derechos Humanos] CONSTRUCCIÓN DE MERCADO SOCIAL'
-date: &id001 2016-02-03 09:35:57+00:00
+date:  2016-02-03 09:35:57+00:00
 status: published
 original:
   timestamp: 1454492157
@@ -8,7 +8,7 @@ original:
     post: Un video con ejemplos reales que muestra los mercados sociales como herramienta
       útil para cambiar aquello que no nos gusta.
     update_timestamp: 1454492157
-  date: *id001
+  date: 2016-02-03 09:35:57+00:00
   link: https://vimeo.com/139579122
   title: '[Economía Solidaria y Derechos Humanos] CONSTRUCCIÓN DE MERCADO SOCIAL'
   image: https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F539797651_1280x720.jpg&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png

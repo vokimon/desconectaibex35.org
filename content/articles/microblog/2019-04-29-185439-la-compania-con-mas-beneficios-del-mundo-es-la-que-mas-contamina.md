@@ -1,6 +1,6 @@
 ---
 title: La compañía mundial con más beneficios, la que más contaminaa | El Salto
-date: &id001 2019-04-29 18:54:39+00:00
+date:  2019-04-29 18:54:39+00:00
 status: published
 original:
   timestamp: 1556564079
@@ -9,7 +9,7 @@ original:
       sociedad y el planeta. Externalizando costes, se hacen unos beneficios super
       chulos. No alimentemos a la bestia.
     update_timestamp: 1556564079
-  date: *id001
+  date: 2019-04-29 18:54:39+00:00
   link: https://www.elsaltodiario.com/cambio-climatico/saudi-aramco-petroleo-compania-beneficios-contaminacion
   title: La compañía con más beneficios del mundo es la que más contamina
   image: https://www.elsaltodiario.com/uploads/fotos/rs600/97952dea/Manifa%20Oil%20Field%20baja.jpg?v=63721345758

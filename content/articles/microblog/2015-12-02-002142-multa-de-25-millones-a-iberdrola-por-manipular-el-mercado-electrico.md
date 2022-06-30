@@ -1,6 +1,6 @@
 ---
 title: Multa de 25 millones a Iberdrola por manipular el mercado eléctrico
-date: &id001 2015-12-02 00:21:42+00:00
+date:  2015-12-02 00:21:42+00:00
 status: published
 original:
   timestamp: 1449015702
@@ -18,7 +18,7 @@ original:
       y, donde Iberdrola tiene beneficios, Som Energia traslada el precio de coste
       real, mas barato que el de mercado, al usuario.'
     update_timestamp: 1449015702
-  date: *id001
+  date: 2015-12-02 00:21:42+00:00
   link: https://elpais.com/economia/2015/11/30/actualidad/1448899458_123419.html
   title: Multa de 25 millones a Iberdrola por manipular el mercado eléctrico
   image: https://ep00.epimg.net/economia/imagenes/2015/11/30/actualidad/1448899458_123419_1448900041_noticia_normal.jpg

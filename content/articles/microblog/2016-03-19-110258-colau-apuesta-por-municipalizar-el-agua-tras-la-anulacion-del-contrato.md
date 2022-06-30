@@ -1,6 +1,6 @@
 ---
 title: Colau apuesta por municipalizar el agua tras la anulación del contrato
-date: &id001 2016-03-19 11:02:58+00:00
+date:  2016-03-19 11:02:58+00:00
 status: published
 original:
   timestamp: 1458385378
@@ -16,7 +16,7 @@ original:
 
 
       https://www.facebook.com/ada.colau/posts/987964417950890'
-  date: *id001
+  date: 2016-03-19 11:02:58+00:00
   link: https://elpais.com/ccaa/2016/03/17/catalunya/1458245198_462057.html
   title: Colau apuesta por municipalizar el agua tras la anulación del contrato
   image: https://ep00.epimg.net/ccaa/imagenes/2016/03/17/catalunya/1458245198_462057_1458247228_noticia_normal.jpg

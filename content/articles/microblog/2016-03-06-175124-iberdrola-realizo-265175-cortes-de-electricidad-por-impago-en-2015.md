@@ -1,6 +1,6 @@
 ---
 title: Iberdrola realizó 265.175 cortes de electricidad por impago en 2015
-date: &id001 2016-03-06 17:51:24+00:00
+date:  2016-03-06 17:51:24+00:00
 status: published
 original:
   timestamp: 1457286684
@@ -15,7 +15,7 @@ original:
 
 
       https://www.facebook.com/infolibre.es/posts/1131486323568409'
-  date: *id001
+  date: 2016-03-06 17:51:24+00:00
   link: https://www.infolibre.es/noticias/economia/2016/03/06/iberdrola_realizo_265_175_cortes_electricidad_por_impago_2015_45978_1011.html
   title: Iberdrola realizó 265.175 cortes de electricidad por impago en 2015
   image: https://d3cra5ec8gdi8w.cloudfront.net/uploads/imagenes/social/2016/03/06/_galn_a6724c1f.jpg?ffee570729db62f82dd1ae3aaac60a54

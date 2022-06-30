@@ -1,13 +1,13 @@
 ---
 title: Los seguros éticos gestionan el 2,5% de las primas
-date: &id001 2020-11-12 06:44:32+00:00
+date:  2020-11-12 06:44:32+00:00
 status: published
 original:
   timestamp: 1605163472
   attachments: []
   data:
     update_timestamp: 1605163472
-  date: *id001
+  date: 2020-11-12 06:44:32+00:00
   link: https://www.facebook.com/SeryesSA/posts/1733998883432757
   title: Seryes
   image: https://external-mad1-1.xx.fbcdn.net/safe_image.php?d=AQFt4cqToRoYFSc6&w=312&h=312&url=https%3A%2F%2Fwww.elsaltodiario.com%2Fuploads%2Ffotos%2Frs600%2F35ffbeba%2FExtraLarge_06a0ab43-4f26-4ea9-8fb2-5a2efbee45ae_general.jpg%3Fv%3D63738607715&cfs=1&_nc_cb=1&_nc_hash=AQGbcQFK0IFv9YO7

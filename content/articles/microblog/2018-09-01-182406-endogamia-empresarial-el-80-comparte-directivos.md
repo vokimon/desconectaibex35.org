@@ -1,13 +1,13 @@
 ---
 title: Endogamia empresarial, el 80% de las grandes comparten directivos
-date: &id001 2018-09-01 18:24:06+00:00
+date:  2018-09-01 18:24:06+00:00
 status: published
 original:
   timestamp: 1535826246
   data:
     post: Ni siquiera compiten entre ellas.
     update_timestamp: 1535826246
-  date: *id001
+  date: 2018-09-01 18:24:06+00:00
   link: https://twitter.com/Ciudadano_Zer0/status/1034387894943850497?s=19
   title: Twitter
   image: null

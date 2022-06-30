@@ -1,6 +1,6 @@
 ---
 title: Las grandes pleitean por una subida retroactiva de precios, las cooperativas lo bajan
-date: &id001 2016-06-30 07:42:14+00:00
+date:  2016-06-30 07:42:14+00:00
 status: published
 original:
   timestamp: 1467272534
@@ -11,7 +11,7 @@ original:
       malos, tranquilo que ya te lo han ido subiendo. Salte ya!! Existen las cooperativas
       de consumidores: SomEnergia, Goiener, Energetica...'
     update_timestamp: 1467272534
-  date: *id001
+  date: 2016-06-30 07:42:14+00:00
   link: https://cincodias.elpais.com/cincodias/2016/06/16/empresas/1466107146_802270.html
   title: ¿Es usted uno de los 13 millones a los que se va a refacturar el recibo de
     la luz?

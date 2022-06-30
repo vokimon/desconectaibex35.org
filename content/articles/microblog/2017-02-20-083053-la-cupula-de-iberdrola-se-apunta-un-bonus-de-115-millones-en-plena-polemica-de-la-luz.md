@@ -1,14 +1,14 @@
 ---
 title: La cúpula de Iberdrola se apunta un bonus de 115 millones en plena polémica
   de la luz
-date: &id001 2017-02-20 08:30:53+00:00
+date:  2017-02-20 08:30:53+00:00
 status: published
 original:
   timestamp: 1487579453
   data:
     post: No pasa nada, circulen, circulen
     update_timestamp: 1487579453
-  date: *id001
+  date: 2017-02-20 08:30:53+00:00
   link: https://www.elconfidencial.com/empresas/2017-02-20/la-cupula-de-iberdrola-se-apunta-un-bonus-de-115-millones-en-plena-subida-de-la-luz_1334198/
   title: La cúpula de Iberdrola se apunta un bonus de 115 millones en plena polémica
     de la luz

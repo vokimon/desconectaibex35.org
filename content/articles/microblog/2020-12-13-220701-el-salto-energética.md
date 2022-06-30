@@ -1,6 +1,6 @@
 ---
 title: "El Salto: EnergÉtica"
-date: &id001 2020-12-13 22:07:01+00:00
+date:  2020-12-13 22:07:01+00:00
 status: published
 original:
   timestamp: 1607897221
@@ -18,7 +18,7 @@ original:
 
       '
     past: EnergÉtica
-  date: *id001
+  date: 2020-12-13 22:07:01+00:00
   link: https://www.elsaltodiario.com/mecambio/energetica-cooperativas-piezas-clave-conseguir-energia-sostenible
 tags:
 - EnergÉtica

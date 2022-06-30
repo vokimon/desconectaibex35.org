@@ -1,6 +1,6 @@
 ---
 title: La alternativa a los cajeros para Caixa Guissona, efectivo en las tiendas
-date: &id001 2017-04-22 21:47:35+00:00
+date:  2017-04-22 21:47:35+00:00
 status: published
 original:
   timestamp: 1492897655
@@ -14,7 +14,7 @@ original:
       Guissona: Usar las tiendas de Area Guissona como expendedores de efectivo. Si
       juntamos fuerzas en la Economia Social y Solidaria como de ubicuos podemos ser?'
     update_timestamp: 1492897655
-  date: *id001
+  date: 2017-04-22 21:47:35+00:00
   link: https://www.youtube.com/watch?v=UvjhcrIwLrM
   title: Cash de CAIXAGUISSONA
   image: https://i.ytimg.com/vi/UvjhcrIwLrM/maxresdefault.jpg

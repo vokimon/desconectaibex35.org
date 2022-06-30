@@ -1,6 +1,6 @@
 ---
 title: Iberdrola supera por primera vez los 3.000 millones de euros de beneficio neto
-date: &id001 2019-02-21 22:01:29+00:00
+date:  2019-02-21 22:01:29+00:00
 status: published
 original:
   timestamp: 1550786489
@@ -14,7 +14,7 @@ original:
 
       ¡Circulen! (y paguen).'
     update_timestamp: 1550786489
-  date: *id001
+  date: 2019-02-21 22:01:29+00:00
   link: https://elpais.com/economia/2019/02/20/actualidad/1550647828_425956.html
   title: Iberdrola supera por primera vez los 3.000 millones de euros de beneficio
     neto

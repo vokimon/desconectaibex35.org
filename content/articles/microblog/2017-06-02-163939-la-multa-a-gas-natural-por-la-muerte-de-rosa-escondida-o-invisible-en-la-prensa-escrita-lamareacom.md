@@ -1,7 +1,7 @@
 ---
 title: La multa a Gas Natural por la muerte de Rosa, escondida o invisible en la prensa
   escrita | lamarea.com
-date: &id001 2017-06-02 16:39:39+00:00
+date:  2017-06-02 16:39:39+00:00
 status: published
 original:
   timestamp: 1496421579
@@ -10,7 +10,7 @@ original:
       de "acuerdos de cooperacion". El trabajo esclavo en Zara, las muertes por corte
       de suministro en Gas Natural.
     update_timestamp: 1496421579
-  date: *id001
+  date: 2017-06-02 16:39:39+00:00
   link: https://www.lamarea.com/2017/06/02/la-multa-gas-natural-la-muerte-rosa-escondida-invisible-la-prensa-escrita/
   title: La multa a Gas Natural por la muerte de Rosa, escondida o invisible en la
     prensa escrita | lamarea.com

@@ -1,6 +1,6 @@
 ---
 title: La marca Top Manta obre botiga al carrer d'En Roig
-date: &id001 2017-11-26 11:06:36+00:00
+date:  2017-11-26 11:06:36+00:00
 status: published
 original:
   timestamp: 1511694396
@@ -13,7 +13,7 @@ original:
 
 
       Via Xes'
-  date: *id001
+  date: 2017-11-26 11:06:36+00:00
   link: https://www.elperiodico.cat/ca/barcelona/20171110/la-marca-top-manta-obre-botiga-al-carrer-den-roig-6408212
   title: La marca Top Manta obre botiga al carrer d'En Roig
   image: https://estaticos.elperiodico.com/resources/jpg/3/8/zentauroepp40844080-barcelona-2017-barcelona-nueva-tienda-marca-top171107163703-1510069158483.jpg

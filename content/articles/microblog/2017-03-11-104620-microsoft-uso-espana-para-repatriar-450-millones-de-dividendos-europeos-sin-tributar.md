@@ -1,7 +1,7 @@
 ---
 title: Microsoft usó España para repatriar 450 millones de dividendos europeos sin
   tributar
-date: &id001 2017-03-11 10:46:20+00:00
+date:  2017-03-11 10:46:20+00:00
 status: published
 original:
   timestamp: 1489229180
@@ -11,7 +11,7 @@ original:
       preinstalado. Cuantos mas seamos mas facil se lo pondremos a los que quieran
       seguirnos
     update_timestamp: 1489229180
-  date: *id001
+  date: 2017-03-11 10:46:20+00:00
   link: https://www.elespanol.com/economia/empresas/20170309/199480637_0.html
   title: Microsoft usó España para repatriar 450 millones de dividendos europeos sin
     tributar

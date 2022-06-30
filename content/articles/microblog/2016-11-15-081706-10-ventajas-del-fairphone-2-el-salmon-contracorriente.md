@@ -1,6 +1,6 @@
 ---
 title: 10 ventajas del Fairphone 2 - El salmón contracorriente
-date: &id001 2016-11-15 08:17:06+00:00
+date:  2016-11-15 08:17:06+00:00
 status: published
 original:
   timestamp: 1479197826
@@ -12,7 +12,7 @@ original:
 
 
       El primer smartphone de comercio justo'
-  date: *id001
+  date: 2016-11-15 08:17:06+00:00
   link: https://www.elsalmoncontracorriente.es/?10-ventajas-del-Fairphone-2
   title: 10 ventajas del Fairphone 2 - El salmón contracorriente
   image: http://www.elsalmoncontracorriente.es/IMG/arton1190.jpg

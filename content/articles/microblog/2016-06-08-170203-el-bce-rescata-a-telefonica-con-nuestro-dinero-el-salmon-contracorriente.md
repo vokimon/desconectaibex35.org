@@ -1,6 +1,6 @@
 ---
 title: El BCE rescata a Telefónica con nuestro dinero - El salmón contracorriente
-date: &id001 2016-06-08 17:02:03+00:00
+date:  2016-06-08 17:02:03+00:00
 status: published
 original:
   timestamp: 1465405323
@@ -12,7 +12,7 @@ original:
 
 
       https://www.facebook.com/ElSalmonContra/posts/1042273545854548'
-  date: *id001
+  date: 2016-06-08 17:02:03+00:00
   link: https://www.elsalmoncontracorriente.es/?El-BCE-rescata-a-Telefonica-con
   title: El BCE rescata a Telefónica con nuestro dinero - El salmón contracorriente
   image: http://www.elsalmoncontracorriente.es/IMG/arton1088.jpg

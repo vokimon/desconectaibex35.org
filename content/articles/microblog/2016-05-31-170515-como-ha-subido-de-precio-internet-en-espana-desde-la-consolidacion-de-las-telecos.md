@@ -1,6 +1,6 @@
 ---
 title: Cómo ha subido de precio internet en España desde la consolidación de las telecos
-date: &id001 2016-05-31 17:05:15+00:00
+date:  2016-05-31 17:05:15+00:00
 status: published
 original:
   timestamp: 1464714315
@@ -16,7 +16,7 @@ original:
 
 
       https://www.facebook.com/GuifiBaix/posts/906042119523476'
-  date: *id001
+  date: 2016-05-31 17:05:15+00:00
   link: https://www.xataka.com/otros/como-ha-subido-de-precio-internet-en-espana-desde-la-consolidacion-de-las-telecos
   title: Cómo ha subido de precio internet en España desde la consolidación de las
     telecos

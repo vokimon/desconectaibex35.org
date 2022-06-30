@@ -1,13 +1,13 @@
 ---
 title: Escuma cooperativa per fer front a l'oligopoli cerveser en el patrocini cultural
   - directa.cat
-date: &id001 2020-11-11 14:55:18+00:00
+date:  2020-11-11 14:55:18+00:00
 status: published
 original:
   timestamp: 1605106518
   data:
     update_timestamp: 1605106518
-  date: *id001
+  date: 2020-11-11 14:55:18+00:00
   link: https://directa.cat/escuma-cooperativa-per-fer-front-al-oligopoli-cerveser-en-el-patrocini-cultural/
   title: Escuma cooperativa per fer front a l'oligopoli cerveser en el patrocini cultural
     - directa.cat

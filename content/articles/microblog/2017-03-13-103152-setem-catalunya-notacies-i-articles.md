@@ -1,6 +1,6 @@
 ---
 title: Oferta de trabajo en la economía social, Setem
-date: &id001 2017-03-13 10:31:52+00:00
+date:  2017-03-13 10:31:52+00:00
 status: published
 original:
   timestamp: 1489401112
@@ -8,7 +8,7 @@ original:
   data:
     post: Ofertas de trabajo en la economia social.
     update_timestamp: 1489401112
-  date: *id001
+  date: 2017-03-13 10:31:52+00:00
   link: http://www.setem.org/blog/cat/catalunya/oferta-de-feina-responsable-de-voluntariat-activisme
   title: SETEM Catalunya / NotÃ­cies i articles
   image: null

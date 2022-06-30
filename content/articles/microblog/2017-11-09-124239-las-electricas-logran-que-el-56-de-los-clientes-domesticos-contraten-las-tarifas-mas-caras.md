@@ -1,7 +1,7 @@
 ---
 title: Las eléctricas logran que el 56% de los clientes domésticos contraten las tarifas
   más caras
-date: &id001 2017-11-09 12:42:39+00:00
+date:  2017-11-09 12:42:39+00:00
 status: published
 original:
   timestamp: 1510231359
@@ -9,7 +9,7 @@ original:
     post: Mercado libre, libre para subir las tarifas una vez las has contratado.
       Una empresa va a contratar a un comercial para que les pagues menos dinero?
     update_timestamp: 1510231359
-  date: *id001
+  date: 2017-11-09 12:42:39+00:00
   link: https://www.eldiario.es/economia/electricas-consiguen-clientes-domesticos-contraten_0_705530426.html
   title: Las eléctricas logran que el 56% de los clientes domésticos contraten las
     tarifas más caras

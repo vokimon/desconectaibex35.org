@@ -1,6 +1,6 @@
 ---
 title: 'Andrés Villena: «El Estado está de rodillas ante las élites»'
-date: &id001 2019-06-25 08:45:29+00:00
+date:  2019-06-25 08:45:29+00:00
 status: published
 original:
   timestamp: 1561452329
@@ -8,7 +8,7 @@ original:
     post: Publican un libro que recoge las redes de poder del estado. Canteras, deudas
       y retiros dorados.
     update_timestamp: 1561452329
-  date: *id001
+  date: 2019-06-25 08:45:29+00:00
   link: https://kaosenlared.net/andres-villena-el-estado-esta-de-rodillas-ante-las-elites/
   title: 'Andrés Villena: «El Estado está de rodillas ante las élites»'
   image: https://kaosenlared.net/wp-content/uploads/2019/06/foto2-22.jpg

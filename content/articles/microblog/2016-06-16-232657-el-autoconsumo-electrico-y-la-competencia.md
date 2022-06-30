@@ -1,6 +1,6 @@
 ---
 title: El autoconsumo eléctrico y la competencia
-date: &id001 2016-06-16 23:26:57+00:00
+date:  2016-06-16 23:26:57+00:00
 status: published
 original:
   timestamp: 1466119617
@@ -10,7 +10,7 @@ original:
 
       + '
     past: El autoconsumo electrico y la competencia
-  date: *id001
+  date: 2016-06-16 23:26:57+00:00
   link: https://www.youtube.com/watch?v=GfqRgP9pEiM
   title: El autoconsumo eléctrico y la competencia
   image: https://i.ytimg.com/vi/GfqRgP9pEiM/maxresdefault.jpg

@@ -1,6 +1,6 @@
 ---
 title: El otra cara del Ibex 35 en Latinoamérica
-date: &id001 2018-02-17 02:47:21+00:00
+date:  2018-02-17 02:47:21+00:00
 status: published
 original:
   timestamp: 1518835641
@@ -15,7 +15,7 @@ original:
     past: 'Via SomEnergia: Vàries organitzacions denuncien les pràctiques extractivistes,
       colonials i patriarcals a Llatinoamèrica de grans empreses que cotitzen a la
       borsa, a l''IBEX35. Curiosament, són sobretot empreses energètiques...'
-  date: *id001
+  date: 2018-02-17 02:47:21+00:00
   link: https://www.elsaltodiario.com/multinacionales/repsol-acs-ibex-35-marca-espana-latinoamerica
   title: El otra cara del Ibex 35 en Latinoamérica
   image: https://www.elsaltodiario.com/uploads/fotos/rs600/d97271ca/180207_Accion_Bolsa_Ecologistas_01%20copia_general.jpg?v=63685224233

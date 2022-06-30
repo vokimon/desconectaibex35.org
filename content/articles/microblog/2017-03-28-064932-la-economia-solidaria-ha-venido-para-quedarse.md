@@ -1,6 +1,6 @@
 ---
 title: La economía solidaria ha venido para quedarse
-date: &id001 2017-03-28 06:49:32+00:00
+date:  2017-03-28 06:49:32+00:00
 status: published
 original:
   timestamp: 1490683772
@@ -10,7 +10,7 @@ original:
 
       + '
     past: La economía solidaria ha venido para quedarse
-  date: *id001
+  date: 2017-03-28 06:49:32+00:00
   link: https://www.eldiario.es/tribunaabierta/economia-solidaria-venido-quedarse_6_625447485.html
   title: La economía solidaria ha venido para quedarse
   image: https://static.eldiario.es/clip/3d145896-bbe4-4126-b052-ab066d526cfe_facebook-aspect-ratio_default_0.jpg

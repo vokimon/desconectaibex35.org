@@ -1,6 +1,6 @@
 ---
 title: Podcast - Som Energia, cooperativa de consumo de energía verde sin ánimo de lucro
-date: &id001 2017-03-13 08:24:17+00:00
+date:  2017-03-13 08:24:17+00:00
 status: published
 original:
   timestamp: 1489393457
@@ -27,7 +27,7 @@ original:
 
       Nos lo cuenta el portavoz del grupo local de València de SOM ENERGIA y presidente
       de la sección territorial de València de la cooperativa.'
-  date: *id001
+  date: 2017-03-13 08:24:17+00:00
   link: https://www.ivoox.com/som-energia-cooperativa-consumo-energia-verde-audios-mp3_rf_17375038_1.html
   title: Som Energia, cooperativa de consumo de energía verde sin ánimo de lucro
   image: http://static-1.ivoox.com/audios/2/6/7/2/9451488812762_XXL.jpg

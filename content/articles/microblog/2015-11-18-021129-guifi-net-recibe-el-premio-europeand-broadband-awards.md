@@ -1,6 +1,6 @@
 ---
 title: Guifi.net recibe el premio European Broadband Awards
-date: &id001 2015-11-18 02:11:29+00:00
+date:  2015-11-18 02:11:29+00:00
 status: published
 original:
   timestamp: 1447812689
@@ -39,7 +39,7 @@ original:
       la entidad que hace de arbitro de los diferentes actores. Si quieres conectarte
       a Guifi.net, y no tienes conocimientos técnicos para ello, puedes buscar voluntarios
       o empresas locales que te lo pongan.
-  date: *id001
+  date: 2015-11-18 02:11:29+00:00
   link: https://www.facebook.com/ramon.roca.16/posts/10154313906770606
   title: Ramon Roca
   image: https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/12239392_10154313899790606_8840557520524682094_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=gOAvCbamYy4AX92REyy&_nc_ht=scontent-mad1-1.xx&oh=2be2d1e20b606e5e5b46cf272db00553&oe=5F57F825

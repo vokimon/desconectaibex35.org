@@ -1,6 +1,6 @@
 ---
 title: Firmamos un convenio con Volta Motorbikes, fabricante de motos eléctricas
-date: &id001 2015-11-05 07:26:27+00:00
+date:  2015-11-05 07:26:27+00:00
 status: published
 original:
   timestamp: 1446708387
@@ -20,7 +20,7 @@ original:
       \ de luz, firma un convenio con Volta Motorbikes, fabricante de motos electricas."
     past: '@[166298163419130:274:Som Energia], la cooperativa de usuarios de luz,
       firma un convenio con Volta Motorbikes, fabricante de motos electricas.'
-  date: *id001
+  date: 2015-11-05 07:26:27+00:00
   link: https://blog.somenergia.coop/som-energia/2015/11/asinamos-un-convenio-con-volta-motorbikes-fabricante-de-motos-electricas/
   title: Asinamos un convenio con Volta Motorbikes, fabricante de motos eléctricas
     - El Blog de Som Energia
