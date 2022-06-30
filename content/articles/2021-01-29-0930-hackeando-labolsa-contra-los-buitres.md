@@ -11,7 +11,7 @@ location: EEUU
 autor: vokimon
 ---
 
-:::figure https://pbs.twimg.com/media/EswlzYiW8AUJDtl?format=png
+:::figure /uploads/2021/01/gamestop.png
 
 En el foro de internet Reddit, un grupo de jóvenes ha fraguado una acción
 espectacular contra unas operaciones especulativas llamadas
@@ -30,8 +30,9 @@ Este grupo de personas decidieron comprar en bloque acciones de empresas en caid
 para subir el precio y rebentar a las empresas especuladoras que hacen este tipo
 de operaciones.
 
-:::figure https://pbs.twimg.com/media/EswfoepWMAERQh8?format=png
+:::figure /uploads/2021/01/efecto-gamestop.png
 	Efecto de la campaña en las acciones de GameStop
+	([fuente](https://pbs.twimg.com/media/EswfoepWMAERQh8?format=png))
 
 Y ha funcionado,
 hicieron subir espectacularmente el precio de algunas empresas que pierden punch
@@ -39,6 +40,8 @@ como GameStop (recreativas), BlockBuster (Videoclubs)...
 y muchas empresas especuladoras se han ido al traste
 algunas al punto de la quiebra.
 No se si aprovecharon y vendieron a corto sus acciones :-)
+
+:::figure /uploads/2021/01/wallstreet.png
 
 Hasta el punto ha ido la cosa que empresas financieras
 que llevan toda la vida pidiendo la desregulación del sector financiero,
