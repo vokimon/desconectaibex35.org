@@ -14,7 +14,7 @@ It has been inspired on the structure of Elegant theme.
 ```
 # TODO clone this repo
 git fetch https://github.com/getpelican/pelican-plugins.git
-git clone https://github.com/pR0Ps/pelican-yaml-metadata.git pelican-plugins/pelican-yaml-metadata
+pip install git+https://github.com/pR0Ps/pelican-yaml-metadata.git
 # TODO clone elegant fork in the PR
 mkvirtualenv pelican
 pip install -r requirements

@@ -6,4 +6,4 @@ pelican-more-categories
 pelican-entities
 pelican-jinja2content
 markdown-customblocks
-pelican-yaml-metadata
+#pelican-yaml-metadata
