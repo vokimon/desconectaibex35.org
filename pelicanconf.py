@@ -20,7 +20,6 @@ DEFAULT_METADATA = {
 
 PATH = 'content'
 DIRECT_TEMPLATES = ['index', 'archives', 'tags', 'categories', 'search']
-THEME_TEMPLATES_OVERRIDES = ['templates']
 ARTICLE_PATHS = ['articles']
 PAGE_PATHS = ['pages']
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
