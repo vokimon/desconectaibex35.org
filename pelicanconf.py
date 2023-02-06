@@ -76,7 +76,7 @@ VOKIBLOG_HIGHLIGHTS = (
     dict(
         title = "Desconecta",
         subtitle = "Deja de alimentar a la bestia",
-        description  = 
+        description  =
             "El IBEX y las grandes empresas perjudican "
             "a la ciudadania, a la economía y al medioambiente. "
             "Por eso, queremos dejar de nutrirles con nuestro dinero.",
@@ -87,7 +87,7 @@ VOKIBLOG_HIGHLIGHTS = (
     dict(
         title = "Campaña",
         subtitle = "Qué hacemos",
-        description  = 
+        description  =
             "Buscamos alternativas a las grandes empresas. "
             "Las difundimos y las facilitamos, acompañandonos en el tránsito. "
             "Si no existen, fomentamos su creación.",
@@ -192,8 +192,7 @@ LANDING_PAGE_TITLE = "Desconecta del IBEX-35"
 
 FEATURED_IMAGE = 'desconexionibex35-logo.png'
 SITE_DESCRIPTION="""\
-No queremos apoyar con nuestro dinero
-los abusos de las grandes empresas.
+No apoyes con tu dinero los abusos de las grandes empresas. 
 Investigamos, creamos y fomentamos alternativas,
 y nos acompañamos en el salto.
 """
