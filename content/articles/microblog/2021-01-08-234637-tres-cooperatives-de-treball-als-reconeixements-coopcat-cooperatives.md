@@ -70,8 +70,6 @@ Si no las conocias, echales un ojo.
 
 
 
-
-
-:::linkcard https://www.cooperativestreball.coop/cooperativisme/actualitat/tres-cooperatives-treball-als-reconeixements-coopcat image="https://www.cooperativestreball.coop/sites/default/files/styles/imatge_noticia/public/notas-prensa/reconeixements_0.jpg" title='Tres cooperatives de treball als Reconeixements CoopCat | Cooperatives'
+:::linkcard https://www.cooperativestreball.coop/noticia/tres-cooperatives-de-treball-als-reconeixements-coopcat image="https://www.cooperativestreball.coop/sites/default/files/notas-prensa/reconeixements_0.jpg" title='Tres cooperatives de treball als Reconeixements CoopCat | Cooperatives'
 
 
