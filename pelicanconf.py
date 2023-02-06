@@ -54,14 +54,14 @@ LINKS = (
 )
 
 MENUITEMS=(
-	('Proyecto', (
+    ('Proyecto', (
         ('Motivación', 'la-idea/'),
         ('Estrategia', 'estrategias/'),
         ('Colabora', 'colabora/'),
     )),
     ('Sectores', "#section_sectors"),
     ('Noticias', "#section_news"),
-	('Información', (
+    ('Información', (
         ("Alternativas", 'lista-de-alternativas'),
         ("Telecos: Guifi.net", 'telecos-guifi-net'),
         ("Electricas: Som energia", 'electricas-som-energia'),
