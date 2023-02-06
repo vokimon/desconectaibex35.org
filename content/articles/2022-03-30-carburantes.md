@@ -403,12 +403,12 @@ Para reducir la demanda por consumo indirecto:
 
 - En otras ocasiones el crudo (barril de Brent) ha estado en los mismos niveles de precios que ahora
     - En esas ocaciones el precio del carburante subió pero ni de lejos llego a los precios de ahora.
-    - TODO: Precios o gráficas comparadas
 - La empresa dominante, Repsol, ha estado teniendo diferencias en los precios del 30% en diferentes gasolineras suyas.
     - No es creible que en las baratas esté vendiendo carburante a perdidas.
     - Por lo tanto, como minimo, ese 30% es margen, seguramente más.
-- Aunque es verdad que el Brent ha doblado precios, la gasolina doblo precios antes de que llegara a ese punto.
-- Subir el producto proporcionalmente a los coste, tambien sube proporcionalmente los beneficios
+    - La CNMC lo deja claro cuando publica el incremento de un 800% del margen de refino respecto al precio del crudo
+- Aunque es verdad que el Brent, en marzo, ha doblado precios, la gasolina doblo precios antes de que llegara a ese punto.
+- Subir el producto proporcionalmente a los costes:, tambien sube proporcionalmente los beneficios
 - Una parte importante de los impuestos no es proporcional sinó fija, lo que también ahondaría en los margenes.
 
 Por todo esto es evidente para nosotros que la actual escalada de precios
@@ -424,16 +424,6 @@ de la ciudadania para subir los precios más allá de cubrir la subida de costes
 - Estudio detallado: https://mundopetroleo.com/news/new/nw/estudio-de-la-cnmc-el-mundo-de-la-distribucion-mayorista-de-los-carburantes-de-automocion-en-espana
 - Datos con los precios en las gasolineras: https://geoportalgasolineras.es/#/Descargas
 - Evolucion de los precios: https://www.epdata.es/datos/precio-gasolina-gasoleo-diesel-espana-cifras-datos-estadisticas/420
-
-
-
-
-
-Hola,
-
-Estaba contrastando datos para un articulo con los datos estadísticos que aportais en la web y cuando he calculado los flujos de entrada y salida de diesel (Produccion y Importacion contra Exportacion y Consumo) no me estaban cuadrando los datos. Las salidas han venido aumentando linealment respecto a las salidas. Hay un descuadre de las salidas que ha venido creciendo de forma lineal desde 2009 que era de apenas 200mill toneladas hasta 2021 que son 8.5 millones de ´toneladas.
-
-Entiendo que están las reservas, pero, aunque las reservas. lamentablemente, no están detalladas por grupo de productos, su variacion interanual no da para cubrir ese desfase.
 
 
 
